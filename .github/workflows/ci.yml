@@ -3,7 +3,7 @@ name: Auto Mirror
 on:
   schedule:
     - cron: "0 */6 * * *"   # запуск каждые 6 часов
-  workflow_dispatch:        # ручной запуск через вкладку Actions
+  workflow_dispatch:         # ручной запуск через вкладку Actions
 
 jobs:
   update:
