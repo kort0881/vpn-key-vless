@@ -4,10 +4,15 @@ from github import Github, Auth
 from datetime import datetime
 import zoneinfo
 
-# -------------------- Настройки --------------------
-GITHUB_TOKEN = os.environ.get("MY_TOKEN")
-REPO_NAME = "vpn-key-vless"  # твой репозиторий
+# Папка для файлов
+LOCAL_DIR = "vpn-files"
+os.makedirs(LOCAL_DIR, exist_ok=True)
 
+# Токен GitHub
+GITHUB_TOKEN = os.environ.get("MY_TOKEN")
+REPO_NAME = "kort0881/vpn-key-vless"
+
+# Полный список URL
 URLS = [
     "https://github.com/sakha1370/OpenRay/raw/refs/heads/main/output/all_valid_proxies.txt",
     "https://raw.githubusercontent.com/sevcator/5ubscrpt10n/main/protocols/vl.txt",
@@ -33,61 +38,45 @@ URLS = [
     "https://raw.githubusercontent.com/wuqb2i4f/xray-config-toolkit/main/output/base64/mix-uri",
     "https://raw.githubusercontent.com/AzadNetCH/Clash/refs/heads/main/AzadNet.txt",
     "https://raw.githubusercontent.com/STR97/STRUGOV/refs/heads/main/STR.BYPASS#STR.BYPASS%F0%9F%91%BE",
-    "https://raw.githubusercontent.com/V2RayRoot/V2RayConfig/refs/heads/main/Config/vless.txt",
+    "https://raw.githubusercontent.com/V2RayRoot/V2RayConfig/refs/heads/main/Config/vless.txt"
 ]
 
-# Создаём папку vpn-files, если нет
-os.makedirs("vpn-files", exist_ok=True)
-
-LOCAL_PATHS = [f"vpn-files/{i+1}.txt" for i in range(len(URLS))]
-REMOTE_PATHS = [f"vpn-files/{i+1}.txt" for i in range(len(URLS))]
-
-if not GITHUB_TOKEN:
-    raise ValueError("MY_TOKEN не найден. Добавьте его в GitHub Secrets")
-
+# Подключение к GitHub
 g = Github(auth=Auth.Token(GITHUB_TOKEN))
 repo = g.get_repo(REPO_NAME)
 
-def fetch_data(url):
-    resp = requests.get(url, timeout=15)
-    resp.raise_for_status()
-    return resp.text
+# Временная метка
+zone = zoneinfo.ZoneInfo("Europe/Moscow")
+timestamp = datetime.now(zone).strftime("%Y-%m-%d %H:%M")
 
-def save_and_upload(idx):
-    url = URLS[idx]
-    local_path = LOCAL_PATHS[idx]
-    remote_path = REMOTE_PATHS[idx]
+for i, url in enumerate(URLS, start=1):
+    filename = f"{i}.txt"
+    local_path = os.path.join(LOCAL_DIR, filename)
 
-    data = fetch_data(url)
-
-    # Сохраняем локально
-    with open(local_path, "w", encoding="utf-8") as f:
-        f.write(data)
-    print(f"Сохранено локально: {local_path}")
-
-    # Загружаем на GitHub
     try:
-        file_in_repo = repo.get_contents(remote_path)
-        if file_in_repo.decoded_content.decode("utf-8") == data:
-            print(f"Файл {remote_path} не изменился, пропускаем")
-            return
-        repo.update_file(
-            path=remote_path,
-            message=f"Обновление {remote_path}",
-            content=data,
-            sha=file_in_repo.sha
-        )
-        print(f"Файл {remote_path} обновлён в репозитории")
-    except:
-        repo.create_file(
-            path=remote_path,
-            message=f"Создание {remote_path}",
-            content=data
-        )
-        print(f"Файл {remote_path} создан в репозитории")
+        r = requests.get(url, timeout=10)
+        r.raise_for_status()
+        content = r.text
 
-for i in range(len(URLS)):
-    try:
-        save_and_upload(i)
+        # Сохраняем локально
+        with open(local_path, "w", encoding="utf-8") as f:
+            f.write(content)
+
+        # Загружаем в GitHub
+        remote_path = f"{LOCAL_DIR}/{filename}"
+        try:
+            file = repo.get_contents(remote_path)
+            if file.decoded_content.decode("utf-8") != content:
+                repo.update_file(remote_path,
+                                 f"Update {filename} | {timestamp}",
+                                 content,
+                                 file.sha)
+        except:
+            repo.create_file(remote_path,
+                             f"Add {filename} | {timestamp}",
+                             content)
+
+        print(f"✅ {filename} обновлён")
     except Exception as e:
-        print(f"Ошибка для {URLS[i]}: {e}")
+        print(f"❌ Ошибка {filename}: {e}")
+
