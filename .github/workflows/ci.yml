@@ -25,5 +25,6 @@ jobs:
 
       - name: Run mirror script
         env:
-          MY_TOKEN: "********"  # сюда потом вставишь свой токен через GitHub Secrets
+          MY_TOKEN: ${{ secrets.MY_TOKEN }}
         run: python mirror.py
+
