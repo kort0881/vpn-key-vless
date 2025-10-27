@@ -3,7 +3,7 @@ name: Auto Mirror (every 2 hours)
 on:
   schedule:
     - cron: "0 */2 * * *"   # запуск каждые 2 часа (UTC)
-  workflow_dispatch:        # ручной запуск через Actions
+  workflow_dispatch:        # ручной запуск вручную
 
 jobs:
   update:
@@ -18,37 +18,13 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Install dependencies
-        run: |
-          pip install --upgrade pip
-          pip install requests PyGithub
-
-      - name: Run mirror script
+      - name: Install dependencies and run mirror script
         env:
           MY_TOKEN: ${{ secrets.MY_TOKEN }}
-        run: python mirror.py
-
-          python-version: "3.12"
-
-      - name: Install dependencies
         run: |
           pip install --upgrade pip
           pip install requests PyGithub
+          python mirror.py
 
-      - name: Run mirror script
-        env:
-          MY_TOKEN: ${{ secrets.MY_TOKEN }}  # GitHub Secret с токеном
-        run: python mirror.py
 
-          python-version: "3.12"
-
-      - name: Install dependencies
-        run: |
-          pip install --upgrade pip
-          pip install requests PyGithub
-
-      - name: Run mirror script
-        env:
-          MY_TOKEN: ${{ secrets.MY_TOKEN }}
-        run: python mirror.py
 
