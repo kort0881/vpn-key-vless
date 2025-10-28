@@ -40,5 +40,3 @@ Additionally, **10 selected keys are added twice a day** from the Telegram chann
 
 ### 🔖 Теги / Tags
 #vpn #vless #vmess #shadowsocks #ss #clash #hiddify #shadowrocket #proxy #прокси
-
-#vpn #v2ray #vmess #vless #shadowsocks #ss #clash #hiddify #shadowrocket #прокси #proxy
