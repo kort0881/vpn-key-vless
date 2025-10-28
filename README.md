@@ -1,9 +1,10 @@
 # 🔐 VPN-KEY-VLESS
 
-Этот репозиторий автоматически **дублирует новые VPN-ключи**, которые публикуются в Telegram канале [@vlesstrojan](https://t.me/vlesstrojan).  
-Ключи собираются и сохраняются в GitHub каждые **2 часа**, чтобы у вас был быстрый доступ и удобное хранение.
+Репозиторий автоматически **собирает и сохраняет новые VPN-ключи** — `VLESS`, `VMESS`, `SS`, `Shadowsocks`.  
+Ключи сохраняются в папке **`vpn-files`** и обновляются каждые **2 часа**.  
+Дополнительно из Telegram-канала [@vlesstrojan](https://t.me/vlesstrojan) **два раза в день** добавляются по **10 выбранных ключей** для быстрой проверки и доступа.
 
-🕓 Последнее обновление: 2025-10-27 12:56 (МСК)
+🕓 **Последнее обновление:** 2025-10-28 19:00 (МСК)
 
 ---
 
@@ -14,20 +15,30 @@
 
 | № | Тип | Дата | Файл |
 |:-:|:--|:--|:--|
-| 1 | 🟩 VLESS | 2025-10-27 12:56 | [📄 post_2025-10-27 12:56.txt](post_2025-10-27 12:56.txt) |
+| 1 | 🟩 VLESS | 2025-10-28 19:00 | [📄 vpn-files/post_2025-10-28_19-00.txt](vpn-files/post_2025-10-28_19-00.txt) |
 
 </details>
 
 ---
 
-## 🌐 About / Описание на английском
+## 🌐 About / English description
 
-This repository **duplicates new VPN keys** from the Telegram channel [@vlesstrojan](https://t.me/vlesstrojan) and saves them to GitHub every **2 hours**.  
-This ensures that keys are always up-to-date and conveniently stored for access.
+This repository automatically **collects and stores new VPN keys** — `VLESS`, `VMESS`, `SS`, `Shadowsocks`.  
+Files are kept in the **`vpn-files`** folder and updated every **2 hours**.  
+Additionally, **10 selected keys are added twice a day** from the Telegram channel [@vlesstrojan](https://t.me/vlesstrojan) to provide quick verification and access.
+
+🕓 **Last update:** 2025-10-28 19:00 (MSK)
 
 ---
 
-💖 **Support the author / Поддержка автора:**  
-Сбербанк: 4276 3801 7277 1425  
+## 💖 Поддержка автора / Support the author
+
+💳 **Sberbank:** 4276 3801 7277 1425  
+🙏 Спасибо за любую помощь и поддержку проекта!
+
+---
+
+### 🔖 Теги / Tags
+#vpn #vless #vmess #shadowsocks #ss #clash #hiddify #shadowrocket #proxy #прокси
 
 #vpn #v2ray #vmess #vless #shadowsocks #ss #clash #hiddify #shadowrocket #прокси #proxy
