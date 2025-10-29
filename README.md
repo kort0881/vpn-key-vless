@@ -15,30 +15,5 @@
 
 | № | Тип | Дата | Файл |
 |:-:|:--|:--|:--|
-| 🟩 | VLESS | 2025-10-29 11:46 | [🔗 post_20251029_114657.txt](post_20251029_114657.txt) |
-| 🟩 | VLESS | 2025-10-28 20:24 | [🔗 post_20251028_202407.txt](post_20251028_202407.txt) |
+| 1 | 🟩 VLESS | 2025-10-29 23:30 | [📄 post_2025-10-29_20-30.txt](post_2025-10-29_20-30.txt) |
 | 1 | 🟩 VLESS | 2025-10-28 19:00 | [📄 vpn-files/post_2025-10-28_19-00.txt](vpn-files/post_2025-10-28_19-00.txt) |
-
-</details>
-
----
-
-## 🌐 About / English description
-
-This repository automatically **collects and stores new VPN keys** — `VLESS`, `VMESS`, `SS`, `Shadowsocks`.  
-Files are kept in the **`vpn-files`** folder and updated every **2 hours**.  
-Additionally, **10 selected keys are added twice a day** from the Telegram channel [@vlesstrojan](https://t.me/vlesstrojan) to provide quick verification and access.
-
-🕓 **Last update:** 2025-10-28 19:00 (MSK)
-
----
-
-## 💖 Поддержка автора / Support the author
-
-💳 **Sberbank:** 4276 3801 7277 1425  
-🙏 Спасибо за любую помощь и поддержку проекта!
-
----
-
-### 🔖 Теги / Tags
-#vpn #vless #vmess #shadowsocks #ss #clash #hiddify #shadowrocket #proxy #прокси
