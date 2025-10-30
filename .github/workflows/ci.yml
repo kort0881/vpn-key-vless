@@ -1,9 +1,9 @@
-name: Auto Mirror (every 2 hours)
+name: Auto Mirror (every 15 minutes)
 
 on:
   schedule:
-    - cron: "0 */2 * * *"   # запуск каждые 2 часа (UTC)
-  workflow_dispatch:        # ручной запуск вручную
+    - cron: "*/15 * * * *"   # запуск каждые 15 минут (UTC)
+  workflow_dispatch:          # ручной запуск вручную
 
 jobs:
   update:
@@ -25,6 +25,7 @@ jobs:
           pip install --upgrade pip
           pip install requests PyGithub
           python mirror.py
+
 
 
 
