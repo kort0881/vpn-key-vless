@@ -18,7 +18,6 @@ repo = g.get_repo(REPO_NAME)
 
 # -------------------- URLS --------------------
 URLS = [
-    # старые источники 1-25
     "https://github.com/sakha1370/OpenRay/raw/refs/heads/main/output/all_valid_proxies.txt",
     "https://raw.githubusercontent.com/sevcator/5ubscrpt10n/main/protocols/vl.txt",
     "https://raw.githubusercontent.com/yitong2333/proxy-minging/refs/heads/main/v2ray.txt",
@@ -43,22 +42,7 @@ URLS = [
     "https://raw.githubusercontent.com/wuqb2i4f/xray-config-toolkit/main/output/base64/mix-uri",
     "https://raw.githubusercontent.com/AzadNetCH/Clash/refs/heads/main/AzadNet.txt",
     "https://raw.githubusercontent.com/STR97/STRUGOV/refs/heads/main/STR.BYPASS#STR.BYPASS%F0%9F%91%BE",
-    "https://raw.githubusercontent.com/V2RayRoot/V2RayConfig/refs/heads/main/Config/vless.txt",
-    # новые источники 26-39
-    "https://github.com/lagzian/SS-Collector?tab=readme-ov-file",
-    "https://github.com/MatinGhanbari/v2ray-configs",
-    "https://github.com/SoliSpirit/v2ray-configs",
-    "https://github.com/barry-far/v2ray-config",
-    "https://github.com/mahdibland/V2RayAggregator?tab=readme-ov-file",
-    "https://github.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs",
-    "https://github.com/Argh94/V2RayAutoConfig",
-    "https://github.com/WLget/V2Ray_configs_64",
-    "https://github.com/nyeinkokoaung404/V2ray-Configs",
-    "https://github.com/Surfboardv2ray/TGParse",
-    "https://github.com/penhandev/AutoAiVPN",
-    "https://github.com/longlon/v2ray-config",
-    "https://github.com/crackbest/V2ray-Config",
-    "https://keysray.com"
+    "https://raw.githubusercontent.com/V2RayRoot/V2RayConfig/refs/heads/main/Config/vless"  # старый 26-й источник
 ]
 
 # -------------------- ВРЕМЯ --------------------
@@ -82,7 +66,7 @@ for i, url in enumerate(URLS, start=1):
         r.raise_for_status()
         content = r.text
 
-        # Для 26-го файла применяем фильтр
+        # Фильтр применяем только для 26-го источника
         if i == 26:
             content = filter_sni(content, keyword="vless")
 
@@ -90,7 +74,7 @@ for i, url in enumerate(URLS, start=1):
         with open(local_path, "w", encoding="utf-8") as f:
             f.write(content)
 
-        # Загружаем в GitHub
+        # Загрузка в GitHub
         remote_path = f"{LOCAL_DIR}/{filename}"
         try:
             file = repo.get_contents(remote_path)
@@ -147,5 +131,6 @@ def update_readme():
         print(f"❌ Ошибка обновления README.md: {e}")
 
 update_readme()
+
 
 
