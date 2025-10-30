@@ -1,19 +1,24 @@
 import os
 import requests
-from github import Github, Auth
+from github import Github, Auth, GithubException
 from datetime import datetime
 import zoneinfo
+import re
 
-# Папка для файлов
+# -------------------- ПАПКА --------------------
 LOCAL_DIR = "vpn-files"
 os.makedirs(LOCAL_DIR, exist_ok=True)
 
-# Токен GitHub
+# -------------------- GITHUB --------------------
 GITHUB_TOKEN = os.environ.get("MY_TOKEN")
 REPO_NAME = "kort0881/vpn-key-vless"
 
-# Полный список URL
+g = Github(auth=Auth.Token(GITHUB_TOKEN))
+repo = g.get_repo(REPO_NAME)
+
+# -------------------- URLS --------------------
 URLS = [
+    # старые источники 1-25
     "https://github.com/sakha1370/OpenRay/raw/refs/heads/main/output/all_valid_proxies.txt",
     "https://raw.githubusercontent.com/sevcator/5ubscrpt10n/main/protocols/vl.txt",
     "https://raw.githubusercontent.com/yitong2333/proxy-minging/refs/heads/main/v2ray.txt",
@@ -38,25 +43,48 @@ URLS = [
     "https://raw.githubusercontent.com/wuqb2i4f/xray-config-toolkit/main/output/base64/mix-uri",
     "https://raw.githubusercontent.com/AzadNetCH/Clash/refs/heads/main/AzadNet.txt",
     "https://raw.githubusercontent.com/STR97/STRUGOV/refs/heads/main/STR.BYPASS#STR.BYPASS%F0%9F%91%BE",
-    "https://raw.githubusercontent.com/V2RayRoot/V2RayConfig/refs/heads/main/Config/vless.txt"
+    "https://raw.githubusercontent.com/V2RayRoot/V2RayConfig/refs/heads/main/Config/vless.txt",
+    # новые источники 26-39
+    "https://github.com/lagzian/SS-Collector?tab=readme-ov-file",
+    "https://github.com/MatinGhanbari/v2ray-configs",
+    "https://github.com/SoliSpirit/v2ray-configs",
+    "https://github.com/barry-far/v2ray-config",
+    "https://github.com/mahdibland/V2RayAggregator?tab=readme-ov-file",
+    "https://github.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs",
+    "https://github.com/Argh94/V2RayAutoConfig",
+    "https://github.com/WLget/V2Ray_configs_64",
+    "https://github.com/nyeinkokoaung404/V2ray-Configs",
+    "https://github.com/Surfboardv2ray/TGParse",
+    "https://github.com/penhandev/AutoAiVPN",
+    "https://github.com/longlon/v2ray-config",
+    "https://github.com/crackbest/V2ray-Config",
+    "https://keysray.com"
 ]
 
-# Подключение к GitHub
-g = Github(auth=Auth.Token(GITHUB_TOKEN))
-repo = g.get_repo(REPO_NAME)
-
-# Временная метка
+# -------------------- ВРЕМЯ --------------------
 zone = zoneinfo.ZoneInfo("Europe/Moscow")
 timestamp = datetime.now(zone).strftime("%Y-%m-%d %H:%M")
+
+# -------------------- ФИЛЬТР ДЛЯ 26-го ФАЙЛА --------------------
+def filter_sni(content: str, keyword="vless") -> str:
+    """Оставляем только строки с нужным ключевым словом (например, vless)."""
+    return "\n".join(line for line in content.splitlines() if keyword in line)
+
+# -------------------- СКАЧАТЬ И ОБНОВИТЬ --------------------
+updated_files = []
 
 for i, url in enumerate(URLS, start=1):
     filename = f"{i}.txt"
     local_path = os.path.join(LOCAL_DIR, filename)
 
     try:
-        r = requests.get(url, timeout=10)
+        r = requests.get(url, timeout=15)
         r.raise_for_status()
         content = r.text
+
+        # Для 26-го файла применяем фильтр
+        if i == 26:
+            content = filter_sni(content, keyword="vless")
 
         # Сохраняем локально
         with open(local_path, "w", encoding="utf-8") as f:
@@ -71,10 +99,54 @@ for i, url in enumerate(URLS, start=1):
                                  f"Update {filename} | {timestamp}",
                                  content,
                                  file.sha)
-        except:
+        except GithubException:
             repo.create_file(remote_path,
                              f"Add {filename} | {timestamp}",
                              content)
+
+        updated_files.append((i, filename, url))
+        print(f"✅ {filename} обновлён")
+    except Exception as e:
+        print(f"❌ Ошибка {filename}: {e}")
+
+# -------------------- ОБНОВИТЬ README --------------------
+def update_readme():
+    try:
+        readme_file = repo.get_contents("README.md")
+        old_content = readme_file.decoded_content.decode("utf-8")
+    except GithubException as e:
+        if getattr(e, "status", None) == 404:
+            old_content = ""
+        else:
+            print(f"❌ Ошибка чтения README.md: {e}")
+            return
+
+    table_header = "| № | Файл | Источник | Время | Дата |\n|--|--|--|--|--|"
+    table_rows = []
+
+    for i, filename, url in updated_files:
+        raw_url = f"https://github.com/{REPO_NAME}/raw/refs/heads/main/{LOCAL_DIR}/{filename}"
+        table_rows.append(f"| {i} | [`{filename}`]({raw_url}) | [{url}]({url}) | {timestamp.split()[1]} | {timestamp.split()[0]} |")
+
+    new_table = table_header + "\n" + "\n".join(table_rows)
+
+    # Обновляем или создаём README
+    if old_content:
+        table_pattern = r"\| № \| Файл \| Источник \| Время \| Дата \|[\s\S]*"
+        new_content = re.sub(table_pattern, new_table, old_content)
+    else:
+        new_content = "# VPN Key VLESS\n\n" + new_table
+
+    try:
+        if old_content:
+            repo.update_file("README.md", f"Update README | {timestamp}", new_content, readme_file.sha)
+        else:
+            repo.create_file("README.md", f"Add README | {timestamp}", new_content)
+        print("📄 README.md обновлён")
+    except GithubException as e:
+        print(f"❌ Ошибка обновления README.md: {e}")
+
+update_readme()
 
         print(f"✅ {filename} обновлён")
     except Exception as e:
