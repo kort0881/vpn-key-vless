@@ -42,17 +42,26 @@ URLS = [
     "https://raw.githubusercontent.com/wuqb2i4f/xray-config-toolkit/main/output/base64/mix-uri",
     "https://raw.githubusercontent.com/AzadNetCH/Clash/refs/heads/main/AzadNet.txt",
     "https://raw.githubusercontent.com/STR97/STRUGOV/refs/heads/main/STR.BYPASS#STR.BYPASS%F0%9F%91%BE",
-    "https://raw.githubusercontent.com/V2RayRoot/V2RayConfig/refs/heads/main/Config/vless"  # старый 26-й источник
+    "https://raw.githubusercontent.com/V2RayRoot/V2RayConfig/refs/heads/main/Config/vless.txt"
 ]
 
 # -------------------- ВРЕМЯ --------------------
 zone = zoneinfo.ZoneInfo("Europe/Moscow")
 timestamp = datetime.now(zone).strftime("%Y-%m-%d %H:%M")
 
-# -------------------- ФИЛЬТР ДЛЯ 26-го ФАЙЛА --------------------
+# -------------------- ФИЛЬТР ДЛЯ VLESS --------------------
 def filter_sni(content: str, keyword="vless") -> str:
-    """Оставляем только строки с нужным ключевым словом (например, vless)."""
     return "\n".join(line for line in content.splitlines() if keyword in line)
+
+# -------------------- ОЧИСТКА СТАРЫХ ФАЙЛОВ --------------------
+try:
+    contents = repo.get_contents(LOCAL_DIR)
+    for file in contents:
+        if file.name.endswith(".txt"):
+            repo.delete_file(file.path, f"🧹 Remove old {file.name} before update", file.sha)
+    print("🧹 Старые посты удалены")
+except Exception as e:
+    print(f"⚠️ Не удалось удалить старые файлы: {e}")
 
 # -------------------- СКАЧАТЬ И ОБНОВИТЬ --------------------
 updated_files = []
@@ -66,27 +75,19 @@ for i, url in enumerate(URLS, start=1):
         r.raise_for_status()
         content = r.text
 
-        # Фильтр применяем только для 26-го источника
         if i == 26:
             content = filter_sni(content, keyword="vless")
 
-        # Сохраняем локально
         with open(local_path, "w", encoding="utf-8") as f:
             f.write(content)
 
-        # Загрузка в GitHub
         remote_path = f"{LOCAL_DIR}/{filename}"
         try:
             file = repo.get_contents(remote_path)
             if file.decoded_content.decode("utf-8") != content:
-                repo.update_file(remote_path,
-                                 f"Update {filename} | {timestamp}",
-                                 content,
-                                 file.sha)
+                repo.update_file(remote_path, f"Update {filename} | {timestamp}", content, file.sha)
         except GithubException:
-            repo.create_file(remote_path,
-                             f"Add {filename} | {timestamp}",
-                             content)
+            repo.create_file(remote_path, f"Add {filename} | {timestamp}", content)
 
         updated_files.append((i, filename, url))
         print(f"✅ {filename} обновлён")
@@ -114,7 +115,6 @@ def update_readme():
 
     new_table = table_header + "\n" + "\n".join(table_rows)
 
-    # Обновляем или создаём README
     if old_content:
         table_pattern = r"\| № \| Файл \| Источник \| Время \| Дата \|[\s\S]*"
         new_content = re.sub(table_pattern, new_table, old_content)
@@ -131,6 +131,7 @@ def update_readme():
         print(f"❌ Ошибка обновления README.md: {e}")
 
 update_readme()
+
 
 
 
