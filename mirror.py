@@ -148,7 +148,4 @@ def update_readme():
 
 update_readme()
 
-        print(f"✅ {filename} обновлён")
-    except Exception as e:
-        print(f"❌ Ошибка {filename}: {e}")
 
