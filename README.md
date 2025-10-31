@@ -2,10 +2,10 @@ from datetime import datetime
 
 readme_path = "README.md"
 
-# Текущая дата и время
+# Текущее время
 now = datetime.now().strftime("%Y-%m-%d %H:%M (МСК)")
 
-# Готовый контент README
+# Формируем контент README
 content = f"""ЧИТАЙТЕ
 🕓 Последнее обновление: {now}
 
@@ -32,11 +32,5 @@ content = f"""ЧИТАЙТЕ
 with open(readme_path, "w", encoding="utf-8") as f:
     f.write(content)
 
-print("✅ README.md обновлён с актуальным временем.")
+print("✅ README.md обновлён с актуальным временем и одной таблицей.")
 
-
-# Сохраняем README
-with open(readme_path, "w", encoding="utf-8") as f:
-    f.write(content)
-
-print("✅ README.md обновлён.")
