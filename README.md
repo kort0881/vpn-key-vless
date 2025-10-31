@@ -21,7 +21,7 @@ vpn_posts = [
 now = datetime.now().strftime("%Y-%m-%d %H:%M (МСК)")
 
 # Формируем текст README
-content = f"ЧИТАЙТЕ\n🕓 Последнее обновление: 2025-10-31 12:46 (МСК)
+content = f"ЧИТАЙТЕ\nP25-10-31 15:59 (МСК)
 
 | № | Файл | Источник | Время |
 |--|--|--|--|
@@ -53,6 +53,7 @@ print("✅ README.md обновлён с актуальным временем �
 
 | № | Тип | Дата | Файл |
 |:-:|:--|:--|:--|
+| 1 | 🟩 VLESS | 2025-10-31 15:59 | [📄 vpn-files/all_posts.txt](vpn-files/all_posts.txt) |
 | 1 | 🟩 VLESS | 2025-10-30 23:06 | [📄 vpn-files/all_posts.txt](vpn-files/all_posts.txt) |
 | 1 | 🟩 VLESS | 2025-10-30 16:13 | [📄 post_2025-10-30_13-13.txt](post_2025-10-30_13-13.txt) |
 | 1 | 🟩 VLESS | 2025-10-29 23:30 | [📄 post_2025-10-29_20-30.txt](post_2025-10-29_20-30.txt) |
