@@ -1,10 +1,6 @@
 
 
-№	Файл	Источник	Время
-26	26.txt	отфильтрованный SNI	2025-10-31 12:29
-4	4.txt	https://raw.githubusercontent.com/acymz/AutoVPN/refs/heads/main/data/V2.txt	2025-10-31 12:29
-5	5.txt	https://raw.githubusercontent.com/miladtahanian/V2RayCFGDumper/refs/heads/main/config.txt	2025-10-31 12:29
-6	6.txt	https://raw.githubusercontent.com/roosterkid/openproxylist/main/V2RAY_RAW.txt	2025-10-31 12:29
+
 
 🔐 VPN-KEY-VLESS
 Репозиторий автоматически собирает и сохраняет новые VPN-ключи — VLESS, VMESS, SS, Shadowsocks.
