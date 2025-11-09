@@ -122,8 +122,6 @@ hysteria2://2429bee3-e0c1-47dd-b420-75e6512b184b@140.238.155.160:30300?security=
 hysteria2://2429bee3-e0c1-47dd-b420-75e6512b184b@40.233.82.111:30300?insecure=1&sni=www.bing.com#All-%40V2rayAlpha--15
 hysteria2://2429bee3-e0c1-47dd-b420-75e6512b184b@40.233.82.111:30300?security=tls&insecure=1&sni=www.bing.com#@IRAN_V2RAY1
 hysteria2://2429bee3-e0c1-47dd-b420-75e6512b184b@40.233.82.111:30300?security=tls&insecure=1&sni=www.bing.com#All-@V2rayAlpha--15
-hysteria2://254551f6-ec28-4938-ad0e-0aa4aa1965ec@104.250.239.32:49618/?sni=imafake.locker&fp=chrome#%E2%9D%8CFremont-GetAFreeNode
-hysteria2://27104fae-f047-4993-902a-9368d8a3e9bc@104.250.239.32:49618/?sni=imafake.locker&fp=chrome#%E2%9D%8CFremont-GetAFreeNode
 hysteria2://2868dfdb-3d41-4a96-9184-9233f644c8d9@lsdg1.lansecs.top:58338?insecure=1&sni=lsdg1.lansecs.top#%F0%9F%87%A9%F0%9F%87%AA%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E5%BE%B7%E5%9B%BD%2008
 hysteria2://28caf368-831f-49d4-8e2b-5496cb6ce197@lsus1.lansecs.top:58338?insecure=1&sni=lsus1.lansecs.top#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2014
 hysteria2://2b67ONZROv%2BfRVMxB94BSw%3D%3D@5.231.70.79:443?insecure=1&sni=bing.com#MCI-%40V2rayAlpha--2
@@ -142,7 +140,6 @@ hysteria2://4a25ab9e-66e3-435a-97a4-276b5c3a1947@hk.xn--9kqw1xbnu.shop:443?secur
 hysteria2://4a25ab9e-66e3-435a-97a4-276b5c3a1947@hk.xn--9kqw1xbnu.shop:443?security=tls&insecure=1&mport=21001-21999#All-@V2rayAlpha--3
 hysteria2://4b099758-bbf6-4558-9884-240635bd1c9d@mg5.aeccghuyjftyg.shop:20000?obfs=salamander&obfs-password=fdrccJDGatdFDDRp&sni=mg5.aeccghuyjftyg.shop#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2011
 hysteria2://4ec66d81-9565-4d8e-ae58-2bacfde95f48@104.250.239.32:49618/?sni=imafake.locker&fp=chrome#%E2%9D%8CFremont-GetAFreeNode
-hysteria2://4f3cfda3-a255-40eb-8801-71f9fffb19d6@104.250.239.32:49618/?sni=imafake.locker&fp=chrome#%E2%9D%8CFremont-GetAFreeNode
 hysteria2://54a0bf6d-f2b5-4b2a-942c-798fb129527e@104.250.239.32:49618/?sni=imafake.locker&fp=chrome#%E2%9D%8CFremont-GetAFreeNode
 hysteria2://571ec94e-613c-430a-93de-397d3d237475@195.133.79.116:22157?insecure=1&sni=🔒#All-%40V2rayAlpha--6
 hysteria2://571ec94e-613c-430a-93de-397d3d237475@195.133.79.116:22157?security=tls&insecure=1&sni=🔒#@Selinc
@@ -360,7 +357,6 @@ hysteria2://ab858115-e0ab-4cb7-8e65-0804c35e52d5@nl2.oomz.ru:30000?insecure=1&sn
 hysteria2://ab858115-e0ab-4cb7-8e65-0804c35e52d5@nl2.oomz.ru:30000?security=tls&insecure=1&sni=bing.com#@Selinc
 hysteria2://ab858115-e0ab-4cb7-8e65-0804c35e52d5@us4.oomz.ru:30000?insecure=1&sni=bing.com#%40Selinc%20%236
 hysteria2://ab858115-e0ab-4cb7-8e65-0804c35e52d5@us4.oomz.ru:30000?security=tls&insecure=1&sni=bing.com#@Selinc
-hysteria2://b01d1e26-2f84-48da-88a1-1d06a77857f3@104.250.239.32:49618/?sni=imafake.locker&fp=chrome#%E2%9D%8CFremont-GetAFreeNode
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.40:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=jnir.pichondan.com#%F0%9F%8E%8310%40ConfigV2RayNG
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.40:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=jnir.pichondan.com#%F0%9F%8E%8310%40oneclickvpnkeys
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000?insecure=1&sni=jnir.pichondan.com&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#%F0%9F%87%B3%F0%9F%87%B1%20-%20NL%20-%20%40freeOnlineVPN%20%234
@@ -401,7 +397,6 @@ hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@dir.cybsecguru.com:35000?securi
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@dir.cybsecguru.com:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=jnir.pichondan.com&note=@freeOnlineVPN#🇳🇱
 hysteria2://b96e7c07-78eb-40a1-89ad-de3d33dac98b@[2001:470:1f15:728:6a5a:ce2:7583:1]:10015?security=tls&insecure=1#IR-@IRAN_V2RAY1
 hysteria2://b96e7c07-78eb-40a1-89ad-de3d33dac98b@[2001:470:1f15:728:6a5a:ce2:7583:1]:10015?security=tls&insecure=1#IR-@V2ray_Alpha--4
-hysteria2://c09f13ce-2cca-49b6-ad1e-597566cc89c6@104.250.239.32:49618/?sni=imafake.locker&fp=chrome#%E2%9D%8CFremont-GetAFreeNode
 hysteria2://c232f411-96b5-4b07-b2f7-66a434725ffb@108.165.213.197:23891?insecure=1&sni=fus01.mistea.top#%40sunflowerplato%F0%9F%8C%BB%20%232
 hysteria2://c232f411-96b5-4b07-b2f7-66a434725ffb@108.165.213.197:23891?security=tls&insecure=1&sni=fus01.mistea.top#%40Golestan_VPN%20-%20%F0%9F%91%88%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF
 hysteria2://c232f411-96b5-4b07-b2f7-66a434725ffb@108.165.213.197:23891?security=tls&insecure=1&sni=fus01.mistea.top#@sunflowerplato🌻
@@ -425,12 +420,10 @@ hysteria2://c3054d61-c708-4594-9797-f50acd24de2a@qing-kz.mxtn.net:443?insecure=1
 hysteria2://c3054d61-c708-4594-9797-f50acd24de2a@qing-kz.mxtn.net:443?security=tls&insecure=1&mport=21001-21099#@sunflowerplato🌻
 hysteria2://c3054d61-c708-4594-9797-f50acd24de2a@qing-lu.mxtn.net:443?insecure=1#WiFi-%40V2rayAlpha--6
 hysteria2://c3054d61-c708-4594-9797-f50acd24de2a@qing-lu.mxtn.net:443?security=tls&insecure=1&mport=21001-21099#WiFi-@V2rayAlpha--6
-hysteria2://c50f9480-2e1d-40db-9458-630e79636663@104.250.239.32:49618/?sni=imafake.locker&fp=chrome#%E2%9D%8CFremont-GetAFreeNode
 hysteria2://cb556454-e759-4059-b125-793cee513cc5@lsus5.lansecs.top:58338?insecure=1&sni=lsus5.lansecs.top#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2029
 hysteria2://ccc3d106-00ec-4122-80f3-35a3269e2ad6@lsus3.lansecs.top:58338?insecure=1&sni=lsus3.lansecs.top#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2015
 hysteria2://cfe032e4-1bc3-454f-9d09-301b0aea08ff@40.233.71.65:45979?insecure=1#Chan%202
 hysteria2://cfe032e4-1bc3-454f-9d09-301b0aea08ff@40.233.71.65:45979?insecure=1&sni=www.bing.com#%F0%9F%87%A8%F0%9F%87%A6%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E5%8A%A0%E6%8B%BF%E5%A4%A7%2003
-hysteria2://d0e97ee2-c6de-48f8-bd4a-8e63a9cd9e89@104.250.239.32:49618/?sni=imafake.locker&fp=chrome#%E2%9D%8CFremont-GetAFreeNode
 hysteria2://d3da4e16-9bef-4e54-9bd9-960d32740392@sb1.oomz.ru:30000?insecure=1&sni=bing.com#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig%20%236
 hysteria2://d3da4e16-9bef-4e54-9bd9-960d32740392@sb1.oomz.ru:30000?security=tls&insecure=1&sni=bing.com#@meli_proxyy
 hysteria2://d3da4e16-9bef-4e54-9bd9-960d32740392@sb1.oomz.ru:30000?security=tls&insecure=1&sni=bing.com#All--%40V2rayAlpha-1
@@ -463,14 +456,11 @@ hysteria2://dongtaiwang.com@[2001:bc8:32d7:302::11]:20088?security=tls&insecure=
 hysteria2://dongtaiwang.com@[2001:bc8:32d7:302::11]:20088?security=tls&insecure=1&sni=apple.com#All-@IRAN_V2RAY1
 hysteria2://dongtaiwang.com@[2001:bc8:32d7:302::11]:20088?security=tls&insecure=1&sni=apple.com#MCI-@V2ray_Alpha--3
 hysteria2://dongtaiwang.com@[2001:bc8:32d7:302::11]:20088?security=tls&insecure=1&sni=🔒#@Selinc
-hysteria2://e1cc26b3-df0b-477b-afb0-53659a25e978@104.250.239.32:49618/?sni=imafake.locker&fp=chrome#%E2%9D%8CFremont-GetAFreeNode
-hysteria2://e3cb685e-7840-45cb-9d64-b2028d9b635e@104.250.239.32:49618/?sni=imafake.locker&fp=chrome#%E2%9D%8CFremont-GetAFreeNode
 hysteria2://f1a32ebf-bae4-41ce-ab0b-1cdb9da6964c@212.192.13.86:33079?insecure=1&obfs=salamander&obfs-password=NDhhNmY5YTY0MGYzOTgxYQ%3D%3D#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2022
 hysteria2://f872db91-57c2-41c7-aad0-561b4cb674bf@us-nb-01.linlujs.pw:25684?insecure=0#telegram-%40ISVvpn%20%232
 hysteria2://f872db91-57c2-41c7-aad0-561b4cb674bf@us-nb-01.linlujs.pw:25684?security=tls&insecure=0#telegram-@ISVvpn
 hysteria2://f8e40931bbb827df@62.60.231.189:12123?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=dbc688df29e582d3#%40V2rayNG3%20%2318
 hysteria2://f8e40931bbb827df@62.60.231.189:12123?security=tls&obfs=salamander&obfs-password=dbc688df29e582d3&insecure=1&sni=www.google.com#@V2rayNG3
-hysteria2://fa8f8911-2e9b-494e-9a8d-f80239ee2214@104.250.239.32:49618/?sni=imafake.locker&fp=chrome#%E2%9D%8CFremont-GetAFreeNode
 hysteria2://faa8b629-13ea-4ccd-94dd-ff1615cb1ba1@de2.oomz.ru:30000?insecure=1&sni=bing.com#All--%40V2rayAlpha--2
 hysteria2://faa8b629-13ea-4ccd-94dd-ff1615cb1ba1@de2.oomz.ru:30000?security=tls&insecure=1&sni=bing.com#All--@V2rayAlpha--2
 hysteria2://faa8b629-13ea-4ccd-94dd-ff1615cb1ba1@de3.oomz.ru:30000?insecure=1&sni=bing.com#%40sunflowerplato%F0%9F%8C%BB%20%234
