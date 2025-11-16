@@ -153,6 +153,7 @@ hysteria2://110f8d29-f9d0-47dc-abe4-2f4ac679879b@my.xn--9kqx4sc0n.shop:21622?sec
 hysteria2://110f8d29-f9d0-47dc-abe4-2f4ac679879b@sg.xn--9kqx4sc0n.shop:21917?security=tls&insecure=0&mport=21001-21999#%E6%96%B0%E5%8A%A0%E5%9D%A12
 hysteria2://110f8d29-f9d0-47dc-abe4-2f4ac679879b@sg.xn--9kqx4sc0n.shop:21932?security=tls&insecure=0&mport=21001-21999#%E6%96%B0%E5%8A%A0%E5%9D%A11
 hysteria2://123456@192.3.85.237:443?insecure=1&sni=bing.com#%40V2rayNG3
+hysteria2://123456@192.3.85.237:443?insecure=1&sni=bing.com#🌐سرور
 hysteria2://123456@192.3.85.237:443?security=tls&insecure=1&sni=bing.com#@V2rayNG3
 hysteria2://15cca331-9e92-449d-93b0-25f82203595f@gb.gomeow.online:20309?insecure=0&sni=gb.gomeow.online#%40V2rayNG3%20%231
 hysteria2://15cca331-9e92-449d-93b0-25f82203595f@gb.gomeow.online:20309?security=tls&insecure=0&sni=gb.gomeow.online#@V2rayNG3
@@ -263,7 +264,6 @@ hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@falankefu1.nezhasu.com:443?secu
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@falankefu1.nezhasu.com:443?security=tls&insecure=1&mport=50000-65535&sni=falankefu1.nezhasu.com#MHH👉meli_proxyy👈@meli_proxyy
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@falankefu1.nezhasu.com:443?security=tls&insecure=1&mport=50000-65535&sni=falankefu1.nezhasu.com#⚡Telegram
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@falankefu1.nezhasu.com:443?security=tls&insecure=1&mport=50000-65535&sni=falankefu1.nezhasu.com#⚡Telegram=@SOSkeyNET
-hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@falankefu1.nezhasu.com:443?security=tls&insecure=1&mport=50000-65535&sni=falankefu1.nezhasu.com#🌐سرور
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@falankefu1.nezhasu.com:443?sni=falankefu1.nezhasu.com&insecure=1&mport=50000-65535#%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5%40AzarAndoozVPNbot%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@gy2.nezhasu.com:443?security=tls&insecure=1&mport=50000-65535&sni=gy2.nezhasu.com#%F0%9F%8F%8577%40oneclickvpnkeys
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@gy5.nezhasu.com:443?insecure=1&sni=gy5.nezhasu.com#All-%40V2rayAlpha--29
