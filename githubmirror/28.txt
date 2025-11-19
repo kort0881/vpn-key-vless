@@ -331,9 +331,7 @@ hysteria2://3ec84788-0386-490b-9527-2a9ce0e07776@node.waifly.com:28132?insecure=
 hysteria2://4a25ab9e-66e3-435a-97a4-276b5c3a1947@hk.xn--9kqw1xbnu.shop:443?insecure=1#All-%40V2rayAlpha--3
 hysteria2://4a25ab9e-66e3-435a-97a4-276b5c3a1947@hk.xn--9kqw1xbnu.shop:443?security=tls&insecure=1&mport=21001-21999#All-@V2rayAlpha--3
 hysteria2://5001b8d8-76ce-474c-bc29-94e6caa61164@141.147.52.24:44001?insecure=1#%40meli_proxyy%20%2315
-hysteria2://5001b8d8-76ce-474c-bc29-94e6caa61164@141.147.52.24:44001?security=tls&insecure=1#@meli_proxyy
 hysteria2://5001b8d8-76ce-474c-bc29-94e6caa61164@92.5.77.25:44001?insecure=1&sni=www.bing.com#%40meli_proxyy%20%2316
-hysteria2://5001b8d8-76ce-474c-bc29-94e6caa61164@92.5.77.25:44001?security=tls&insecure=1&sni=www.bing.com#@meli_proxyy
 hysteria2://537d7098-fdbe-11ef-8ebc-f23c93141fad@14ff4864-t4x400-tcjtj6-d70y.la.shifen.uk:1743?sni=14ff4864-t4x400-tcjtj6-d70y.la.shifen.uk&insecure=0#United%20States%F0%9F%87%BA%F0%9F%87%B8
 hysteria2://537d7098-fdbe-11ef-8ebc-f23c93141fad@14ff4864-t4x400-tcjtj6-d70y.la.shifen.uk:1743?sni=14ff4864-t4x400-tcjtj6-d70y.la.shifen.uk&insecure=1#United%20States%F0%9F%87%BA%F0%9F%87%B8
 hysteria2://537d7098-fdbe-11ef-8ebc-f23c93141fad@6e206c57-t3b340-tcj7b6-d70y.la.shifen.uk:1743?insecure=0#_US_%E7%BE%8E%E5%9B%BD_7%202
