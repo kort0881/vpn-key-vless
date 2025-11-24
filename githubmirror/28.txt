@@ -104,7 +104,6 @@ hysteria2://05fd3f79-dca0-4358-a803-c8d4711c17a3@lsyd1.lansecs.top:58338?securit
 hysteria2://0e2c8be1-f36b-477c-b808-8e429fa6357b@112.120.131.125:543/?insecure=1&sni=hktv03.outleft-hy.xyz&obfs=salamander&obfs-password=YjcwMDNiMDhhZWU1OTU4MA%3D%3D#%F0%9F%8E%A164%40oneclickvpnkeys
 hysteria2://123456@192.3.85.237:443?insecure=1&sni=bing.com#%40V2rayNG3
 hysteria2://123456@192.3.85.237:443?security=tls&insecure=1&sni=bing.com#@V2rayNG3
-hysteria2://123456@192.3.85.237:443?security=tls&insecure=1&sni=bing.com#🌐سرور
 hysteria2://14FD150A-579E-42A1-8212-9D2F6510A70C@hk5.dexlos.com:9039?sni=hk5.dexlos.com&mport=9000-10000#%F0%9F%87%AD%F0%9F%87%B0%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E9%A6%99%E6%B8%AF%2011
 hysteria2://14FD150A-579E-42A1-8212-9D2F6510A70C@jp1.dexlos.com:1611?sni=jp1.dexlos.com&mport=1000-2000#%F0%9F%87%AF%F0%9F%87%B5%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%97%A5%E6%9C%AC%2008
 hysteria2://14FD150A-579E-42A1-8212-9D2F6510A70C@jp10.dexlos.com:19699?sni=jp10.dexlos.com&mport=19000-20000#%F0%9F%87%AF%F0%9F%87%B5%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%97%A5%E6%9C%AC%2014
@@ -177,13 +176,13 @@ hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@batam3.nezhasu.com:443?insecure
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@batam3.nezhasu.com:443?security=tls&insecure=1&mport=50000-65535&sni=batam3.nezhasu.com#MCI-IR--%40V2rayAlpha-13
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@batam3.nezhasu.com:443?security=tls&insecure=1&mport=50000-65535&sni=batam3.nezhasu.com#MCI-IR--@V2rayAlpha-13
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@falankefu1.nezhasu.com:443?insecure=1&sni=falankefu1.nezhasu.com#MCI-IR--%40V2rayAlpha-14
+hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@falankefu1.nezhasu.com:443?insecure=1&sni=falankefu1.nezhasu.com#🌐سرور
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@falankefu1.nezhasu.com:443?security=tls&insecure=1&mport=50000-65535&sni=falankefu1.nezhasu.com#All-%40V2rayAlpha--28
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@falankefu1.nezhasu.com:443?security=tls&insecure=1&mport=50000-65535&sni=falankefu1.nezhasu.com#All-@IRAN_V2RAY1
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@falankefu1.nezhasu.com:443?security=tls&insecure=1&mport=50000-65535&sni=falankefu1.nezhasu.com#All-@V2rayAlpha--28
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@falankefu1.nezhasu.com:443?security=tls&insecure=1&mport=50000-65535&sni=falankefu1.nezhasu.com#All-@V2ray_Alpha--5
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@falankefu1.nezhasu.com:443?security=tls&insecure=1&mport=50000-65535&sni=falankefu1.nezhasu.com#MCI-IR--%40V2rayAlpha-14
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@falankefu1.nezhasu.com:443?security=tls&insecure=1&mport=50000-65535&sni=falankefu1.nezhasu.com#MCI-IR--@V2rayAlpha-14
-hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@falankefu1.nezhasu.com:443?security=tls&insecure=1&mport=50000-65535&sni=falankefu1.nezhasu.com#🌐سرور
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@gy5.nezhasu.com:443?insecure=1&sni=gy5.nezhasu.com#All-%40V2rayAlpha--29
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@gy5.nezhasu.com:443?security=tls&insecure=1&mport=50000-65535&sni=gy5.nezhasu.com#All-%40V2rayAlpha--29
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@gy5.nezhasu.com:443?security=tls&insecure=1&mport=50000-65535&sni=gy5.nezhasu.com#All-@V2rayAlpha--29
@@ -581,7 +580,6 @@ hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35200?security=tls&obfs=sa
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35200?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#🇳🇱@FreakConfig
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35200?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir&note=@freeOnlineVPN#🇳🇱
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36300?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#All--%40IRAN_V2RAY1%20%233
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36300?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&note=@freeOnlineVPN#🇳🇱
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36300?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=0&sni=YAPC-1.afshin.ir#%40V2RAY_VMESS_free
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36300?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#@meli_proxyy
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36300?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#All--@IRAN_V2RAY1
@@ -633,7 +631,6 @@ hysteria2://a084933d-0b41-4571-ae0c-7163b8c71ed1@de.eyucdn.xyz:2056?security=tls
 hysteria2://a084933d-0b41-4571-ae0c-7163b8c71ed1@de.eyucdn.xyz:2056?security=tls&insecure=1&sni=de.eyucdn.xyz#⚡Telegram=@SOSkeyNET
 hysteria2://a084933d-0b41-4571-ae0c-7163b8c71ed1@de.eyucdn.xyz:2056?security=tls&insecure=1&sni=de.eyucdn.xyz#🇩🇪@FreakConfig
 hysteria2://a2678c97b8d79059@46.62.152.236:443?insecure=1&obfs=salamander&obfs-password=9242a8bf#%40NoForcedheaven
-hysteria2://a2678c97b8d79059@46.62.152.236:443?insecure=1&obfs=salamander&obfs-password=9242a8bf#🌐سرور
 hysteria2://ab858115-e0ab-4cb7-8e65-0804c35e52d5@nl2.oomz.ru:30000?insecure=1&sni=bing.com#%40Selinc%20%2310
 hysteria2://ab858115-e0ab-4cb7-8e65-0804c35e52d5@nl2.oomz.ru:30000?security=tls&insecure=1&sni=bing.com#@Selinc
 hysteria2://ab858115-e0ab-4cb7-8e65-0804c35e52d5@us4.oomz.ru:30000?insecure=1&sni=bing.com#%40Selinc%20%2311
