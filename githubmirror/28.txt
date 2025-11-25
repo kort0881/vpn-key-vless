@@ -114,6 +114,7 @@ hysteria2://0e8520d7-825c-4b00-828e-357f6fd9c937@51.81.223.166:53283?insecure=1&
 hysteria2://0e8520d7-825c-4b00-828e-357f6fd9c937@51.81.223.166:54876?insecure=1&sni=tv.apple.com&mport=45000-55000#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2029
 hysteria2://123456@192.3.85.237:443?insecure=1&sni=bing.com#%40V2rayNG3
 hysteria2://123456@192.3.85.237:443?security=tls&insecure=1&sni=bing.com#@V2rayNG3
+hysteria2://123456@192.3.85.237:443?security=tls&insecure=1&sni=bing.com#🌐سرور
 hysteria2://14FD150A-579E-42A1-8212-9D2F6510A70C@jp10.dexlos.com:443/?mport=19000-20000&insecure=1&sni=jp10.dexlos.com#%F0%9F%87%AF%F0%9F%87%B5b%40oneclickvpnkeys
 hysteria2://14FD150A-579E-42A1-8212-9D2F6510A70C@jp4.dexlos.com:443/?mport=7000-8000&insecure=1&sni=jp4.dexlos.com#%E2%9C%A858%40oneclickvpnkeys
 hysteria2://14FD150A-579E-42A1-8212-9D2F6510A70C@jp5.dexlos.com:443/?mport=9000-10000&insecure=1&sni=jp5.dexlos.com#%F0%9F%87%AF%F0%9F%87%B5c%40oneclickvpnkeys
@@ -468,9 +469,7 @@ hysteria2://BNKPIBT5bF@91.99.225.11:443?security=tls&obfs=salamander&obfs-passwo
 hysteria2://Bf8SIGCNHy@91.99.225.11:20820?insecure=1&sni=refersion.com&obfs=salamander&obfs-password=Jsbdksj@V2RayyNGvpn$Miracle#%F0%9F%87%A9%F0%9F%87%AA%40V2RayyNGvpn%F0%9F%87%A9%F0%9F%87%AA%D9%87%D9%85%D9%87%20%D8%A7%D9%88%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%20%D9%87...%20%234
 hysteria2://Bf8SIGCNHy@91.99.225.11:20820?security=tls&obfs=salamander&obfs-password=Jsbdksj@V2RayyNGvpn$Miracle&insecure=1&sni=refersion.com#🇩🇪@V2RayyNGvpn🇩🇪همه
 hysteria2://ByBeTp5j5C@83.147.253.96:2053?insecure=1&sni=webservice-admin.tgju.org&obfs=salamander&obfs-password=MiracleV2RayyNGvpnfreeconf#%F0%9F%87%A9%F0%9F%87%AA%20-%20DE%20-%20%40freeOnlineVPN%20%231
-hysteria2://ByBeTp5j5C@83.147.253.96:2053?insecure=1&sni=webservice-admin.tgju.org&obfs=salamander&obfs-password=MiracleV2RayyNGvpnfreeconf&note=@freeOnlineVPN#🇩🇪
 hysteria2://ByBeTp5j5C@83.147.253.96:2053?security=tls&obfs=salamander&obfs-password=MiracleV2RayyNGvpnfreeconf&insecure=1&sni=webservice-admin.tgju.org#🇱🇺@V2RayyNGvpn🇱🇺همه
-hysteria2://ByBeTp5j5C@83.147.253.96:2053?security=tls&obfs=salamander&obfs-password=MiracleV2RayyNGvpnfreeconf&insecure=1&sni=webservice-admin.tgju.org&note=@freeOnlineVPN#🇩🇪
 hysteria2://CA6haTDbz3@83.147.253.96:2053?insecure=1&sni=webservice-admin.tgju.org&obfs=salamander&obfs-password=MiracleV2RayyNGvpnfreeconf#%F0%9F%87%B1%F0%9F%87%BA%40V2RayyNGvpn%F0%9F%87%B1%F0%9F%87%BA%D9%87%D9%85%D9%87%20%D8%A7%D9%88%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%20%D9%87...%20%233
 hysteria2://CA6haTDbz3@83.147.253.96:2053?security=tls&obfs=salamander&obfs-password=MiracleV2RayyNGvpnfreeconf&insecure=1&sni=webservice-admin.tgju.org#🇱🇺@V2RayyNGvpn🇱🇺همه
 hysteria2://Cp0LaDHbP7@91.99.225.11:443?insecure=1&sni=refersion.com&obfs=salamander&obfs-password=Jsbdksj@V2RayyNGvpn$Miracle#%F0%9F%87%A9%F0%9F%87%AA%40V2RayyNGvpn%F0%9F%87%A9%F0%9F%87%AA%D9%87%D9%85%D9%87%20%D8%A7%D9%88%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%20%D9%87...%20%235
@@ -775,7 +774,6 @@ hysteria2://ihYxYCiGwv@83.147.253.96:2053?security=tls&obfs=salamander&obfs-pass
 hysteria2://n70AvqlNnq@83.147.253.96:2053?insecure=1&sni=webservice-admin.tgju.org&obfs=salamander&obfs-password=MiracleV2RayyNGvpnfreeconf#%F0%9F%87%B1%F0%9F%87%BA%40V2RayyNGvpn%F0%9F%87%B1%F0%9F%87%BA%D9%87%D9%85%D9%87%20%D8%A7%D9%88%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%20%D9%87...%20%2315
 hysteria2://n70AvqlNnq@83.147.253.96:2053?security=tls&obfs=salamander&obfs-password=MiracleV2RayyNGvpnfreeconf&insecure=1&sni=webservice-admin.tgju.org#🇱🇺@V2RayyNGvpn🇱🇺همه
 hysteria2://p1zskFmlFN@83.147.253.96:2053?insecure=1&sni=webservice-admin.tgju.org&obfs=salamander&obfs-password=MiracleV2RayyNGvpnfreeconf#%F0%9F%87%B1%F0%9F%87%BA%40V2RayyNGvpn%F0%9F%87%B1%F0%9F%87%BA%D9%87%D9%85%D9%87%20%D8%A7%D9%88%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%20%D9%87...%20%2316
-hysteria2://p1zskFmlFN@83.147.253.96:2053?insecure=1&sni=webservice-admin.tgju.org&obfs=salamander&obfs-password=MiracleV2RayyNGvpnfreeconf&note=@freeOnlineVPN#🇩🇪
 hysteria2://p1zskFmlFN@83.147.253.96:2053?security=tls&obfs=salamander&obfs-password=MiracleV2RayyNGvpnfreeconf&insecure=1&sni=webservice-admin.tgju.org#🇱🇺@V2RayyNGvpn🇱🇺همه
 hysteria2://sKztXL5kZB@83.147.253.96:2053?insecure=1&sni=webservice-admin.tgju.org&obfs=salamander&obfs-password=MiracleV2RayyNGvpnfreeconf#%F0%9F%87%B1%F0%9F%87%BA%40V2RayyNGvpn%F0%9F%87%B1%F0%9F%87%BA%D9%87%D9%85%D9%87%20%D8%A7%D9%88%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%20%D9%87...%20%2317
 hysteria2://sKztXL5kZB@83.147.253.96:2053?security=tls&obfs=salamander&obfs-password=MiracleV2RayyNGvpnfreeconf&insecure=1&sni=webservice-admin.tgju.org#🇱🇺@V2RayyNGvpn🇱🇺همه
@@ -786,8 +784,6 @@ hysteria2://vrhh6FbEdi@83.147.253.96:2053?security=tls&obfs=salamander&obfs-pass
 hysteria2://yPUN7h9I8E@83.147.253.96:2053?insecure=1&sni=webservice-admin.tgju.org&obfs=salamander&obfs-password=MiracleV2RayyNGvpnfreeconf#%F0%9F%87%A9%F0%9F%87%AA%40V2RayyNGvpn%F0%9F%87%A9%F0%9F%87%AA%D9%87%D9%85%D9%87%20%D8%A7%D9%88%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%20%D9%87...%20%2315
 hysteria2://yPUN7h9I8E@83.147.253.96:2053?security=tls&obfs=salamander&obfs-password=MiracleV2RayyNGvpnfreeconf&insecure=1&sni=webservice-admin.tgju.org#🇩🇪@V2RayyNGvpn🇩🇪همه
 hysteria2://yrBnLOzhOi@91.99.225.11:443?insecure=1&sni=refersion.com&obfs=salamander&obfs-password=Jsbdksj@V2RayyNGvpn$Miracle#%F0%9F%87%A9%F0%9F%87%AA%20-%20DE%20-%20%40freeOnlineVPN%20%235
-hysteria2://yrBnLOzhOi@91.99.225.11:443?insecure=1&sni=refersion.com&obfs=salamander&obfs-password=Jsbdksj@V2RayyNGvpn$Miracle&note=@freeOnlineVPN#🇩🇪
 hysteria2://yrBnLOzhOi@91.99.225.11:443?security=tls&obfs=salamander&obfs-password=Jsbdksj@V2RayyNGvpn$Miracle&insecure=1&sni=refersion.com#🇩🇪@V2RayyNGvpn🇩🇪همه
-hysteria2://yrBnLOzhOi@91.99.225.11:443?security=tls&obfs=salamander&obfs-password=Jsbdksj@V2RayyNGvpn$Miracle&insecure=1&sni=refersion.com&note=@freeOnlineVPN#🇩🇪
 hysteria2://zZLCcbcZIl@83.147.253.96:2053?insecure=1&sni=webservice-admin.tgju.org&obfs=salamander&obfs-password=MiracleV2RayyNGvpnfreeconf#%F0%9F%87%B1%F0%9F%87%BA%40V2RayyNGvpn%F0%9F%87%B1%F0%9F%87%BA%D9%87%D9%85%D9%87%20%D8%A7%D9%88%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%20%D9%87...%20%2319
 hysteria2://zZLCcbcZIl@83.147.253.96:2053?security=tls&obfs=salamander&obfs-password=MiracleV2RayyNGvpnfreeconf&insecure=1&sni=webservice-admin.tgju.org#🇱🇺@V2RayyNGvpn🇱🇺همه
