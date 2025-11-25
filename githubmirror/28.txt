@@ -96,9 +96,7 @@ hysteria2://0e2c8be1-f36b-477c-b808-8e429fa6357b@112.120.131.125:543/?insecure=1
 hysteria2://0e8520d7-825c-4b00-828e-357f6fd9c937@51.81.223.166:53283?insecure=1&sni=tv.apple.com&mport=45000-55000#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2033
 hysteria2://0e8520d7-825c-4b00-828e-357f6fd9c937@51.81.223.166:54876?insecure=1&sni=tv.apple.com&mport=45000-55000#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2029
 hysteria2://123456@192.3.85.237:443?insecure=1&sni=bing.com#%40V2rayNG3
-hysteria2://123456@192.3.85.237:443?insecure=1&sni=bing.com#🌐سرور
 hysteria2://123456@192.3.85.237:443?security=tls&insecure=1&sni=bing.com#@V2rayNG3
-hysteria2://123456@192.3.85.237:443?security=tls&insecure=1&sni=bing.com#🌐سرور
 hysteria2://14FD150A-579E-42A1-8212-9D2F6510A70C@jp10.dexlos.com:443/?mport=19000-20000&insecure=1&sni=jp10.dexlos.com#%F0%9F%87%AF%F0%9F%87%B5b%40oneclickvpnkeys
 hysteria2://14FD150A-579E-42A1-8212-9D2F6510A70C@jp4.dexlos.com:443/?mport=7000-8000&insecure=1&sni=jp4.dexlos.com#%E2%9C%A858%40oneclickvpnkeys
 hysteria2://14FD150A-579E-42A1-8212-9D2F6510A70C@jp5.dexlos.com:443/?mport=9000-10000&insecure=1&sni=jp5.dexlos.com#%F0%9F%87%AF%F0%9F%87%B5c%40oneclickvpnkeys
@@ -154,6 +152,7 @@ hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@batam3.nezhasu.com:443?insecure
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@batam3.nezhasu.com:443?security=tls&insecure=1&mport=50000-65535&sni=batam3.nezhasu.com#MCI-IR--%40V2rayAlpha-13
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@batam3.nezhasu.com:443?security=tls&insecure=1&mport=50000-65535&sni=batam3.nezhasu.com#MCI-IR--@V2rayAlpha-13
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@falankefu1.nezhasu.com:443?insecure=1&sni=falankefu1.nezhasu.com#MCI-IR--%40V2rayAlpha-14
+hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@falankefu1.nezhasu.com:443?insecure=1&sni=falankefu1.nezhasu.com#🌐سرور
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@falankefu1.nezhasu.com:443?security=tls&insecure=1&mport=50000-65535&sni=falankefu1.nezhasu.com#All-%40V2rayAlpha--28
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@falankefu1.nezhasu.com:443?security=tls&insecure=1&mport=50000-65535&sni=falankefu1.nezhasu.com#All-@IRAN_V2RAY1
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@falankefu1.nezhasu.com:443?security=tls&insecure=1&mport=50000-65535&sni=falankefu1.nezhasu.com#All-@V2rayAlpha--28
