@@ -203,7 +203,6 @@ hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@batam3.nezhasu.com:443?security
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@chuncheon-2.nezhasu.com:443/?mport=50000-65535&sni=chuncheon-2.nezhasu.com#%F0%9F%94%9292%40oneclickvpnkeys
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@chuncheon-2.nezhasu.com:443?security=tls&insecure=0&mport=50000-65535&sni=chuncheon-2.nezhasu.com#%F0%9F%94%9292%40ConfigV2RayNG
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@falankefu1.nezhasu.com:443?insecure=1&sni=falankefu1.nezhasu.com#MCI-IR--%40V2rayAlpha-14
-hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@falankefu1.nezhasu.com:443?insecure=1&sni=falankefu1.nezhasu.com#🌐سرور
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@falankefu1.nezhasu.com:443?security=tls&insecure=1&mport=50000-65535&sni=falankefu1.nezhasu.com#All-%40V2rayAlpha--28
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@falankefu1.nezhasu.com:443?security=tls&insecure=1&mport=50000-65535&sni=falankefu1.nezhasu.com#All-@IRAN_V2RAY1
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@falankefu1.nezhasu.com:443?security=tls&insecure=1&mport=50000-65535&sni=falankefu1.nezhasu.com#All-@V2rayAlpha--28
@@ -273,7 +272,6 @@ hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@sanjose.nezhasu.com:443?securit
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@singaporex-4.nezhasu.com:443/?mport=50000-65535&sni=Singaporex-4.nezhasu.com#%F0%9F%94%9282%40oneclickvpnkeys
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@singaporex-4.nezhasu.com:443?security=tls&insecure=0&mport=50000-65535&sni=Singaporex-4.nezhasu.com#%F0%9F%94%9282%40ConfigV2RayNG
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@tokyo.nezhasu.com:443/?mport=50000-65535&sni=Tokyo.nezhasu.com#10%F0%9F%94%92%40oneclickvpnkeys
-hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@tokyo.nezhasu.com:443/?mport=50000-65535&sni=Tokyo.nezhasu.com#🌐سرور
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@tokyo.nezhasu.com:443?security=tls&insecure=0&mport=50000-65535&sni=Tokyo.nezhasu.com#10%F0%9F%94%92%40ConfigV2RayNG
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@valparaiso-1.nezhasu.cn:443?security=tls&insecure=1&mport=50000-65535&sni=Valparaiso-1.nezhasu.cn#12%F0%9F%A7%B8%40ConfigV2RayNG
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@ylsl.nezhasu.com:443/?mport=50000-65535&sni=ylsl.nezhasu.com#%F0%9F%94%9256%40oneclickvpnkeys
