@@ -188,10 +188,7 @@ hysteria2://14FD150A-579E-42A1-8212-9D2F6510A70C@jp6.dexlos.com:443?insecure=1&s
 hysteria2://14FD150A-579E-42A1-8212-9D2F6510A70C@jp7.dexlos.com:443?insecure=1&sni=jp7.dexlos.com#%F0%9F%87%AF%F0%9F%87%B5e%40oneclickvpnkeys
 hysteria2://14FD150A-579E-42A1-8212-9D2F6510A70C@jp8.dexlos.com:443?insecure=1&sni=jp8.dexlos.com#%F0%9F%87%AF%F0%9F%87%B5f%40oneclickvpnkeys
 hysteria2://14FD150A-579E-42A1-8212-9D2F6510A70C@jp9.dexlos.com:443?insecure=1&sni=jp9.dexlos.com#%F0%9F%87%AF%F0%9F%87%B5d%40oneclickvpnkeys
-hysteria2://14FD150A-579E-42A1-8212-9D2F6510A70C@us10.dexlos.com:443?insecure=1&sni=us10.dexlos.com#%E2%9C%A849%40oneclickvpnkeys
-hysteria2://14FD150A-579E-42A1-8212-9D2F6510A70C@us5.dexlos.com:443?insecure=1&sni=us5.dexlos.com#%E2%9C%A845%40oneclickvpnkeys
 hysteria2://14FD150A-579E-42A1-8212-9D2F6510A70C@us7.dexlos.com:443?insecure=1&sni=us7.dexlos.com#%F0%9F%87%BA%F0%9F%87%B8a%40oneclickvpnkeys
-hysteria2://14FD150A-579E-42A1-8212-9D2F6510A70C@us8.dexlos.com:443?insecure=1&sni=us8.dexlos.com#%E2%9C%A846%40oneclickvpnkeys
 hysteria2://14FD150A-579E-42A1-8212-9D2F6510A70C@us9.dexlos.com:443?insecure=1&sni=us9.dexlos.com#%E2%9C%A856%40oneclickvpnkeys
 hysteria2://15cca331-9e92-449d-93b0-25f82203595f@gb.gomeow.online:20309?insecure=0&sni=gb.gomeow.online#%40V2rayNG3%20%231
 hysteria2://15cca331-9e92-449d-93b0-25f82203595f@gb.gomeow.online:20309?security=tls&insecure=0&sni=gb.gomeow.online#@V2rayNG3
@@ -230,6 +227,7 @@ hysteria2://23a103fb-1326-49a5-9bd2-752657323a96@ptyn.jgpyjc.top:40400?obfs=sala
 hysteria2://2408982813-20241210%3A409046c1-c229-4b54-986c-f110d96278e1@genshin-v4-oracle-amd.damaoooo.com:40000?security=tls&insecure=0#%E2%9A%92%EF%B8%8F4%40ConfigV2RayNG
 hysteria2://2408982813-20241210:409046c1-c229-4b54-986c-f110d96278e1@genshin-v4-oracle-amd.damaoooo.com:40000/#%E2%9A%B1%EF%B8%8F17%40oneclickvpnkeys
 hysteria2://2408982813-20241210@genshin-v4-oracle-amd.damaoooo.com:443?#%E2%9A%B1%EF%B8%8F17%40oneclickvpnkeys
+hysteria2://2408982813-20241210@genshin-v4-oracle-amd.damaoooo.com:443?#🌐سرور
 hysteria2://2429bee3-e0c1-47dd-b420-75e6512b184b@129.153.59.26:30300?insecure=1&sni=www.bing.com#%40sunflowerplato%F0%9F%8C%BB
 hysteria2://2429bee3-e0c1-47dd-b420-75e6512b184b@129.153.59.26:30300?security=tls&insecure=1&sni=www.bing.com#@sunflowerplato🌻
 hysteria2://2429bee3-e0c1-47dd-b420-75e6512b184b@40.233.82.111:30300?insecure=1&sni=www.bing.com#%40IRAN_V2RAY1
@@ -250,6 +248,7 @@ hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@batam3.nezhasu.com:443?security
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@chuncheon-2.nezhasu.com:443?security=tls&insecure=0&mport=50000-65535&sni=chuncheon-2.nezhasu.com#%F0%9F%94%9292%40ConfigV2RayNG
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@chuncheon-2.nezhasu.com:443?sni=chuncheon-2.nezhasu.com#%F0%9F%94%9292%40oneclickvpnkeys
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@falankefu1.nezhasu.com:443?insecure=1&sni=falankefu1.nezhasu.com#MCI-IR--%40V2rayAlpha-14
+hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@falankefu1.nezhasu.com:443?insecure=1&sni=falankefu1.nezhasu.com#🌐سرور
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@falankefu1.nezhasu.com:443?security=tls&insecure=1&mport=50000-65535&sni=falankefu1.nezhasu.com#All-%40V2rayAlpha--28
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@falankefu1.nezhasu.com:443?security=tls&insecure=1&mport=50000-65535&sni=falankefu1.nezhasu.com#All-@IRAN_V2RAY1
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@falankefu1.nezhasu.com:443?security=tls&insecure=1&mport=50000-65535&sni=falankefu1.nezhasu.com#All-@V2rayAlpha--28
@@ -314,6 +313,7 @@ hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@sanjose.nezhasu.com:443?securit
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@singaporex-4.nezhasu.com:443?security=tls&insecure=0&mport=50000-65535&sni=Singaporex-4.nezhasu.com#%F0%9F%94%9282%40ConfigV2RayNG
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@singaporex-4.nezhasu.com:443?sni=Singaporex-4.nezhasu.com#%F0%9F%94%9282%40oneclickvpnkeys
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@tokyo.nezhasu.com:443?security=tls&insecure=0&mport=50000-65535&sni=Tokyo.nezhasu.com#10%F0%9F%94%92%40ConfigV2RayNG
+hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@tokyo.nezhasu.com:443?security=tls&insecure=0&mport=50000-65535&sni=Tokyo.nezhasu.com#🌐سرور
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@tokyo.nezhasu.com:443?sni=Tokyo.nezhasu.com#10%F0%9F%94%92%40oneclickvpnkeys
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@valparaiso-1.nezhasu.cn:443?security=tls&insecure=1&mport=50000-65535&sni=Valparaiso-1.nezhasu.cn#12%F0%9F%A7%B8%40ConfigV2RayNG
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@ylsl.nezhasu.com:443?sni=ylsl.nezhasu.com#%F0%9F%94%9256%40oneclickvpnkeys
@@ -356,6 +356,7 @@ hysteria2://46gfRN8Pcy@91.99.225.11:443?security=tls&obfs=salamander&obfs-passwo
 hysteria2://4a25ab9e-66e3-435a-97a4-276b5c3a1947@hk.xn--9kqw1xbnu.shop:443?insecure=1#All-%40V2rayAlpha--3
 hysteria2://4a25ab9e-66e3-435a-97a4-276b5c3a1947@hk.xn--9kqw1xbnu.shop:443?security=tls&insecure=1&mport=21001-21999#All-@V2rayAlpha--3
 hysteria2://4e6b2e02-a677-456e-b57e-eebeb68d6e0f@dg.jgpyjc.top:443/?mport=40000-40050&insecure=1&sni=dg.jgpyjc.top&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%F0%9F%8C%8F26%40oneclickvpnkeys
+hysteria2://4e6b2e02-a677-456e-b57e-eebeb68d6e0f@dg.jgpyjc.top:443/?mport=40000-40050&insecure=1&sni=dg.jgpyjc.top&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#🌐سرور
 hysteria2://4e6b2e02-a677-456e-b57e-eebeb68d6e0f@dg.jgpyjc.top:443?insecure=1&sni=dg.jgpyjc.top&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==#%F0%9F%8C%8F26%40oneclickvpnkeys
 hysteria2://4e6b2e02-a677-456e-b57e-eebeb68d6e0f@dg.jgpyjc.top:443?security=tls&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D&insecure=1&mport=40000-40050&sni=dg.jgpyjc.top#%F0%9F%8C%8F26%40ConfigV2RayNG
 hysteria2://52d0cb21-56da-4f00-862f-be01b66446a8@falankefu1.nezhasu.com:443?insecure=1&sni=falankefu1.nezhasu.com#%F0%9F%8E%B51%40oneclickvpnkeys
@@ -396,7 +397,6 @@ hysteria2://5f89ac2a-b6d6-4c66-98d8-39c4d552138c@[2a0c:4ac1:8::2ae]:35000?securi
 hysteria2://5f89ac2a-b6d6-4c66-98d8-39c4d552138c@[2a0c:4ac1:8::2ae]:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=jnir.pichondan.com#@V2rayNG3
 hysteria2://5f89ac2a-b6d6-4c66-98d8-39c4d552138c@[2a0c:4ac1:8::2ae]:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=jnir.pichondan.com#MCi--@IRAN_V2RAY1
 hysteria2://5f89ac2a-b6d6-4c66-98d8-39c4d552138c@dir.cybsecguru.com:35000?insecure=1&sni=jnir.pichondan.com&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AB%F0%9F%87%B7%C2%AE%EF%B8%8FFran...
-hysteria2://5f89ac2a-b6d6-4c66-98d8-39c4d552138c@dir.cybsecguru.com:35000?insecure=1&sni=jnir.pichondan.com&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#MCi--%40IRAN_V2RAY1%20%233
 hysteria2://5f89ac2a-b6d6-4c66-98d8-39c4d552138c@dir.cybsecguru.com:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=jnir.pichondan.com#%40V2rayNG3
 hysteria2://5f89ac2a-b6d6-4c66-98d8-39c4d552138c@dir.cybsecguru.com:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=jnir.pichondan.com#@V2rayNG3
 hysteria2://5f89ac2a-b6d6-4c66-98d8-39c4d552138c@dir.cybsecguru.com:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=jnir.pichondan.com#MCi--@IRAN_V2RAY1
@@ -661,7 +661,6 @@ hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36600?security=
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36600?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=0&sni=YAPC-1.afshin.ir#@Selinc
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36600?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=0&sni=YAPC-1.afshin.ir#Join
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36600?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=0&sni=YAPC-1.afshin.ir#💎کانفیگ
-hysteria2://YwuvGJk36B@81.168.83.89:2083?insecure=1&sni=kotlet.arshiacomplus.dpdns.org&obfs=salamander&obfs-password=khameniiko@smad@ret#%F0%9F%87%AC%F0%9F%87%A7%40FreakConfig
 hysteria2://YwuvGJk36B@81.168.83.89:2083?insecure=1&sni=kotlet.arshiacomplus.dpdns.org&obfs=salamander&obfs-password=khameniiko@smad@ret#MCI-%40IRAN_V2RAY1
 hysteria2://YwuvGJk36B@81.168.83.89:2083?security=tls&obfs=salamander&obfs-password=khameniiko@smad@ret&insecure=1&sni=kotlet.arshiacomplus.dpdns.org#@Selinc
 hysteria2://YwuvGJk36B@81.168.83.89:2083?security=tls&obfs=salamander&obfs-password=khameniiko@smad@ret&insecure=1&sni=kotlet.arshiacomplus.dpdns.org#All--@IRAN_V2RAY1🇬🇧
@@ -850,7 +849,6 @@ hysteria2://eOUFE6LeS4@91.99.225.11:20820?security=tls&obfs=salamander&obfs-pass
 hysteria2://f62dcdd4-a8f8-440e-8cc7-f5bb2f762375@amsterdam.nezhasu.com:443?insecure=1&sni=Amsterdam.nezhasu.com#%F0%9F%8E%B53%40oneclickvpnkeys
 hysteria2://f62dcdd4-a8f8-440e-8cc7-f5bb2f762375@lundun3.nezhasu.com:443?insecure=1&sni=lundun3.nezhasu.com#%F0%9F%8E%B513%40oneclickvpnkeys
 hysteria2://f6cf2e049f46db997a7142252d49aafa@armani.8.8.8.8.fizikade.ir:443?obfs=salamander&obfs-password=hh-?ksjsHyGY6j#jswUgy556%40%26insecure%3D0%26sni%3Darma...
-hysteria2://f6cf2e049f46db997a7142252d49aafa@armani.8.8.8.8.fizikade.ir:443?obfs=salamander&obfs-password=hh-?ksjsHyGY6j#🌐سرور
 hysteria2://f6cf2e049f46db997a7142252d49aafa@armani.8.8.8.8.fizikade.ir:443?security=tls&obfs=salamander&obfs-password=hh-?ksjsHyGY6j#jswUgy556@&insecure=0&sni=armani.8.8.8.8.fizikade.ir#r♡ya
 hysteria2://f8e40931bbb827df@62.60.231.189:12123?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=dbc688df29e582d3#%40V2rayNG3%20%2318
 hysteria2://f8e40931bbb827df@62.60.231.189:12123?security=tls&obfs=salamander&obfs-password=dbc688df29e582d3&insecure=1&sni=www.google.com#@V2rayNG3
