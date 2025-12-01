@@ -33,7 +33,6 @@ CHROME_UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
              "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36")
 
 URLS = [
-    # уже существующие ссылки
     "https://github.com/sakha1370/OpenRay/raw/refs/heads/main/output/all_valid_proxies.txt",
     "https://raw.githubusercontent.com/sevcator/5ubscrpt10n/main/protocols/vl.txt",
     "https://raw.githubusercontent.com/yitong2333/proxy-minging/refs/heads/main/v2ray.txt",
@@ -59,8 +58,6 @@ URLS = [
     "https://raw.githubusercontent.com/AzadNetCH/Clash/refs/heads/main/AzadNet.txt",
     "https://raw.githubusercontent.com/STR97/STRUGOV/refs/heads/main/STR.BYPASS#STR.BYPASS%F0%9F%91%BE",
     "https://raw.githubusercontent.com/V2RayRoot/V2RayConfig/refs/heads/main/Config/vless.txt",
-
-    # новые ссылки (добавлены)
     "https://raw.githubusercontent.com/lagzian/SS-Collector/main/mix_clash.yaml",
     "https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Vless.txt",
     "https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Hysteria2.txt",
@@ -113,12 +110,14 @@ def request_with_strategies(url: str) -> str:
         return r.text
     except Exception as e:
         errors.append(f"https normal: {e}")
+
     try:
         r = SESSION.get(url, timeout=TIMEOUT, verify=False)
         r.raise_for_status()
         return r.text
     except Exception as e:
         errors.append(f"https verify=False: {e}")
+
     try:
         parsed = urllib.parse.urlparse(url)
         if parsed.scheme == "https":
@@ -128,6 +127,7 @@ def request_with_strategies(url: str) -> str:
             return r.text
     except Exception as e:
         errors.append(f"http fallback: {e}")
+
     try:
         parsed = urllib.parse.urlparse(url)
         host = parsed.hostname
@@ -136,6 +136,7 @@ def request_with_strategies(url: str) -> str:
             path = parsed.path or "/"
             if parsed.query:
                 path += "?" + parsed.query
+
             for scheme in ("https", "http"):
                 try_url = f"{scheme}://{ip}{path}"
                 headers = {"Host": host}
@@ -144,6 +145,7 @@ def request_with_strategies(url: str) -> str:
                 return r.text
     except Exception as e:
         errors.append(f"ip+host attempt: {e}")
+
     raise Exception("All strategies failed: " + " | ".join(errors))
 
 def save_local(path: str, content: str):
@@ -156,26 +158,33 @@ def upload_file_if_changed(local_path: str, remote_path: str):
     try:
         existing = repo.get_contents(remote_path)
         remote_content = existing.decoded_content.decode("utf-8", errors="replace")
+
         if remote_content == content:
             print(f"🔄 {remote_path} — без изменений, пропускаем")
             return False
-        repo.update_file(remote_path, f"Update {remote_path} | {now_moscow()}", content, existing.sha)
+
+        repo.update_file(remote_path, f"Update {remote_path} | {now_moscow()}",
+                         content, existing.sha)
         print(f"✅ {remote_path} обновлён (update)")
         return True
+
     except GithubException as ge:
         if getattr(ge, "status", None) == 404:
             repo.create_file(remote_path, f"Add {remote_path} | {now_moscow()}", content)
             print(f"✅ {remote_path} создан (create)")
             return True
+
         print(f"❌ Ошибка GitHub: {ge}")
         return False
 
 def create_filtered_26():
     collected = []
+
     for i in range(1, 26):
         p = os.path.join(LOCAL_DIR, f"{i}.txt")
         if not os.path.exists(p):
             continue
+
         try:
             with open(p, "r", encoding="utf-8", errors="ignore") as f:
                 for line in f:
@@ -184,11 +193,14 @@ def create_filtered_26():
                         collected.append(s)
         except Exception as e:
             print(f"⚠️ Ошибка чтения {p}: {e}")
+
     unique_full = list(dict.fromkeys(collected))
     out_path = os.path.join(LOCAL_DIR, "26.txt")
+
     with open(out_path, "w", encoding="utf-8") as f:
         for ln in unique_full:
             f.write(ln + "\n")
+
     print(f"📁 Создан {out_path} ({len(unique_full)} строк)")
     return out_path
 
@@ -197,12 +209,14 @@ def main():
         filename = safe_filename(i)
         local_path = os.path.join(LOCAL_DIR, filename)
         remote_path = f"{LOCAL_DIR}/{filename}"
+
         print(f"--- {i}. {url}")
         try:
             text = request_with_strategies(url)
             text = text.replace("\r\n", "\n")
             save_local(local_path, text)
             upload_file_if_changed(local_path, remote_path)
+
         except Exception as e:
             print(f"❌ Ошибка при скачивании {url}: {e}")
 
@@ -211,6 +225,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
 
