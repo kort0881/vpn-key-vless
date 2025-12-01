@@ -19,6 +19,7 @@
 
 | № | Тип | Дата | Файл |
 |:-:|:--|:--|:--|
+| 🟩 | VLESS | 2025-12-01 10:59 | [🔗 post_20251201_105923.txt](post_20251201_105923.txt) |
 | 🟩 | VLESS | 2025-11-16 20:34 | [🔗 post_20251116_203405.txt](post_20251116_203405.txt) |
 | 1 | 🟩 VLESS | 2025-11-03 22:38 | [📄 vpn-files/all_posts.txt](vpn-files/all_posts.txt) |
 | 1 | 🟩 VLESS | 2025-11-03 16:20 | [📄 vpn-files/all_posts.txt](vpn-files/all_posts.txt) |
