@@ -2,8 +2,8 @@ name: Auto Mirror (every 15 minutes)
 
 on:
   schedule:
-    - cron: "*/15 * * * *"
-  workflow_dispatch:
+    - cron: "*/15 * * * *"   # запуск каждые 15 минут (UTC)
+  workflow_dispatch:          # ручной запуск вручную
 
 jobs:
   update:
@@ -16,16 +16,12 @@ jobs:
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.10"
+          python-version: "3.10"   # оставляем старую версию, чтобы скрипт работал
 
       - name: Install dependencies and run mirror script
         env:
-          MY_TOKEN: ${{ secrets.MY_TOKEN }}
+          MY_TOKEN: ${{ secrets.MY_TOKEN }}  # берем токен из секретов
         run: |
           pip install --upgrade pip
           pip install requests PyGithub
           python mirror.py
-
-
-
-
