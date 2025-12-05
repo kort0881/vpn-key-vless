@@ -402,7 +402,6 @@ hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@51.81.223.22:30102?security=tls
 hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@91.149.238.71:30102?insecure=1#MCI-IR--%40V2rayAlpha-6
 hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@91.149.238.71:30102?security=tls&insecure=1#MCI-IR--@V2rayAlpha-6
 hysteria2://35f332d0-0b05-4cc6-91cb-ec0d4465055f@74.117.196.232:49618/?sni=imafake.locker&fp=chrome#Fremont-GetAFreeNode
-hysteria2://3786e67a-41eb-4b92-b31e-417e89493b93@74.117.196.232:49618/?sni=imafake.locker&fp=chrome#Fremont-GetAFreeNode
 hysteria2://3952a514-eaa7-11ef-97da-f23c91cfbbc9@2fe149f1-t53wg0-taksay-1tcuf.hk2.hyhuawei.com:443?insecure=1&sni=2fe149f1-t53wg0-taksay-1tcuf.hk2.hyhuawei.com#%F0%9F%AA%9D83%40oneclickvpnkeys
 hysteria2://398e0d38-8649-11ef-959c-f23c9164ca5d@8bad3e9f-t53wg0-t7k911-1gxvd.us.hyhuawei.com:443?insecure=1&sni=8bad3e9f-t53wg0-t7k911-1gxvd.us.hyhuawei.com#%F0%9F%AA%9D62%40oneclickvpnkeys
 hysteria2://398e0d38-8649-11ef-959c-f23c9164ca5d@8bad3e9f-t53wg0-t7k911-1gxvd.us.hyhuawei.com:443?security=tls&insecure=1&sni=8bad3e9f-t53wg0-t7k911-1gxvd.us.hyhuawei.com#%F0%9F%92%AB%40ConfigV2RayNG
