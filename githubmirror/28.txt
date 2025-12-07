@@ -235,7 +235,6 @@ hysteria2://0de37cdc-abff-11ef-b7c6-f23c913c8d2b@9030f313-t57ls0-t80oqd-1rsuw.us
 hysteria2://0de37cdc-abff-11ef-b7c6-f23c913c8d2b@9030f313-t57ls0-t80oqd-1rsuw.us.hyhuawei.com:443?insecure=1&sni=9030f313-t57ls0-t80oqd-1rsuw.us.hyhuawei.com#9%7C%F0%9F%94%B455%40oneclickvpnkeys
 hysteria2://11303a62-9a33-11ee-be7f-f23c9164ca5d@6983b8eb-t55r40-t7h9gl-1q15s.hk2.hyhuawei.com:443/?mport=30000-60000&sni=6983b8eb-t55r40-t7h9gl-1q15s.hk2.hyhuawei.com#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AD%F0%9F%87%B0
 hysteria2://11303a62-9a33-11ee-be7f-f23c9164ca5d@6983b8eb-t55r40-t7h9gl-1q15s.hk2.hyhuawei.com:443?insecure=0#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AD%F0%9F%87%B0%208
-hysteria2://12929592-a7bd-41eb-ab4d-d804f76c4ff9@74.117.196.232:49618/?sni=imafake.locker&fp=chrome#Fremont-GetAFreeNode
 hysteria2://12a81f5a-fa9e-11ef-8400-f23c9164ca5d@fbde8bc6-t6ngg0-tbmeud-1th9y.us.hyhuawei.com:443?insecure=1&sni=fbde8bc6-t6ngg0-tbmeud-1th9y.us.hyhuawei.com#9%2C10%7CAll-%40V2rayAlpha-25
 hysteria2://12a81f5a-fa9e-11ef-8400-f23c9164ca5d@fbde8bc6-t6ngg0-tbmeud-1th9y.us.hyhuawei.com:443?insecure=1&sni=fbde8bc6-t6ngg0-tbmeud-1th9y.us.hyhuawei.com#All-%40V2rayAlpha-25
 hysteria2://12a81f5a-fa9e-11ef-8400-f23c9164ca5d@fbde8bc6-t6ngg0-tbmeud-1th9y.us.hyhuawei.com:443?security=tls&insecure=1&mport=30000-60000&sni=fbde8bc6-t6ngg0-tbmeud-1th9y.us.hyhuawei.com#All-%40V2rayAlpha-25
@@ -828,7 +827,6 @@ hysteria2://cf7331fa-bfeb-11ed-a807-f23c913c8d2b@e6641836-t57ls0-tc5odo-1mh85.us
 hysteria2://cf7331fa-bfeb-11ed-a807-f23c913c8d2b@e6641836-t57ls0-tc5odo-1mh85.us.hyhuawei.com:443?insecure=1&sni=e6641836-t57ls0-tc5odo-1mh85.us.hyhuawei.com#9%7C%F0%9F%94%B470%40oneclickvpnkeys
 hysteria2://cfe032e4-1bc3-454f-9d09-301b0aea08ff@40.233.83.110:45979?insecure=1&sni=www.bing.com#All-%40V2ray_Alpha--9
 hysteria2://cfe032e4-1bc3-454f-9d09-301b0aea08ff@40.233.83.110:45979?security=tls&insecure=1&sni=www.bing.com#All-@V2ray_Alpha--9
-hysteria2://d0e97ee2-c6de-48f8-bd4a-8e63a9cd9e89@74.117.196.232:49618/?sni=imafake.locker&fp=chrome#Fremont-GetAFreeNode
 hysteria2://d18bcaf4-1323-11ec-a0fc-f23c913c8d2b@a6a24529-t6ngg0-t7fz1r-8rja.us.hyhuawei.com:443?insecure=1&sni=a6a24529-t6ngg0-t7fz1r-8rja.us.hyhuawei.com#%F0%9F%94%B471%40oneclickvpnkeys
 hysteria2://d18bcaf4-1323-11ec-a0fc-f23c913c8d2b@a6a24529-t6ngg0-t7fz1r-8rja.us.hyhuawei.com:443?insecure=1&sni=a6a24529-t6ngg0-t7fz1r-8rja.us.hyhuawei.com#9%7C%F0%9F%94%B471%40oneclickvpnkeys
 hysteria2://d2f0bee2-02f1-11f0-8eb0-f23c9164ca5d@02c688b8-t59gg0-tc61cs-1tja8.us.hyhuawei.com:443?insecure=1&sni=02c688b8-t59gg0-tc61cs-1tja8.us.hyhuawei.com#%F0%9F%94%B464%40oneclickvpnkeys
