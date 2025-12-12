@@ -56,12 +56,16 @@ URLS = [
     "https://raw.githubusercontent.com/shabane/kamaji/master/hub/merged.txt",
     "https://raw.githubusercontent.com/wuqb2i4f/xray-config-toolkit/main/output/base64/mix-uri",
     "https://raw.githubusercontent.com/AzadNetCH/Clash/refs/heads/main/AzadNet.txt",
-    "https://raw.githubusercontent.com/STR97/STRUGOV/refs/heads/main/STR.BYPASS#STR.BYPASS%F0%9F%91%BE",
+    "https://raw.githubusercontent.com/STR97/STRUGOV/refs/heads/main/STR.BYPASS",
     "https://raw.githubusercontent.com/V2RayRoot/V2RayConfig/refs/heads/main/Config/vless.txt",
     "https://raw.githubusercontent.com/lagzian/SS-Collector/main/mix_clash.yaml",
     "https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Vless.txt",
     "https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Hysteria2.txt",
-    "https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/sub_list.json"
+    "https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/sub_list.json",
+
+    # ----- ДВА НОВЫХ ИСТОЧНИКА -----
+    "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/main/Vless-Reality-White-Lists-Rus-Mobile.txt",
+    "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/main/BLACK_VLESS_RUS.txt",
 ]
 
 SNI_DOMAINS = [
@@ -160,21 +164,21 @@ def upload_file_if_changed(local_path: str, remote_path: str):
         remote_content = existing.decoded_content.decode("utf-8", errors="replace")
 
         if remote_content == content:
-            print(f"🔄 {remote_path} — без изменений, пропускаем")
+            print(f"{remote_path} — без изменений, пропускаем")
             return False
 
         repo.update_file(remote_path, f"Update {remote_path} | {now_moscow()}",
                          content, existing.sha)
-        print(f"✅ {remote_path} обновлён (update)")
+        print(f"{remote_path} обновлён (update)")
         return True
 
     except GithubException as ge:
         if getattr(ge, "status", None) == 404:
             repo.create_file(remote_path, f"Add {remote_path} | {now_moscow()}", content)
-            print(f"✅ {remote_path} создан (create)")
+            print(f"{remote_path} создан (create)")
             return True
 
-        print(f"❌ Ошибка GitHub: {ge}")
+        print(f"Ошибка GitHub: {ge}")
         return False
 
 def create_filtered_26():
@@ -192,7 +196,7 @@ def create_filtered_26():
                     if s and any(d in s for d in SNI_DOMAINS):
                         collected.append(s)
         except Exception as e:
-            print(f"⚠️ Ошибка чтения {p}: {e}")
+            print(f"Ошибка чтения {p}: {e}")
 
     unique_full = list(dict.fromkeys(collected))
     out_path = os.path.join(LOCAL_DIR, "26.txt")
@@ -201,7 +205,7 @@ def create_filtered_26():
         for ln in unique_full:
             f.write(ln + "\n")
 
-    print(f"📁 Создан {out_path} ({len(unique_full)} строк)")
+    print(f"Создан {out_path} ({len(unique_full)} строк)")
     return out_path
 
 def main():
@@ -218,13 +222,14 @@ def main():
             upload_file_if_changed(local_path, remote_path)
 
         except Exception as e:
-            print(f"❌ Ошибка при скачивании {url}: {e}")
+            print(f"Ошибка при скачивании {url}: {e}")
 
     path26 = create_filtered_26()
     upload_file_if_changed(path26, f"{LOCAL_DIR}/26.txt")
 
 if __name__ == "__main__":
     main()
+
 
 
 
