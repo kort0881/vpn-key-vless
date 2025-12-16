@@ -29,7 +29,8 @@ os.makedirs(SUBSCRIPTIONS_DIR, exist_ok=True)
 TIMEOUT = 12
 RETRIES = 2
 REQUESTS_POOL = 10
-GITHUB_DELAY = 1.5  # Задержка между запросами к GitHub API (секунды)
+GITHUB_DELAY = 1.5
+MAX_KEYS_PER_FILE = 1000  # Максимум ключей в одном файле
 
 CHROME_UA = (
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
@@ -146,7 +147,7 @@ def upload_file_if_changed(local_path: str, remote_path: str):
         content = f.read()
 
     try:
-        time.sleep(GITHUB_DELAY)  # Задержка перед каждым запросом
+        time.sleep(GITHUB_DELAY)
         existing = repo.get_contents(remote_path)
 
         if existing.type != "file" or existing.encoding != "base64":
@@ -210,19 +211,17 @@ def create_filtered_file():
         f.write("\n".join(out))
     return final_file
 
+def split_into_chunks(items, chunk_size):
+    """Разбивает список на части"""
+    for i in range(0, len(items), chunk_size):
+        yield items[i:i + chunk_size]
+
 def create_subscriptions():
     """Создаёт подписки из всех собранных ключей"""
     print("\n" + "="*60)
     print("Создание подписок...")
     
     all_keys = []
-    protocols = {
-        'vless': [],
-        'vmess': [],
-        'trojan': [],
-        'ss': [],
-        'hysteria': [],
-    }
     
     # Собираем все ключи из файлов 1.txt - N.txt
     total = len(URLS)
@@ -236,46 +235,51 @@ def create_subscriptions():
                 line = line.strip()
                 if not line or not is_valid_proxy(line):
                     continue
-                    
                 all_keys.append(line)
-                
-                # Сортировка по протоколам
-                if line.startswith('vless://'):
-                    protocols['vless'].append(line)
-                elif line.startswith('vmess://'):
-                    protocols['vmess'].append(line)
-                elif line.startswith('trojan://'):
-                    protocols['trojan'].append(line)
-                elif line.startswith('ss://'):
-                    protocols['ss'].append(line)
-                elif 'hysteria' in line.lower() or line.startswith('hy2://'):
-                    protocols['hysteria'].append(line)
     
     # Удаляем дубликаты
     all_keys = list(dict.fromkeys(all_keys))
-    for proto in protocols:
-        protocols[proto] = list(dict.fromkeys(protocols[proto]))
-    
     print(f"Всего уникальных ключей: {len(all_keys)}")
     
-    # Создаём только основные файлы подписок (чтобы не превысить лимит)
     subscriptions = []
     
-    # 1. Все ключи (raw)
-    all_raw = os.path.join(SUBSCRIPTIONS_DIR, "all.txt")
-    with open(all_raw, "w", encoding="utf-8") as f:
-        f.write("\n".join(all_keys))
-    subscriptions.append(("all.txt", len(all_keys)))
+    # Разбиваем на части, если больше MAX_KEYS_PER_FILE
+    if len(all_keys) > MAX_KEYS_PER_FILE:
+        chunks = list(split_into_chunks(all_keys, MAX_KEYS_PER_FILE))
+        print(f"Файл слишком большой, разбиваем на {len(chunks)} частей")
+        
+        # Создаём части (raw)
+        for idx, chunk in enumerate(chunks, 1):
+            filename = f"all_part{idx}.txt"
+            filepath = os.path.join(SUBSCRIPTIONS_DIR, filename)
+            with open(filepath, "w", encoding="utf-8") as f:
+                f.write("\n".join(chunk))
+            subscriptions.append((filename, len(chunk)))
+        
+        # Создаём части (base64)
+        for idx, chunk in enumerate(chunks, 1):
+            filename = f"all_part{idx}_base64.txt"
+            filepath = os.path.join(SUBSCRIPTIONS_DIR, filename)
+            with open(filepath, "w", encoding="utf-8") as f:
+                content = "\n".join(chunk)
+                encoded = base64.b64encode(content.encode('utf-8')).decode('utf-8')
+                f.write(encoded)
+            subscriptions.append((filename, len(chunk)))
+    else:
+        # Если меньше лимита, создаём один файл
+        all_raw = os.path.join(SUBSCRIPTIONS_DIR, "all.txt")
+        with open(all_raw, "w", encoding="utf-8") as f:
+            f.write("\n".join(all_keys))
+        subscriptions.append(("all.txt", len(all_keys)))
+        
+        all_b64 = os.path.join(SUBSCRIPTIONS_DIR, "all_base64.txt")
+        with open(all_b64, "w", encoding="utf-8") as f:
+            content = "\n".join(all_keys)
+            encoded = base64.b64encode(content.encode('utf-8')).decode('utf-8')
+            f.write(encoded)
+        subscriptions.append(("all_base64.txt", len(all_keys)))
     
-    # 2. Все ключи (base64)
-    all_b64 = os.path.join(SUBSCRIPTIONS_DIR, "all_base64.txt")
-    with open(all_b64, "w", encoding="utf-8") as f:
-        content = "\n".join(all_keys)
-        encoded = base64.b64encode(content.encode('utf-8')).decode('utf-8')
-        f.write(encoded)
-    subscriptions.append(("all_base64.txt", len(all_keys)))
-    
-    # 3. SNI-фильтрованные (из файла N+1.txt)
+    # SNI-фильтрованные (из файла N+1.txt)
     sni_file = os.path.join(LOCAL_DIR, f"{total + 1}.txt")
     if os.path.exists(sni_file):
         with open(sni_file, "r", encoding="utf-8") as f:
@@ -296,7 +300,7 @@ def create_subscriptions():
                 f.write(encoded)
             subscriptions.append(("sni_filtered_base64.txt", len(sni_keys)))
     
-    # Загружаем на GitHub (только основные файлы)
+    # Загружаем на GitHub
     print("\nЗагрузка подписок на GitHub...")
     for filename, count in subscriptions:
         try:
@@ -314,10 +318,9 @@ def create_subscriptions():
     for filename, count in subscriptions:
         print(f"  {filename}: {count} ключей")
     
-    print(f"\nГлавные ссылки на подписки:")
-    print(f"https://raw.githubusercontent.com/{REPO_NAME}/main/{SUBSCRIPTIONS_DIR}/all.txt")
-    print(f"https://raw.githubusercontent.com/{REPO_NAME}/main/{SUBSCRIPTIONS_DIR}/all_base64.txt")
-    print(f"https://raw.githubusercontent.com/{REPO_NAME}/main/{SUBSCRIPTIONS_DIR}/sni_filtered.txt")
+    print(f"\n📌 Ссылки на подписки:")
+    for filename, _ in subscriptions:
+        print(f"https://raw.githubusercontent.com/{REPO_NAME}/main/{SUBSCRIPTIONS_DIR}/{filename}")
     print("="*60 + "\n")
 
 def main():
