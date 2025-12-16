@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # mirror_with_sni.py
-# Зеркалирование источников + SNI-фильтрация + создание подписок
+# Зеркалирование источников + создание компактных подписок
 # Требует: requests, PyGithub
 # ENV: MY_TOKEN (GitHub token)
 
@@ -13,7 +13,7 @@ import requests
 import time
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
-from github import Github, Auth, GithubException
+from github import Github, Auth, GithubException, InputGitTreeElement
 from datetime import datetime
 import zoneinfo
 
@@ -30,7 +30,6 @@ TIMEOUT = 12
 RETRIES = 2
 REQUESTS_POOL = 10
 GITHUB_DELAY = 1.5
-MAX_KEYS_PER_FILE = 1000  # Максимум ключей в одном файле
 
 CHROME_UA = (
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
@@ -68,8 +67,6 @@ URLS = [
     "https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Vless.txt",
     "https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Hysteria2.txt",
     "https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/sub_list.json",
-    
-    # ----- НОВЫЕ ИСТОЧНИКИ -----
     "https://raw.githubusercontent.com/NiREvil/vless/main/sub/SSTime",
     "https://raw.githubusercontent.com/ndsphonemy/proxy-sub/main/speed.txt",
     "https://raw.githubusercontent.com/Mahdi0024/ProxyCollector/master/sub/proxies.txt",
@@ -185,6 +182,50 @@ def upload_file_if_changed(local_path: str, remote_path: str):
         else:
             raise
 
+def upload_large_file_via_git(local_path: str, remote_path: str):
+    """Загрузка больших файлов через Git API"""
+    try:
+        with open(local_path, "rb") as f:
+            content = f.read()
+        
+        # Создаём blob
+        time.sleep(GITHUB_DELAY)
+        blob = repo.create_git_blob(content.decode('utf-8'), 'utf-8')
+        
+        # Получаем текущий коммит main
+        time.sleep(GITHUB_DELAY)
+        ref = repo.get_git_ref('heads/main')
+        commit = repo.get_git_commit(ref.object.sha)
+        
+        # Создаём tree element
+        element = InputGitTreeElement(
+            path=remote_path,
+            mode='100644',
+            type='blob',
+            sha=blob.sha
+        )
+        
+        # Создаём новый tree
+        time.sleep(GITHUB_DELAY)
+        base_tree = repo.get_git_tree(commit.tree.sha)
+        new_tree = repo.create_git_tree([element], base_tree)
+        
+        # Создаём коммит
+        time.sleep(GITHUB_DELAY)
+        new_commit = repo.create_git_commit(
+            f"Update {remote_path} | {now_moscow()}",
+            new_tree,
+            [commit]
+        )
+        
+        # Обновляем референс
+        time.sleep(GITHUB_DELAY)
+        ref.edit(new_commit.sha)
+        
+        print(f"{remote_path} загружен через Git API")
+    except Exception as e:
+        print(f"Ошибка загрузки {remote_path}: {e}")
+
 def is_valid_proxy(line: str) -> bool:
     """Проверка, является ли строка валидным прокси-ключом"""
     protocols = ['vless://', 'vmess://', 'trojan://', 'ss://', 
@@ -211,19 +252,14 @@ def create_filtered_file():
         f.write("\n".join(out))
     return final_file
 
-def split_into_chunks(items, chunk_size):
-    """Разбивает список на части"""
-    for i in range(0, len(items), chunk_size):
-        yield items[i:i + chunk_size]
-
 def create_subscriptions():
-    """Создаёт подписки из всех собранных ключей"""
+    """Создаёт ТОЛЬКО 4 основных файла подписок"""
     print("\n" + "="*60)
     print("Создание подписок...")
     
     all_keys = []
     
-    # Собираем все ключи из файлов 1.txt - N.txt
+    # Собираем все ключи
     total = len(URLS)
     for i in range(1, total + 1):
         p = os.path.join(LOCAL_DIR, f"{i}.txt")
@@ -241,45 +277,24 @@ def create_subscriptions():
     all_keys = list(dict.fromkeys(all_keys))
     print(f"Всего уникальных ключей: {len(all_keys)}")
     
+    # Создаём ТОЛЬКО 4 файла
     subscriptions = []
     
-    # Разбиваем на части, если больше MAX_KEYS_PER_FILE
-    if len(all_keys) > MAX_KEYS_PER_FILE:
-        chunks = list(split_into_chunks(all_keys, MAX_KEYS_PER_FILE))
-        print(f"Файл слишком большой, разбиваем на {len(chunks)} частей")
-        
-        # Создаём части (raw)
-        for idx, chunk in enumerate(chunks, 1):
-            filename = f"all_part{idx}.txt"
-            filepath = os.path.join(SUBSCRIPTIONS_DIR, filename)
-            with open(filepath, "w", encoding="utf-8") as f:
-                f.write("\n".join(chunk))
-            subscriptions.append((filename, len(chunk)))
-        
-        # Создаём части (base64)
-        for idx, chunk in enumerate(chunks, 1):
-            filename = f"all_part{idx}_base64.txt"
-            filepath = os.path.join(SUBSCRIPTIONS_DIR, filename)
-            with open(filepath, "w", encoding="utf-8") as f:
-                content = "\n".join(chunk)
-                encoded = base64.b64encode(content.encode('utf-8')).decode('utf-8')
-                f.write(encoded)
-            subscriptions.append((filename, len(chunk)))
-    else:
-        # Если меньше лимита, создаём один файл
-        all_raw = os.path.join(SUBSCRIPTIONS_DIR, "all.txt")
-        with open(all_raw, "w", encoding="utf-8") as f:
-            f.write("\n".join(all_keys))
-        subscriptions.append(("all.txt", len(all_keys)))
-        
-        all_b64 = os.path.join(SUBSCRIPTIONS_DIR, "all_base64.txt")
-        with open(all_b64, "w", encoding="utf-8") as f:
-            content = "\n".join(all_keys)
-            encoded = base64.b64encode(content.encode('utf-8')).decode('utf-8')
-            f.write(encoded)
-        subscriptions.append(("all_base64.txt", len(all_keys)))
+    # 1. Все ключи (raw) - через Git API
+    all_raw = os.path.join(SUBSCRIPTIONS_DIR, "all.txt")
+    with open(all_raw, "w", encoding="utf-8") as f:
+        f.write("\n".join(all_keys))
+    subscriptions.append(("all.txt", len(all_keys), True))
     
-    # SNI-фильтрованные (из файла N+1.txt)
+    # 2. Все ключи (base64) - через Git API
+    all_b64 = os.path.join(SUBSCRIPTIONS_DIR, "all_base64.txt")
+    with open(all_b64, "w", encoding="utf-8") as f:
+        content = "\n".join(all_keys)
+        encoded = base64.b64encode(content.encode('utf-8')).decode('utf-8')
+        f.write(encoded)
+    subscriptions.append(("all_base64.txt", len(all_keys), True))
+    
+    # 3. SNI-фильтрованные
     sni_file = os.path.join(LOCAL_DIR, f"{total + 1}.txt")
     if os.path.exists(sni_file):
         with open(sni_file, "r", encoding="utf-8") as f:
@@ -290,7 +305,7 @@ def create_subscriptions():
             sni_raw = os.path.join(SUBSCRIPTIONS_DIR, "sni_filtered.txt")
             with open(sni_raw, "w", encoding="utf-8") as f:
                 f.write("\n".join(sni_keys))
-            subscriptions.append(("sni_filtered.txt", len(sni_keys)))
+            subscriptions.append(("sni_filtered.txt", len(sni_keys), False))
             
             # SNI base64
             sni_b64 = os.path.join(SUBSCRIPTIONS_DIR, "sni_filtered_base64.txt")
@@ -298,15 +313,20 @@ def create_subscriptions():
                 content = "\n".join(sni_keys)
                 encoded = base64.b64encode(content.encode('utf-8')).decode('utf-8')
                 f.write(encoded)
-            subscriptions.append(("sni_filtered_base64.txt", len(sni_keys)))
+            subscriptions.append(("sni_filtered_base64.txt", len(sni_keys), False))
     
     # Загружаем на GitHub
     print("\nЗагрузка подписок на GitHub...")
-    for filename, count in subscriptions:
+    for filename, count, use_git_api in subscriptions:
         try:
             local_path = os.path.join(SUBSCRIPTIONS_DIR, filename)
             remote_path = f"{SUBSCRIPTIONS_DIR}/{filename}"
-            upload_file_if_changed(local_path, remote_path)
+            
+            if use_git_api:
+                upload_large_file_via_git(local_path, remote_path)
+            else:
+                upload_file_if_changed(local_path, remote_path)
+                
         except Exception as e:
             print(f"Ошибка загрузки {filename}: {e}")
     
@@ -315,11 +335,11 @@ def create_subscriptions():
     print("✅ Подписки созданы!")
     print("="*60)
     print("\nСтатистика:")
-    for filename, count in subscriptions:
+    for filename, count, _ in subscriptions:
         print(f"  {filename}: {count} ключей")
     
     print(f"\n📌 Ссылки на подписки:")
-    for filename, _ in subscriptions:
+    for filename, _, _ in subscriptions:
         print(f"https://raw.githubusercontent.com/{REPO_NAME}/main/{SUBSCRIPTIONS_DIR}/{filename}")
     print("="*60 + "\n")
 
