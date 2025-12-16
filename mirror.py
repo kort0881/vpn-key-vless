@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 # mirror_with_sni.py
-# Скрипт: зеркалирование источников + попытки обхода (SNI / IP + Host) + сбор 26-го файла
+# Зеркалирование источников + SNI-фильтрация + сбор 26.txt
 # Требует: requests, PyGithub
-# Задайте в окружении: MY_TOKEN (GitHub token с правами на репозиторий kort0881/vpn-key-vless)
+# ENV: MY_TOKEN (GitHub token)
 
 import os
 import socket
@@ -18,6 +18,7 @@ import zoneinfo
 # -------------------- Настройки --------------------
 REPO_NAME = "kort0881/vpn-key-vless"
 GITHUB_TOKEN = os.environ.get("MY_TOKEN")
+
 LOCAL_DIR = "githubmirror"
 os.makedirs(LOCAL_DIR, exist_ok=True)
 
@@ -27,7 +28,8 @@ REQUESTS_POOL = 10
 
 CHROME_UA = (
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-    "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+    "AppleWebKit/537.36 (KHTML, like Gecko) "
+    "Chrome/138.0.0.0 Safari/537.36"
 )
 
 URLS = [
@@ -60,24 +62,16 @@ URLS = [
     "https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Vless.txt",
     "https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Hysteria2.txt",
     "https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/sub_list.json",
-
-    # ---- ДОБАВЛЕННЫЕ XRAY ИСТОЧНИКИ ----
-    "https://raw.githubusercontent.com/NiREvil/vless/main/sub/SSTime",
-    "https://raw.githubusercontent.com/ndsphonemy/proxy-sub/main/speed.txt",
-    "https://raw.githubusercontent.com/Mahdi0024/ProxyCollector/master/sub/proxies.txt",
-    "https://raw.githubusercontent.com/Mosifree/-FREE2CONFIG/refs/heads/main/Reality",
-    "https://raw.githubusercontent.com/MrMohebi/xray-proxy-grabber-telegram/master/collected-proxies/row-url/all.txt",
 ]
 
 SNI_DOMAINS = [
-    "stats.vk-portal.net", "sun6-21.userapi.com", "avatars.mds.yandex.net",
-    "queuev4.vk.com", "sync.browser.yandex.net", "top-fwz1.mail.ru",
-    "online.sberbank.ru", "ozone.ru", "vk.com", "www.wildberries.ru",
-    "yandex.ru", "www.ozon.ru", "ok.ru", "www.ivi.ru", "hh.ru",
+    "vk.com", "yandex.ru", "ozon.ru", "wildberries.ru",
+    "sberbank.ru", "mail.ru", "ivi.ru", "hh.ru",
 ]
 
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
+# -------------------- HTTP --------------------
 def build_session():
     s = requests.Session()
     adapter = HTTPAdapter(
@@ -87,8 +81,8 @@ def build_session():
             total=RETRIES,
             backoff_factor=0.4,
             status_forcelist=(429, 500, 502, 503, 504),
-            allowed_methods=frozenset(["GET", "HEAD"])
-        )
+            allowed_methods=frozenset(["GET"]),
+        ),
     )
     s.mount("https://", adapter)
     s.mount("http://", adapter)
@@ -98,7 +92,7 @@ def build_session():
 SESSION = build_session()
 
 if not GITHUB_TOKEN:
-    raise SystemExit("ERROR: переменная окружения MY_TOKEN не задана")
+    raise SystemExit("MY_TOKEN not set")
 
 g = Github(auth=Auth.Token(GITHUB_TOKEN))
 repo = g.get_repo(REPO_NAME)
@@ -106,66 +100,102 @@ repo = g.get_repo(REPO_NAME)
 def now_moscow():
     return datetime.now(zoneinfo.ZoneInfo("Europe/Moscow")).strftime("%Y-%m-%d %H:%M")
 
+# -------------------- Core --------------------
 def request_with_strategies(url: str) -> str:
+    parsed = urllib.parse.urlparse(url)
+    host = parsed.hostname
+
     try:
         r = SESSION.get(url, timeout=TIMEOUT)
         r.raise_for_status()
         return r.text
     except Exception:
-        parsed = urllib.parse.urlparse(url)
-        if parsed.hostname:
-            ip = socket.gethostbyname(parsed.hostname)
-            path = parsed.path or "/"
-            if parsed.query:
-                path += "?" + parsed.query
-            r = SESSION.get(
-                f"https://{ip}{path}",
-                headers={"Host": parsed.hostname},
-                timeout=TIMEOUT,
-                verify=False
-            )
-            r.raise_for_status()
-            return r.text
-    raise Exception("All strategies failed")
+        pass
 
-def upload_file_if_changed(local_path, remote_path):
+    if host:
+        ip = socket.gethostbyname(host)
+        path = parsed.path or "/"
+        if parsed.query:
+            path += "?" + parsed.query
+
+        r = SESSION.get(
+            f"https://{ip}{path}",
+            headers={"Host": host},
+            timeout=TIMEOUT,
+            verify=False,
+        )
+        r.raise_for_status()
+        return r.text
+
+    raise RuntimeError("All strategies failed")
+
+def upload_file_if_changed(local_path: str, remote_path: str):
     with open(local_path, "r", encoding="utf-8") as f:
         content = f.read()
+
     try:
         existing = repo.get_contents(remote_path)
-        if existing.decoded_content.decode("utf-8", errors="ignore") == content:
+
+        if existing.type != "file" or existing.encoding != "base64":
+            repo.delete_file(
+                remote_path,
+                f"Cleanup invalid object {remote_path}",
+                existing.sha,
+            )
+            raise GithubException(404, "recreate", None)
+
+        remote_content = existing.decoded_content.decode("utf-8", errors="replace")
+        if remote_content == content:
+            print(f"{remote_path} — без изменений")
             return
-        repo.update_file(remote_path, f"Update {remote_path} | {now_moscow()}",
-                         content, existing.sha)
-    except GithubException:
-        repo.create_file(remote_path, f"Add {remote_path} | {now_moscow()}", content)
+
+        repo.update_file(
+            remote_path,
+            f"Update {remote_path} | {now_moscow()}",
+            content,
+            existing.sha,
+        )
+        print(f"{remote_path} обновлён")
+
+    except GithubException as ge:
+        if getattr(ge, "status", None) == 404:
+            repo.create_file(
+                remote_path,
+                f"Add {remote_path} | {now_moscow()}",
+                content,
+            )
+            print(f"{remote_path} создан")
+        else:
+            raise
 
 def create_filtered_26():
-    collected = []
+    out = []
     for i in range(1, 26):
-        path = os.path.join(LOCAL_DIR, f"{i}.txt")
-        if not os.path.exists(path):
+        p = os.path.join(LOCAL_DIR, f"{i}.txt")
+        if not os.path.exists(p):
             continue
-        with open(path, "r", encoding="utf-8", errors="ignore") as f:
+        with open(p, "r", encoding="utf-8", errors="ignore") as f:
             for line in f:
-                s = line.strip()
-                if s and any(d in s for d in SNI_DOMAINS):
-                    collected.append(s)
-    out = os.path.join(LOCAL_DIR, "26.txt")
-    with open(out, "w", encoding="utf-8") as f:
-        for x in dict.fromkeys(collected):
-            f.write(x + "\n")
-    return out
+                if any(d in line for d in SNI_DOMAINS):
+                    out.append(line.strip())
+
+    out = list(dict.fromkeys(out))
+    p26 = os.path.join(LOCAL_DIR, "26.txt")
+    with open(p26, "w", encoding="utf-8") as f:
+        f.write("\n".join(out))
+    return p26
 
 def main():
     for i, url in enumerate(URLS, start=1):
-        local = os.path.join(LOCAL_DIR, f"{i}.txt")
-        with open(local, "w", encoding="utf-8") as f:
-            f.write(request_with_strategies(url).replace("\r\n", "\n"))
-        upload_file_if_changed(local, f"{LOCAL_DIR}/{i}.txt")
+        print(f"{i}. {url}")
+        text = request_with_strategies(url)
+        lp = os.path.join(LOCAL_DIR, f"{i}.txt")
+        with open(lp, "w", encoding="utf-8") as f:
+            f.write(text.replace("\r\n", "\n"))
+        upload_file_if_changed(lp, f"{LOCAL_DIR}/{i}.txt")
 
-    path26 = create_filtered_26()
-    upload_file_if_changed(path26, f"{LOCAL_DIR}/26.txt")
+    p26 = create_filtered_26()
+    upload_file_if_changed(p26, f"{LOCAL_DIR}/26.txt")
 
 if __name__ == "__main__":
     main()
