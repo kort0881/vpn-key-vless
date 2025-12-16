@@ -33,6 +33,7 @@ CHROME_UA = (
 )
 
 URLS = [
+    # --- старые источники ---
     "https://github.com/sakha1370/OpenRay/raw/refs/heads/main/output/all_valid_proxies.txt",
     "https://raw.githubusercontent.com/sevcator/5ubscrpt10n/main/protocols/vl.txt",
     "https://raw.githubusercontent.com/yitong2333/proxy-minging/refs/heads/main/v2ray.txt",
@@ -62,6 +63,13 @@ URLS = [
     "https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Vless.txt",
     "https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Hysteria2.txt",
     "https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/sub_list.json",
+
+    # --- новые источники ---
+    "https://raw.githubusercontent.com/NiREvil/vless/main/sub/SSTime",
+    "https://raw.githubusercontent.com/ndsphonemy/proxy-sub/main/speed.txt",
+    "https://raw.githubusercontent.com/Mahdi0024/ProxyCollector/master/sub/proxies.txt",
+    "https://raw.githubusercontent.com/Mosifree/-FREE2CONFIG/refs/heads/main/Reality",
+    "https://raw.githubusercontent.com/MrMohebi/xray-proxy-grabber-telegram/master/collected-proxies/row-url/all.txt",
 ]
 
 SNI_DOMAINS = [
@@ -199,6 +207,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
 
