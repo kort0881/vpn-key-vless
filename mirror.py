@@ -10,6 +10,7 @@ import base64
 import urllib.parse
 import urllib3
 import requests
+import time
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 from github import Github, Auth, GithubException
@@ -28,6 +29,7 @@ os.makedirs(SUBSCRIPTIONS_DIR, exist_ok=True)
 TIMEOUT = 12
 RETRIES = 2
 REQUESTS_POOL = 10
+GITHUB_DELAY = 1.5  # Задержка между запросами к GitHub API (секунды)
 
 CHROME_UA = (
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
@@ -144,9 +146,11 @@ def upload_file_if_changed(local_path: str, remote_path: str):
         content = f.read()
 
     try:
+        time.sleep(GITHUB_DELAY)  # Задержка перед каждым запросом
         existing = repo.get_contents(remote_path)
 
         if existing.type != "file" or existing.encoding != "base64":
+            time.sleep(GITHUB_DELAY)
             repo.delete_file(
                 remote_path,
                 f"Cleanup invalid object {remote_path}",
@@ -159,6 +163,7 @@ def upload_file_if_changed(local_path: str, remote_path: str):
             print(f"{remote_path} — без изменений")
             return
 
+        time.sleep(GITHUB_DELAY)
         repo.update_file(
             remote_path,
             f"Update {remote_path} | {now_moscow()}",
@@ -169,6 +174,7 @@ def upload_file_if_changed(local_path: str, remote_path: str):
 
     except GithubException as ge:
         if getattr(ge, "status", None) == 404:
+            time.sleep(GITHUB_DELAY)
             repo.create_file(
                 remote_path,
                 f"Add {remote_path} | {now_moscow()}",
@@ -252,7 +258,7 @@ def create_subscriptions():
     
     print(f"Всего уникальных ключей: {len(all_keys)}")
     
-    # Создаём файлы подписок
+    # Создаём только основные файлы подписок (чтобы не превысить лимит)
     subscriptions = []
     
     # 1. Все ключи (raw)
@@ -269,29 +275,7 @@ def create_subscriptions():
         f.write(encoded)
     subscriptions.append(("all_base64.txt", len(all_keys)))
     
-    # 3. По протоколам (raw)
-    for proto, keys in protocols.items():
-        if not keys:
-            continue
-        filename = f"{proto}.txt"
-        filepath = os.path.join(SUBSCRIPTIONS_DIR, filename)
-        with open(filepath, "w", encoding="utf-8") as f:
-            f.write("\n".join(keys))
-        subscriptions.append((filename, len(keys)))
-    
-    # 4. По протоколам (base64)
-    for proto, keys in protocols.items():
-        if not keys:
-            continue
-        filename = f"{proto}_base64.txt"
-        filepath = os.path.join(SUBSCRIPTIONS_DIR, filename)
-        with open(filepath, "w", encoding="utf-8") as f:
-            content = "\n".join(keys)
-            encoded = base64.b64encode(content.encode('utf-8')).decode('utf-8')
-            f.write(encoded)
-        subscriptions.append((filename, len(keys)))
-    
-    # 5. SNI-фильтрованные (из файла N+1.txt)
+    # 3. SNI-фильтрованные (из файла N+1.txt)
     sni_file = os.path.join(LOCAL_DIR, f"{total + 1}.txt")
     if os.path.exists(sni_file):
         with open(sni_file, "r", encoding="utf-8") as f:
@@ -312,12 +296,15 @@ def create_subscriptions():
                 f.write(encoded)
             subscriptions.append(("sni_filtered_base64.txt", len(sni_keys)))
     
-    # Загружаем на GitHub
+    # Загружаем на GitHub (только основные файлы)
     print("\nЗагрузка подписок на GitHub...")
     for filename, count in subscriptions:
-        local_path = os.path.join(SUBSCRIPTIONS_DIR, filename)
-        remote_path = f"{SUBSCRIPTIONS_DIR}/{filename}"
-        upload_file_if_changed(local_path, remote_path)
+        try:
+            local_path = os.path.join(SUBSCRIPTIONS_DIR, filename)
+            remote_path = f"{SUBSCRIPTIONS_DIR}/{filename}"
+            upload_file_if_changed(local_path, remote_path)
+        except Exception as e:
+            print(f"Ошибка загрузки {filename}: {e}")
     
     # Выводим итоговую информацию
     print("\n" + "="*60)
@@ -327,23 +314,24 @@ def create_subscriptions():
     for filename, count in subscriptions:
         print(f"  {filename}: {count} ключей")
     
-    print(f"\nСсылки на подписки:")
+    print(f"\nГлавные ссылки на подписки:")
     print(f"https://raw.githubusercontent.com/{REPO_NAME}/main/{SUBSCRIPTIONS_DIR}/all.txt")
     print(f"https://raw.githubusercontent.com/{REPO_NAME}/main/{SUBSCRIPTIONS_DIR}/all_base64.txt")
-    print(f"https://raw.githubusercontent.com/{REPO_NAME}/main/{SUBSCRIPTIONS_DIR}/vless.txt")
-    print(f"https://raw.githubusercontent.com/{REPO_NAME}/main/{SUBSCRIPTIONS_DIR}/vmess.txt")
     print(f"https://raw.githubusercontent.com/{REPO_NAME}/main/{SUBSCRIPTIONS_DIR}/sni_filtered.txt")
     print("="*60 + "\n")
 
 def main():
     # Скачиваем и зеркалируем источники
     for i, url in enumerate(URLS, start=1):
-        print(f"{i}. {url}")
-        text = request_with_strategies(url)
-        lp = os.path.join(LOCAL_DIR, f"{i}.txt")
-        with open(lp, "w", encoding="utf-8") as f:
-            f.write(text.replace("\r\n", "\n"))
-        upload_file_if_changed(lp, f"{LOCAL_DIR}/{i}.txt")
+        print(f"{i}/{len(URLS)}. {url}")
+        try:
+            text = request_with_strategies(url)
+            lp = os.path.join(LOCAL_DIR, f"{i}.txt")
+            with open(lp, "w", encoding="utf-8") as f:
+                f.write(text.replace("\r\n", "\n"))
+            upload_file_if_changed(lp, f"{LOCAL_DIR}/{i}.txt")
+        except Exception as e:
+            print(f"Ошибка: {e}")
 
     # Создаём SNI-фильтрованный файл
     final = create_filtered_file()
@@ -355,6 +343,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
 
