@@ -1,11 +1,12 @@
 #!/usr/bin/env python3
 # mirror_with_sni.py
-# Зеркалирование источников + SNI-фильтрация + сбор 26.txt
+# Зеркалирование источников + SNI-фильтрация + создание подписок
 # Требует: requests, PyGithub
 # ENV: MY_TOKEN (GitHub token)
 
 import os
 import socket
+import base64
 import urllib.parse
 import urllib3
 import requests
@@ -20,7 +21,9 @@ REPO_NAME = "kort0881/vpn-key-vless"
 GITHUB_TOKEN = os.environ.get("MY_TOKEN")
 
 LOCAL_DIR = "githubmirror"
+SUBSCRIPTIONS_DIR = "subscriptions"
 os.makedirs(LOCAL_DIR, exist_ok=True)
+os.makedirs(SUBSCRIPTIONS_DIR, exist_ok=True)
 
 TIMEOUT = 12
 RETRIES = 2
@@ -33,7 +36,6 @@ CHROME_UA = (
 )
 
 URLS = [
-    # --- старые источники ---
     "https://github.com/sakha1370/OpenRay/raw/refs/heads/main/output/all_valid_proxies.txt",
     "https://raw.githubusercontent.com/sevcator/5ubscrpt10n/main/protocols/vl.txt",
     "https://raw.githubusercontent.com/yitong2333/proxy-minging/refs/heads/main/v2ray.txt",
@@ -63,8 +65,8 @@ URLS = [
     "https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Vless.txt",
     "https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Hysteria2.txt",
     "https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/sub_list.json",
-
-    # --- новые источники ---
+    
+    # ----- НОВЫЕ ИСТОЧНИКИ -----
     "https://raw.githubusercontent.com/NiREvil/vless/main/sub/SSTime",
     "https://raw.githubusercontent.com/ndsphonemy/proxy-sub/main/speed.txt",
     "https://raw.githubusercontent.com/Mahdi0024/ProxyCollector/master/sub/proxies.txt",
@@ -176,9 +178,18 @@ def upload_file_if_changed(local_path: str, remote_path: str):
         else:
             raise
 
-def create_filtered_26():
+def is_valid_proxy(line: str) -> bool:
+    """Проверка, является ли строка валидным прокси-ключом"""
+    protocols = ['vless://', 'vmess://', 'trojan://', 'ss://', 
+                 'hysteria://', 'hysteria2://', 'hy2://', 'tuic://']
+    return any(line.startswith(p) for p in protocols)
+
+def create_filtered_file():
+    """Создаёт файл с SNI-фильтрацией"""
+    total = len(URLS)
     out = []
-    for i in range(1, 26):
+    
+    for i in range(1, total + 1):
         p = os.path.join(LOCAL_DIR, f"{i}.txt")
         if not os.path.exists(p):
             continue
@@ -188,12 +199,144 @@ def create_filtered_26():
                     out.append(line.strip())
 
     out = list(dict.fromkeys(out))
-    p26 = os.path.join(LOCAL_DIR, "26.txt")
-    with open(p26, "w", encoding="utf-8") as f:
+    final_file = os.path.join(LOCAL_DIR, f"{total + 1}.txt")
+    with open(final_file, "w", encoding="utf-8") as f:
         f.write("\n".join(out))
-    return p26
+    return final_file
+
+def create_subscriptions():
+    """Создаёт подписки из всех собранных ключей"""
+    print("\n" + "="*60)
+    print("Создание подписок...")
+    
+    all_keys = []
+    protocols = {
+        'vless': [],
+        'vmess': [],
+        'trojan': [],
+        'ss': [],
+        'hysteria': [],
+    }
+    
+    # Собираем все ключи из файлов 1.txt - N.txt
+    total = len(URLS)
+    for i in range(1, total + 1):
+        p = os.path.join(LOCAL_DIR, f"{i}.txt")
+        if not os.path.exists(p):
+            continue
+            
+        with open(p, "r", encoding="utf-8", errors="ignore") as f:
+            for line in f:
+                line = line.strip()
+                if not line or not is_valid_proxy(line):
+                    continue
+                    
+                all_keys.append(line)
+                
+                # Сортировка по протоколам
+                if line.startswith('vless://'):
+                    protocols['vless'].append(line)
+                elif line.startswith('vmess://'):
+                    protocols['vmess'].append(line)
+                elif line.startswith('trojan://'):
+                    protocols['trojan'].append(line)
+                elif line.startswith('ss://'):
+                    protocols['ss'].append(line)
+                elif 'hysteria' in line.lower() or line.startswith('hy2://'):
+                    protocols['hysteria'].append(line)
+    
+    # Удаляем дубликаты
+    all_keys = list(dict.fromkeys(all_keys))
+    for proto in protocols:
+        protocols[proto] = list(dict.fromkeys(protocols[proto]))
+    
+    print(f"Всего уникальных ключей: {len(all_keys)}")
+    
+    # Создаём файлы подписок
+    subscriptions = []
+    
+    # 1. Все ключи (raw)
+    all_raw = os.path.join(SUBSCRIPTIONS_DIR, "all.txt")
+    with open(all_raw, "w", encoding="utf-8") as f:
+        f.write("\n".join(all_keys))
+    subscriptions.append(("all.txt", len(all_keys)))
+    
+    # 2. Все ключи (base64)
+    all_b64 = os.path.join(SUBSCRIPTIONS_DIR, "all_base64.txt")
+    with open(all_b64, "w", encoding="utf-8") as f:
+        content = "\n".join(all_keys)
+        encoded = base64.b64encode(content.encode('utf-8')).decode('utf-8')
+        f.write(encoded)
+    subscriptions.append(("all_base64.txt", len(all_keys)))
+    
+    # 3. По протоколам (raw)
+    for proto, keys in protocols.items():
+        if not keys:
+            continue
+        filename = f"{proto}.txt"
+        filepath = os.path.join(SUBSCRIPTIONS_DIR, filename)
+        with open(filepath, "w", encoding="utf-8") as f:
+            f.write("\n".join(keys))
+        subscriptions.append((filename, len(keys)))
+    
+    # 4. По протоколам (base64)
+    for proto, keys in protocols.items():
+        if not keys:
+            continue
+        filename = f"{proto}_base64.txt"
+        filepath = os.path.join(SUBSCRIPTIONS_DIR, filename)
+        with open(filepath, "w", encoding="utf-8") as f:
+            content = "\n".join(keys)
+            encoded = base64.b64encode(content.encode('utf-8')).decode('utf-8')
+            f.write(encoded)
+        subscriptions.append((filename, len(keys)))
+    
+    # 5. SNI-фильтрованные (из файла N+1.txt)
+    sni_file = os.path.join(LOCAL_DIR, f"{total + 1}.txt")
+    if os.path.exists(sni_file):
+        with open(sni_file, "r", encoding="utf-8") as f:
+            sni_keys = [line.strip() for line in f if line.strip() and is_valid_proxy(line.strip())]
+        
+        if sni_keys:
+            # SNI raw
+            sni_raw = os.path.join(SUBSCRIPTIONS_DIR, "sni_filtered.txt")
+            with open(sni_raw, "w", encoding="utf-8") as f:
+                f.write("\n".join(sni_keys))
+            subscriptions.append(("sni_filtered.txt", len(sni_keys)))
+            
+            # SNI base64
+            sni_b64 = os.path.join(SUBSCRIPTIONS_DIR, "sni_filtered_base64.txt")
+            with open(sni_b64, "w", encoding="utf-8") as f:
+                content = "\n".join(sni_keys)
+                encoded = base64.b64encode(content.encode('utf-8')).decode('utf-8')
+                f.write(encoded)
+            subscriptions.append(("sni_filtered_base64.txt", len(sni_keys)))
+    
+    # Загружаем на GitHub
+    print("\nЗагрузка подписок на GitHub...")
+    for filename, count in subscriptions:
+        local_path = os.path.join(SUBSCRIPTIONS_DIR, filename)
+        remote_path = f"{SUBSCRIPTIONS_DIR}/{filename}"
+        upload_file_if_changed(local_path, remote_path)
+    
+    # Выводим итоговую информацию
+    print("\n" + "="*60)
+    print("✅ Подписки созданы!")
+    print("="*60)
+    print("\nСтатистика:")
+    for filename, count in subscriptions:
+        print(f"  {filename}: {count} ключей")
+    
+    print(f"\nСсылки на подписки:")
+    print(f"https://raw.githubusercontent.com/{REPO_NAME}/main/{SUBSCRIPTIONS_DIR}/all.txt")
+    print(f"https://raw.githubusercontent.com/{REPO_NAME}/main/{SUBSCRIPTIONS_DIR}/all_base64.txt")
+    print(f"https://raw.githubusercontent.com/{REPO_NAME}/main/{SUBSCRIPTIONS_DIR}/vless.txt")
+    print(f"https://raw.githubusercontent.com/{REPO_NAME}/main/{SUBSCRIPTIONS_DIR}/vmess.txt")
+    print(f"https://raw.githubusercontent.com/{REPO_NAME}/main/{SUBSCRIPTIONS_DIR}/sni_filtered.txt")
+    print("="*60 + "\n")
 
 def main():
+    # Скачиваем и зеркалируем источники
     for i, url in enumerate(URLS, start=1):
         print(f"{i}. {url}")
         text = request_with_strategies(url)
@@ -202,11 +345,17 @@ def main():
             f.write(text.replace("\r\n", "\n"))
         upload_file_if_changed(lp, f"{LOCAL_DIR}/{i}.txt")
 
-    p26 = create_filtered_26()
-    upload_file_if_changed(p26, f"{LOCAL_DIR}/26.txt")
+    # Создаём SNI-фильтрованный файл
+    final = create_filtered_file()
+    final_name = os.path.basename(final)
+    upload_file_if_changed(final, f"{LOCAL_DIR}/{final_name}")
+    
+    # Создаём подписки
+    create_subscriptions()
 
 if __name__ == "__main__":
     main()
+
 
 
 
