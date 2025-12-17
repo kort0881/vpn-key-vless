@@ -1,22 +1,21 @@
 #!/usr/bin/env python3
-# mirror_async_tcp.py
-# Асинхронное зеркалирование источников + чистые подписки (TTL + TCP + SNI + anti-duplicate)
+# mirror_sync.py
+# Синхронное зеркалирование источников + чистые подписки (TTL + TCP + SNI + anti-duplicate)
 # ENV: MY_TOKEN
 
 import os
 import socket
 import base64
 import json
-import asyncio
-import aiohttp
-from concurrent.futures import ThreadPoolExecutor
 import time
 import urllib.parse
 import urllib3
+import requests
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
 from github import Github, Auth, GithubException, InputGitTreeElement
 from datetime import datetime, timedelta
 import zoneinfo
-import logging
 
 # -------------------- НАСТРОЙКИ --------------------
 REPO_NAME = "kort0881/vpn-key-vless"
@@ -26,26 +25,21 @@ LOCAL_DIR = "githubmirror"
 SUBSCRIPTIONS_DIR = "subscriptions"
 STATE_DIR = "state"
 SEEN_FILE = os.path.join(STATE_DIR, "seen_keys.json")
-LOG_FILE = "mirror.log"
+
+TTL_HOURS = 12
+TCP_TIMEOUT = 2.0
+REQUESTS_POOL = 10
+RETRIES = 2
+GITHUB_DELAY = 1.5
+CHROME_UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+             "AppleWebKit/537.36 (KHTML, like Gecko) "
+             "Chrome/138.0.0.0 Safari/537.36")
 
 os.makedirs(LOCAL_DIR, exist_ok=True)
 os.makedirs(SUBSCRIPTIONS_DIR, exist_ok=True)
 os.makedirs(STATE_DIR, exist_ok=True)
 
-TTL_HOURS = 12
-TCP_TIMEOUT = 2.0
-MAX_TCP_THREADS = 50
-GITHUB_DELAY = 1.5
-CHROME_UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-             "AppleWebKit/537.36 (KHTML, like Gecko) "
-             "Chrome/138.0.0.0 Safari/537.36")
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
-
-logging.basicConfig(
-    filename=LOG_FILE,
-    level=logging.INFO,
-    format="%(asctime)s | %(levelname)s | %(message)s"
-)
 
 # -------------------- URLS --------------------
 URLS = [
@@ -90,7 +84,7 @@ SNI_DOMAINS = [
     "sberbank.ru", "mail.ru", "ivi.ru", "hh.ru",
 ]
 
-# -------------------- GitHub --------------------
+# -------------------- GITHUB --------------------
 if not GITHUB_TOKEN:
     raise SystemExit("MY_TOKEN not set")
 g = Github(auth=Auth.Token(GITHUB_TOKEN))
@@ -98,6 +92,35 @@ repo = g.get_repo(REPO_NAME)
 
 def now_moscow():
     return datetime.now(zoneinfo.ZoneInfo("Europe/Moscow"))
+
+# -------------------- HTTP --------------------
+def build_session():
+    s = requests.Session()
+    adapter = HTTPAdapter(
+        pool_connections=REQUESTS_POOL,
+        pool_maxsize=REQUESTS_POOL,
+        max_retries=Retry(
+            total=RETRIES,
+            backoff_factor=0.4,
+            status_forcelist=(429, 500, 502, 503, 504),
+            allowed_methods=frozenset(["GET"]),
+        ),
+    )
+    s.mount("https://", adapter)
+    s.mount("http://", adapter)
+    s.headers.update({"User-Agent": CHROME_UA})
+    return s
+
+SESSION = build_session()
+
+def fetch_url(url):
+    try:
+        r = SESSION.get(url, timeout=12, verify=False)
+        r.raise_for_status()
+        return r.text
+    except Exception as e:
+        print(f"Ошибка {url}: {e}")
+        return None
 
 # -------------------- TTL STATE --------------------
 def load_seen():
@@ -110,30 +133,7 @@ def save_seen(data):
     with open(SEEN_FILE, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
-# -------------------- HTTP --------------------
-async def fetch_url(session, url):
-    try:
-        async with session.get(url, timeout=15) as resp:
-            text = await resp.text()
-            logging.info(f"Скачан {url}")
-            return text
-    except Exception as e:
-        logging.error(f"Ошибка {url}: {e}")
-        return None
-
-async def download_all_sources():
-    connector = aiohttp.TCPConnector(limit_per_host=10, ssl=False)
-    async with aiohttp.ClientSession(headers={"User-Agent": CHROME_UA}, connector=connector) as session:
-        tasks = [fetch_url(session, url) for url in URLS]
-        results = await asyncio.gather(*tasks)
-        for i, text in enumerate(results, start=1):
-            if text:
-                path = os.path.join(LOCAL_DIR, f"{i}.txt")
-                with open(path, "w", encoding="utf-8") as f:
-                    f.write(text.replace("\r\n","\n"))
-                time.sleep(GITHUB_DELAY)
-
-# -------------------- PROXY CHECK --------------------
+# -------------------- PROXY UTILS --------------------
 def is_valid_proxy(line):
     return line.startswith((
         "vless://","vmess://","trojan://","ss://",
@@ -147,35 +147,48 @@ def extract_host_port(line):
     except:
         return None, None, None
 
-def tcp_worker(host_port_scheme):
-    host, port, scheme = host_port_scheme
+def tcp_alive(host, port, cache):
+    key = f"{host}:{port}"
+    if key in cache:
+        return cache[key]
     try:
         with socket.create_connection((host, port), timeout=TCP_TIMEOUT):
+            cache[key] = True
             return True
     except:
+        cache[key] = False
         return False
 
-def check_proxies_tcp(proxies):
-    tcp_cache = {}
-    results = []
-    with ThreadPoolExecutor(max_workers=MAX_TCP_THREADS) as executor:
-        future_map = {executor.submit(tcp_worker, extract_host_port(p)): p for p in proxies}
-        for future in future_map:
-            p = future_map[future]
-            try:
-                alive = future.result()
-                if alive:
-                    results.append(p)
-            except:
-                continue
-    return results
+# -------------------- UPLOAD --------------------
+def upload_file(local_path, remote_path):
+    with open(local_path, "r", encoding="utf-8") as f:
+        content = f.read()
+    try:
+        time.sleep(GITHUB_DELAY)
+        existing = repo.get_contents(remote_path)
+        if existing.decoded_content.decode("utf-8") == content:
+            return
+        repo.update_file(remote_path,
+                         f"Update {remote_path} | {now_moscow().strftime('%Y-%m-%d %H:%M')}",
+                         content,
+                         existing.sha)
+        print(f"{remote_path} обновлён")
+    except GithubException as ge:
+        if getattr(ge, "status", None) == 404:
+            repo.create_file(remote_path,
+                             f"Add {remote_path} | {now_moscow().strftime('%Y-%m-%d %H:%M')}",
+                             content)
+            print(f"{remote_path} создан")
+        else:
+            print(f"Ошибка GitHub: {ge}")
 
-# -------------------- SUBSCRIPTIONS --------------------
+# -------------------- MAIN LOGIC --------------------
 def create_subscriptions():
     seen = load_seen()
     now = now_moscow()
     ttl_limit = now - timedelta(hours=TTL_HOURS)
 
+    tcp_cache = {}
     all_keys = []
     ip_seen = set()
 
@@ -201,24 +214,25 @@ def create_subscriptions():
                 key = (host, port, scheme)
                 if key in ip_seen:
                     continue
+
+                if not tcp_alive(host, port, tcp_cache):
+                    continue
+
                 ip_seen.add(key)
                 all_keys.append(line)
 
     save_seen(seen)
 
-    # TCP check
-    all_keys = check_proxies_tcp(all_keys)
+    all_keys = list(dict.fromkeys(all_keys))
     print(f"Живых ключей после TCP: {len(all_keys)}")
 
-    # Сохранение RAW и base64
+    # RAW/base64
     raw_path = os.path.join(SUBSCRIPTIONS_DIR, "all.txt")
     b64_path = os.path.join(SUBSCRIPTIONS_DIR, "all_base64.txt")
-
     with open(raw_path, "w", encoding="utf-8") as f:
         f.write("\n".join(all_keys))
     with open(b64_path, "w", encoding="utf-8") as f:
         f.write(base64.b64encode("\n".join(all_keys).encode()).decode())
-
     upload_file(raw_path, f"{SUBSCRIPTIONS_DIR}/all.txt")
     upload_file(b64_path, f"{SUBSCRIPTIONS_DIR}/all_base64.txt")
 
@@ -234,32 +248,22 @@ def create_subscriptions():
         upload_file(sni_raw, f"{SUBSCRIPTIONS_DIR}/sni_filtered.txt")
         upload_file(sni_b64, f"{SUBSCRIPTIONS_DIR}/sni_filtered_base64.txt")
 
-# -------------------- GITHUB --------------------
-def upload_file(local_path, remote_path):
-    with open(local_path, "r", encoding="utf-8") as f:
-        content = f.read()
-    try:
-        time.sleep(GITHUB_DELAY)
-        existing = repo.get_contents(remote_path)
-        if existing.decoded_content.decode("utf-8") == content:
-            return
-        repo.update_file(remote_path,
-                         f"Update {remote_path} | {now_moscow().strftime('%Y-%m-%d %H:%M')}",
-                         content,
-                         existing.sha)
-        print(f"{remote_path} обновлён")
-    except GithubException as ge:
-        if getattr(ge, "status", None) == 404:
-            repo.create_file(remote_path,
-                             f"Add {remote_path} | {now_moscow().strftime('%Y-%m-%d %H:%M')}",
-                             content)
-            print(f"{remote_path} создан")
-        else:
-            print(f"Ошибка GitHub: {ge}")
-
-# -------------------- MAIN --------------------
 def main():
-    asyncio.run(download_all_sources())
+    # Очистка локальной папки
+    for d in [LOCAL_DIR, SUBSCRIPTIONS_DIR]:
+        for f in os.listdir(d):
+            os.remove(os.path.join(d, f))
+
+    # Скачивание источников
+    for i, url in enumerate(URLS, start=1):
+        print(f"{i}/{len(URLS)}: {url}")
+        text = fetch_url(url)
+        if text:
+            path = os.path.join(LOCAL_DIR, f"{i}.txt")
+            with open(path, "w", encoding="utf-8") as f:
+                f.write(text.replace("\r\n","\n"))
+            time.sleep(GITHUB_DELAY)
+
     create_subscriptions()
 
 if __name__ == "__main__":
