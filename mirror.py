@@ -1,42 +1,35 @@
 #!/usr/bin/env python3
 # mirror_with_sni.py
-# Зеркалирование источников + чистые подписки (TTL + TCP)
-# ENV: MY_TOKEN
+# Зеркалирование источников + создание компактных подписок
+# Требует: requests, PyGithub
+# ENV: MY_TOKEN (GitHub token)
 
 import os
 import socket
 import base64
-import json
-import time
 import urllib.parse
 import urllib3
 import requests
+import time
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 from github import Github, Auth, GithubException, InputGitTreeElement
-from datetime import datetime, timedelta
+from datetime import datetime
 import zoneinfo
 
-# -------------------- НАСТРОЙКИ --------------------
+# -------------------- Настройки --------------------
 REPO_NAME = "kort0881/vpn-key-vless"
 GITHUB_TOKEN = os.environ.get("MY_TOKEN")
 
 LOCAL_DIR = "githubmirror"
 SUBSCRIPTIONS_DIR = "subscriptions"
-STATE_DIR = "state"
-SEEN_FILE = os.path.join(STATE_DIR, "seen_keys.json")
-
 os.makedirs(LOCAL_DIR, exist_ok=True)
 os.makedirs(SUBSCRIPTIONS_DIR, exist_ok=True)
-os.makedirs(STATE_DIR, exist_ok=True)
 
-TIMEOUT = 12
-RETRIES = 2
+TIMEOUT = 12           # таймаут для requests
+RETRIES = 1            # количество повторов (уменьшено для GitHub Actions)
 REQUESTS_POOL = 10
 GITHUB_DELAY = 1.5
-
-TTL_HOURS = 48
-TCP_TIMEOUT = 2.0
 
 CHROME_UA = (
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
@@ -44,8 +37,8 @@ CHROME_UA = (
     "Chrome/138.0.0.0 Safari/537.36"
 )
 
-# --------- URLS (без изменений) ----------
 URLS = [
+    # ваши источники
     "https://github.com/sakha1370/OpenRay/raw/refs/heads/main/output/all_valid_proxies.txt",
     "https://raw.githubusercontent.com/sevcator/5ubscrpt10n/main/protocols/vl.txt",
     "https://raw.githubusercontent.com/yitong2333/proxy-minging/refs/heads/main/v2ray.txt",
@@ -82,9 +75,16 @@ URLS = [
     "https://raw.githubusercontent.com/MrMohebi/xray-proxy-grabber-telegram/master/collected-proxies/row-url/all.txt",
 ]
 
+SNI_DOMAINS = [
+    "vk.com", "yandex.ru", "ozon.ru", "wildberries.ru",
+    "sberbank.ru", "mail.ru", "ivi.ru", "hh.ru",
+]
+
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
-# -------------------- HTTP --------------------
+# -------------------- Настройки сети --------------------
+socket.setdefaulttimeout(5)  # глобальный таймаут для зависших DNS / connect
+
 def build_session():
     s = requests.Session()
     adapter = HTTPAdapter(
@@ -111,24 +111,15 @@ g = Github(auth=Auth.Token(GITHUB_TOKEN))
 repo = g.get_repo(REPO_NAME)
 
 def now_moscow():
-    return datetime.now(zoneinfo.ZoneInfo("Europe/Moscow"))
+    return datetime.now(zoneinfo.ZoneInfo("Europe/Moscow")).strftime("%Y-%m-%d %H:%M")
 
-# -------------------- TTL STATE --------------------
-def load_seen():
-    if not os.path.exists(SEEN_FILE):
-        return {}
-    with open(SEEN_FILE, "r", encoding="utf-8") as f:
-        return json.load(f)
-
-def save_seen(data):
-    with open(SEEN_FILE, "w", encoding="utf-8") as f:
-        json.dump(data, f, ensure_ascii=False, indent=2)
-
-# -------------------- CORE --------------------
+# -------------------- Core --------------------
 def request_with_strategies(url: str) -> str:
+    start = time.time()
     parsed = urllib.parse.urlparse(url)
     host = parsed.hostname
 
+    # 1. обычный запрос
     try:
         r = SESSION.get(url, timeout=TIMEOUT)
         r.raise_for_status()
@@ -136,140 +127,207 @@ def request_with_strategies(url: str) -> str:
     except Exception:
         pass
 
-    if host:
-        ip = socket.gethostbyname(host)
-        path = parsed.path or "/"
-        if parsed.query:
-            path += "?" + parsed.query
+    # 2. fallback через IP, но не дольше 8 секунд всего
+    if host and time.time() - start < 8:
+        try:
+            ip = socket.gethostbyname(host)
+            path = parsed.path or "/"
+            if parsed.query:
+                path += "?" + parsed.query
 
-        r = SESSION.get(
-            f"https://{ip}{path}",
-            headers={"Host": host},
-            timeout=TIMEOUT,
-            verify=False,
+            r = SESSION.get(
+                f"https://{ip}{path}",
+                headers={"Host": host},
+                timeout=5,
+                verify=False,
+            )
+            r.raise_for_status()
+            return r.text
+        except Exception:
+            pass
+
+    raise RuntimeError(f"Source unreachable: {url}")
+
+def upload_file_if_changed(local_path: str, remote_path: str):
+    with open(local_path, "r", encoding="utf-8") as f:
+        content = f.read()
+
+    try:
+        time.sleep(GITHUB_DELAY)
+        existing = repo.get_contents(remote_path)
+
+        if existing.type != "file" or existing.encoding != "base64":
+            time.sleep(GITHUB_DELAY)
+            repo.delete_file(remote_path,
+                             f"Cleanup invalid object {remote_path}",
+                             existing.sha)
+            raise GithubException(404, "recreate", None)
+
+        remote_content = existing.decoded_content.decode("utf-8", errors="replace")
+        if remote_content == content:
+            print(f"{remote_path} — без изменений")
+            return
+
+        time.sleep(GITHUB_DELAY)
+        repo.update_file(remote_path,
+                         f"Update {remote_path} | {now_moscow()}",
+                         content,
+                         existing.sha)
+        print(f"{remote_path} обновлён")
+
+    except GithubException as ge:
+        if getattr(ge, "status", None) == 404:
+            time.sleep(GITHUB_DELAY)
+            repo.create_file(remote_path,
+                             f"Add {remote_path} | {now_moscow()}",
+                             content)
+            print(f"{remote_path} создан")
+        else:
+            raise
+
+def upload_large_file_via_git(local_path: str, remote_path: str):
+    """Загрузка больших файлов через Git API"""
+    try:
+        with open(local_path, "rb") as f:
+            content = f.read()
+        blob = repo.create_git_blob(content.decode('utf-8'), 'utf-8')
+        time.sleep(GITHUB_DELAY)
+        ref = repo.get_git_ref('heads/main')
+        commit = repo.get_git_commit(ref.object.sha)
+        element = InputGitTreeElement(
+            path=remote_path,
+            mode='100644',
+            type='blob',
+            sha=blob.sha
         )
-        r.raise_for_status()
-        return r.text
-
-    raise RuntimeError("All strategies failed")
+        base_tree = repo.get_git_tree(commit.tree.sha)
+        new_tree = repo.create_git_tree([element], base_tree)
+        new_commit = repo.create_git_commit(
+            f"Update {remote_path} | {now_moscow()}",
+            new_tree,
+            [commit]
+        )
+        ref.edit(new_commit.sha)
+        print(f"{remote_path} загружен через Git API")
+    except Exception as e:
+        print(f"Ошибка загрузки {remote_path}: {e}")
 
 def is_valid_proxy(line: str) -> bool:
-    return line.startswith((
-        "vless://", "vmess://", "trojan://", "ss://",
-        "hysteria://", "hysteria2://", "hy2://", "tuic://"
-    ))
+    protocols = ['vless://', 'vmess://', 'trojan://', 'ss://', 
+                 'hysteria://', 'hysteria2://', 'hy2://', 'tuic://']
+    return any(line.startswith(p) for p in protocols)
 
-def extract_host_port(line: str):
-    try:
-        u = urllib.parse.urlparse(line)
-        return u.hostname, u.port
-    except Exception:
-        return None, None
+def create_filtered_file():
+    total = len(URLS)
+    out = []
 
-def tcp_alive(host, port, cache):
-    key = f"{host}:{port}"
-    if key in cache:
-        return cache[key]
+    for i in range(1, total + 1):
+        p = os.path.join(LOCAL_DIR, f"{i}.txt")
+        if not os.path.exists(p):
+            continue
+        with open(p, "r", encoding="utf-8", errors="ignore") as f:
+            for line in f:
+                if any(d in line for d in SNI_DOMAINS):
+                    out.append(line.strip())
 
-    try:
-        with socket.create_connection((host, port), timeout=TCP_TIMEOUT):
-            cache[key] = True
-            return True
-    except Exception:
-        cache[key] = False
-        return False
+    out = list(dict.fromkeys(out))
+    final_file = os.path.join(LOCAL_DIR, f"{total + 1}.txt")
+    with open(final_file, "w", encoding="utf-8") as f:
+        f.write("\n".join(out))
+    return final_file
 
-# -------------------- SUBSCRIPTIONS --------------------
 def create_subscriptions():
-    seen = load_seen()
-    now = now_moscow()
-    ttl_limit = now - timedelta(hours=TTL_HOURS)
+    print("\n" + "="*60)
+    print("Создание подписок...")
 
-    tcp_cache = {}
     all_keys = []
-
     total = len(URLS)
     for i in range(1, total + 1):
         p = os.path.join(LOCAL_DIR, f"{i}.txt")
         if not os.path.exists(p):
             continue
-
         with open(p, "r", encoding="utf-8", errors="ignore") as f:
             for line in f:
                 line = line.strip()
                 if not line or not is_valid_proxy(line):
                     continue
-
-                if line not in seen:
-                    seen[line] = now.isoformat()
-
-                first_seen = datetime.fromisoformat(seen[line])
-                if first_seen < ttl_limit:
-                    continue
-
-                host, port = extract_host_port(line)
-                if not host or not port:
-                    continue
-
-                if not tcp_alive(host, port, tcp_cache):
-                    continue
-
                 all_keys.append(line)
 
-    save_seen(seen)
-
     all_keys = list(dict.fromkeys(all_keys))
-    print(f"ИТОГ: {len(all_keys)} живых ключей")
+    print(f"Всего уникальных ключей: {len(all_keys)}")
 
-    raw_path = os.path.join(SUBSCRIPTIONS_DIR, "all.txt")
-    b64_path = os.path.join(SUBSCRIPTIONS_DIR, "all_base64.txt")
+    subscriptions = []
 
-    with open(raw_path, "w", encoding="utf-8") as f:
+    # 1. Все ключи (raw) - через Git API
+    all_raw = os.path.join(SUBSCRIPTIONS_DIR, "all.txt")
+    with open(all_raw, "w", encoding="utf-8") as f:
         f.write("\n".join(all_keys))
+    subscriptions.append(("all.txt", len(all_keys), True))
 
-    with open(b64_path, "w", encoding="utf-8") as f:
-        f.write(base64.b64encode("\n".join(all_keys).encode()).decode())
+    # 2. Все ключи (base64) - через Git API
+    all_b64 = os.path.join(SUBSCRIPTIONS_DIR, "all_base64.txt")
+    with open(all_b64, "w", encoding="utf-8") as f:
+        encoded = base64.b64encode("\n".join(all_keys).encode('utf-8')).decode('utf-8')
+        f.write(encoded)
+    subscriptions.append(("all_base64.txt", len(all_keys), True))
 
-    upload_large_file_via_git(raw_path, f"{SUBSCRIPTIONS_DIR}/all.txt")
-    upload_large_file_via_git(b64_path, f"{SUBSCRIPTIONS_DIR}/all_base64.txt")
+    # 3. SNI-фильтрованные
+    sni_file = os.path.join(LOCAL_DIR, f"{total + 1}.txt")
+    if os.path.exists(sni_file):
+        with open(sni_file, "r", encoding="utf-8") as f:
+            sni_keys = [line.strip() for line in f if line.strip() and is_valid_proxy(line.strip())]
 
-# -------------------- GIT LARGE --------------------
-def upload_large_file_via_git(local_path, remote_path):
-    with open(local_path, "r", encoding="utf-8") as f:
-        content = f.read()
+        if sni_keys:
+            sni_raw = os.path.join(SUBSCRIPTIONS_DIR, "sni_filtered.txt")
+            with open(sni_raw, "w", encoding="utf-8") as f:
+                f.write("\n".join(sni_keys))
+            subscriptions.append(("sni_filtered.txt", len(sni_keys), False))
 
-    blob = repo.create_git_blob(content, "utf-8")
-    ref = repo.get_git_ref("heads/main")
-    commit = repo.get_git_commit(ref.object.sha)
-    base_tree = repo.get_git_tree(commit.tree.sha)
+            sni_b64 = os.path.join(SUBSCRIPTIONS_DIR, "sni_filtered_base64.txt")
+            with open(sni_b64, "w", encoding="utf-8") as f:
+                encoded = base64.b64encode("\n".join(sni_keys).encode('utf-8')).decode('utf-8')
+                f.write(encoded)
+            subscriptions.append(("sni_filtered_base64.txt", len(sni_keys), False))
 
-    element = InputGitTreeElement(
-        path=remote_path,
-        mode="100644",
-        type="blob",
-        sha=blob.sha,
-    )
+    # Загружаем на GitHub
+    print("\nЗагрузка подписок на GitHub...")
+    for filename, count, use_git_api in subscriptions:
+        try:
+            local_path = os.path.join(SUBSCRIPTIONS_DIR, filename)
+            remote_path = f"{SUBSCRIPTIONS_DIR}/{filename}"
+            if use_git_api:
+                upload_large_file_via_git(local_path, remote_path)
+            else:
+                upload_file_if_changed(local_path, remote_path)
+        except Exception as e:
+            print(f"Ошибка загрузки {filename}: {e}")
 
-    tree = repo.create_git_tree([element], base_tree)
-    new_commit = repo.create_git_commit(
-        f"Update {remote_path} | {now_moscow().strftime('%Y-%m-%d %H:%M')}",
-        tree,
-        [commit],
-    )
-    ref.edit(new_commit.sha)
-    print(f"{remote_path} обновлён")
+    # Итог
+    print("\n" + "="*60)
+    print("✅ Подписки созданы!")
+    print("="*60)
+    for filename, count, _ in subscriptions:
+        print(f"  {filename}: {count} ключей")
+    print("\n📌 Ссылки на подписки:")
+    for filename, _, _ in subscriptions:
+        print(f"https://raw.githubusercontent.com/{REPO_NAME}/main/{SUBSCRIPTIONS_DIR}/{filename}")
+    print("="*60 + "\n")
 
-# -------------------- MAIN --------------------
 def main():
     for i, url in enumerate(URLS, start=1):
-        print(f"{i}/{len(URLS)} {url}")
+        print(f"{i}/{len(URLS)}. {url}")
         try:
             text = request_with_strategies(url)
             lp = os.path.join(LOCAL_DIR, f"{i}.txt")
             with open(lp, "w", encoding="utf-8") as f:
                 f.write(text.replace("\r\n", "\n"))
+            upload_file_if_changed(lp, f"{LOCAL_DIR}/{i}.txt")
         except Exception as e:
-            print(f"Ошибка источника: {e}")
+            print(f"Ошибка: {e}")
+
+    final = create_filtered_file()
+    final_name = os.path.basename(final)
+    upload_file_if_changed(final, f"{LOCAL_DIR}/{final_name}")
 
     create_subscriptions()
 
