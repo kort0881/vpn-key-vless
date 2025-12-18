@@ -1,21 +1,20 @@
 #!/usr/bin/env python3
-# Mirror.py
-# Скачивание и сортировка прокси-ключей
-# Требует: requests
+# Mirror.py — CLEAN MIRROR VERSION (with host:port:scheme de-dup)
 
 import os
+import shutil
 import requests
-import base64
+import urllib.parse
 
-# -------------------- Настройки --------------------
-LOCAL_DIR = "githubmirror"
-NEW_DIR = os.path.join(LOCAL_DIR, "new")
-CLEAN_DIR = os.path.join(LOCAL_DIR, "clean")
+BASE_DIR = "githubmirror"
+NEW_DIR = os.path.join(BASE_DIR, "new")
+CLEAN_DIR = os.path.join(BASE_DIR, "clean")
 
-# Протоколы
-PROTOCOLS = ["vless", "vmess", "trojan", "ss", "hysteria", "hysteria2", "hy2", "tuic"]
+PROTOCOLS = [
+    "vless", "vmess", "trojan", "ss",
+    "hysteria", "hysteria2", "hy2", "tuic"
+]
 
-# Источники
 URLS = [
     "https://github.com/sakha1370/OpenRay/raw/refs/heads/main/output/all_valid_proxies.txt",
     "https://raw.githubusercontent.com/sevcator/5ubscrpt10n/main/protocols/vl.txt",
@@ -53,65 +52,80 @@ URLS = [
     "https://raw.githubusercontent.com/MrMohebi/xray-proxy-grabber-telegram/master/collected-proxies/row-url/all.txt",
 ]
 
-# -------------------- Функции --------------------
-def is_valid_proxy(line):
-    line = line.strip().lower()
-    return any(line.startswith(p + "://") for p in PROTOCOLS)
+def clean_start():
+    if os.path.exists(BASE_DIR):
+        shutil.rmtree(BASE_DIR)
+    os.makedirs(NEW_DIR)
+    os.makedirs(CLEAN_DIR)
 
-def get_protocol(line):
-    line = line.strip().lower()
+def protocol_of(line: str):
     for p in PROTOCOLS:
         if line.startswith(p + "://"):
             return p
-    return "other"
+    return None
 
-def download_sources():
-    all_lines = []
+def extract_host_port_scheme(line: str):
+    try:
+        u = urllib.parse.urlparse(line)
+        return u.hostname, u.port, u.scheme
+    except Exception:
+        return None, None, None
+
+def main():
+    clean_start()
+
+    all_keys = []
+
     print("Скачиваем источники...")
     for i, url in enumerate(URLS, 1):
         try:
             r = requests.get(url, timeout=15)
             r.raise_for_status()
-            lines = r.text.splitlines()
-            all_lines.extend([l.strip() for l in lines if l.strip()])
+            for line in r.text.splitlines():
+                line = line.strip()
+                if protocol_of(line):
+                    all_keys.append(line)
             print(f"{i}/{len(URLS)} ОК")
         except Exception as e:
-            print(f"{i}/{len(URLS)} ошибка: {e}")
-    return all_lines
+            print(f"{i}/{len(URLS)} ошибка")
 
-def save_new(all_lines):
-    os.makedirs(NEW_DIR, exist_ok=True)
-    new_file = os.path.join(NEW_DIR, "new_keys.txt")
-    with open(new_file, "w", encoding="utf-8") as f:
-        f.write("\n".join(all_lines))
-    print(f"\nСохранено {len(all_lines)} новых ключей в '{NEW_DIR}'")
+    # NEW (сырые ключи)
+    with open(os.path.join(NEW_DIR, "all_new.txt"), "w", encoding="utf-8") as f:
+        f.write("\n".join(all_keys))
 
-def save_clean(all_lines):
-    os.makedirs(CLEAN_DIR, exist_ok=True)
-    clean_counts = {p: 0 for p in PROTOCOLS + ["other"]}
-    unique_lines = list(dict.fromkeys(all_lines))  # удаляем дубли
-    for line in unique_lines:
-        proto = get_protocol(line)
-        path = os.path.join(CLEAN_DIR, proto)
-        os.makedirs(path, exist_ok=True)
-        fname = os.path.join(path, "clean_keys.txt")
-        with open(fname, "a", encoding="utf-8") as f:
-            f.write(line + "\n")
-        clean_counts[proto] += 1
-    print("\nСортировка и очистка завершены:")
-    for p, c in clean_counts.items():
-        print(f"{p}: {c} ключей")
+    # Анти-дубликат по host:port:scheme
+    seen_ip = set()
+    clean_keys = []
 
-# -------------------- Основная логика --------------------
-def main():
-    all_lines = download_sources()
-    all_lines = [l for l in all_lines if is_valid_proxy(l)]
-    save_new(all_lines)
-    save_clean(all_lines)
-    print("\n✅ Готово. Новые ключи в 'new', чистые по протоколам в 'clean'.")
+    for line in all_keys:
+        host, port, scheme = extract_host_port_scheme(line)
+        if not host or not port or not scheme:
+            continue
+        key = (host, port, scheme)
+        if key in seen_ip:
+            continue
+        seen_ip.add(key)
+        clean_keys.append(line)
+
+    # CLEAN
+    unique = list(dict.fromkeys(clean_keys))
+    buckets = {p: [] for p in PROTOCOLS}
+
+    for k in unique:
+        p = protocol_of(k)
+        if p:
+            buckets[p].append(k)
+
+    for p, items in buckets.items():
+        with open(os.path.join(CLEAN_DIR, f"{p}.txt"), "w", encoding="utf-8") as f:
+            f.write("\n".join(items))
+        print(f"{p}: {len(items)}")
+
+    print("\nГОТОВО. githubmirror пересобран с нуля.")
 
 if __name__ == "__main__":
     main()
+
 
 
 
