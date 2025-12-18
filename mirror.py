@@ -1,38 +1,17 @@
-#!/usr/bin/env python3
-# mirror_clean_sort.py
-# Скачивание источников + очистка + сортировка по протоколам
-# Требует: requests
-# ENV: нет
-
 import os
-import socket
-import urllib.parse
-import urllib3
+import re
 import requests
-import time
-from requests.adapters import HTTPAdapter
-from urllib3.util.retry import Retry
+from datetime import datetime
 
-# -------------------- Настройки --------------------
-LOCAL_DIR = "getmirror"
-NEW_DIR = os.path.join(LOCAL_DIR, "new")
-CLEAN_DIR = os.path.join(LOCAL_DIR, "clean")
+# ================= НАСТРОЙКИ =================
 
-os.makedirs(LOCAL_DIR, exist_ok=True)
-os.makedirs(NEW_DIR, exist_ok=True)
-os.makedirs(CLEAN_DIR, exist_ok=True)
+BASE_DIR = "getmirror"
 
-TIMEOUT = 12
-RETRIES = 2
-REQUESTS_POOL = 10
+SOURCES_DIR = os.path.join(BASE_DIR, "sources")
+NEW_DIR = os.path.join(BASE_DIR, "new")
+CLEAN_DIR = os.path.join(BASE_DIR, "clean")
 
-CHROME_UA = (
-    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-    "AppleWebKit/537.36 (KHTML, like Gecko) "
-    "Chrome/138.0.0.0 Safari/537.36"
-)
-
-URLS = [
+SOURCES = [
     "https://github.com/sakha1370/OpenRay/raw/refs/heads/main/output/all_valid_proxies.txt",
     "https://raw.githubusercontent.com/sevcator/5ubscrpt10n/main/protocols/vl.txt",
     "https://raw.githubusercontent.com/yitong2333/proxy-minging/refs/heads/main/v2ray.txt",
@@ -69,133 +48,83 @@ URLS = [
     "https://raw.githubusercontent.com/MrMohebi/xray-proxy-grabber-telegram/master/collected-proxies/row-url/all.txt",
 ]
 
-SNI_DOMAINS = [
-    "vk.com", "yandex.ru", "ozon.ru", "wildberries.ru",
-    "sberbank.ru", "mail.ru", "ivi.ru", "hh.ru",
+PROTOCOLS = [
+    "vless", "vmess", "trojan", "ss",
+    "hysteria", "hysteria2", "hy2", "tuic"
 ]
 
-urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
+# ================= ФУНКЦИИ =================
 
-# -------------------- HTTP --------------------
-def build_session():
-    s = requests.Session()
-    adapter = HTTPAdapter(
-        pool_connections=REQUESTS_POOL,
-        pool_maxsize=REQUESTS_POOL,
-        max_retries=Retry(
-            total=RETRIES,
-            backoff_factor=0.4,
-            status_forcelist=(429, 500, 502, 503, 504),
-            allowed_methods=frozenset(["GET"]),
-        ),
-    )
-    s.mount("https://", adapter)
-    s.mount("http://", adapter)
-    s.headers.update({"User-Agent": CHROME_UA})
-    return s
+def mkdirs():
+    for p in [SOURCES_DIR, NEW_DIR, CLEAN_DIR]:
+        os.makedirs(p, exist_ok=True)
 
-SESSION = build_session()
-
-def request_with_strategies(url: str) -> str:
-    parsed = urllib.parse.urlparse(url)
-    host = parsed.hostname
-
-    try:
-        r = SESSION.get(url, timeout=TIMEOUT)
-        r.raise_for_status()
-        return r.text
-    except Exception:
-        pass
-
-    if host:
-        ip = socket.gethostbyname(host)
-        path = parsed.path or "/"
-        if parsed.query:
-            path += "?" + parsed.query
-
-        r = SESSION.get(
-            f"https://{ip}{path}",
-            headers={"Host": host},
-            timeout=TIMEOUT,
-            verify=False,
-        )
-        r.raise_for_status()
-        return r.text
-
-    raise RuntimeError("All strategies failed")
-
-# -------------------- Проверка протоколов --------------------
-def is_valid_proxy(line: str) -> bool:
-    protocols = ['vless://', 'vmess://', 'trojan://', 'ss://',
-                 'hysteria://', 'hysteria2://', 'hy2://', 'tuic://']
-    return any(line.startswith(p) for p in protocols)
-
-def get_protocol(line: str) -> str:
-    for p in ['vless', 'vmess', 'trojan', 'ss', 'hysteria', 'hysteria2', 'hy2', 'tuic']:
-        if line.startswith(p + "://"):
-            return p
-    return "other"
-
-# -------------------- Основной процесс --------------------
-def main():
-    # Очистка папок new и clean
-    for folder in os.listdir(NEW_DIR):
-        path = os.path.join(NEW_DIR, folder)
-        if os.path.isfile(path):
-            os.remove(path)
-    for folder in os.listdir(CLEAN_DIR):
-        path = os.path.join(CLEAN_DIR, folder)
-        if os.path.isfile(path):
-            os.remove(path)
-
-    # Создание поддиректорий clean по протоколам
-    protocols = ['vless', 'vmess', 'trojan', 'ss', 'hysteria', 'hysteria2', 'hy2', 'tuic', 'other']
-    for p in protocols:
-        os.makedirs(os.path.join(CLEAN_DIR, p), exist_ok=True)
-
-    # Скачиваем источники
+def download_sources():
     print("Скачиваем источники...")
-    new_files = []
-    for idx, url in enumerate(URLS, 1):
+    for i, url in enumerate(SOURCES, 1):
         try:
-            text = request_with_strategies(url)
-            new_path = os.path.join(NEW_DIR, f"new{idx}.txt")
-            with open(new_path, "w", encoding="utf-8") as f:
-                f.write(text.replace("\r\n", "\n"))
-            new_files.append(new_path)
-            print(f"{idx}/{len(URLS)} скачан")
-        except Exception as e:
-            print(f"Ошибка {idx}: {e}")
+            r = requests.get(url, timeout=20)
+            if r.status_code == 200:
+                with open(os.path.join(SOURCES_DIR, f"source_{i}.txt"), "w", encoding="utf-8", errors="ignore") as f:
+                    f.write(r.text)
+                print(f"{i}/{len(SOURCES)} OK")
+            else:
+                print(f"{i}/{len(SOURCES)} пропущен")
+        except:
+            print(f"{i}/{len(SOURCES)} ошибка")
 
-    # Обработка новых файлов и сортировка по протоколам
-    print("\nСортируем и чистим ключи...")
-    all_keys = set()
-    for file in new_files:
-        with open(file, "r", encoding="utf-8", errors="ignore") as f:
+def extract_keys():
+    all_keys = []
+
+    pattern = re.compile(r'^(vless|vmess|trojan|ss|hysteria2?|hy2|tuic)://.+$', re.IGNORECASE)
+
+    for file in os.listdir(SOURCES_DIR):
+        path = os.path.join(SOURCES_DIR, file)
+        with open(path, encoding="utf-8", errors="ignore") as f:
             for line in f:
                 line = line.strip()
-                if not line or not is_valid_proxy(line):
-                    continue
-                if any(d in line for d in SNI_DOMAINS):
-                    continue
-                all_keys.add(line)
+                if pattern.match(line):
+                    all_keys.append(line)
 
-    # Разделяем по протоколам и записываем
-    protocol_files = {p: set() for p in protocols}
-    for key in all_keys:
-        p = get_protocol(key)
-        protocol_files[p].add(key)
+    return all_keys
 
-    for p, keys in protocol_files.items():
-        path = os.path.join(CLEAN_DIR, p, f"{p}_clean.txt")
-        with open(path, "w", encoding="utf-8") as f:
-            f.write("\n".join(sorted(keys)))
-        print(f"{p}: {len(keys)} ключей")
+def save_new(keys):
+    ts = datetime.now().strftime("%Y%m%d_%H%M%S")
+    path = os.path.join(NEW_DIR, f"NEW_{ts}.txt")
+    with open(path, "w", encoding="utf-8") as f:
+        for k in keys:
+            f.write(k + "\n")
 
-    print("\nГотово! Новые ключи в папке 'new', чистые по протоколам в 'clean'.")
+def clean_and_split(keys):
+    unique = set(keys)
+
+    buckets = {p: [] for p in PROTOCOLS}
+
+    for k in unique:
+        for p in PROTOCOLS:
+            if k.lower().startswith(p + "://"):
+                buckets[p].append(k)
+                break
+
+    for proto, items in buckets.items():
+        if items:
+            with open(os.path.join(CLEAN_DIR, f"{proto}.txt"), "w", encoding="utf-8") as f:
+                for i in items:
+                    f.write(i + "\n")
+
+    print("\nСортировка завершена:")
+    for proto in PROTOCOLS:
+        print(f"{proto}: {len(buckets[proto])}")
+
+# ================= ЗАПУСК =================
 
 if __name__ == "__main__":
-    main()
+    mkdirs()
+    download_sources()
+    keys = extract_keys()
+    save_new(keys)
+    clean_and_split(keys)
+    print("\nГотово. Структура getmirror приведена в порядок.")
 
 
 
