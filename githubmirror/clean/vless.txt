@@ -12226,6 +12226,7 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.11.213.146:22222?path=/telegram-c
 vless://7f23bb90-c4ad-0204-2d32-4886fcf69e75@ir.lightning2025.top:698?path=/ws?ed=2048&amp;security=none&amp;encryption=none&amp;host=telewebion.com,user.telewebion.com,plus.telewebion.com,api.telewebion.com&amp;type=ws#@ZVPNN 🇮🇷
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.177.189.29:8880?path=/TelegramU0001F1E8U0001F1F3&amp;security=none&amp;encryption=none&amp;host=hk.laoyoutiao.link&amp;type=ws#@ZVPNN 🇮🇷
 vless://d094e677-8202-4301-abac-6c9310d28272@185.49.105.233:6000?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#@ZVPNN 🇮🇷
+vless://be91a34d-6faf-43b6-a70b-14e12e5cf973@209.38.243.0:2025?mode=gun&security=reality&encryption=none&authority=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&pbk=hQhLQS4IVfzjFrTD5unsIJJDfEcJrXQgDezwjMxL8x0&fp=random&type=grpc&sni=journalofbigdata.springeropen.com&sid=a0d3059a#🇩🇪 DE | 209.38.243.0
 vless://5684f3b3-63ea-4804-a780-4a6f9b8c8f2a@p33.sepantamcloud.ir:8062?encryption=none&amp;security=reality&amp;sni=www.stackoverflow.com&amp;fp=chrome&amp;pbk=-qtThb8YcEXM6KZyw2SFUjsGa8fukrr15lZFgB7qcFk&amp;sid=a702efd84c8984c8&amp;type=xhttp&amp;host=hostname&amp;path=%2Fpath&amp;mode=auto&amp;extra=%7B%22scMaxEachPostBytes%22%3A%2B1000000%2C%2B%22scMaxConcurrentPosts%22%3A%2B100%2C%2B%22scMinPostsIntervalMs%22%3A%2B30%2C%2B%22xPaddingBytes%22%3A%2B%22100-1000%22%2C%2B%22noGRPCHeader%22%3A%2Bfalse%7D#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Falkenstein🅿️ping:72ms
 vless://d01974e6-06bc-46af-b68c-ad9379c2e3c6@104.16.210.12:443?path=%2Fv1.sultansweets.shop%2Fapps&amp;security=tls&amp;encryption=none&amp;alpn=h2&amp;host=ns1.sultansweets.shop&amp;fp=chrome&amp;type=ws&amp;sni=ns1.sultansweets.shop#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:21ms
 vless://7def0be4-5c98-49a7-8332-979e82b10b62@n44.asmdns.ir:44185?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Falkenstein🅿️ping:86ms
@@ -16254,7 +16255,6 @@ vless://5c1b687f-6c65-4dd6-be17-fb86d8a919a9@93.127.180.212:80?security=none&enc
 vless://5c263fe5-75f2-4d96-87e5-0e94df935833@156.244.60.186:443?mode=stream-one&path=🔒
 vless://5c263fe5-75f2-4d96-87e5-0e94df935833@38.54.61.25:443?mode=stream-one&path=🔒
 vless://5c3afc1e-4efc-43fd-a4a6-07a14998efe0@fear.anabelrz.xyz:30634?security=reality&encryption=none&pbk=jh2QjXeD_8SQGE0y5JEm8KqJKz0lZed79F5ugrdynCg&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=844c6e33#REALITY|DE🇩🇪
-vless://5c9b6087-f955-4506-9c1d-67a5aae44bc9@fr1-raiv2mmr-free.koyeb.app:443?mode=packet-up&path=%2F%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr-%40Raiv2mmr&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&type=xhttp#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:55ms
 vless://5c9b6087-f955-4506-9c1d-67a5aae44bc9@ge1-raiv2mmr-free.koyeb.app:443/?type=xhttp&encryption=none&flow=&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1
 vless://5cc50acf-586c-4d81-9ee1-bd26799063b9@31.56.146.15:22285?type=grpc&serviceName=&authority=&security=reality&pbk=0fQ7s4kl6-F3PlRit7ujsiseddifSgDa4LEQqGdJNEw&fp=chrome&sni=🔒
 vless://5cfba4ac-105a-452a-ac10-88b1adf784ee@accounting.vinamarketcenter.ir:443?security=reality&encryption=none&pbk=T7Cwk-B3EvZqqRywIgN_TNotJiUOXYUI9bHqYKPnTi0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒
@@ -17323,7 +17323,6 @@ vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.239.156:8443/?type=xhttp&encr
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.7.148:8443?mode=stream-one&path=🔒
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.80.215:8443?flow=&type=xhttp&host=&path=🔒
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.98.90:8443?mode=auto&path=🔒
-vless://bba5876c-6d5b-4683-9465-ecc5bfc2b5b4@er2.v-sub.site:1517?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Nuremberg🅿️ping:81ms
 vless://bbb3bbac-cbeb-42dc-edec-b92f51892ad8@185.209.21.36:14066?type=tcp&security=reality&pbk=TZJPEYvn09bJPo7jNiMJaSl-qYSJ2vgPMU1it_PwMH8&fp=chrome&sni=🔒
 vless://bbd32725-822d-430f-b2b1-de06a72f7333@parsvds.com.ir-outline.click:443?security=reality&encryption=none&pbk=4MdpN5vUjbOa5FwB6j9hyvii52ndc8Wq_NAg0iuuMnQ&headerType=none&fp=chrome&spx=/&type=tcp&sni=🔒
 vless://bbfe34ff-1ca2-4ed9-8ac9-6ef9fd799320@212.23.214.148:47534?type=tcp&headerType=http&host=telewebion.com&path=🔒
@@ -17482,7 +17481,6 @@ vless://cd8002d9-e8fd-4411-8bb6-fc80310ff81d@avval.ir:2053?path=🔒
 vless://cda46d08-5566-486e-b1ff-27d799f7d00b@ge.xiivpn.sbs:5050?mode=gun&security=reality&encryption=none&pbk=ox_RW0XsIUnajViz8Ex0IeeyZW4DG62kG7aexleS1Wk&fp=chrome&spx=%2F&type=grpc&sni=🔒
 vless://cdb15365-1ccb-4d5a-a5d9-6fb08d3c75ac@45.131.210.83:80/?type=ws&encryption=none
 vless://cdba0964-0fe1-41d7-811d-5cad35f500ec@c1.vact.ir:2083?type=ws&path=🔒
-vless://ce035748-9913-40c9-9fb6-c8389f7cdcf3@172.66.40.99:2083?encryption=none&security=tls&sni=yousef.varzesh.dpdns.org&fp=random&allowInsecure=1&type=ws&host=yousef.varzesh.dpdns.org&path=%2F%3Fed%3D2560#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22ms
 vless://ce3acfb7-a0e8-4f96-b9ff-75c2657997fa@freedam.wirecard.store:2053?flow=&type=grpc&mode=gun&serviceName=bing&security=reality&fp=chrome&sni=🔒
 vless://ce62ee5e-e316-46af-b967-4588a5e8e66c@185.208.79.170:10780?security=none&encryption=none&type=tcp&headerType=none
 vless://ced02c94-001d-4de8-964f-f4a540e009a5@direct.mizbandana.org:443?security=reality&type=tcp&headerType=&path=🔒
@@ -17837,7 +17835,6 @@ vless://eb24e3b9-bcfb-46b9-a962-2621eabee526@de1.kesslershop.ir:8890?mode=auto&s
 vless://eb5f5964-1b12-457b-b8a6-bca5332e0494@138.128.224.100:443/?type=ws&encryption=none&host=s6.design-mobo.ir&path=🔒
 vless://eb9c11d0-50ce-4b76-8760-74e10f81634b@monitor.tgju.org:443?encryption=none&security=tls&sni=🔒
 vless://eb9c11d0-50ce-4b76-8760-74e10f81634b@pages.dev:443?encryption=none&security=tls&sni=🔒
-vless://ebab6efe-5627-48f6-8b11-22d0a113c1d3@172.66.44.179:443?encryption=none&security=tls&sni=xzxcxzs.pages.dev&fp=random&type=ws&host=xzxcxzs.pages.dev&path=%2F%3Fed%3D2048#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22ms
 vless://ebac2049-8367-4eab-a1a5-8b742b2fd3b6@russiatest-tap2.servers807.ir:2025?mode=gun&security=reality&encryption=none&authority=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&pbk=Cnuh4bNEBvRIjrYBEWSVhX8nr5j46lHuyen_IU2rbSk&fp=chrome&spx=/&type=grpc&serviceName=das12327gsgsyu&sni=🔒
 vless://ebe2de6a-6caf-4d57-8275-dbdb3e62d94f@104.26.13.8:80?path=🔒
 vless://ec46cba7-458c-81b1-ade9-5471757087d1@cdn3.myandroidplus2.ir:2894?path=🔒
