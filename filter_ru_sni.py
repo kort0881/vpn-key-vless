@@ -6,12 +6,17 @@ CLEAN_DIR = os.path.join(BASE_PATH, "githubmirror", "clean")
 OUT_DIR = os.path.join(BASE_PATH, "githubmirror", "ru-sni")
 
 RU_SNI_DOMAINS = [
+    # соцсети
     "vk.com", "ok.ru",
+    # поисковики и почта
     "yandex.ru", "ya.ru", "yastatic.net",
     "mail.ru", "bk.ru", "inbox.ru", "list.ru",
+    # банки
     "sberbank.ru", "online.sberbank.ru",
-    "ozon.ru", "wildberries.ru",
-    "avito.ru", "hh.ru",
+    "vtb.ru", "tinkoff.ru", "gazprombank.ru",
+    # маркетплейсы и сервисы
+    "ozon.ru", "wildberries.ru", "avito.ru",
+    "hh.ru", "gosuslugi.ru",
 ]
 
 def has_ru_sni(line: str) -> bool:
@@ -45,3 +50,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
