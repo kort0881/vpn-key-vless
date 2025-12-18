@@ -1,12 +1,15 @@
 #!/usr/bin/env python3
-# Mirror.py — CLEAN MIRROR VERSION (with host:port:scheme de-dup)
+# Mirror.py — CLEAN MIRROR VERSION (with host:port:scheme de-dup and fixed BASE_DIR)
 
 import os
 import shutil
 import requests
 import urllib.parse
 
-BASE_DIR = "githubmirror"
+# Базовый путь — рядом с mirror.py
+BASE_PATH = os.path.dirname(os.path.abspath(__file__))
+
+BASE_DIR = os.path.join(BASE_PATH, "githubmirror")
 NEW_DIR = os.path.join(BASE_DIR, "new")
 CLEAN_DIR = os.path.join(BASE_DIR, "clean")
 
@@ -55,8 +58,8 @@ URLS = [
 def clean_start():
     if os.path.exists(BASE_DIR):
         shutil.rmtree(BASE_DIR)
-    os.makedirs(NEW_DIR)
-    os.makedirs(CLEAN_DIR)
+    os.makedirs(NEW_DIR, exist_ok=True)
+    os.makedirs(CLEAN_DIR, exist_ok=True)
 
 def protocol_of(line: str):
     for p in PROTOCOLS:
@@ -86,11 +89,12 @@ def main():
                 if protocol_of(line):
                     all_keys.append(line)
             print(f"{i}/{len(URLS)} ОК")
-        except Exception as e:
+        except Exception:
             print(f"{i}/{len(URLS)} ошибка")
 
     # NEW (сырые ключи)
-    with open(os.path.join(NEW_DIR, "all_new.txt"), "w", encoding="utf-8") as f:
+    new_path = os.path.join(NEW_DIR, "all_new.txt")
+    with open(new_path, "w", encoding="utf-8") as f:
         f.write("\n".join(all_keys))
 
     # Анти-дубликат по host:port:scheme
@@ -117,7 +121,8 @@ def main():
             buckets[p].append(k)
 
     for p, items in buckets.items():
-        with open(os.path.join(CLEAN_DIR, f"{p}.txt"), "w", encoding="utf-8") as f:
+        out_path = os.path.join(CLEAN_DIR, f"{p}.txt")
+        with open(out_path, "w", encoding="utf-8") as f:
             f.write("\n".join(items))
         print(f"{p}: {len(items)}")
 
@@ -125,6 +130,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
 
