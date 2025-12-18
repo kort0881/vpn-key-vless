@@ -2,17 +2,22 @@ name: Auto Mirror (every 15 minutes)
 
 on:
   schedule:
-    - cron: "*/15 * * * *"   # каждые 15 минут (UTC)
+    - cron: "*/15 * * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write    # дать GITHUB_TOKEN право коммитить
 
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 15   # жёсткий лимит, как было раньше
+    timeout-minutes: 15
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}   # стандартный токен
 
       - name: Setup Python
         uses: actions/setup-python@v5
