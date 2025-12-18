@@ -1,17 +1,22 @@
+#!/usr/bin/env python3
+# Mirror.py
+# Скачивание и сортировка прокси-ключей
+# Требует: requests
+
 import os
-import re
 import requests
-from datetime import datetime
+import base64
 
-# ================= НАСТРОЙКИ =================
+# -------------------- Настройки --------------------
+LOCAL_DIR = "githubmirror"
+NEW_DIR = os.path.join(LOCAL_DIR, "new")
+CLEAN_DIR = os.path.join(LOCAL_DIR, "clean")
 
-BASE_DIR = "getmirror"
+# Протоколы
+PROTOCOLS = ["vless", "vmess", "trojan", "ss", "hysteria", "hysteria2", "hy2", "tuic"]
 
-SOURCES_DIR = os.path.join(BASE_DIR, "sources")
-NEW_DIR = os.path.join(BASE_DIR, "new")
-CLEAN_DIR = os.path.join(BASE_DIR, "clean")
-
-SOURCES = [
+# Источники
+URLS = [
     "https://github.com/sakha1370/OpenRay/raw/refs/heads/main/output/all_valid_proxies.txt",
     "https://raw.githubusercontent.com/sevcator/5ubscrpt10n/main/protocols/vl.txt",
     "https://raw.githubusercontent.com/yitong2333/proxy-minging/refs/heads/main/v2ray.txt",
@@ -48,83 +53,66 @@ SOURCES = [
     "https://raw.githubusercontent.com/MrMohebi/xray-proxy-grabber-telegram/master/collected-proxies/row-url/all.txt",
 ]
 
-PROTOCOLS = [
-    "vless", "vmess", "trojan", "ss",
-    "hysteria", "hysteria2", "hy2", "tuic"
-]
+# -------------------- Функции --------------------
+def is_valid_proxy(line):
+    line = line.strip().lower()
+    return any(line.startswith(p + "://") for p in PROTOCOLS)
 
-# ================= ФУНКЦИИ =================
-
-def mkdirs():
-    for p in [SOURCES_DIR, NEW_DIR, CLEAN_DIR]:
-        os.makedirs(p, exist_ok=True)
+def get_protocol(line):
+    line = line.strip().lower()
+    for p in PROTOCOLS:
+        if line.startswith(p + "://"):
+            return p
+    return "other"
 
 def download_sources():
+    all_lines = []
     print("Скачиваем источники...")
-    for i, url in enumerate(SOURCES, 1):
+    for i, url in enumerate(URLS, 1):
         try:
-            r = requests.get(url, timeout=20)
-            if r.status_code == 200:
-                with open(os.path.join(SOURCES_DIR, f"source_{i}.txt"), "w", encoding="utf-8", errors="ignore") as f:
-                    f.write(r.text)
-                print(f"{i}/{len(SOURCES)} OK")
-            else:
-                print(f"{i}/{len(SOURCES)} пропущен")
-        except:
-            print(f"{i}/{len(SOURCES)} ошибка")
+            r = requests.get(url, timeout=15)
+            r.raise_for_status()
+            lines = r.text.splitlines()
+            all_lines.extend([l.strip() for l in lines if l.strip()])
+            print(f"{i}/{len(URLS)} ОК")
+        except Exception as e:
+            print(f"{i}/{len(URLS)} ошибка: {e}")
+    return all_lines
 
-def extract_keys():
-    all_keys = []
+def save_new(all_lines):
+    os.makedirs(NEW_DIR, exist_ok=True)
+    new_file = os.path.join(NEW_DIR, "new_keys.txt")
+    with open(new_file, "w", encoding="utf-8") as f:
+        f.write("\n".join(all_lines))
+    print(f"\nСохранено {len(all_lines)} новых ключей в '{NEW_DIR}'")
 
-    pattern = re.compile(r'^(vless|vmess|trojan|ss|hysteria2?|hy2|tuic)://.+$', re.IGNORECASE)
+def save_clean(all_lines):
+    os.makedirs(CLEAN_DIR, exist_ok=True)
+    clean_counts = {p: 0 for p in PROTOCOLS + ["other"]}
+    unique_lines = list(dict.fromkeys(all_lines))  # удаляем дубли
+    for line in unique_lines:
+        proto = get_protocol(line)
+        path = os.path.join(CLEAN_DIR, proto)
+        os.makedirs(path, exist_ok=True)
+        fname = os.path.join(path, "clean_keys.txt")
+        with open(fname, "a", encoding="utf-8") as f:
+            f.write(line + "\n")
+        clean_counts[proto] += 1
+    print("\nСортировка и очистка завершены:")
+    for p, c in clean_counts.items():
+        print(f"{p}: {c} ключей")
 
-    for file in os.listdir(SOURCES_DIR):
-        path = os.path.join(SOURCES_DIR, file)
-        with open(path, encoding="utf-8", errors="ignore") as f:
-            for line in f:
-                line = line.strip()
-                if pattern.match(line):
-                    all_keys.append(line)
-
-    return all_keys
-
-def save_new(keys):
-    ts = datetime.now().strftime("%Y%m%d_%H%M%S")
-    path = os.path.join(NEW_DIR, f"NEW_{ts}.txt")
-    with open(path, "w", encoding="utf-8") as f:
-        for k in keys:
-            f.write(k + "\n")
-
-def clean_and_split(keys):
-    unique = set(keys)
-
-    buckets = {p: [] for p in PROTOCOLS}
-
-    for k in unique:
-        for p in PROTOCOLS:
-            if k.lower().startswith(p + "://"):
-                buckets[p].append(k)
-                break
-
-    for proto, items in buckets.items():
-        if items:
-            with open(os.path.join(CLEAN_DIR, f"{proto}.txt"), "w", encoding="utf-8") as f:
-                for i in items:
-                    f.write(i + "\n")
-
-    print("\nСортировка завершена:")
-    for proto in PROTOCOLS:
-        print(f"{proto}: {len(buckets[proto])}")
-
-# ================= ЗАПУСК =================
+# -------------------- Основная логика --------------------
+def main():
+    all_lines = download_sources()
+    all_lines = [l for l in all_lines if is_valid_proxy(l)]
+    save_new(all_lines)
+    save_clean(all_lines)
+    print("\n✅ Готово. Новые ключи в 'new', чистые по протоколам в 'clean'.")
 
 if __name__ == "__main__":
-    mkdirs()
-    download_sources()
-    keys = extract_keys()
-    save_new(keys)
-    clean_and_split(keys)
-    print("\nГотово. Структура getmirror приведена в порядок.")
+    main()
+
 
 
 
