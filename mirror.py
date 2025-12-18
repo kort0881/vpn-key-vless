@@ -1,19 +1,19 @@
 #!/usr/bin/env python3
-# mirror_sync.py
-# Синхронное зеркалирование источников + чистые подписки (TTL + TCP + SNI + anti-duplicate)
+# mirror.py
+# Синхронное зеркалирование источников + чистые подписки
+# TTL + anti-duplicate + SNI + split large files
 # ENV: MY_TOKEN
 
 import os
-import socket
-import base64
-import json
 import time
+import json
+import base64
+import socket
 import urllib.parse
-import urllib3
 import requests
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
-from github import Github, Auth, GithubException, InputGitTreeElement
+from github import Github, Auth, GithubException
 from datetime import datetime, timedelta
 import zoneinfo
 
@@ -27,21 +27,18 @@ STATE_DIR = "state"
 SEEN_FILE = os.path.join(STATE_DIR, "seen_keys.json")
 
 TTL_HOURS = 12
-TCP_TIMEOUT = 2.0
-REQUESTS_POOL = 10
+TIMEOUT = 12
 RETRIES = 2
-GITHUB_DELAY = 1.5
-CHROME_UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-             "AppleWebKit/537.36 (KHTML, like Gecko) "
-             "Chrome/138.0.0.0 Safari/537.36")
+POOL = 10
+GITHUB_DELAY = 1.2
+SPLIT_LINES = 50000
 
-os.makedirs(LOCAL_DIR, exist_ok=True)
-os.makedirs(SUBSCRIPTIONS_DIR, exist_ok=True)
-os.makedirs(STATE_DIR, exist_ok=True)
+CHROME_UA = (
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+    "AppleWebKit/537.36 (KHTML, like Gecko) "
+    "Chrome/138.0.0.0 Safari/537.36"
+)
 
-urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
-
-# -------------------- URLS --------------------
 URLS = [
     "https://github.com/sakha1370/OpenRay/raw/refs/heads/main/output/all_valid_proxies.txt",
     "https://raw.githubusercontent.com/sevcator/5ubscrpt10n/main/protocols/vl.txt",
@@ -84,9 +81,14 @@ SNI_DOMAINS = [
     "sberbank.ru", "mail.ru", "ivi.ru", "hh.ru",
 ]
 
-# -------------------- GITHUB --------------------
+# -------------------- INIT --------------------
+os.makedirs(LOCAL_DIR, exist_ok=True)
+os.makedirs(SUBSCRIPTIONS_DIR, exist_ok=True)
+os.makedirs(STATE_DIR, exist_ok=True)
+
 if not GITHUB_TOKEN:
     raise SystemExit("MY_TOKEN not set")
+
 g = Github(auth=Auth.Token(GITHUB_TOKEN))
 repo = g.get_repo(REPO_NAME)
 
@@ -97,32 +99,39 @@ def now_moscow():
 def build_session():
     s = requests.Session()
     adapter = HTTPAdapter(
-        pool_connections=REQUESTS_POOL,
-        pool_maxsize=REQUESTS_POOL,
+        pool_connections=POOL,
+        pool_maxsize=POOL,
         max_retries=Retry(
             total=RETRIES,
             backoff_factor=0.4,
             status_forcelist=(429, 500, 502, 503, 504),
-            allowed_methods=frozenset(["GET"]),
         ),
     )
     s.mount("https://", adapter)
-    s.mount("http://", adapter)
     s.headers.update({"User-Agent": CHROME_UA})
     return s
 
 SESSION = build_session()
 
-def fetch_url(url):
+def fetch(url):
+    r = SESSION.get(url, timeout=TIMEOUT)
+    r.raise_for_status()
+    return r.text
+
+# -------------------- UTILS --------------------
+def is_valid_proxy(line):
+    return line.startswith((
+        "vless://", "vmess://", "trojan://", "ss://",
+        "hysteria://", "hysteria2://", "hy2://", "tuic://"
+    ))
+
+def extract_key(line):
     try:
-        r = SESSION.get(url, timeout=12, verify=False)
-        r.raise_for_status()
-        return r.text
-    except Exception as e:
-        print(f"Ошибка {url}: {e}")
+        u = urllib.parse.urlparse(line)
+        return (u.hostname, u.port, u.scheme)
+    except:
         return None
 
-# -------------------- TTL STATE --------------------
 def load_seen():
     if not os.path.exists(SEEN_FILE):
         return {}
@@ -133,68 +142,57 @@ def save_seen(data):
     with open(SEEN_FILE, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
-# -------------------- PROXY UTILS --------------------
-def is_valid_proxy(line):
-    return line.startswith((
-        "vless://","vmess://","trojan://","ss://",
-        "hysteria://","hysteria2://","hy2://","tuic://"
-    ))
+def split_and_upload(path, remote_base):
+    with open(path, "r", encoding="utf-8") as f:
+        lines = f.readlines()
 
-def extract_host_port(line):
-    try:
-        u = urllib.parse.urlparse(line)
-        return u.hostname, u.port, u.scheme
-    except:
-        return None, None, None
+    for i in range(0, len(lines), SPLIT_LINES):
+        part = lines[i:i + SPLIT_LINES]
+        name = f"{remote_base}.part{i // SPLIT_LINES + 1}.txt"
+        upload_content("".join(part), name)
 
-def tcp_alive(host, port, cache):
-    key = f"{host}:{port}"
-    if key in cache:
-        return cache[key]
-    try:
-        with socket.create_connection((host, port), timeout=TCP_TIMEOUT):
-            cache[key] = True
-            return True
-    except:
-        cache[key] = False
-        return False
-
-# -------------------- UPLOAD --------------------
-def upload_file(local_path, remote_path):
-    with open(local_path, "r", encoding="utf-8") as f:
-        content = f.read()
+def upload_content(content, remote_path):
     try:
         time.sleep(GITHUB_DELAY)
         existing = repo.get_contents(remote_path)
         if existing.decoded_content.decode("utf-8") == content:
             return
-        repo.update_file(remote_path,
-                         f"Update {remote_path} | {now_moscow().strftime('%Y-%m-%d %H:%M')}",
-                         content,
-                         existing.sha)
-        print(f"{remote_path} обновлён")
-    except GithubException as ge:
-        if getattr(ge, "status", None) == 404:
-            repo.create_file(remote_path,
-                             f"Add {remote_path} | {now_moscow().strftime('%Y-%m-%d %H:%M')}",
-                             content)
-            print(f"{remote_path} создан")
-        else:
-            print(f"Ошибка GitHub: {ge}")
+        repo.update_file(
+            remote_path,
+            f"Update {remote_path} | {now_moscow():%Y-%m-%d %H:%M}",
+            content,
+            existing.sha,
+        )
+    except GithubException as e:
+        if getattr(e, "status", None) == 404:
+            repo.create_file(
+                remote_path,
+                f"Add {remote_path} | {now_moscow():%Y-%m-%d %H:%M}",
+                content,
+            )
 
 # -------------------- MAIN LOGIC --------------------
-def create_subscriptions():
+def main():
+    print("Скачивание источников...")
+    for i, url in enumerate(URLS, 1):
+        try:
+            text = fetch(url)
+            with open(os.path.join(LOCAL_DIR, f"{i}.txt"), "w", encoding="utf-8") as f:
+                f.write(text.replace("\r\n", "\n"))
+        except Exception as e:
+            print(f"Источник пропущен: {url}")
+        time.sleep(0.5)
+
     seen = load_seen()
     now = now_moscow()
     ttl_limit = now - timedelta(hours=TTL_HOURS)
 
-    tcp_cache = {}
-    all_keys = []
-    ip_seen = set()
+    uniq = {}
+    sni = []
 
+    print("Очистка и дедупликация...")
     for fname in os.listdir(LOCAL_DIR):
-        path = os.path.join(LOCAL_DIR, fname)
-        with open(path, "r", encoding="utf-8", errors="ignore") as f:
+        with open(os.path.join(LOCAL_DIR, fname), "r", encoding="utf-8", errors="ignore") as f:
             for line in f:
                 line = line.strip()
                 if not line or not is_valid_proxy(line):
@@ -203,73 +201,46 @@ def create_subscriptions():
                 if line not in seen:
                     seen[line] = now.isoformat()
 
-                first_seen = datetime.fromisoformat(seen[line])
-                if first_seen < ttl_limit:
+                if datetime.fromisoformat(seen[line]) < ttl_limit:
                     continue
 
-                host, port, scheme = extract_host_port(line)
-                if not host or not port or not scheme:
+                key = extract_key(line)
+                if not key:
                     continue
 
-                key = (host, port, scheme)
-                if key in ip_seen:
-                    continue
-
-                if not tcp_alive(host, port, tcp_cache):
-                    continue
-
-                ip_seen.add(key)
-                all_keys.append(line)
+                uniq[key] = line
+                if any(d in line for d in SNI_DOMAINS):
+                    sni.append(line)
 
     save_seen(seen)
 
-    all_keys = list(dict.fromkeys(all_keys))
-    print(f"Живых ключей после TCP: {len(all_keys)}")
+    all_keys = list(uniq.values())
+    print(f"Итого ключей: {len(all_keys)}")
 
-    # RAW/base64
+    raw = "\n".join(all_keys)
+    b64 = base64.b64encode(raw.encode()).decode()
+
     raw_path = os.path.join(SUBSCRIPTIONS_DIR, "all.txt")
     b64_path = os.path.join(SUBSCRIPTIONS_DIR, "all_base64.txt")
+
     with open(raw_path, "w", encoding="utf-8") as f:
-        f.write("\n".join(all_keys))
+        f.write(raw)
     with open(b64_path, "w", encoding="utf-8") as f:
-        f.write(base64.b64encode("\n".join(all_keys).encode()).decode())
-    upload_file(raw_path, f"{SUBSCRIPTIONS_DIR}/all.txt")
-    upload_file(b64_path, f"{SUBSCRIPTIONS_DIR}/all_base64.txt")
+        f.write(b64)
 
-    # SNI filter
-    sni_keys = [k for k in all_keys if any(d in k for d in SNI_DOMAINS)]
-    if sni_keys:
-        sni_raw = os.path.join(SUBSCRIPTIONS_DIR, "sni_filtered.txt")
-        sni_b64 = os.path.join(SUBSCRIPTIONS_DIR, "sni_filtered_base64.txt")
-        with open(sni_raw, "w", encoding="utf-8") as f:
-            f.write("\n".join(sni_keys))
-        with open(sni_b64, "w", encoding="utf-8") as f:
-            f.write(base64.b64encode("\n".join(sni_keys).encode()).decode())
-        upload_file(sni_raw, f"{SUBSCRIPTIONS_DIR}/sni_filtered.txt")
-        upload_file(sni_b64, f"{SUBSCRIPTIONS_DIR}/sni_filtered_base64.txt")
+    split_and_upload(raw_path, "subscriptions/all")
+    split_and_upload(b64_path, "subscriptions/all_base64")
 
-def main():
-    # Очистка локальной папки
-    for d in [LOCAL_DIR, SUBSCRIPTIONS_DIR]:
-        for f in os.listdir(d):
-            os.remove(os.path.join(d, f))
+    if sni:
+        sni_raw = "\n".join(dict.fromkeys(sni))
+        sni_b64 = base64.b64encode(sni_raw.encode()).decode()
+        upload_content(sni_raw, "subscriptions/sni_filtered.txt")
+        upload_content(sni_b64, "subscriptions/sni_filtered_base64.txt")
 
-    # Скачивание источников
-    for i, url in enumerate(URLS, start=1):
-        print(f"{i}/{len(URLS)}: {url}")
-        text = fetch_url(url)
-        if text:
-            path = os.path.join(LOCAL_DIR, f"{i}.txt")
-            with open(path, "w", encoding="utf-8") as f:
-                f.write(text.replace("\r\n","\n"))
-            time.sleep(GITHUB_DELAY)
-
-    create_subscriptions()
+    print("Готово.")
 
 if __name__ == "__main__":
     main()
-
-
 
 
 
