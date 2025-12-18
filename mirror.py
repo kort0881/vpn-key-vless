@@ -1,14 +1,13 @@
 #!/usr/bin/env python3
 # mirror.py
-# Синхронное зеркалирование источников + чистые подписки
-# TTL + anti-duplicate + SNI + split large files
+# CLEAN githubmirror generator
+# Sources -> memory -> clean -> githubmirror
+# TTL + dedup + split
 # ENV: MY_TOKEN
 
 import os
 import time
 import json
-import base64
-import socket
 import urllib.parse
 import requests
 from requests.adapters import HTTPAdapter
@@ -17,12 +16,11 @@ from github import Github, Auth, GithubException
 from datetime import datetime, timedelta
 import zoneinfo
 
-# -------------------- НАСТРОЙКИ --------------------
+# ---------------- CONFIG ----------------
 REPO_NAME = "kort0881/vpn-key-vless"
 GITHUB_TOKEN = os.environ.get("MY_TOKEN")
 
-LOCAL_DIR = "githubmirror"
-SUBSCRIPTIONS_DIR = "subscriptions"
+CLEAN_DIR = "githubmirror"
 STATE_DIR = "state"
 SEEN_FILE = os.path.join(STATE_DIR, "seen_keys.json")
 
@@ -30,7 +28,7 @@ TTL_HOURS = 12
 TIMEOUT = 12
 RETRIES = 2
 POOL = 10
-GITHUB_DELAY = 1.2
+GITHUB_DELAY = 1.0
 SPLIT_LINES = 50000
 
 CHROME_UA = (
@@ -76,14 +74,8 @@ URLS = [
     "https://raw.githubusercontent.com/MrMohebi/xray-proxy-grabber-telegram/master/collected-proxies/row-url/all.txt",
 ]
 
-SNI_DOMAINS = [
-    "vk.com", "yandex.ru", "ozon.ru", "wildberries.ru",
-    "sberbank.ru", "mail.ru", "ivi.ru", "hh.ru",
-]
-
-# -------------------- INIT --------------------
-os.makedirs(LOCAL_DIR, exist_ok=True)
-os.makedirs(SUBSCRIPTIONS_DIR, exist_ok=True)
+# ---------------- INIT ----------------
+os.makedirs(CLEAN_DIR, exist_ok=True)
 os.makedirs(STATE_DIR, exist_ok=True)
 
 if not GITHUB_TOKEN:
@@ -95,7 +87,7 @@ repo = g.get_repo(REPO_NAME)
 def now_moscow():
     return datetime.now(zoneinfo.ZoneInfo("Europe/Moscow"))
 
-# -------------------- HTTP --------------------
+# ---------------- HTTP ----------------
 def build_session():
     s = requests.Session()
     adapter = HTTPAdapter(
@@ -118,7 +110,7 @@ def fetch(url):
     r.raise_for_status()
     return r.text
 
-# -------------------- UTILS --------------------
+# ---------------- UTILS ----------------
 def is_valid_proxy(line):
     return line.startswith((
         "vless://", "vmess://", "trojan://", "ss://",
@@ -142,15 +134,6 @@ def save_seen(data):
     with open(SEEN_FILE, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
-def split_and_upload(path, remote_base):
-    with open(path, "r", encoding="utf-8") as f:
-        lines = f.readlines()
-
-    for i in range(0, len(lines), SPLIT_LINES):
-        part = lines[i:i + SPLIT_LINES]
-        name = f"{remote_base}.part{i // SPLIT_LINES + 1}.txt"
-        upload_content("".join(part), name)
-
 def upload_content(content, remote_path):
     try:
         time.sleep(GITHUB_DELAY)
@@ -171,71 +154,54 @@ def upload_content(content, remote_path):
                 content,
             )
 
-# -------------------- MAIN LOGIC --------------------
+def split_and_upload(lines, base_name):
+    for i in range(0, len(lines), SPLIT_LINES):
+        part = lines[i:i + SPLIT_LINES]
+        name = f"{base_name}.part{i // SPLIT_LINES + 1}.txt"
+        upload_content("\n".join(part), name)
+
+# ---------------- MAIN ----------------
 def main():
-    print("Скачивание источников...")
-    for i, url in enumerate(URLS, 1):
+    print("Сбор источников...")
+    raw_lines = []
+
+    for url in URLS:
         try:
-            text = fetch(url)
-            with open(os.path.join(LOCAL_DIR, f"{i}.txt"), "w", encoding="utf-8") as f:
-                f.write(text.replace("\r\n", "\n"))
-        except Exception as e:
-            print(f"Источник пропущен: {url}")
-        time.sleep(0.5)
+            raw_lines.extend(fetch(url).splitlines())
+        except:
+            pass
+        time.sleep(0.4)
 
     seen = load_seen()
     now = now_moscow()
     ttl_limit = now - timedelta(hours=TTL_HOURS)
 
     uniq = {}
-    sni = []
 
     print("Очистка и дедупликация...")
-    for fname in os.listdir(LOCAL_DIR):
-        with open(os.path.join(LOCAL_DIR, fname), "r", encoding="utf-8", errors="ignore") as f:
-            for line in f:
-                line = line.strip()
-                if not line or not is_valid_proxy(line):
-                    continue
+    for line in raw_lines:
+        line = line.strip()
+        if not line or not is_valid_proxy(line):
+            continue
 
-                if line not in seen:
-                    seen[line] = now.isoformat()
+        if line not in seen:
+            seen[line] = now.isoformat()
 
-                if datetime.fromisoformat(seen[line]) < ttl_limit:
-                    continue
+        if datetime.fromisoformat(seen[line]) < ttl_limit:
+            continue
 
-                key = extract_key(line)
-                if not key:
-                    continue
+        key = extract_key(line)
+        if not key:
+            continue
 
-                uniq[key] = line
-                if any(d in line for d in SNI_DOMAINS):
-                    sni.append(line)
+        uniq[key] = line
 
     save_seen(seen)
 
-    all_keys = list(uniq.values())
-    print(f"Итого ключей: {len(all_keys)}")
+    clean_keys = list(uniq.values())
+    print(f"Чистых ключей: {len(clean_keys)}")
 
-    raw = "\n".join(all_keys)
-    b64 = base64.b64encode(raw.encode()).decode()
-
-    raw_path = os.path.join(SUBSCRIPTIONS_DIR, "all.txt")
-    b64_path = os.path.join(SUBSCRIPTIONS_DIR, "all_base64.txt")
-
-    with open(raw_path, "w", encoding="utf-8") as f:
-        f.write(raw)
-    with open(b64_path, "w", encoding="utf-8") as f:
-        f.write(b64)
-
-    split_and_upload(raw_path, "subscriptions/all")
-    split_and_upload(b64_path, "subscriptions/all_base64")
-
-    if sni:
-        sni_raw = "\n".join(dict.fromkeys(sni))
-        sni_b64 = base64.b64encode(sni_raw.encode()).decode()
-        upload_content(sni_raw, "subscriptions/sni_filtered.txt")
-        upload_content(sni_b64, "subscriptions/sni_filtered_base64.txt")
+    split_and_upload(clean_keys, "githubmirror/clean_all")
 
     print("Готово.")
 
