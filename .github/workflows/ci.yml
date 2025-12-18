@@ -1,15 +1,14 @@
-name: Auto Mirror (twice a day)
+name: Auto Mirror (every 15 minutes)
 
 on:
   schedule:
-    - cron: "0 3 * * *"    # 06:00 МСК
-    - cron: "0 21 * * *"   # 24:00 МСК
+    - cron: "*/15 * * * *"   # каждые 15 минут (UTC)
   workflow_dispatch:
 
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 55   # защита от зависаний
+    timeout-minutes: 15   # жёсткий лимит, как было раньше
 
     steps:
       - name: Checkout repository
@@ -30,4 +29,5 @@ jobs:
           MY_TOKEN: ${{ secrets.MY_TOKEN }}
         run: |
           python mirror.py
+
 
