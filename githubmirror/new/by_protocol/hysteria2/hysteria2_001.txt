@@ -390,7 +390,6 @@ hysteria2://1b9c460e-f026-11ef-b737-f23c91cfbbc9@9b13ea8f-t70f40-t7t5pe-1s0a7.hk
 hysteria2://1b9c460e-f026-11ef-b737-f23c91cfbbc9@9b13ea8f-t70f40-t7t5pe-1s0a7.hk1.hyhuawei.com:443?security=tls&insecure=1&mport=30000-60000#All--@V2rayAlpha--26
 hysteria2://2408982813-20241210:409046c1-c229-4b54-986c-f110d96278e1@genshin-v4-oracle-amd.damaoooo.com:40000?security=tls&insecure=0#All-@V2rayAlpha--2
 hysteria2://2408982813-20241210@genshin-v4-oracle-amd.damaoooo.com:443?insecure=0#All-%40V2rayAlpha--2
-hysteria2://2408982813-20241210@genshin-v4-oracle-amd.damaoooo.com:443?insecure=0#🌐سرور
 hysteria2://254551f6-ec28-4938-ad0e-0aa4aa1965ec@74.117.196.232:40737/?sni=imafake.locker&fp=chrome#%E2%9D%8CFremont-GetAFreeNode
 hysteria2://27104fae-f047-4993-902a-9368d8a3e9bc@74.117.196.232:40737/?sni=imafake.locker&fp=chrome#%E2%9D%8CFremont-GetAFreeNode
 hysteria2://274691f9-e6c0-46ff-82f2-3a9062872a04@it1.miyazono-kaori.com:443?insecure=1&sni=it1.miyazono-kaori.com&obfs=salamander&obfs-password=GyiIHT0mOkKCiq0Q#%F0%9F%8E%A84%40oneclickvpnkeys
@@ -498,3 +497,4 @@ hysteria2://6286105c-fb6d-11ef-be96-f23c93136cb3@cc65f71a-t4v9c0-t5waci-4550.la.
 hysteria2://680210f5-3b5f-4947-9983-e508a15cf169@[2a0c:4ac1:8::121]:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=jnir.pichondan.com#All-@IRAN_V2RAY1
 hysteria2://680210f5-3b5f-4947-9983-e508a15cf169@[2a14:3f87:f001:1a::a]:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=jnir.pichondan.com#All-@IRAN_V2RAY1
 hysteria2://693a3ce6-2188-4fe9-82c0-c5c289532534@hl.dabache.top:20000?#%F0%9F%8E%A82%40oneclickvpnkeys
+hysteria2://693a3ce6-2188-4fe9-82c0-c5c289532534@hl.dabache.top:20000?security=tls&insecure=0#%F0%9F%8E%A82%40oneclickvpnkeys
