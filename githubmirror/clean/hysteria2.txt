@@ -41,8 +41,6 @@ hysteria2://8e0f8ef2-5fe3-11ec-a8bf-f23c91cfbbc9@22f48047-t6pb40-tasftf-duku.hk1
 hysteria2://1b9c460e-f026-11ef-b737-f23c91cfbbc9@9b13ea8f-t70f40-t7t5pe-1s0a7.hk1.hyhuawei.com:443?security=tls&amp;insecure=1&amp;mport=30000-60000#All--@V2rayAlpha--26
 hysteria2://06b2ac52-fcc6-11ec-bb74-f23c9164ca5d@21a3b260-t6pb40-t9byd7-1jfvb.hk1.hyhuawei.com:443?security=tls&amp;insecure=1&amp;sni=21a3b260-t6pb40-t9byd7-1jfvb.hk1.hyhuawei.com#(@VmessProtocol)برای خرید و اتصال دائمی جوین شو🇩🇪
 hysteria2://KevinZakarian@kevin.serverv.net:8443?&amp;insecure=1&amp;obfs=salamander&amp;obfs-password=KevinZakarian#KevinVPN
-hysteria2://d7169997-91e4-4e2a-881e-20312d1afd58@45.249.91.100:50076/?insecure=1&amp;sni=bing.com#1024-Hysteria2
-hysteria2://5820347a-1921-40a9-8c09-8bd3029f9682@77.90.52.39:40552?security=tls&amp;alpn=h3&amp;insecure=1&amp;sni=www.bing.com#hy2-ser390695239964
 hysteria2://linux.do@154.12.85.102:11020/?insecure=1&amp;sni=www.bing.com#Hysteria2
 hysteria2://10086@104.223.22.69:10086?insecure=1&amp;sni=bing.com#Hysteria2
 hysteria2://7822c1da-87ca-4fb0-a821-856381564b54@[2001:41d0:a:2a13::cc71]:20794?sni=
