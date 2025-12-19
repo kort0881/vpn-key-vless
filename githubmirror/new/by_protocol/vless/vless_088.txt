@@ -1,3 +1,4 @@
+vless://666a2803-43f2-4317-9661-dc978d869d47@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?security=tls&encryption=none&host=speedtest.net&type=ws # [ By EbraSha ]
 vless://666e1c11-2cfa-43d3-bd39-4c8e47ea3b42@146.75.119.82:80?encryption=none&security=none&type=xhttp&host=speedtest.net&mode=auto&extra={"xPaddingBytes":"10-100","noSSEHeader":true} # [ By EbraSha ]
 vless://666e1c11-2cfa-43d3-bd39-4c8e47ea3b42@146.75.119.82:80?mode=auto&security=none&encryption=none&extra={"xPaddingBytes":"10-100", "noSSEHeader":true}&host=speedtest.net&type=xhttp # [ By EbraSha ]
 vless://6670529b-265a-4ee9-b944-bdaee2638ef2@62.60.177.167:443?security=reality&encryption=none&pbk=uI6NV8Mkk7kf864izhLcAnk6nVDH6cE-_5HRJwMQGXs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sid=0ea9a621ae03e231 # [ By EbraSha ]
@@ -497,4 +498,3 @@ vless://7df5e8d1-5c3f-44d7-b62d-0f8b40d875ea@vpn-srv-3.circlevpn.net:35512?secur
 vless://7df7a136-efeb-4ed6-b7ef-7b953f3d5dc1@www.speedtest.net:2082?security=none&encryption=none&host=speedtest.net&type=ws # [ By EbraSha ]
 vless://7dfaabb0-4924-40cb-ee92-a58fcf463214@web.biatochannelv271g.shop:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=A # [ By EbraSha ]
 vless://7e038096-7dcb-461c-81b6-5bcc80aa45e6@138.201.147.114:37743?type=ws&encryption=none&host=speedtest.net&security=none # [ By EbraSha ]
-vless://7e0ac0af-282a-42c4-9b16-a7144f9769a8@46.101.82.35:443/?type=ws&encryption=none&flow=&security=tls&allowInsecure=1 # [ By EbraSha ]

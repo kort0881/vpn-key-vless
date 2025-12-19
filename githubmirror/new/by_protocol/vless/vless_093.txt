@@ -1,3 +1,5 @@
+vless://dba29dae-6d9f-4e6b-bc34-ecaa141801b3@194.182.79.240:22724?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON # [ By EbraSha ]
+vless://dbb3c682-8564-4c02-aec9-23ecf7981820@172.66.132.196:443?security=tls&encryption=none&host=speedtest.net&type=ws # [ By EbraSha ]
 vless://dbc9b263-f858-44c1-af4f-4e4ee1723490@193.151.137.17:4411?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp # [ By EbraSha ]
 vless://dbcf007d-f950-4d98-9397-8da2b27c2931@85.133.236.19:63986?security=none&alpn=http/1.1&encryption=none&host=speedtest.net&headerType=http&type=tcp # [ By EbraSha ]
 vless://dbd0ec7c-b8a0-4c60-a87e-d00edd6f0248@senator.cdniran.info:8443?security=tls&type=ws&headerType=&host=speedtest.net&fp=chrome&alpn=h2,http/1.1 # [ By EbraSha ]
@@ -496,5 +498,3 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh25v7.vetmainconf.shop:8880?secur
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh25v7.waipdirect.shop:8880?mode=gun&security=none&encryption=none&type=grpc # [ By EbraSha ]
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh27v4.waipdirect.shop:8880?mode=gun&security=none&encryption=none&type=grpc # [ By EbraSha ]
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh27v6.nature27.shop:8880?encryption=none&security=none&alpn=&type=grpc&host=speedtest.net # [ By EbraSha ]
-vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh28v5.waipdirect.shop:8880?security=&encryption=none&type=grpc # [ By EbraSha ]
-vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh29v4.vetmainconf.shop:8880?mode=gun&security=none&encryption=none&type=grpc # [ By EbraSha ]

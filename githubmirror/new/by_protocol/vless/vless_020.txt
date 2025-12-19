@@ -1,3 +1,5 @@
+vless://01cb18d1-2062-47e7-999b-ec08e8b2ec85@104.16.99.78:80?encryption=none&security=none&type=ws&host=muddy-rain-0a28-ppal03.mitey24737.workers.dev&path=/?ed=2560#Ch: @pPal03
+vless://01cb18d1-2062-47e7-999b-ec08e8b2ec85@104.24.148.184:80?encryption=none&security=none&type=ws&host=muddy-rain-0a28-ppal03.mitey24737.workers.dev&path=/?ed=2560#Ch: @pPal03
 vless://01d68a9b-be48-4c7b-b4f9-71b29c4cfaca@95.217.206.161:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=api.chandplus.com#@v2ray_configs_pools
 vless://020eeb0a-796f-4e31-8ad1-08cc9e13ca21@85.90.207.183:54500?security=none&encryption=none&type=ws#      Config_Rayegan@
 vless://021bb229-6306-40aa-e5f5-f752b73ed148@DEADSEECtelegram.slimshopboyss.ir:8080?mode=auto&path=/?ed=2048&security=none&encryption=none&host=shop.slimshopboyss.ir&type=xhttp#@FarazV2ray
@@ -496,5 +498,3 @@ vless://1351f295-20e7-4024-8f2e-da58b12877e4@188.114.96.0:2086?path=/@DarkHub_VP
 vless://1375d9a1-dece-4bbb-8131-29e06afd8ca4@141.227.180.211:25365?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#:prrofile_purple@
 vless://137c2b05-bcd7-4fe7-a2bb-25b25b25e366@ippool.penubit.site:2087?encryption=none&type=httpupgrade&host=ndgr.penubit.site&path=/Penubit&security=tls&fp=chrome&sni=ndgr.penubit.site&alpn=http/1.1&mux=4#AKLISvpnFREE(Aklisvpn)
 vless://13c72182-9869-4956-83bb-f8ec486e0a1b@usaa.fastlynew.hosting-ip.com:80?path=/&security=&encryption=none&host=mojhsjd.global.ssl.fastly.net&type=ws#telegram
-vless://13d4b0f0-b153-4df2-baa7-c11bd3b746c8@zZz.ZzZ.zZz.yasharteam.com:443?security=reality&encryption=none&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tgju.org&sid=e54b5ad736ae4c38#      Config_Rayegan@
-vless://13f395b3-5d40-43f9-bd94-55feaae1fa70@ezalor.fonixapp.org:443?security=reality&encryption=none&pbk=KQ2kgnnjTCTNaHRBYu7-qmT9GnWefrPm3L67JrOw9wA&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=d1.awsstatic.com&sid=1d62#All-@V2rayAlpha--12

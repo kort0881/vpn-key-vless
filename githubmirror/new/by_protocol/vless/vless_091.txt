@@ -1,3 +1,5 @@
+vless://a48e117c-e0e2-43e5-bf92-8a1f8c560c78@217.195.200.224:15528?security=reality&encryption=none&pbk=p8HqeoS_56Y8_M1fJgO8WOnULqUW7tva4sxOVsqH4C4&headerType=none&fp=chrome&spx=/---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&type=tcp&flow=xtls-rprx-vision&sid=0014de # [ By EbraSha ]
+vless://a499ad4c-f3ab-4fa8-9319-aad1955609d9@151.101.205.194:80?security=none&encryption=none&host=speedtest.net&extra={"xPaddingBytes":"10-100", "noSSEHeader":true}&type=xhttp # [ By EbraSha ]
 vless://a4cfd237-45de-4a29-9b35-39b4ccf9fb46@test2.amin8263.ir:2095?security=none&encryption=none&host=speedtest.net&type=ws # [ By EbraSha ]
 vless://a4d62ac0-fd19-4d7d-b65f-5ac8f0323372@185.82.73.212:8443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&host=speedtest.net&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sid=48720c # [ By EbraSha ]
 vless://a4d62ac0-fd19-4d7d-b65f-5ac8f0323372@185.82.73.212:8443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&host=speedtest.net&headerType=none=/@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@TEHRANARGO&fp=chrome&type=tcp&flow=xtls-rprx-vision&sid=48720c # [ By EbraSha ]
@@ -496,5 +498,3 @@ vless://c2ec47f4-873f-573f-7d8d-d79d7ad452e6@162.19.175.55:9954?security=reality
 vless://c2ec47f4-873f-573f-7d8d-d79d7ad452e6@162.19.175.55:9954?security=reality&encryption=none&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&host=speedtest.net&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision # [ By EbraSha ]
 vless://c300682a-344d-4175-944b-8bfb0c504ce7@Evay-vpn.octacityroleplay.ir:1122?encryption=none&type=xhttp&host=speedtest.net&security=reality&fp=chrome&pbk=4iCkO1B_tdvJY7x_v9izvkoNDfdGIFiL2LQX2Nqv5RI&sid=4c7b0ea36fc7f0c4 # [ By EbraSha ]
 vless://c30ec165-fcb4-47af-8e68-70d88a3b2910@vpn-srv-2.circlevpn.net:37096?security=tls&alpn=h3,h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp # [ By EbraSha ]
-vless://c30fee5c-a1ba-4828-8c6b-ac509d7342e3@store-static-portal.cyberscaler.net:10082?security=none&encryption=none&host=speedtest.net&headerType=http&fp=chrome&type=tcp # [ By EbraSha ]
-vless://c313c27c-97ff-45ed-ab5c-64641af5debc@fieRcE-daTa.SeOTOOlsFORYou.cO.Uk:80?security=&encryption=none&type=ws # [ By EbraSha ]
