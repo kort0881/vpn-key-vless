@@ -1,3 +1,9 @@
+vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?encryption=none&security=tls&sni=terazhedi.info&allowInsecure=true&type=ws&host=terazhedi.info&path=/sghiyws&packetEncoding=xudp#https://t.me/ShadowsocksM58
+vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?encryption=none&security=tls&sni=terazhedi.info&fp=chrome&type=ws&host=terazhedi.info&path=/sghiyws&packetEncoding=xudp#https://t.me/ShadowsocksM33
+vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?encryption=none&security=tls&sni=terazhedi.info&fp=chrome&type=ws&host=terazhedi.info&path=/sghiyws&packetEncoding=xudp#https://t.me/ShadowsocksM64
+vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?encryption=none&security=tls&sni=terazhedi.info&fp=chrome&type=ws&host=terazhedi.info&path=/sghiyws&packetEncoding=xudp#https://t.me/ShadowsocksM76
+vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?encryption=none&security=tls&sni=terazhedi.info&insecure=0&allowInsecure=0&type=ws&host=terazhedi.info&path=/sghiyws#@Daily_Configs
+vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?encryption=none&security=tls&sni=terazhedi.info&insecure=0&allowInsecure=0&type=ws&path=/sghiyws#@Daily_Configs
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?encryption=none&security=tls&sni=terazhedi.info&insecure=1&allowInsecure=1&type=ws&host=terazhedi.info&path=/sghiyws#@Daily_Configs
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?encryption=none&security=tls&sni=terazhedi.info&insecure=1&allowInsecure=1&type=ws&path=/sghiyws#@Daily_Configs
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?encryption=none&security=tls&sni=terazhedi.info&type=ws&host=terazhedi.info&path=/sghiyws&packetEncoding=xudp#https://t.me/ShadowsocksM63
@@ -5,7 +11,6 @@ vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?encryp
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=%2Fsghiyws%3Fed&security=tls&encryption=none&fp=chrome&type=ws&sni=terazhedi.info#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=%2Fsghiyws%3Fed&security=tls&encryption=none&fp=chrome&type=ws&sni=terazhedi.info#RELAY🚩
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=%2Fsghiyws%3Fed&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=terazhedi.info#RELAY🚩
-vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=%2Fsghiyws&security=tls&encryption=none&fp=chrome&type=ws&sni=terazhedi.info#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=%2Fsghiyws&security=tls&encryption=none&host=terazhedi.info&fp=chrome&type=ws&sni=terazhedi.info#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=%2Fsghiyws&security=tls&encryption=none&host=terazhedi.info&fp=chrome&type=ws&sni=terazhedi.info#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=%2Fsghiyws&security=tls&encryption=none&host=terazhedi.info&fp=chrome&type=ws&sni=terazhedi.info#%F0%9F%87%AC%F0%9F%87%A7%40FreakConfig
@@ -493,8 +498,3 @@ vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.16.53.11:80?path=🔒
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.16.53.11:80?security=none&type=ws&path=🔒
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80/?type=ws&encryption=none&host=zoomgov.vipren.biz.id&path=%2F193.123.81.105%3D443#%F0%9F%92%A716%40oneclickvpnkeys
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80/?type=ws&encryption=none&host=zoomgov.vipren.biz.id&path=🔒
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?flow=&type=ws&host=zoomgov.vipren.biz.id&path=🔒
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=%2F193.123.81.105%3D443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#%40EuServer
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=/--@V2RAYNPLUS--@V2RAYNPLUS--@V2RAYNPLUS--@V2RAYNPLUS--@V2RAYNPLUS--@V2RAYNPLUS--@V2RAYNPLUS--@V2RAYNPLUS--@V2RAYNPLUS--@V2RAYNPLUS--@V2RAYNPLUS--@V2RAYNPLUS:443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#https://t.me/v2raynplus
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=/193.123.81.105=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#@DarkHub_VPN🇦🇪
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=/193.123.81.105=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#@NIM_VPN_ir

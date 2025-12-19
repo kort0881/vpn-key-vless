@@ -1,5 +1,3 @@
-vless://de30882a-e276-443c-9abb-09142d1650a7@ger.afterhav.ir:8880?security=reality&encryption=none&pbk=i9i0gRbOcihFuDWgbY8fiRO-uYfmkbAixksapkkI_wA&host=varzesh3.com&headerType=http&fp=chrome&spx=/FDqRgvAvhk8oes6&type=tcp&sni=🔒
-vless://de30882a-e276-443c-9abb-09142d1650a7@ger.afterhav.ir:8880?security=reality&encryption=none&pbk=i9i0gRbOcihFuDWgbY8fiRO-uYfmkbAixksapkkI_wA&host=varzesh3.com&headerType=http&fp=firefox&spx=%2FFDqRgvAvhk8oes6&type=tcp&sni=🔒
 vless://de325666-45a9-44d5-ab95-91da1cfd4c14@185.251.82.170:2096?path=🔒
 vless://de325666-45a9-44d5-ab95-91da1cfd4c14@www.speedtest.net:2096?path=🔒
 vless://de451857-771d-4dd2-82a8-4b9688865948@108.162.193.81:443/?type=ws&encryption=none&host=4zhhk8.moreapps.online&path=%2Fwss&security=tls&sni=4zhhk8.moreapps.online&alpn=http%2F1.1#%40Hope_Net-join-us-on-Telegram
@@ -498,3 +496,5 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.144.28.5:8880?mode=gun&security=
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.144.28.5:8880?mode=gun&security=none&encryption=none&type=grpc
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.144.28.5:8880?mode=gun&security=none&encryption=none&type=grpc#@V2rayNG3
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.144.28.5:8880?mode=gun&security=none&encryption=none&type=grpc#ALL@azadiiivpn
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.144.28.5:8880?mode=gun&security=none&encryption=none&type=grpc#GB🇬🇧
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.144.28.5:8880?mode=gun&security=none&encryption=none&type=grpc#سرور
