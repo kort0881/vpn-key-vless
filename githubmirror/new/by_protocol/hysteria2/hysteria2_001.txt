@@ -381,7 +381,6 @@ hysteria2://17cdeb6c-f046-11ee-bdac-f23c93141fad@c37b0be5n-t3kyo0-t3lvgh-2gok.la
 hysteria2://1b9c460e-f026-11ef-b737-f23c91cfbbc9@9b13ea8f-t70f40-t7t5pe-1s0a7.hk1.hyhuawei.com:443?insecure=1#All--%40V2rayAlpha--26
 hysteria2://1b9c460e-f026-11ef-b737-f23c91cfbbc9@9b13ea8f-t70f40-t7t5pe-1s0a7.hk1.hyhuawei.com:443?security=tls&insecure=1&mport=30000-60000#All--%40V2rayAlpha--26
 hysteria2://1b9c460e-f026-11ef-b737-f23c91cfbbc9@9b13ea8f-t70f40-t7t5pe-1s0a7.hk1.hyhuawei.com:443?security=tls&insecure=1&mport=30000-60000#All--@V2rayAlpha--26
-hysteria2://2408982813-20241210%3A409046c1-c229-4b54-986c-f110d96278e1@genshin-v4-oracle-amd.damaoooo.com:40000?security=tls&insecure=0#All-%40V2rayAlpha--2
 hysteria2://2408982813-20241210:409046c1-c229-4b54-986c-f110d96278e1@genshin-v4-oracle-amd.damaoooo.com:40000?security=tls&insecure=0#All-@V2rayAlpha--2
 hysteria2://2408982813-20241210@genshin-v4-oracle-amd.damaoooo.com:443?insecure=0#All-%40V2rayAlpha--2
 hysteria2://254551f6-ec28-4938-ad0e-0aa4aa1965ec@74.117.196.232:52541/?sni=imafake.locker&fp=chrome#%E2%9D%8CFremont-GetAFreeNode
@@ -498,3 +497,4 @@ hysteria2://693a3ce6-2188-4fe9-82c0-c5c289532534@hl.dabache.top:20000?security=t
 hysteria2://693a3ce6-2188-4fe9-82c0-c5c289532534@hl.dabache.top:20000?security=tls&insecure=0&mport=20000-20500&sni=hl.dabache.top#pp
 hysteria2://6d600864-32da-49fd-baf4-7df051762454@74.117.196.232:52541/?sni=imafake.locker&fp=chrome#%E2%9D%8CFremont-GetAFreeNode
 hysteria2://71504eaf-29ac-4190-89d1-dd9ce2c9ee14@[2001:bc8:1640:50eb:dc00:ff:fe57:dd6f]:443?security=tls&obfs=salamander&obfs-password=FnFgQIckcMRtKq7i&insecure=1&mport=50000-60000&sni=Ab.ac#All-#V2rayAlpha--12
+hysteria2://71504eaf-29ac-4190-89d1-dd9ce2c9ee14@[2001:bc8:1640:50eb:dc00:ff:fe57:dd6f]:443?security=tls&obfs=salamander&obfs-password=FnFgQIckcMRtKq7i&insecure=1&mport=50000-60000&sni=Ab.ac#MCI-IR--@V2rayAlpha-5
