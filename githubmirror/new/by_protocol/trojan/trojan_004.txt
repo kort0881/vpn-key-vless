@@ -1,3 +1,8 @@
+trojan://288124da-0d68-42f4-9f48-70dc4dcc55a6@172.67.175.139:443/?type=tcp&security=tls&sni=cvFbghYU.859886.XYZ#%F0%9F%8F%81RELAY-172.67.175.139-0187
+trojan://288124da-0d68-42f4-9f48-70dc4dcc55a6@104.21.77.79:443/?type=ws&path=%2FraChT39pjLFYRA5HdHEIupMZeK&security=tls&sni=SsXCDfR5.986986.shoP#%F0%9F%8F%81RELAY-104.21.77.79-0564
+trojan://ffcf7ec1-3e09-4821-b3d9-b426a107b73b@172.67.220.32:443/?type=ws&path=%2FXmTzATQPJv9RO3xr1D40NK&security=tls&sni=eEEfGty6.999836.XYz#%F0%9F%8F%81RELAY-172.67.220.32-0570
+trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:443/?type=tcp&security=tls&sni=pl1.trojanvh.xyz#%F0%9F%87%B5%F0%9F%87%B1PL-51.83.186.142-2805
+trojan://973ed2e0-c4d8-4737-a093-71629148086d@51.77.213.197:443/?type=tcp&security=tls&sni=frt2.sshocean.net#%F0%9F%87%AB%F0%9F%87%B7FR-51.77.213.197-4093
 trojan://665c944d-047d-4659-80d5-3eaac70241a9@139.162.158.172:443/?type=tcp&security=tls&sni=de2-full.privateip.net#%F0%9F%87%A9%F0%9F%87%AADE-139.162.158.172-4993
 trojan://ea17601d-8ebf-4431-b815-4d644821ca7e@kz.mjt000.com:443/?type=tcp&security=tls#%F0%9F%87%AD%F0%9F%87%B0HK-45.149.92.71-5083
 trojan://SyOxpKxC8u5jgNa3DCZ34y3D9CRenFcaABpYATEeqI2RSaXD76zS8YF0Owl3lZ@219.76.13.181:443/?type=tcp&security=tls&sni=arbettp.freetrade.link#%F0%9F%87%AD%F0%9F%87%B0HK-219.76.13.181-6872
@@ -493,8 +498,3 @@ trojan://NISHIKUITAN111@104.26.9.14:443/?type=tcp&security=tls#%40Hope_Net-join-
 trojan://slch2024@www.visasoutheasteurope.com:2096/?type=tcp&security=tls&sni=ocost-dy.wmlefl.cc#%F0%9F%8C%B572%40oneclickvpnkeys
 trojan://c226ac5d-65e9-4379-95c3-fb542bc242d8@172.67.177.109:443/?type=tcp&security=tls&sni=sssxXZAw.666461.xYz#%F0%9F%8C%B028%40oneclickvpnkeys
 trojan://e4cbe8b8-37db-4aaa-8469-b84f34c51ebc@104.21.14.54:443/?type=tcp&security=tls&sni=6666YHjU.777159.xYz#%F0%9F%8C%B026%40oneclickvpnkeys
-trojan://slch2024@104.18.2.108:8443/?type=ws&host=ocost-dy.wmlefl.cc&path=%2F&security=tls&sni=ocost-dy.wmlefl.cc#Channel%20id%3A%20%40ShadowProxy66%20
-trojan://blue2024@104.18.68.189:443/?type=tcp&security=tls&sni=ha.lii2010.us.kg&allowInsecure=1#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%93%20TROJAN%20%7C%20%40hope_net%20%5B18%5D
-trojan://blue2024@104.17.60.1:443/?type=tcp&security=tls&sni=ha.lii2010.us.kg&allowInsecure=1#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%93%20TROJAN%20%7C%20%40hope_net%20%5B19%5D
-trojan://blue2024@104.16.57.207:443/?type=tcp&security=tls&sni=ha.lii2010.us.kg&allowInsecure=1#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%93%20TROJAN%20%7C%20%40hope_net%20%5B20%5D
-trojan://tg-dns68@162.159.152.11:443/?type=ws&host=vip.putata.eu.org&security=tls&sni=vip.putata.eu.org#%40Hope_Net-join-us-on-Telegram
