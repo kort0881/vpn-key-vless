@@ -1,6 +1,3 @@
-vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@94.131.110.128:443?path=%2Fhormoz&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1&sni=ozon.ru#RU🇷🇺
-vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@94.131.110.128:443?path=/hormoz&security=tls&encryption=none&type=ws&sni=ozon.ru#@V2rayNGVPN+
-vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@94.131.110.128:443?path=🔒
 vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@94.131.110.128:443?type=ws&encryption=none&flow=&path=%2Fhormoz&security=tls&sni=ozon.ru&allowInsecure=1#RU🇷🇺
 vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@94.131.110.131:443/?type=ws&encryption=none&flow=&path=/hormoz&security=tls&sni=ozon.ru&allowInsecure=1#📡6@oneclickvpnkeys
 vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@94.131.110.131:443/?type=ws&encryption=none&flow=&path=/hormoz&security=tls&sni=ozon.ru&allowInsecure=1#🔶64@oneclickvpnkeys
@@ -498,3 +495,6 @@ vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:4
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=/&security=tls&alpn=h3,h2&encryption=none&host=KlIi9Yc11L.lIrA0xC8.iNfO&fp=chrome&type=ws&sni=KlIi9Yc11L.lIrA0xC8.iNfO#✅سرورهایبیشتردرکانال:prrofile_purple@✅
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=/&security=tls&encryption=none&host=qjms2367w2.giti4.org&type=ws&sni=qjms2367w2.giti4.org#✅سرورهایبیشتردرکانال:prrofile_purple@✅
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=🔒
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?security=tls&alpn=h3%2Ch2&encryption=none&host=smart.gheichi.org&fp=chrome&type=ws&sni=🔒
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?security=tls&alpn=h3,h2&encryption=none&host=smart.gheichi.org&fp=chrome&type=ws&sni=🔒
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@www.speedtest.net:2096?encryption=none&security=tls&sni=smart.zarnovia.info&insecure=0&allowInsecure=0&type=ws&host=smart.zarnovia.info&path=/#@Daily_Configs

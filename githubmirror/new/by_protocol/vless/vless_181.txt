@@ -1,3 +1,5 @@
+vless://88ba0958-d6e8-4c7b-9a80-e5180c520989@213.156.152.223:25059/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒
+vless://88ba0958-d6e8-4c7b-9a80-e5180c520989@213.156.152.223:25059?security=reality&encryption=none&pbk=f8rRV7gssAlL-e8teb5xR9q1vRwRJ3pvORgscKSgPAM&headerType=none&fp=chrome&spx=/---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&type=tcp&flow=xtls-rprx-vision&sni=yelp.com&sid=1ec404fc#🇹🇷
 vless://88ba0958-d6e8-4c7b-9a80-e5180c520989@213.156.152.223:25059?security=reality&encryption=none&pbk=f8rRV7gssAlL-e8teb5xR9q1vRwRJ3pvORgscKSgPAM&headerType=none&fp=chrome&spx=/---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&type=tcp&flow=xtls-rprx-vision&sni=🔒
 vless://88ba0958-d6e8-4c7b-9a80-e5180c520989@istanbul.fonixapp.org:25059/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒
 vless://88ba33a2-b456-404d-b7fc-ab97ed192228@services.legacystore.top:5352/?type=tcp&encryption=none
@@ -496,5 +498,3 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.79.58:443/?type=ws&encrypti
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.79.58:443/?type=ws&encryption=none&host=VPELEN.Com&security=tls&sni=🔒
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.8.111:443/?type=ws&encryption=none&security=tls&sni=behdasht.hrtc.ir
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.8.168:443/?type=ws&encryption=none&host=Sanjeshp.Ir&path=%2FH%3Fed%3D2560&security=tls&sni=Sanjeshp.Ir&alpn=h2%2Chttp%2F1.1&fp=randomized#%40Hope_Net-join-us-on-Telegram
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.8.215:443/?type=ws&encryption=none&security=tls&sni=Sanjeshp.Ir
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.8.31:443/?type=ws&encryption=none&host=Sanjeshp.Ir&path=%2FH%3Fed%3D2560fp%3Drandomized&security=tls&sni=Sanjeshp.Ir#%40Hope_Net-join-us-on-Telegram

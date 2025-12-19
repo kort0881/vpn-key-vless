@@ -1,3 +1,6 @@
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.6.177:2053/?type=ws&encryption=none&host=dl1-fr-cdn.easy-upload.org&path=%2F&security=tls&sni=dl1-fr-cdn.easy-upload.org#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AB%F0%9F%87%B7
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.4.125:2053/?type=ws&encryption=none&host=dl1-pl-cdn.easy-upload.org&path=%2F&security=tls&sni=dl1-pl-cdn.easy-upload.org&alpn=h2%2Chttp%2F1.1&fp=random#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B5%F0%9F%87%B1
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.80.111.216:2053/?type=ws&encryption=none&host=dl1-pl-cdn.easy-upload.org&path=%2F&security=tls&sni=dl1-pl-cdn.easy-upload.org&alpn=h2%2Chttp%2F1.1&fp=random#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B5%F0%9F%87%B1
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.80.111.194:2053/?type=ws&encryption=none&host=dl1-fr-cdn.easy-upload.org&path=%2F&security=tls&sni=dl1-fr-cdn.easy-upload.org#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AB%F0%9F%87%B7
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@195.85.23.54:2053/?type=ws&encryption=none&host=dl1-fr-cdn.easy-upload.org&path=%2F&security=tls&sni=dl1-fr-cdn.easy-upload.org#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AB%F0%9F%87%B7
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.80.111.67:2053/?type=ws&encryption=none&host=dl1-pl-cdn.easy-upload.org&path=%2F&security=tls&sni=dl1-pl-cdn.easy-upload.org&alpn=h2%2Chttp%2F1.1&fp=random#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B5%F0%9F%87%B1
@@ -495,6 +498,3 @@ vless://7d2dfb7a-2ecc-4448-bcbe-245a2092fe85@162.159.129.60:80/?type=w...&encryp
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@198.41.195.29:443/?type=ws&encryption=none&host=aw.ylks.xyz&path=%2F%3Fed%3D2048&security=tls&sni=aw.ylks.xyz#%40Hope_Net-join-us-on-Telegram
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@190.93.247.34:443/?type=ws&encryption=none&host=av.ylks.xyz#%40Hope_Net-join-us-on-Telegram
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@188.114.96.81:443/?type=ws&encryption=none&host=lx.kpcloud.eu.org&path=%2F%3Fed%3D2048security%3Dtls#%40Hope_Net-join-us-on-Telegram
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.41.214.179:443/?type=ws&encryption=none&host=lw.kpcloud.eu.org&path=%2F%3Fed%3D2048security%3Dtls#%40Hope_Net-join-us-on-Telegram
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@188.114.97.198:443/?type=ws&encryption=none&host=lw.kpcloud.eu.org
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.41.199.131:443/?type=ws&encryption=none&host=lw.kpcloud.eu.org&path=%2F%3Fed%3D2048security%3Dtls#%40Hope_Net-join-us-on-Telegram

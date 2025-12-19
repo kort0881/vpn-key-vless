@@ -1,3 +1,4 @@
+vless://c0cccf7a-eee8-4e61-8036-5ae7fee7a58d@fi1.axolab.org:443?security=reality&encryption=none&pbk=k9BuzZPnzofDcPTaa7ROHNIc9ww2jy3tLAJ04GuKvAQ&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=🔒
 vless://c0dc0f80-8150-4289-8983-f9ce3b1fdd26@a.confignor.site:35493?type=grpc&encryption=none&serviceName=چنل+سازنده+اصلی+کانفیگ+@ConfigFree&authority=&security=reality&pbk=qeWt8jJZTwf6vmiTvDfaalPaSZDkX7a3XkKrBxf2YVA&fp=chrome&sni=www.cdn77.com&sid=9c24&spx=/#اگه+قطع+شد+مجدد+به+کانال+سر+بزن+@ConfigFree
 vless://c0dc0f80-8150-4289-8983-f9ce3b1fdd26@a.confignor.site:35493?type=grpc&encryption=none&serviceName=چنل+سازنده+اصلی+کانفیگ+@ConfigFree&authority=&security=reality&pbk=qeWt8jJZTwf6vmiTvDfaalPaSZDkX7a3XkKrBxf2YVA&fp=chrome&sni=🔒
 vless://c0e0f2b4-0550-49b2-8231-efde819bd8e1@178.128.138.210:443?mode=auto&path=/&security=reality&encryption=none&pbk=9ikzRJ5rL2e3cErzU03KCM8BkRpgSaWX6bwh9YMCmFY&fp=chrome&spx=/&type=xhttp&sni=google.com&sid=a00a4ad4de#💎کانفیگ
@@ -497,4 +498,3 @@ vless://c6438552-6882-44b9-f186-ec2ffef8d01a@chat.deepseek.com:80?type=ws&path=/
 vless://c6438552-6882-44b9-f186-ec2ffef8d01a@chat.deepseek.com:80?type=ws&path=🔒
 vless://c6438552-6882-44b9-f186-ec2ffef8d01a@tgju.org:80?type=ws&path=/olem/ws?ed=1024&host=fin.channel.digicyber.click&security=none#@melov2ray🇫🇮
 vless://c6438552-6882-44b9-f186-ec2ffef8d01a@tgju.org:80?type=ws&path=🔒
-vless://c6438552-6882-44b9-f186-ec2ffef8d01a@www.speedtest.net:80?type=ws&path=/olem/ws?ed=1024&host=fin.channel.digicyber.click&security=none#@melov2ray🇫🇮
