@@ -1,8 +1,3 @@
-vless://bef46be4-a5f3-4e4c-b6fb-c4d38b3dba50@141.98.169.96:443?path=%2Fiixmriws&security=tls&encryption=none&type=ws&sni=api.avito.ru#🇫🇮[openproxylist.com]
-vless://bef46be4-a5f3-4e4c-b6fb-c4d38b3dba50@141.98.169.96:443?path=/iixmriws&security=tls&encryption=none&type=ws&sni=api.avito.ru#@FarazV2ray
-vless://bef46be4-a5f3-4e4c-b6fb-c4d38b3dba50@141.98.169.96:443?path=/iixmriws&security=tls&encryption=none&type=ws&sni=api.avito.ru#@V2ray1_Ng
-vless://bef46be4-a5f3-4e4c-b6fb-c4d38b3dba50@141.98.169.96:443?path=/iixmriws&security=tls&encryption=none&type=ws&sni=api.avito.ru#@V2rayNGVPN+
-vless://bef46be4-a5f3-4e4c-b6fb-c4d38b3dba50@141.98.169.96:443?path=/iixmriws&security=tls&encryption=none&type=ws&sni=api.avito.ru#All-@V2rayAlpha--37
 vless://bef46be4-a5f3-4e4c-b6fb-c4d38b3dba50@141.98.169.96:443?path=/iixmriws&security=tls&encryption=none=/@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@TEHRANARGO&type=ws&sni=api.avito.ru#@TEHRANARGOکانال
 vless://bef46be4-a5f3-4e4c-b6fb-c4d38b3dba50@141.98.169.96:443?path=🔒
 vless://bef46be4-a5f3-4e4c-b6fb-c4d38b3dba50@141.98.169.96:443?type=ws&encryption=none&flow=&path=%2Fiixmriws&security=tls&sni=api.avito.ru&allowInsecure=1#RU🇷🇺
@@ -498,3 +493,8 @@ vless://c4335777-e8c8-438b-9364-4bbae410b262@91.99.144.152:443?type=tcp&path=/&h
 vless://c4335777-e8c8-438b-9364-4bbae410b262@91.99.144.152:443?type=tcp&path=🔒
 vless://c437301a-5c48-4609-80f9-2c19c601fc73@gr.dnszone.top:45500?security=none&encryption=none&headerType=none&type=tcp
 vless://c4389c70-1e5a-4bd2-934f-44fb2e62ccf5@de6.razercompany.com:33200?security=none&encryption=none&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&type=tcp
+vless://c43b7819-008e-4863-aa20-9d3fc2935df8@dl.fastsoft98.ir:443?encryption=none&security=tls&sni=dl.fastsoft98.ir&alpn=h2&fp=chrome&type=ws&host=dl.fastsoft98.ir&path=?ed=2048#@NIM_VPN_ir
+vless://c43b7819-008e-4863-aa20-9d3fc2935df8@dl.fastsoft98.ir:443?encryption=none&security=tls&sni=🔒
+vless://c43b7819-008e-4863-aa20-9d3fc2935df8@rezidental.az9x99.ir:2053?encryption=none&security=none&type=tcp&headerType=none
+vless://c43b7819-008e-4863-aa20-9d3fc2935df8@rezidental.az9x99.ir:2053?encryption=none&security=none&type=tcp&headerType=none#@NIM_VPN_ir
+vless://c43b7819-008e-4863-aa20-9d3fc2935df8@star-cdn.az9x99.ir:2053?encryption=none&security=tls&sni=dl.az9x99.ir&alpn=h2&fp=chrome&type=ws&host=dl.az9x99.ir&path=?ed=2048#@NIM_VPN_ir

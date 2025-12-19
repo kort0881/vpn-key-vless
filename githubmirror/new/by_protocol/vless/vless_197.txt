@@ -1,8 +1,3 @@
-vless://c43b7819-008e-4863-aa20-9d3fc2935df8@dl.fastsoft98.ir:443?encryption=none&security=tls&sni=dl.fastsoft98.ir&alpn=h2&fp=chrome&type=ws&host=dl.fastsoft98.ir&path=?ed=2048#@NIM_VPN_ir
-vless://c43b7819-008e-4863-aa20-9d3fc2935df8@dl.fastsoft98.ir:443?encryption=none&security=tls&sni=🔒
-vless://c43b7819-008e-4863-aa20-9d3fc2935df8@rezidental.az9x99.ir:2053?encryption=none&security=none&type=tcp&headerType=none
-vless://c43b7819-008e-4863-aa20-9d3fc2935df8@rezidental.az9x99.ir:2053?encryption=none&security=none&type=tcp&headerType=none#@NIM_VPN_ir
-vless://c43b7819-008e-4863-aa20-9d3fc2935df8@star-cdn.az9x99.ir:2053?encryption=none&security=tls&sni=dl.az9x99.ir&alpn=h2&fp=chrome&type=ws&host=dl.az9x99.ir&path=?ed=2048#@NIM_VPN_ir
 vless://c43b7819-008e-4863-aa20-9d3fc2935df8@star-cdn.az9x99.ir:2053?encryption=none&security=tls&sni=🔒
 vless://c43b7819-008e-4863-aa20-9d3fc2935df8@star-cdn.soft98speedtest.ir:2053?encryption=none&security=tls&sni=dl.soft98speedtest.ir&alpn=h2&fp=chrome&type=ws&host=dl.soft98speedtest.ir&path=?ed=2048#@NIM_VPN_ir
 vless://c43b7819-008e-4863-aa20-9d3fc2935df8@star-cdn.soft98speedtest.ir:2053?encryption=none&security=tls&sni=🔒
@@ -271,6 +266,8 @@ vless://c6fc5c04-f087-49cc-a3df-2a37ef490467@Www.speedtest.net:2052?security=non
 vless://c7060866-29f6-49b8-b13b-cf95dc4a0e79@146.59.116.201:443?mode=gun&security=reality&encryption=none&pbk=-q5LnD8S-F7Q6khGlle_aovNZt3fhmxCYHjbWXZvdUQ&fp=firefox&spx=%2F&type=grpc&serviceName=%40V_2rayngVpn-%40V_2rayngVpn-%40V_2rayngVpn-%40V_2rayngVpn-%40V_2rayngVpn-%40V_2rayngVpn-%40V_2rayngVpn&sni=🔒
 vless://c70919b3-a54f-4293-a781-05ded7a6f2a4@free.best-antiaging-reviews.com:2087?security=reality&encryption=none&pbk=apWDV3PACWUfkz4vHSEhoJrTQvO3deytV1n1nWwmzXo&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=f312#%F0%9F%A5%AC%F0%9F%8C%BD5
 vless://c70919b3-a54f-4293-a781-05ded7a6f2a4@free.best-antiaging-reviews.com:2087?security=reality&encryption=none&pbk=apWDV3PACWUfkz4vHSEhoJrTQvO3deytV1n1nWwmzXo&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=🔒
+vless://c70919b3-a54f-4293-a781-05ded7a6f2a4@free.best-antiaging-reviews.com:2087?security=reality&type=tcp&sni=yahoo.com&fp=chrome&sid=f312&pbk=apWDV3PACWUfkz4vHSEhoJrTQvO3deytV1n1nWwmzXo&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%AB%F0%9F%87%AEFI_1%20%F0%9F%A7%AD%204.5MB%2Fs#کانفیگ_پرسرعت
+vless://c70919b3-a54f-4293-a781-05ded7a6f2a4@free.best-antiaging-reviews.com:2087?security=reality&type=tcp&sni=🔒
 vless://c7150d62-8775-44ef-9bfa-d4755961427a@185.193.89.61:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒
 vless://c7150d62-8775-44ef-9bfa-d4755961427a@2.59.163.155:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒
 vless://c7150d62-8775-44ef-9bfa-d4755961427a@45.12.135.111:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒
@@ -498,3 +495,6 @@ vless://c8ff1adb-a3d7-4727-a987-957a80babfcc@151.101.2.133:443/?type=ws&encrypti
 vless://c8ff1adb-a3d7-4727-a987-957a80babfcc@151.101.2.133:443/?type=ws&encryption=none&host=vistapcit.com&path=🔒
 vless://c9032a96-614a-4e8c-bc01-c96aa2ef749c@zarin8i.alireza031.pw:26734?path=/&security=none&encryption=none&type=ws#✅سرورهایبیشتردرکانال:prrofile_purple@✅
 vless://c9032a96-614a-4e8c-bc01-c96aa2ef749c@zarin8i.alireza031.pw:26734?path=🔒
+vless://c9045738-274c-44b9-b888-80da3fe71951@65.109.183.203:10000?security=&encryption=none&type=ws
+vless://c9045738-274c-44b9-b888-80da3fe71951@65.109.183.203:10000?security=none&encryption=none&type=ws
+vless://c9045738-274c-44b9-b888-80da3fe71951@65.109.183.203:10000?security=none&type=ws&packetEncoding=xudp&encryption=none

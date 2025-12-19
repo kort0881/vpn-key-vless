@@ -1,5 +1,3 @@
-vless://e85ce618-50cd-42e0-a8ba-5052e6be9498@91.242.241.45:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM&sni=google.com#VPNKEY-Singapore
-vless://e85ce618-50cd-42e0-a8ba-5052e6be9498@91.242.241.45:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM&sni=🔒
 vless://e8640056-9fe2-4361-ac1e-d90571672b64@151.101.64.155:80?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&security=none&encryption=none&host=irancell.net.&type=ws#%40v2raying
 vless://e8661019-72cb-4e48-c3c2-4da75f99e3bc@31.56.146.132:24002/?type=ws&encryption=none&host=tgju.org&path=🔒
 vless://e8661019-72cb-4e48-c3c2-4da75f99e3bc@31.56.146.132:24002?encryption=none&security=none&type=ws&host=tgju.org&path=🔒
@@ -498,3 +496,5 @@ vless://ec60b7ba-6c85-4b14-a254-410195e5cd73@geteway-CA.nub-shop.ir:4371?mode=gu
 vless://ec60b7ba-6c85-4b14-a254-410195e5cd73@geteway-CA.nub-shop.ir:4371?mode=gun&security=reality&encryption=none&authority=&pbk=L0ZOQwEpDSm25Gq7cXRZsC3H6OXj7a_L2hp-px0dOFw&fp=chrome&type=grpc&serviceName=yourServiceName&sni=🔒
 vless://ec60b7ba-6c85-4b14-a254-410195e5cd73@geteway-CA.nub-shop.ir:4371?mode=gun&security=reality&encryption=none&authority=&pbk=L0ZOQwEpDSm25Gq7cXRZsC3H6OXj7a_L2hp-px0dOFw&fp=firefox&type=grpc&serviceName=yourServiceName&sni=tgju.org&sid=ee9963737f3b0cfa#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 vless://ec60b7ba-6c85-4b14-a254-410195e5cd73@geteway-CZ.nub-shop.ir:8080?security=reality&encryption=none&pbk=KjviN_sXJt82LPa76eGPjWBmuX6yNH6tWwygVCns600&headerType=none&fp=chrome&type=tcp&sni=refersion.com&sid=171781ef2cb360ba#@Broz_time+>+کانفیگ+رایگان
+vless://ec60b7ba-6c85-4b14-a254-410195e5cd73@geteway-CZ.nub-shop.ir:8080?security=reality&encryption=none&pbk=KjviN_sXJt82LPa76eGPjWBmuX6yNH6tWwygVCns600&headerType=none&fp=chrome&type=tcp&sni=🔒
+vless://ec60b7ba-6c85-4b14-a254-410195e5cd73@geteway-DE.nub-shop.ir:5640?security=reality&encryption=none&pbk=KjviN_sXJt82LPa76eGPjWBmuX6yNH6tWwygVCns600&headerType=none&fp=chrome&type=tcp&sni=tgju.org&sid=171781ef2cb360ba#@V2rayNGVPN+
