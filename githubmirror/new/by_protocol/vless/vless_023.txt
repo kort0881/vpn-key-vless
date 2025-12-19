@@ -1,3 +1,6 @@
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.21.67.12:443?path=/?Join---MARAMBASHI---Join---MARAMBASHI?ed=2560&security=tls&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#      Config_Rayegan@
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.21.67.12:443?path=/?TELEGRAM-v2ray_configs_pools?ed=512&security=tls&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#telegram  v2ray_configs_pools
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.21.67.12:443?path=/proxyip=zani.yaemiko.ggff.net&security=tls&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#telegram  v2ray_configs_pools
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.21.67.12:443?path=/v2ray_configs_pools---proxy_v2ray_configs_pools?ed=2560&security=tls&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#telegram  v2ray_configs_pools
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.21.67.12:443?path=/v2ray_configs_pools?ed=2560&security=tls&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org# @v2ray_configs_pools ()
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.14.69:2096?path==zani.yaemiko.ggff.net/?Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#      Config_Rayegan@
@@ -495,6 +498,3 @@ vless://438ef8ae-78b3-4354-b1ea-07df6217bb11@91.98.175.72:30052?type=tcp&securit
 vless://43903c8d-5c42-4cb8-9da8-9d42178379c1@31.56.146.225:53440?security=none&encryption=none&headerType=none&type=tcp#:prrofile_purple@
 vless://4394eb25-5dfc-4bf1-a363-1ae168e200b9@151.101.25.242:80?encryption=none&security=none&type=xhttp&host=jetde157.global.ssl.fastly.net&path=/&mode=auto#@Daily_Configs
 vless://4394eb25-5dfc-4bf1-a363-1ae168e200b9@151.101.25.242:80?mode=auto&path=/&security=&encryption=none&host=jetde157.global.ssl.fastly.net&type=xhttp#Channel : @Mrsoulb
-vless://4394eb25-5dfc-4bf1-a363-1ae168e200b9@151.101.25.242:80?mode=auto&path=/&security=&encryption=none&host=jetde157.global.ssl.fastly.net&type=xhttp#
-vless://4394eb25-5dfc-4bf1-a363-1ae168e200b9@151.101.25.242:80?mode=auto&path=/&security=none&encryption=none&host=jetde157.global.ssl.fastly.net&type=xhttp#43
-vless://4394eb25-5dfc-4bf1-a363-1ae168e200b9@151.101.25.242:80?mode=auto&path=/&security=none&encryption=none&host=jetde157.global.ssl.fastly.net&type=xhttp#@FarazV2ray

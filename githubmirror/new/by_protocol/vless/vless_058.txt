@@ -1,3 +1,9 @@
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.41.211.93:443?security=tls&sni=lg.kpcloud.eu.org&type=ws&host=lg.kpcloud.eu.org&path=%2F%3Fed%3D2048# VL-WS-TLS  NA-198.41.211.93:443
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@216.24.57.167:443?security=tls&sni=lm.kpcloud.eu.org&type=ws&host=lm.kpcloud.eu.org&path=%2F%3Fed%3D2560# VL-WS-TLS  US-216.24.57.167:443
+vless://e0074f88-d6bb-4ccd-a0e5-82daa8ec550b@172.67.166.23:443?security=tls&sni=newhs.grqjfn.workers.dev&type=ws&host=newhs.grqjfn.workers.dev&path=vless-ws%2F%3Fed%3D2048# VL-WS-TLS  NA-172.67.166.23:443
+vless://6babb657-1524-43bb-b421-11bda27bc9de@173.245.49.109:2087?security=tls&sni=smart.titimoji-f6.fun&type=grpc# VL-GRPC-TLS  NA-173.245.49.109:2087
+vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@198.41.214.244:2052?security=none&type=ws&host=late-tooth.granzinhannah.workers.dev&path=%2F%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%3Fed%3D2560# VL-WS-NONE  NA-198.41.214.244:2052
+vless://228cf460-bb52-4810-b523-e4c0f51f71dd@172.67.161.215:2053?security=tls&sni=uciran66.wogofis519.workers.dev&type=ws&host=uciran66.wogofis519.workers.dev&path=%2Fvless-ws%2F%3Fed%3D2048# VL-WS-TLS  NA-172.67.161.215:2053
 vless://6babb657-1524-43bb-b421-11bda27bc9de@162.159.15.151:2087?security=tls&sni=smart.titimoji-f6.fun&type=grpc# VL-GRPC-TLS  NA-162.159.15.151:2087
 vless://a743af84-f3d1-4428-9ef9-e1e4e0de8975@188.245.116.199:1520?security=none&type=tcp&host=speedtest.net&headerType=http# VL-TCP-NONE  DE-188.245.116.199:1520
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.64.35.70:443?security=tls&sni=worker-noisy-salad-00fe.geloyit451.workers.Dev&type=ws&host=worker-noisy-salad-00fe.geloyit451.workers.Dev&path=%2F&fp=chrome# VL-WS-TLS  NA-172.64.35.70:443
@@ -492,9 +498,3 @@ vless://11d876aa-6818-4d0d-9f5b-2c7e8c5499c8@198.41.209.2:443?security=tls&sni=m
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@194.76.18.243:443?security=tls&sni=cp.ylks.xyz&type=ws&host=cp.ylks.xyz&path=%2Fblue# VL-WS-TLS  KZ-194.76.18.243:443
 vless://fed9cd54-7ca9-4dfe-b4db-78f58b1ce606@104.26.14.16:2087?security=tls&sni=apkdownload.miracleheartbit.icu&type=httpupgrade&host=apkdownload.miracleheartbit.icu&path=%2F%40v2rayyngvpn%3Fed%3D2048&fp=chrome# VL-HTTPUPGRADE-TLS  NA-104.26.14.16:2087
 vless://2928d83a-ca75-4d52-b437-fa78c7601378@104.20.20.152:443?security=tls&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560&fp=randomized# VL-WS-TLS  NA-104.20.20.152:443
-vless://416f18ec-11f3-4648-9693-8c6480d0662d@172.67.137.11:2082?security=none&type=ws&host=PbDpGsCo6.HaMeCi-dSsTeMaNe.oRg&path=%2F# VL-WS-NONE  NA-172.67.137.11:2082
-vless://df4e1392-c78a-4a67-86b2-8c8eefce64b8@172.67.190.122:8443?security=tls&sni=imaneemon66.imanf8roouznia.workers.dev&type=ws&host=imaneemon66.imanf8roouznia.workers.dev&path=%2Fvless-ws%2F%3Fed%3D2048&fp=chrome# VL-WS-TLS  NA-172.67.190.122:8443
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.0.18:443?security=tls&sni=behdasht.hrtc.ir&encryption=none@ShadowsocksM84&type=ws&host=behdasht.hrtc.ir&path=/H?ed%3D2560&fp=randomized&alpn=h2,http/1.1# VL-WS-TLS  US-199.232.0.18:443
-vless://2928d83a-ca75-4d52-b437-fa78c7601378@104.20.19.232:443?security=tls&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560&fp=randomized# VL-WS-TLS  NA-104.20.19.232:443
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@108.162.193.255:443?security=tls&sni=ln.kpcloud.eu.org&type=ws&host=ln.kpcloud.eu.org&path=%2F%3Fed%3D2048# VL-WS-TLS  NA-108.162.193.255:443
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@162.159.40.83:443?security=tls&sni=ly.kpcloud.eu.org&type=ws&path=%2F%3Fed%3D2048# VL-WS-TLS  NA-162.159.40.83:443

@@ -13,6 +13,11 @@ trojan://trojan@ip.sb:443?type=ws&path=/?ed=2560/?Join-sho--Telegram--VITUREY-Jo
 trojan://a1d2e3cd-297e-4753-8e7a-6d9fb0f4aac1@7572-4a6a-b823-efd8cef0382f.457.pp.ua:443?security=tls&sni=7572-4a6A-b823-eFD8CEf0382F.457.PP.UA&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=7572-4a6a-b823-efd8cEf0382F.457.PP.ua&path=%2F5d1oQkMFHGGJgKDsqROzSPoHrBo#%5BOpenRay%5D%20Dynamic-8154
 trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@mfyousheng.nl.eu.org:443?security=tls&sni=mfyousheng.nl.eu.org&allowInsecure=1&type=ws&path=%2FtjwsLhx0SFASG4l9FERJ1g#%5BOpenRay%5D%20Dynamic-8200
 trojan://7418004a-0ecd-41c0-a062-42bf966d3fb2@cf.0sm.com:443?security=tls&sni=vd.vmy2024.dpdns.org&allowInsecure=1&type=ws&host=vd.vmy2024.dpdns.org&path=%2F#%5BOpenRay%5D%20Dynamic-8202
+trojan://22367c45-f6c4-4ca8-8d52-d9787d7bbe91@cf.090227.xyz:2083?security=tls&sni=cm3-bpg.filegear-sg.me&type=ws&path=/proxyip=210.61.97.241:81&Host=cm3-bpg.filegear-sg.me#%5BOpenRay%5D%20Dynamic-8203
+trojan://22367c45-f6c4-4ca8-8d52-d9787d7bbe91@cmcc.090227.xyz:443?security=tls&sni=cm3-bpg.filegear-sg.me&type=ws&path=/proxyip=210.61.97.241:81&Host=cm3-bpg.filegear-sg.me#%5BOpenRay%5D%20Dynamic-8204
+trojan://22367c45-f6c4-4ca8-8d52-d9787d7bbe91@cf.877774.xyz:2087?security=tls&sni=cm3-bpg.filegear-sg.me&type=ws&path=/proxyip=210.61.97.241:81&Host=cm3-bpg.filegear-sg.me#%5BOpenRay%5D%20Dynamic-8205
+trojan://22367c45-f6c4-4ca8-8d52-d9787d7bbe91@mfa.gov.ua:2096?security=tls&sni=cm3-bpg.filegear-sg.me&type=ws&path=/proxyip=210.61.97.241:81&Host=cm3-bpg.filegear-sg.me#%5BOpenRay%5D%20Dynamic-8206
+trojan://22367c45-f6c4-4ca8-8d52-d9787d7bbe91@www.shopify.com:2053?security=tls&sni=cm3-bpg.filegear-sg.me&type=ws&path=/proxyip=210.61.97.241:81&Host=cm3-bpg.filegear-sg.me#%5BOpenRay%5D%20Dynamic-8207
 trojan://mRQKixLUsca9_jN0@149.28.223.165:13817?security=tls&sni=apple.jumpingapple.click#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8%20US-9630
 trojan://bb824a22-b7ce-427b-9ed6-1adf0751da02@107.174.82.102:443?security=tls&sni=107.174.82.102.sslip.io&type=ws&path=/gXKGj8a1tp1nNbZEcRugowKV#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8%20US-9844
 trojan://tpCznR-P5%3DjZUb%23c@66.245.193.152:17126?security=tls&sni=ctaldikgfyw.uefahpgsyz.click&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-939
@@ -49,6 +54,7 @@ trojan://POORIARED@172.67.134.185:443?path=/eyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJw
 trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=api.avito.ru#🇮🇹@FreakConfig
 trojan://bacbaca-aacb-aabc-dcba-cbcaabbbacca@127.0.0.1:1080?security=tls&amp;type=tcp#@Hope_Net-join-us-on-Telegram
 trojan://88903f70-b50b-11ed-8775-f23c9164ca5d@97e355d4-sjlts0-sjblbk-wk2w.ru.z7zi.com:1007?allowInsecure=0#@Hope_Net-join-us-on-Telegram
+trojan://ccbabaa-caab-bcaa-cdab-abaccbbcabca@127.0.0.1:8080?security=tls&amp;type=tcp#@Hope_Net-join-us-on-Telegram
 trojan://6a5cb4b7-8dad-3077-b21c-6f47e8dfb9af@iplc.xiaohouzi.club:20011?allowInsecure=1&amp;peer=supaz012.xiaohouzi.club#定制专线：@QS00008
 trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=diningtable.electricbanana.click#I 1252 (@Outline_Vpn) free
 trojan://BxceQaOe@58.152.53.22:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=t.me%2Fripaojiedian#I 1256 (@Outline_Vpn) free
@@ -2931,7 +2937,6 @@ trojan://telegram-id-privatevpns@51.21.59.141:22222?security=tls&amp;sni=trojan.
 trojan://bpb-trojan@162.159.152.227:443?security=tls&amp;sni=cf.090227.xyz&amp;allowInsecure=1&amp;type=tcp#@awlix_ir
 trojan://bca467b8c15211d189008a93c7519d3b@221.128.195.9:22581?security=tls&amp;sni=www.nintendogames.net&amp;allowInsecure=1&amp;type=tcp#telegram:@awlix_ir
 trojan://2cf6d686799e6fa95316394064f26c0a@58.152.110.120:443?security=tls&amp;sni=www.nintendogames.net&amp;allowInsecure=1&amp;type=tcp#@awlix_ir
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:8080?security=tls&type=tcp#%C2%A9Made%20by:%20github.com/MhdiTaheri%20%F0%9F%93%8C
 trojan://57ilz74461jfayyqbb83@194.59.250.52:58499/?type=tcp&amp;security=tls&amp;sni=ads.x5.ru&amp;allowInsecure=1#%E2%9C%8549%40oneclickvpnkeys
 trojan://pHEiSqez.13%236bctokYl@217.170.194.223:24591?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=bldgmy.nejzftlubrig.click#I%201234%20%28%40Outline_Vpn%29%20free
 trojan://E2hGw3bUIJidlFx%23.O@159.69.125.188:21648/?type=tcp&amp;security=tls&amp;sni=ads.x5.ru&amp;allowInsecure=1#%E2%9C%8512%40oneclickvpnkeys
