@@ -1,4 +1,3 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.49:8880?mode=gun&security=none&encryption=none&authority=telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray&type=grpc#telegram
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.49:8880?mode=gun&security=none&encryption=none&type=grpc#All--@IRAN_V2RAY1
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.5:8880?mode=gun&security=none&encryption=none&type=grpc#:prrofile_purple@
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.94:8880?mode=gun&security=none&encryption=none&type=grpc#@Hddify
@@ -498,3 +497,4 @@ vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.218.3.9:443?path=/hormoz&securi
 vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.235.241.117:443?path=/hormoz&security=tls&encryption=none&type=ws#@V2rayNGVPN+<=++
 vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.235.241.122:443?path=/hormoz&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1#@Daily_Configs
 vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.235.241.122:443?path=/hormoz&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1#Channel : @Mrsoulb
+vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.235.241.127:443/?type=ws&encryption=none&flow=&path=/hormoz&security=tls&sni=github.com&allowInsecure=1#25@oneclickvpnkeys
