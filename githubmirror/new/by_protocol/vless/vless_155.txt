@@ -1,3 +1,11 @@
+vless://2053d74c-2a3b-453b-b665-8e25142a7569@162.159.138.90:443?security=tls&type=ws&path=%2Fassets&host=shiny.revilseptember.workers.dev&alpn=http%2F1.1&sni=Shiny.REvilSeptembEr.WorkErs.dEv&fp=chrome&encryption=none#%3E%3E%40v2ray_configs_pool%3A%3AUS
+vless://2053d74c-2a3b-453b-b665-8e25142a7569@162.159.138.90:443?security=tls&type=ws&path=🔒
+vless://2053d74c-2a3b-453b-b665-8e25142a7569@162.159.249.92:443?security=tls&type=ws&path=%2Fassets&host=shiny.revilseptember.workers.dev&alpn=http%2F1.1&sni=Shiny.REvilSeptembEr.WorkErs.dEv&fp=chrome&encryption=none#%3E%3E%40v2ray_configs_pool%3A%3AUS
+vless://2053d74c-2a3b-453b-b665-8e25142a7569@162.159.249.92:443?security=tls&type=ws&path=🔒
+vless://2053d74c-2a3b-453b-b665-8e25142a7569@172.67.171.106:443?security=tls&type=ws&path=%2Fassets&host=shiny.revilseptember.workers.dev&alpn=http%2F1.1&sni=Shiny.REvilSeptembEr.WorkErs.dEv&fp=chrome&encryption=none#%3E%3E%40v2ray_configs_pool%3A%3AUS
+vless://2053d74c-2a3b-453b-b665-8e25142a7569@172.67.171.106:443?security=tls&type=ws&path=🔒
+vless://2053d74c-2a3b-453b-b665-8e25142a7569@172.67.72.241:443?security=tls&type=ws&path=%2Fassets&host=shiny.revilseptember.workers.dev&alpn=http%2F1.1&sni=Shiny.REvilSeptembEr.WorkErs.dEv&fp=chrome&encryption=none#%3E%3E%40v2ray_configs_pool%3A%3AUS
+vless://2053d74c-2a3b-453b-b665-8e25142a7569@172.67.72.241:443?security=tls&type=ws&path=🔒
 vless://2053d74c-2a3b-453b-b665-8e25142a7569@creativecommons.org:443?security=tls&type=ws&path=%2Fsocks5%3A%2F%2F8.222.249.27%3A1100&host=shiny.revilseptember.workers.dev&sni=shiny.revilseptember.workers.dev&fp=randomized&encryption=none#RELAY🚩
 vless://2053d74c-2a3b-453b-b665-8e25142a7569@zula.ir:443?security=tls&type=ws&path=%2Fassets&host=shiny.revilseptember.workers.dev&alpn=h3&sni=Shiny.REvilSeptembEr.WorkErs.dEv&fp=chrome&encryption=none#%3E%3E%40v2ray_configs_pool%3A%3AUS
 vless://2053d74c-2a3b-453b-b665-8e25142a7569@zula.ir:443?security=tls&type=ws&path=🔒
@@ -490,11 +498,3 @@ vless://2437d38a-546f-4ecf-a5d1-3cfb28036982@193.46.81.151:50853?security=realit
 vless://243ff879-b317-4430-894e-767a131db2ca@104.19.198.103:80/?type=ws&encryption=none&host=tr1-vless.ctunnel.xyz&path=%2Fvless#%40Hope_Net-join-us-on-Telegram
 vless://243ff879-b317-4430-894e-767a131db2ca@104.19.198.103:80/?type=ws&encryption=none&host=tr1-vless.ctunnel.xyz&path=🔒
 vless://243ff879-b317-4430-894e-767a131db2ca@104.21.65.53:80/?type=ws&encryption=none&flow=&path=🔒
-vless://243ff879-b317-4430-894e-767a131db2ca@104.21.65.53:80/?type=ws&encryption=none&path=%2F#%40Hope_Net-join-us-on-Telegram
-vless://243ff879-b317-4430-894e-767a131db2ca@104.21.65.53:80?encryption=none&security=none&sni=tr1-vless.ctunnel.xyz&type=ws&host=www.iranserver.com.127.0.0.1.%D0%B2%D0%BE%D1%81%D1%82%D0%B5%D0%B9control.%E8%BE%B2%E9%81%94%E6%87%B2.wonkacapitano.buzz.&path=%2Fvless%23t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNprot-me-DarkVPNprot-me-DarkVPNprot-me-DarkVPNprot-me-DarkVPNprot-me-DarkVPNpro%3Fed%3D2048#US🇺🇸
-vless://243ff879-b317-4430-894e-767a131db2ca@172.64.69.98:80?encryption=none&security=none&sni=tr1-vless.ctunnel.xyz&type=ws&host=www.iranserver.com.127.0.0.1.%D0%B2%D0%BE%D1%81%D1%82%D0%B5%D0%B9control.%E8%BE%B2%E9%81%94%E6%87%B2.wonkacapitano.buzz.&path=%2Fvless%23t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNprot-me-DarkVPNprot-me-DarkVPNprot-me-DarkVPNprot-me-DarkVPNprot-me-DarkVPNpro%3Fed%3D2048#US🇺🇸
-vless://2452faab-0dc6-470f-9518-28c963550451@151.101.205.194:80?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=&encryption=none&extra={
-vless://2452faab-0dc6-470f-9518-28c963550451@151.101.205.194:80?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=none&encryption=none&host=fotofactory.pk&extra={
-vless://2452faab-0dc6-470f-9518-28c963550451@151.101.205.194:80?path=🔒
-vless://2456f90c-5183-476d-b069-16ae74ce120f@166.62.111.253:2096?path=/Telegram🇮🇷@ShadowProxy66/?ed=2560&security=tls&encryption=none&host=fast01.0860852.xyz&fp=chrome&type=ws&sni=fast01.0860852.xyz#🇺🇸AZARBAYJAB1
-vless://2456f90c-5183-476d-b069-16ae74ce120f@166.62.111.253:2096?path=🔒

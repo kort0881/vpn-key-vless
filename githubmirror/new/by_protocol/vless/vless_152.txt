@@ -1,3 +1,11 @@
+vless://14ba01de-0de4-48b4-9327-d6a2f7797764@83.228.225.98:24472?type=ws&path=%2F&host=&security=none#s565-229065
+vless://14bb25df-bf59-40b5-9695-d841dd83a3db@5.161.22.31:51886?encryption=none&security=none&type=ws&path=🔒
+vless://14be6993-5cf7-4105-dbc8-3403a73f83e2@213.21.254.20:1404?mode=gun&security=none&encryption=none&type=grpc&serviceName=@NT_Safe,@NT_Safe,@NT_Safe,@NT_Safe
+vless://14be6993-5cf7-4105-dbc8-3403a73f83e2@213.21.254.20:1404?mode=gun&security=none&encryption=none&type=grpc&serviceName=@NT_Safe,@NT_Safe,@NT_Safe,@NT_Safe#@NT_Safe
+vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=aws.amazon.com&fp=chrome&security=reality&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&sid=#
+vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=aws.amazon.com&fp=chrome&security=reality&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&sid=#%3E%3E%40EliV2ray%3A%3AUS
+vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=aws.amazon.com&fp=chrome&security=reality&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&sid=#🧢36@oneclickvpnkeys
+vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒
 vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?security=reality&encryption=none&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com#@meli_proxyy
 vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?security=reality&encryption=none&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com#All-%40V2rayAlpha--31
 vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?security=reality&encryption=none&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com#All-@V2rayAlpha--31
@@ -490,11 +498,3 @@ vless://182602e4-b3d2-461d-b880-1bf10b7f82de@108.162.193.212:443/?type=grpc&encr
 vless://182602e4-b3d2-461d-b880-1bf10b7f82de@172.64.33.212:443/?type=grpc&encryption=none&flow=&serviceName=%40ConfigTell%2C%40ConfigTell%2C%40ConfigTell&security=tls&sni=🔒
 vless://182602e4-b3d2-461d-b880-1bf10b7f82de@172.64.33.212:443/?type=grpc&encryption=none&serviceName=%40ConfigTell%2C%40ConfigTell%2C%40ConfigTell&security=tls&sni=www.felafel.org&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome#%40Hope_Net-join-us-on-Telegram
 vless://182c0f36-1fea-4cb9-9a3c-ef93b83012b6@151.101.25.242:80?mode=auto&path=%2F%3Fed%3D2560&security=none&encryption=none&host=maxde22.global.ssl.fastly.net&type=xhttp#All_14--%40V2rayAlpha
-vless://182c0f36-1fea-4cb9-9a3c-ef93b83012b6@151.101.25.242:80?mode=auto&path=%2F%3Fed%3D2560&security=none&encryption=none&host=maxde22.global.ssl.fastly.net&type=xhttp#US🇺🇸
-vless://182c0f36-1fea-4cb9-9a3c-ef93b83012b6@151.101.25.242:80?mode=auto&path=/?ed=2560&security=none&encryption=none&host=maxde22.global.ssl.fastly.net&type=xhttp#All_14--@V2rayAlpha
-vless://182c0f36-1fea-4cb9-9a3c-ef93b83012b6@151.101.25.242:80?mode=auto&path=🔒
-vless://183cbd77-8c4e-405e-8b21-bd8475de8f68@am255.amin5646.ir:2082?mode=auto&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&security=none&encryption=none&host=am290.amin5646.ir&type=xhttp#𝗝𝗼𝗶𝗻
-vless://183cbd77-8c4e-405e-8b21-bd8475de8f68@am255.amin5646.ir:2082?mode=auto&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&security=none&encryption=none&host=am290.amin5646.ir&type=xhttp#🇩🇪
-vless://183cbd77-8c4e-405e-8b21-bd8475de8f68@am255.amin5646.ir:2082?mode=auto&path=🔒
-vless://183cbd77-8c4e-405e-8b21-bd8475de8f68@am255.amin5646.ir:2082?type=xhttp&encryption=none&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&host=am290.amin5646.ir&mode=auto&security=none#Telegram
-vless://183cbd77-8c4e-405e-8b21-bd8475de8f68@am255.amin5646.ir:2082?type=xhttp&encryption=none&path=🔒
