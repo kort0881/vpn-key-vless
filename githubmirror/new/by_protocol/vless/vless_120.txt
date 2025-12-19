@@ -1,3 +1,5 @@
+vless://73a8226b-8b9b-4737-8b51-c2f4f6c6632a@3.66.166.114:7796?path=/&amp;security=reality&amp;encryption=none&amp;pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&amp;fp=chrome&amp;type=http&amp;sni=example.com&amp;sid=ea1058117be12087#@v2naptv+🇩🇪
+vless://b03dc4fb-58f4-4b0c-b30d-50a0151423c6@visa.com:8080?path=/Daily_Configs,@Daily_Configs,@Daily_Configs,@Daily_Configs?ed=2048&amp;security=none&amp;encryption=none&amp;host=www.speedtest.net.zula.ir.zara.com.nobitex.com.blackoutconnection.ir.&amp;type=httpupgrade#@v2naptv+🇩🇪
 vless://75417a83-50c5-482c-b4d1-56fd72a0742f@65.109.177.195:9096?security=none&amp;encryption=none&amp;host=speedtest.net&amp;headerType=http&amp;type=tcp#🇫🇮+Finland+|+@v2naptv
 vless://45889dac-ca5b-4587-803b-cedb5d787f4f@www.speedtest.net:80?path=/Telegram-ConfigMs?ed=2048&amp;security=none&amp;encryption=none&amp;host=5.www.speedtest.net.zula.ir.zemestanil.iR.&amp;type=httpupgrade#🇩🇪+German+|+@v2naptv
 vless://telegram-id-ArV2ray@188.245.72.49:443?path=/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray?ed=2048&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;fp=firefox&amp;type=ws&amp;sni=h.ftpdeb.com#🇸🇪+Sweden+|@v2naptv
@@ -496,5 +498,3 @@ vless://d2cc2dfa-42c4-4565-b22b-09676c42ef84@norman.ns.cloudflare.com:443?path=/
 vless://4a5b69b4-8f1c-48b8-a7d1-2f00ddb2e2d5@brenna.ns.cloudflare.com:443?path=/zmiuyqws&amp;security=tls&amp;encryption=none&amp;host=639013098070217402.macan-amsjd.info&amp;type=ws&amp;sni=639013098070217402.macan-amsjd.info#All_17--@V2rayAlpha
 vless://0d0782a3-2c62-4936-b893-5790188778ea@5.252.22.113:443?path=/&amp;security=tls&amp;encryption=none&amp;type=ws#All_18--@V2rayAlpha
 vless://0d0782a3-2c62-4936-b893-5790188778ea@37.221.125.172:443?path=/&amp;security=tls&amp;encryption=none&amp;type=ws#All_19--@V2rayAlpha
-vless://0d0782a3-2c62-4936-b893-5790188778ea@45.12.138.8:443?path=/&amp;security=tls&amp;encryption=none&amp;type=ws#All_20--@V2rayAlpha
-vless://88872588-2a25-47f9-b498-79142565a239@45.67.228.224:443?path=/ufhqdyws&amp;security=tls&amp;encryption=none&amp;type=ws#All_21--@V2rayAlpha
