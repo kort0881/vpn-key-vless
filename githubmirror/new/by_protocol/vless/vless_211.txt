@@ -1,4 +1,3 @@
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@27.50.48.21:443?encryption=none&security=tls&sni=🔒
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@27.50.48.21:443?path=🔒
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@27.50.48.239:8443/?type=ws&encryption=none&host=edgb.esslh.filegear-sg.me&path=%2F%3Fproxyip%3Dts.hpc.tw&security=tls&sni=edgb.esslh.filegear-sg.me#%F0%9F%9B%B0%EF%B8%8F71%40oneclickvpnkeys
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@27.50.48.239:8443/?type=ws&encryption=none&host=edgb.esslh.filegear-sg.me&path=🔒
@@ -498,3 +497,4 @@ vless://f11b2b93-7ced-425b-97f9-b3439af05485@nl.dnszone.top:45500?security=none&
 vless://f12977e6-d296-4d94-9aaf-d31770b70f84@104.21.69.44:443?path=%2F&security=tls&encryption=none&host=cr77.hedieh.dpdns.org&fp=chrome&type=ws&sni=cr77.hedieh.dpdns.org#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
 vless://f12977e6-d296-4d94-9aaf-d31770b70f84@zula.ir:443?path=%2F%3Fed&security=tls&encryption=none&host=cr77.hedieh.dpdns.org&type=ws&sni=cr77.hedieh.dpdns.org#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
 vless://f12bdba5-7ff5-4398-b859-08cdd7347fb3@45.92.176.55:6443?security=reality&encryption=none&pbk=DsiKWpNmI1TkNyvhHmQzRwkvJ0aaZeShzYCZa559Hn0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=rontgen.fasssst.ru&sid=2bab4d28871d98#All-@V2rayAlpha--27
+vless://f12bdba5-7ff5-4398-b859-08cdd7347fb3@45.92.176.55:6443?security=reality&encryption=none&pbk=DsiKWpNmI1TkNyvhHmQzRwkvJ0aaZeShzYCZa559Hn0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=rontgen.fasssst.ru&sid=2bab4d28871d98#All-@V2rayAlpha-32

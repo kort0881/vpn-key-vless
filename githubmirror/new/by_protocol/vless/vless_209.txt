@@ -1,4 +1,3 @@
-vless://ec60b7ba-6c85-4b14-a254-410195e5cd73@geteway-UK.nub-shop.ir:5050?security=reality&encryption=none&pbk=KsEDjZQUx2H9PVZMyYnlJcT9ZIHVXA3sEZwhUXyrbmc&headerType=&fp=chrome&type=tcp&sni=🔒
 vless://ec60b7ba-6c85-4b14-a254-410195e5cd73@geteway-UK.nub-shop.ir:5050?security=reality&encryption=none&pbk=KsEDjZQUx2H9PVZMyYnlJcT9ZIHVXA3sEZwhUXyrbmc&headerType=none&fp=chrome&type=tcp&sni=refersion.com&sid=a1026d5c5267b93c#@V2rayNGVPN+
 vless://ec60b7ba-6c85-4b14-a254-410195e5cd73@geteway-UK.nub-shop.ir:5050?security=reality&encryption=none&pbk=KsEDjZQUx2H9PVZMyYnlJcT9ZIHVXA3sEZwhUXyrbmc&headerType=none&fp=chrome&type=tcp&sni=🔒
 vless://ec60b7ba-6c85-4b14-a254-410195e5cd73@geteway-UK.nub-shop.ir:5050?security=reality&encryption=none&pbk=KsEDjZQUx2H9PVZMyYnlJcT9ZIHVXA3sEZwhUXyrbmc&headerType=none&fp=firefox&type=tcp&sni=refersion.com&sid=a1026d5c5267b93c#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
@@ -498,3 +497,4 @@ vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@norman.ns.cloudflare.com:443?path=/
 vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@norman.ns.cloudflare.com:443?path=/yhowcws&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=azizoarjmand.info#@Daily_Configs
 vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@norman.ns.cloudflare.com:443?path=/yhowcws&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=azizoarjmand.info#Channel
 vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@norman.ns.cloudflare.com:443?path=/yhowcws&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=azizoarjmand.info#🇬🇧
+vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@norman.ns.cloudflare.com:443?path=/yhowcws&security=tls&encryption=none&insecure=1&host=azizoarjmand.info&type=ws&allowInsecure=1&sni=azizoarjmand.info#@Daily_Configs
