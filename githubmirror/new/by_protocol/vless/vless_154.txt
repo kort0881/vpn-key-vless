@@ -1,6 +1,3 @@
-vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443/?type=ws&encryption=none&flow=&host=terazhedi.info&path=%2Fsghiyws&security=tls&sni=terazhedi.info&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3ADE
-vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443/?type=ws&encryption=none&flow=&host=terazhedi.info&path=🔒
-vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?encryption=none&security=tls&sni=terazhedi.info&allowInsecure=true&type=ws&host=terazhedi.info&path=/sghiyws&packetEncoding=xudp#https://t.me/ShadowsocksM58
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?encryption=none&security=tls&sni=terazhedi.info&fp=chrome&type=ws&host=terazhedi.info&path=/sghiyws&packetEncoding=xudp#https://t.me/ShadowsocksM33
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?encryption=none&security=tls&sni=terazhedi.info&fp=chrome&type=ws&host=terazhedi.info&path=/sghiyws&packetEncoding=xudp#https://t.me/ShadowsocksM64
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?encryption=none&security=tls&sni=terazhedi.info&fp=chrome&type=ws&host=terazhedi.info&path=/sghiyws&packetEncoding=xudp#https://t.me/ShadowsocksM76
@@ -498,3 +495,6 @@ vless://200fa9ac-dc45-48c3-a278-94cdc18e008e@47.239.5.71:36944?security=none&enc
 vless://200fa9ac-dc45-48c3-a278-94cdc18e008e@47.239.5.71:36944?security=none&encryption=none&headerType=none&type=tcp#✨
 vless://2014e8ab-f385-40e2-8c59-46b138c4c4dc@185.162.228.3:80?security=&type=ws&path=🔒
 vless://201771a8-7ed5-4155-8295-00da0a7181ef@37.27.220.218:24199?encryption=none&type=ws&security=none
+vless://201771a8-7ed5-4155-8295-00da0a7181ef@37.27.220.218:24199?encryption=none&type=ws&security=none#Donald_vpn-36
+vless://201c05a2-f76b-4088-bb1d-e4c8ee8909dd@germansana.kesslershop.ir:8997?type=tcp&security=reality&pbk=UgwRcGmt9yqVzDac4KryRxQKvaVDi0eueJPPpmx7pW8&fp=firefox&sni=🔒
+vless://201d12c1-e5f8-4258-baf8-d230efb1b5d8@D-Iran-E.digitalldns.net:8080?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp

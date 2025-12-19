@@ -1,7 +1,3 @@
-vless://2b74e019-81b0-4c77-9f41-2f3aaf04132d@185.231.205.152:443?path=/uefsanws&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1&sni=ads.x5.ru#@Daily_Configs
-vless://2b74e019-81b0-4c77-9f41-2f3aaf04132d@185.231.205.152:443?path=/uefsanws&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1&sni=ads.x5.ru&note=@freeOnlineVPN#🇫🇷
-vless://2b74e019-81b0-4c77-9f41-2f3aaf04132d@185.231.205.152:443?path=/uefsanws&security=tls&encryption=none&type=ws&sni=ads.x5.ru#🇫🇷@FreakConfig
-vless://2b74e019-81b0-4c77-9f41-2f3aaf04132d@185.231.205.152:443?path=🔒
 vless://2b74e019-81b0-4c77-9f41-2f3aaf04132d@185.231.205.152:443?type=ws&encryption=none&flow=&path=%2Fuefsanws&security=tls&sni=ads.x5.ru&allowInsecure=1#RU🇷🇺
 vless://2b74e019-81b0-4c77-9f41-2f3aaf04132d@brenna.ns.cloudflare.com:443?path=/uefsanws&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=639005752550920321.accord-lmnxa.info#Channel
 vless://2b74e019-81b0-4c77-9f41-2f3aaf04132d@brenna.ns.cloudflare.com:443?path=🔒
@@ -28,7 +24,6 @@ vless://2b7ff221-0ea2-4474-ab4e-686e6a11dc65@fra.germany-14.com:2087?security=re
 vless://2b7ff221-0ea2-4474-ab4e-686e6a11dc65@fra.germany-14.com:2087?security=reality&encryption=none&pbk=p8D0V1jYr98lK4kU8FlBYfQ1kMO6zgIx5qI_p5dr_Bc&headerType=none&fp=chrome&type=tcp&sni=tgju.org&sid=6ba85179e30d4fc2&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇩🇪]t.me/Raiv2mmr
 vless://2b7ff221-0ea2-4474-ab4e-686e6a11dc65@fra.germany-14.com:2087?security=reality&encryption=none&pbk=p8D0V1jYr98lK4kU8FlBYfQ1kMO6zgIx5qI_p5dr_Bc&headerType=none&fp=chrome&type=tcp&sni=🔒
 vless://2b7ff221-0ea2-4474-ab4e-686e6a11dc65@fra.germany-14.com:2087?security=reality&encryption=none&pbk=p8D0V1jYr98lK4kU8FlBYfQ1kMO6zgIx5qI_p5dr_Bc&headerType=none&fp=firefox&spx=%2F---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=tcp&sni=tgju.org&sid=6ba85179e30d4fc2#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:51ms
-vless://2b7ff221-0ea2-4474-ab4e-686e6a11dc65@fra.germany-14.com:2087?security=reality&encryption=none&pbk=p8D0V1jYr98lK4kU8FlBYfQ1kMO6zgIx5qI_p5dr_Bc&headerType=none&fp=firefox&type=tcp&sni=tgju.org&sid=6ba85179e30d4fc2#%F0%9F%87%AB%F0%9F%87%B7%40FreakConfig
 vless://2b7ff221-0ea2-4474-ab4e-686e6a11dc65@fra.germany-14.com:2087?security=reality&encryption=none&pbk=p8D0V1jYr98lK4kU8FlBYfQ1kMO6zgIx5qI_p5dr_Bc&headerType=none&fp=firefox&type=tcp&sni=tgju.org&sid=6ba85179e30d4fc2#@meli_proxyy
 vless://2b7ff221-0ea2-4474-ab4e-686e6a11dc65@fra.germany-14.com:2087?security=reality&encryption=none&pbk=p8D0V1jYr98lK4kU8FlBYfQ1kMO6zgIx5qI_p5dr_Bc&headerType=none&fp=firefox&type=tcp&sni=tgju.org&sid=6ba85179e30d4fc2#REALITY|FR🇫🇷
 vless://2b7ff221-0ea2-4474-ab4e-686e6a11dc65@fra.germany-14.com:2087?security=reality&type=tcp&sni=tgju.org&fp=chrome&sid=6ba85179e30d4fc2&pbk=p8D0V1jYr98lK4kU8FlBYfQ1kMO6zgIx5qI_p5dr_Bc&encryption=none#REALITY|FR🇫🇷
@@ -498,3 +493,8 @@ vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.80.183:51615?security=none&en
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.83.138:443?security=&encryption=none&host=zula.ir/?TELEGRAM@VPN66&headerType=http&type=tcp
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.83.138:443?security=none&encryption=none&host=zula.ir/?TELEGRAM@JOKERRVPN&headerType=http&type=tcp
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.92.95:51615?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.92.95:51615?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#@CaV2ray
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.92.95:51615?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.92.95:51615?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@CaV2ray
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.92.95:51615?security=none&encryption=none&host=zula.ir/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.92.95:51615?security=none&encryption=none&host=zula.ir/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#@CaV2ray

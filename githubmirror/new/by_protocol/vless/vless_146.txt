@@ -1,4 +1,3 @@
-vless://02e46039-200d-4ae4-ac90-b0d619f72034@172.64.33.91:443?encryption=none&type=ws&host=redlabell.info&path=%2Faafeuws&security=tls&sni=redlabell.info#[🇳🇱] [vl-tl-ws] [251219-164231.118]
 vless://73856b73-19d2-47e6-b991-5eaa421161ea@www.speedtest.net:443?encryption=none&type=ws&host=aEZA3HoSTpHAseCoNDuCtSofarnEWcAMpvLWS6.MMogAmES.iR.&path=%2Fadmin%3Fed%3D1024&security=tls&alpn=http%2F1.1&sni=aEZA3HoSTpHAseCoNDuCtSofarnEWcAMpvLWS6.MMogAmES.iR.#[🇳🇱] [vl-tl-ws] [251219-164456.624]
 vless://964342f5-d9fc-48ee-9d95-87709d0b831c@www.speedtest.net:443?encryption=none&type=ws&host=azadnet.comelej425.workers.dev&path=%2F99uqzwxlqgtzfinu%3Fed%3D2560&security=tls&alpn=http%2F1.1&fp=randomized&sni=azadnet.comelej425.workers.dev#[🇳🇱] [vl-tl-ws] [251219-164534.424]
 vless://d37d61da-e50d-4f7f-9969-7f0136f97953@delilah.ns.cloudflare.com:443?encryption=none&type=ws&host=hazmkardan.info&path=%2Ffwgisws&security=tls&sni=hazmkardan.info#[🇳🇱] [vl-tl-ws] [251219-164657.695]
@@ -498,3 +497,4 @@ vless://-----v2ray_fark-----@104.16.199.186:2096?type=grpc&serviceName=@v2ray_fa
 vless://-----v2ray_fark-----@104.16.48.41:2096?type=grpc&serviceName=@v2ray_fark@v2ray_fark&mode=multi&security=tls&fp=chrome&alpn=http/1.1,h2&sni=🔒
 vless://-----v2ray_fark-----@metrix.anvary.ir:2087?type=grpc&serviceName=@v2ray_fark@v2ray_fark&security=tls&fp=chrome&alpn=http/1.1&sni=🔒
 vless://-----v2ray_fark-----@v2ray-fark.ddns.net:34671?type=tcp&path=🔒
+vless://-----v2ray_fark-----@v2ray-fark.ddns.net:443?type=grpc&serviceName=Telegram:@v2ray_fark,Telegram:@v2ray_fark,Telegram:@v2ray_fark,Telegram:@v2ray_fark,Telegram:@v2ray_fark,Telegram:@v2ray_fark,Telegram:@v2ray_fark,Telegram:@v2ray_fark,Telegram:@v2ray_fark,Telegram:@v2ray_fark,Telegram:@v2ray_fark,Telegram:@v2ray_fark,Telegram:@v2ray_fark,Telegram:@v2ray_fark,Telegram:@v2ray_fark&security=reality&fp=chrome&pbk=bS3_rNSmRqWK1kNHSZuqkuwraRy4bVfxboLTUgpWalQ&sni=🔒
