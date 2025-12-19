@@ -1,4 +1,3 @@
-vless://f3be6c78-46cd-4409-8ed3-8d36bef0f86c@88.198.160.200:24199?security=none&encryption=none&headerType=none&type=tcp#𝗝𝗼𝗶𝗻
 vless://f3be6c78-46cd-4409-8ed3-8d36bef0f86c@91.98.233.176:24199?security=none&encryption=none&headerType=none&type=tcp
 vless://f3be6c78-46cd-4409-8ed3-8d36bef0f86c@91.98.233.176:24199?security=none&encryption=none&headerType=none&type=tcp#@Hddify
 vless://f3e157bb-8465-4a3e-a79a-023851a181d2@clinkz.fonixapp.org:36200?security=reality&encryption=none&pbk=u2J-NUbVjUxCtEDgdkxQgRDvC059w_lNh_AWfP_EHWE&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=50ea71#@AZARBAYJAB1🇩🇪
@@ -498,3 +497,4 @@ vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@89.116.161.250:8443?encryption=none
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@89.116.180.130:2053?encryption=none&security=tls&sni=🔒
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@89.116.180.130:2053?encryption=none&security=tls&type=ws&sni=🔒
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@89.116.180.161:443?encryption=none&security=tls&sni=🔒
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@89.116.250.6:2083?encryption=none&security=tls&sni=🔒

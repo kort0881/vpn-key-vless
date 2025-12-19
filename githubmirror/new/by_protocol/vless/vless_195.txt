@@ -1,4 +1,3 @@
-vless://b28eb861-1748-4200-ba72-278669edc33b@104.16.16.135:80?path=🔒
 vless://b28eb861-1748-4200-ba72-278669edc33b@104.16.6.169:80/?type=ws&encryption=none&host=coco.mahmoodchitooz.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.16.6.169%3A80
 vless://b28eb861-1748-4200-ba72-278669edc33b@104.16.6.169:80/?type=ws&encryption=none&host=coco.mahmoodchitooz.dpdns.org&path=🔒
 vless://b28eb861-1748-4200-ba72-278669edc33b@104.18.26.90:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=barayeiranmahsang.mahmoodchitooz.dpdns.org&fp=random&type=ws&sni=barayeiranmahsang.mahmoodchitooz.dpdns.org#%F0%9F%9B%A1%EF%B8%8F%20%40FreakConfig
@@ -498,3 +497,4 @@ vless://b71d62ce-af15-4563-b696-3f971101ebfc@172.66.40.99:8080?path=🔒
 vless://b73e6f79-9fbc-4fe3-d2e6-395623925158@159.69.112.17:2095?path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048@XpnTeam?ed=2048@XpnTeam?ed=2048&security=none&encryption=none&host=test3.amin8263.ir&type=ws#@bored_vpn
 vless://b73e6f79-9fbc-4fe3-d2e6-395623925158@159.69.112.17:2095?path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048@XpnTeam?ed=2048@XpnTeam?ed=2048&security=none&encryption=none&host=test3.amin8263.ir&type=ws#@mehrosaboran
 vless://b73e6f79-9fbc-4fe3-d2e6-395623925158@159.69.112.17:2095?path=🔒
+vless://b73e6f79-9fbc-4fe3-d2e6-395623925158@172.67.146.171:2095?path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048@XpnTeam?ed=2048@XpnTeam?ed=2048&security=none&encryption=none&host=test3.amin8263.ir&type=ws#@bored_vpn

@@ -1,4 +1,3 @@
-vless://90d7db9b-972b-4073-8738-12cf42124260@104.19.247.78:443?path=🔒
 vless://90d7db9b-972b-4073-8738-12cf42124260@104.19.253.84:443?encryption=none&security=tls&sni=🔒
 vless://90def0cf-d5c6-4c15-8ed0-405e6ba56c1b@greenwolf.fonixapp.org:28351/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒
 vless://90def0cf-d5c6-4c15-8ed0-405e6ba56c1b@greenwolf.fonixapp.org:28351?security=reality&encryption=none&pbk=GyvksSpuOucs7XsCfiq2yRn3cxVN_Y8b3Zippb_mYCM&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=indeed.com&sid=50bcccfb#IR-@V2rayAlpha--3
@@ -498,3 +497,4 @@ vless://962a733d-2614-0b9b-7ffe-9ac92ffea8ebsuratquran18.xyz:443?path=🔒
 vless://963816bd-b6e7-4648-abff-8af25bc07d87@104.16.3.5:443/?type=ws&encryption=none&host=gulf-d96.pages.dev&path=%2FecY3gziM8W6ud5yj%3Fed&security=tls&sni=gulf-d96.pages.dev#%F0%9F%8F%96%EF%B8%8F50%40oneclickvpnkeys
 vless://963816bd-b6e7-4648-abff-8af25bc07d87@104.16.3.5:443/?type=ws&encryption=none&host=gulf-d96.pages.dev&path=🔒
 vless://963816bd-b6e7-4648-abff-8af25bc07d87@104.16.3.5:443?path=🔒
+vless://963816bd-b6e7-4648-abff-8af25bc07d87@104.16.3.5:443?security=tls&encryption=none&type=ws&host=gulf-d96.pages.dev&path=🔒
