@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 # Mirror.py — CLEAN MIRROR VERSION (with host:port:scheme de-dup and fixed BASE_DIR)
+# + NEW: split githubmirror/new by protocol into chunks of 500
 
 import os
 import shutil
@@ -57,6 +58,9 @@ URLS = [
     "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/Vless-Reality-White-Lists-Rus-Cable.txt",
 ]
 
+CHUNK_SIZE = 500
+NEW_BY_PROTO_DIR = os.path.join(NEW_DIR, "by_protocol")
+
 def clean_start():
     if os.path.exists(BASE_DIR):
         shutil.rmtree(BASE_DIR)
@@ -76,6 +80,17 @@ def extract_host_port_scheme(line: str):
     except Exception:
         return None, None, None
 
+def write_chunks_by_protocol(base_dir: str, protocol: str, items: list, chunk_size: int = 500):
+    proto_dir = os.path.join(base_dir, protocol)
+    os.makedirs(proto_dir, exist_ok=True)
+
+    for start in range(0, len(items), chunk_size):
+        part = items[start:start + chunk_size]
+        part_num = start // chunk_size + 1
+        out_path = os.path.join(proto_dir, f"{protocol}_{part_num:03d}.txt")
+        with open(out_path, "w", encoding="utf-8") as f:
+            f.write("\n".join(part))
+
 def main():
     clean_start()
 
@@ -94,10 +109,22 @@ def main():
         except Exception:
             print(f"{i}/{len(URLS)} ошибка")
 
-    # NEW (сырые ключи)
+    # NEW (сырые ключи) - общий файл
     new_path = os.path.join(NEW_DIR, "all_new.txt")
     with open(new_path, "w", encoding="utf-8") as f:
         f.write("\n".join(all_keys))
+
+    # NEW (сырые ключи) - разбиение по протоколам и по 500
+    raw_buckets = {p: [] for p in PROTOCOLS}
+    for line in all_keys:
+        p = protocol_of(line)
+        if p:
+            raw_buckets[p].append(line)
+
+    for p, items in raw_buckets.items():
+        write_chunks_by_protocol(NEW_BY_PROTO_DIR, p, items, CHUNK_SIZE)
+        chunks = (len(items) + CHUNK_SIZE - 1) // CHUNK_SIZE
+        print(f"NEW {p}: {len(items)} -> {chunks} files")
 
     # Анти-дубликат по host:port:scheme
     seen_ip = set()
@@ -126,7 +153,7 @@ def main():
         out_path = os.path.join(CLEAN_DIR, f"{p}.txt")
         with open(out_path, "w", encoding="utf-8") as f:
             f.write("\n".join(items))
-        print(f"{p}: {len(items)}")
+        print(f"CLEAN {p}: {len(items)}")
 
     print("\nГОТОВО. githubmirror пересобран с нуля.")
 
