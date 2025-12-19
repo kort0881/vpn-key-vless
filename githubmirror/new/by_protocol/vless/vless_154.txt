@@ -1,3 +1,4 @@
+vless://1c83fafe-8107-46ed-a94c-1252de4ceba6@beast-masters.fonixapp.org:443?security=reality&encryption=none&pbk=Y7WW7er4kSFYTxwTw8Lv7Iu-cPH0_Vt3kimM7vD9GHM&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=xp.apple.com&sid=640054#All-@V2rayAlpha--16
 vless://1c83fafe-8107-46ed-a94c-1252de4ceba6@beast-masters.fonixapp.org:443?security=reality&encryption=none&pbk=Y7WW7er4kSFYTxwTw8Lv7Iu-cPH0_Vt3kimM7vD9GHM&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=🔒
 vless://1c83fafe-8107-46ed-a94c-1252de4ceba6@beast-masters.fonixapp.org:443?security=reality&encryption=none&pbk=Y7WW7er4kSFYTxwTw8Lv7Iu-cPH0_Vt3kimM7vD9GHM&host=TELEGRAM--KANAL--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN&headerType=none&fp=chrome&spx=/TELEGRAM--JKVPN--JKVPN&type=tcp&flow=xtls-rprx-vision&sni=xp.apple.com&sid=640054#🇩🇪All⁴
 vless://1c83fafe-8107-46ed-a94c-1252de4ceba6@beast-masters.fonixapp.org:443?security=reality&encryption=none&pbk=Y7WW7er4kSFYTxwTw8Lv7Iu-cPH0_Vt3kimM7vD9GHM&host=TELEGRAM--KANAL--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN&headerType=none&fp=chrome&spx=/TELEGRAM--JKVPN--JKVPN&type=tcp&flow=xtls-rprx-vision&sni=🔒
@@ -245,7 +246,7 @@ vless://1lpxy6haqm@1lpxy6haqm-451516713-direct.zamam.co:443?security=tls&alpn=h2
 vless://1lpxy6haqm@1lpxy6haqm-451516713-direct.zamam.co:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=🔒
 vless://1lpxy6haqm@1lpxy6haqm-451516713-direct.zamam.co:443?security=tls&sni=🔒
 vless://1lpxy6haqm@45.15.167.13:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=1lpxy6haqm-451516713-direct.zamam.co#%F0%9F%87%B1%F0%9F%87%AE%20Liechtenstein%20%F0%9F%94%A5
-vless://1lpxy6haqm@45.15.167.13:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=1lpxy6haqm-451516713-direct.zamam.co#👉🆔@v2ray_configs_pool📡🇱🇮®️Liechtenstein©️Vaduz🅿️ping:84ms
+vless://1lpxy6haqm@45.15.167.13:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=1lpxy6haqm-451516713-direct.zamam.co#👉🆔@v2ray_configs_pool📡🇱🇮®️Liechtenstein©️Vaduz🅿️ping:72ms
 vless://1lpxy6haqm@45.15.167.13:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒
 vless://1lpxy6haqm@npmjs.com:2053?path=/download/cdn&security=tls&alpn=h2,http/1.1&encryption=none&host=1lpxy6haqm-451516713.zamam.co&fp=chrome&type=httpupgrade&sni=1lpxy6haqm-451516713.zamam.co#🇱🇮⤿
 vless://1lpxy6haqm@npmjs.com:2053?path=🔒
@@ -497,4 +498,3 @@ vless://21d509b3-1a2a-4ad0-a11e-17cd92ea2d8a@www.speedtest.net:80?path=🔒
 vless://21d57e3e-b331-40c1-9b97-fe5a72cb1047@62.60.178.200:20322?type=tcp&security=reality&pbk=-3D1yyc2r7xOKDJ_nvn5x5Ij7tWYxKTpQmKiukGG7B4&fp=chrome&sni=🔒
 vless://21d64444-0133-4fe1-96b7-4595712a4bcb@binex.tv.sedanor.ir:6666?security=&encryption=none&type=grpc&serviceName=/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy
 vless://21d889b6-78c3-4ad0-be32-145bc41f68d6@www.speedtest.net:8880/?type=ws&encryption=none&host=VPNCUSTOMIZE.www.webdade.com.www.speedtest.net.irna.ir.ips.ddns-ip.net.&path=%2FChannel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE%3Fed%3D2048#53%F0%9F%AA%86%40oneclickvpnkeys
-vless://21d889b6-78c3-4ad0-be32-145bc41f68d6@www.speedtest.net:8880/?type=ws&encryption=none&host=VPNCUSTOMIZE.www.webdade.com.www.speedtest.net.irna.ir.ips.ddns-ip.net.&path=🔒
