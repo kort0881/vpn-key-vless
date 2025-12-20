@@ -1,3 +1,4 @@
+vless://TELEGRAM-CONFiGLiNE-60@test.fast.hosting-ip.com:80?mode=auto&path=🔒
 vless://TELEGRAM-CONFiGLiNE-61@test.fast.hosting-ip.com:80?mode=auto&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&security=none&encryption=none&host=loaiji.global.ssl.fastly.net&type=xhttp#[🇩🇪]@configLINE(5)
 vless://TELEGRAM-CONFiGLiNE-61@test.fast.hosting-ip.com:80?mode=auto&path=🔒
 vless://TELEGRAM-CONFiGLiNE-61@test.fast.hosting-ip.com:80?type=xhttp&encryption=none&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&host=loaiji.global.ssl.fastly.net&mode=auto&security=none#[🇩🇪]@configLINE(5)
@@ -497,4 +498,3 @@ vless://a04f1f54-0958-41cc-b76f-03338cf79ca3@146.103.33.38:443?encryption=none&s
 vless://a04f1f54-0958-41cc-b76f-03338cf79ca3@81.22.132.254:443/?type=ws&encryption=none&flow=&host=cold-snow-07fa.mokhinmokhini.workers.dev&path=🔒
 vless://a04f1f54-0958-41cc-b76f-03338cf79ca3@81.22.132.254:443?encryption=none&security=tls&sni=cold-snow-07fa.mokhinmokhini.workers.dev&fp=chrome&type=ws&host=cold-snow-07fa.mokhinmokhini.workers.dev&path=/#@vmessorg
 vless://a04f1f54-0958-41cc-b76f-03338cf79ca3@81.22.132.254:443?encryption=none&security=tls&sni=🔒
-vless://a04f1f54-0958-41cc-b76f-03338cf79ca3@88.218.76.250:2053?encryption=none&security=tls&sni=cold-snow-07fa.mokhinmokhini.workers.dev&fp=chrome&type=ws&host=cold-snow-07fa.mokhinmokhini.workers.dev&path=/#@vmessorg

@@ -1,3 +1,4 @@
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@47.76.37.57:2087?encryption=none&security=tls&sni=🔒
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@61.220.41.143:36633?encryption=none&security=tls&sni=🔒
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@8.210.119.191:81?encryption=none&security=tls&sni=🔒
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@8.210.21.65:2096?encryption=none&security=tls&sni=🔒
@@ -497,4 +498,3 @@ vless://2fd1b67f-bc9e-4a66-a4c3-73599997d001@85.239.60.43:8443?security=reality&
 vless://2fd56be8-7b18-4b61-b862-0f2fc10c3694@104.17.88.212:443/?type=ws&encryption=none&security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev
 vless://2fd56be8-7b18-4b61-b862-0f2fc10c3694@104.31.16.136:443/?type=ws&encryption=none&host=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&path=%2F%3Fed%3D2048&security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&alpn=h3%2Ch2&fp=chrome#%40Hope_Net-join-us-on-Telegram
 vless://2fd823dd-767b-4245-b56e-4790ca8c1a93@172.82.67.154:11476?security=reality&encryption=none&pbk=dHyiM189GsudgANJT4X9fxzsTnBUvoEUAjrJFnPGp2I&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒
-vless://2fd8bc88-ec5e-4de6-8545-b5cbfc08e965@brenna.ns.cloudflare.com:443?encryption=none&security=tls&sni=639006703178819173.sylphy-amsiv.info&type=ws&host=639006703178819173.sylphy-amsiv.info&path=%2Fjyqbqpws#RELAY🚩

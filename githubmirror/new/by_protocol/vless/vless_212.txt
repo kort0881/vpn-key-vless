@@ -1,3 +1,4 @@
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.85.118.85:2053/?type=ws&encryption=none&host=dl1-pl-cdn.easy-upload.org&path=%2F&security=tls&sni=dl1-pl-cdn.easy-upload.org&alpn=h2%2Chttp%2F1.1&fp=random#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B5%F0%9F%87%B1
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.85.118.85:2053?path=🔒
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.85.119.123:2053/?type=ws&encryption=none&host=dl1-uk-cdn.easy-upload.org&path=%2F&security=tls&sni=dl1-uk-cdn.easy-upload.org#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AC%F0%9F%87%A7
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.85.119.123:2053?path=🔒
@@ -497,4 +498,3 @@ vless://f0383138-8329-40cf-8b68-dabcd1b6c754@nl02-rblx01.tcp-reset-club.net:443/
 vless://f0383138-8329-40cf-8b68-dabcd1b6c754@nl02-rblx01.tcp-reset-club.net:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒
 vless://f0383138-8329-40cf-8b68-dabcd1b6c754@nl02-rblx01.tcp-reset-club.net:443?security=reality&type=tcp&sni=hls-svod.itunes.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=8453e5fd9af927&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%B3%F0%9F%87%B1NL%20%F0%9F%A7%AD%203.8MB%2Fs
 vless://f0383138-8329-40cf-8b68-dabcd1b6c754@nl02-rblx01.tcp-reset-club.net:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&fp=chrome&security=reality&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=8453e5fd9af927#REALITY|NL🇳🇱
-vless://f0383138-8329-40cf-8b68-dabcd1b6c754@nl02-vlr01.tcp-reset-club.net:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&fp=chrome&security=reality&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=86e999a2cdc2#t.me/entryNET/config=1851923424540861

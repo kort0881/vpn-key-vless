@@ -1,3 +1,4 @@
+vless://5da28a7c-df07-4a76-88bf-ede241471e06@gr.dnszone.top:45500?security=none&encryption=none&headerType=none&type=tcp
 vless://5da52d2d-1ab8-48d0-8421-8354fd6ce7d3@104.18.5.250:443?path=/?ed=2048@v2ray_configs_pools--@v2ray_configs_pools&security=tls&encryption=none&host=rAyAn-cOnFiG-04.rAyAn-iI.DnS-DyNaMiC.NeT&fp=chrome&type=ws&sni=rAyAn-cOnFiG-04.rAyAn-iI.DnS-DyNaMiC.NeT#@v2ray_configs_pools👈⚡❤️‍🔥
 vless://5da52d2d-1ab8-48d0-8421-8354fd6ce7d3@104.18.5.250:443?path=🔒
 vless://5da52d2d-1ab8-48d0-8421-8354fd6ce7d3@jquery.com:443?security=tls&sni=🔒
@@ -497,4 +498,3 @@ vless://63005378-e32e-4e23-bc6e-84812f147a6f@45.159.219.96:443/?type=ws&encrypti
 vless://63005378-e32e-4e23-bc6e-84812f147a6f@45.159.219.96:443/?type=ws&encryption=none&host=ConFIgmr.PaGeS.dEV&path=🔒
 vless://63005378-e32e-4e23-bc6e-84812f147a6f@45.159.219.96:443?path=🔒
 vless://63055150-ec7c-4bf3-9708-3fe7d6e1d912@104.18.58.47:2087?path=🔒
-vless://6306f288-a5f5-4886-8e6d-944d1a951cfd@185.146.173.58:8080?encryption=none&host=lc10.lebasnoo.ir.&path=🔒

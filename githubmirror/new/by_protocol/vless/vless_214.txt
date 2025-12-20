@@ -1,3 +1,4 @@
+vless://f515c834-d3f9-4be2-9326-f72a0d3b6c11@102.177.189.98:8080?path=🔒
 vless://f515c834-d3f9-4be2-9326-f72a0d3b6c11@104.26.15.69:8080?path=🔒
 vless://f517b556-fe6c-4936-b9d8-a69c1ac45cf7@116.203.121.238:46578?security=&type=ws&path=🔒
 vless://f52124d2-47d2-473b-b9ba-50772a829370@94.131.110.122:443/?type=ws&encryption=none&flow=&path=/rlsusiws&security=tls&sni=www.vk.com&allowInsecure=1#📡12@oneclickvpnkeys
@@ -497,4 +498,3 @@ vless://f83a24ef-8a18-4927-9b74-b6989e4b09c2@93.127.180.106:8880?security=none&s
 vless://f83a24ef-8a18-4927-9b74-b6989e4b09c2@93.127.180.106:8880?security=none&serviceName=Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH&encryption=none&headerType=none&type=tcp#JOIN
 vless://f83edd4e-1d53-42f0-a68b-92bef3a6a792@46.101.163.141:55093?security=none&type=tcp&headerType=none&path=🔒
 vless://f83edd4e-1d53-42f0-a68b-92bef3a6a792@87.107.104.132:55094?security=none&type=tcp&headerType=none&path=🔒
-vless://f83edd4e-1d53-42f0-a68b-92bef3a6a792@87.248.129.96:55093?encryption=none&security=none&type=tcp&headerType=none
