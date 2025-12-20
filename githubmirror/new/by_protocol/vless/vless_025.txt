@@ -1,3 +1,5 @@
+vless://4793080b-0469-4dad-b8ff-d067ed52e088@45.14.244.53:443?path=/ljofyzws&security=tls&encryption=none&type=ws&sni=github.com#@FreakConfig
+vless://47994c30-bd6e-4045-9e1c-1841a4acab30@85.9.214.105:80?type=tcp&path=/&host=zula.ir&headerType=http&security=none#telegram  v2ray_configs_pools
 vless://47a3dff4-4684-4d3a-9fb2-6358ded3090a@Free.fast199.hosting-ip.com:80?mode=auto&path=/@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam&security=&encryption=none&host=Mahsazxshop.org&type=xhttp# | XpnTeam - Telegrams-0d1lue51
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@104.131.95.183:59483?encryption=none&security=none&type=grpc#telegram  v2ray_configs_pools
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@162.243.99.69:59483?mode=gun&security=none&encryption=none&type=grpc#  : @V2Gatee
@@ -496,5 +498,3 @@ vless://575b3f5a-7d98-41c8-f252-a1ac9eeedcec@172.67.146.171:2095?path=/@XpnTeam/
 vless://575b3f5a-7d98-41c8-f252-a1ac9eeedcec@test2.amin8263.ir:2095?type=ws&encryption=none&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048@XpnTeam?ed=2048@XpnTeam?ed=2048&host=test3.amin8263.ir&security=none# | XpnTeam - Telegrams-nhim7b9p
 vless://575b3f5a-7d98-41c8-f252-a1ac9eeedcec@www.speedtest.net:2095?path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048@XpnTeam?ed=2048@XpnTeam?ed=2048&security=none&encryption=none&host=test3.amin8263.ir&type=ws#@bored_vpn
 vless://575d2e5e-e7a4-48b8-a55e-aa38e16a3106@104.16.59.70:80?encryption=none&security=none&type=ws&host=flat-bird-3aa7-ppal03.hesiwap437.workers.dev&path=/?ed=2560#Ch: @pPal03
-vless://575d2e5e-e7a4-48b8-a55e-aa38e16a3106@104.24.161.187:80?encryption=none&security=none&type=ws&host=flat-bird-3aa7-ppal03.hesiwap437.workers.dev&path=/?ed=2560#Ch: @pPal03
-vless://5778e705-2783-4c59-81d5-ebe099c2edab@104.17.147.22:80?path=/@Vpn_Mikey@Vpn_Mikey&security=none&encryption=none&host=Vpn_Mikey-speedtest.net.Amir-Mikey.Tech.&type=httpupgrade#@Vpn_Mikey | unlimitedGB
