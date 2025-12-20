@@ -1,3 +1,4 @@
+vless://500d3ced-b8a3-4a3b-8dce-2ded5dae1fce@91.107.244.240:443?encryption=none&security=none&type=ws&host=soft98.ir&path=🔒
 vless://500d3ced-b8a3-4a3b-8dce-2ded5dae1fce@91.107.244.240:443?path=/&security=&encryption=none&host=soft98.ir&type=ws#Channel
 vless://500d3ced-b8a3-4a3b-8dce-2ded5dae1fce@91.107.244.240:443?path=/&security=none&encryption=none&host=soft98.ir&type=ws#@V2ray1_Ng
 vless://500d3ced-b8a3-4a3b-8dce-2ded5dae1fce@91.107.244.240:443?path=/&security=none&encryption=none&host=soft98.ir&type=ws#Channel
@@ -497,4 +498,3 @@ vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@brenna.ns.cloudflare.com:443?path=%
 vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@clyde.ns.cloudflare.com:443?path=/cahttingws&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=639008791615851231.golf-amsix.info#Channel
 vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@clyde.ns.cloudflare.com:443?path=🔒
 vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@cosmin.ns.cloudflare.com:443?path=%2Fcahttingws&security=tls&encryption=none&host=639000411272217052.swift-amsin.info&fp=chrome&type=ws&sni=639000411272217052.swift-amsin.info#RELAY🚩
-vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@cosmin.ns.cloudflare.com:443?path=/cahttingws&security=tls&encryption=none&host=638988506136311592.corolla-amshw.info&type=ws&sni=638988506136311592.corolla-amshw.info#Join

@@ -1,3 +1,4 @@
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@173.245.49.210:443/?type=ws&encryption=none&path=%2F%3Fed%3D2048&security=tls&sni=lw.kpcloud.eu.org#%40Hope_Net-join-us-on-Telegram
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@173.245.49.27:443/?type=ws&encryption=none&path=%2F%3Fed%3D2048&security=tls&sni=lw.kpcloud.eu.org#%40Hope_Net-join-us-on-Telegram
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@173.245.49.56:443/?type=ws&encryption=none&flow=&host=lj.kpcloud.eu.org&path=🔒
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@173.245.49.56:443/?type=ws&encryption=none&host=lj.kpcloud.eu.org&path=...&security=tls&sni=lj.kpcloud.eu.org
@@ -497,4 +498,3 @@ vless://a19fd311-c343-4b54-9ca3-fe6dcd84c0fc@38.47.176.134:59967/?type=tcp&encry
 vless://a19fd311-c343-4b54-9ca3-fe6dcd84c0fc@38.47.176.134:59967/?type=tcp&encryption=none#38.47.176.134
 vless://a19fd311-c343-4b54-9ca3-fe6dcd84c0fc@38.47.176.134:59967/?type=tcp&encryption=none&flow=&packetEncoding=xudp
 vless://a1a0cb28-2cdd-4fb5-beb6-ce13735567a0@151.101.25.242:80?mode=auto&path=%2F%3Fed%3D2560&security=&encryption=none&host=maxde22.global.ssl.fastly.net&type=xhttp#US🇺🇸
-vless://a1a0cb28-2cdd-4fb5-beb6-ce13735567a0@151.101.25.242:80?mode=auto&path=%2F%3Fed%3D2560&security=none&encryption=none&host=maxde22.global.ssl.fastly.net&type=xhttp#US🇺🇸

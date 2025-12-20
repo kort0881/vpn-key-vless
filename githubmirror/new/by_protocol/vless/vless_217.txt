@@ -1,3 +1,4 @@
+vless://fc7ed3a4-da90-475f-a751-769eca257af7@172.67.215.65:2053?path=🔒
 vless://fc7f9c12-7ff6-475a-b17f-e25084d1fdb3@62.60.178.200:20322/?type=tcp&encryption=none&sni=🔒
 vless://fc7f9c12-7ff6-475a-b17f-e25084d1fdb3@62.60.178.200:20322?type=tcp&security=reality&pbk=-3D1yyc2r7xOKDJ_nvn5x5Ij7tWYxKTpQmKiukGG7B4&fp=chrome&sni=🔒
 vless://fc859b7f-4a1e-4f59-be63-d77235d9b3a0@www.wodophonex.blog:55877?path=/&security=tls&alpn=h2,http/1.1&encryption=none&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&type=ws#🇩🇪
@@ -497,4 +498,3 @@ vless://telegram-id-ArV2ray@www.speedtest.net:80?path=🔒
 vless://telegram-id-ArV2ray@www.speedtest.net:80?type=ws&path=🔒
 vless://telegram-id-ArV2ray@www.speedtest.net:8880?encryption=none&host=1.www.speedtest.net.B.speedtest2.Live.&path=🔒
 vless://telegram-id-ArV2ray@www.speedtest.net:8880?encryption=none&host=2.V2.www.speedtest.net.h.speedtest-3.Shop.&path=🔒
-vless://telegram-id-ArV2ray@www.speedtest.net:8880?encryption=none&host=3.V2.c.www.speedtest.net.bahrane.iR.&path=🔒

@@ -1,3 +1,4 @@
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.72:8880?security=none&allowInsecure=1&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20Paris%20%F0%9F%8C%8D%20VL-GRPC-NONE%204%E2%83%A3
 vless://395c2a67-fe4d-4f73-b7d5-35d2b679d6a9@65.109.205.214:12214?security=none&encryption=none&type=ws&path=%2f#%f0%9f%87%ab%f0%9f%87%ae%20FI%201
 vless://395c2a67-fe4d-4f73-b7d5-35d2b679d6a9@65.109.205.214:12214?type=ws&path=%2f#%f0%9f%87%ab%f0%9f%87%ae%20FI%202
 vless://ca14b15a-50d5-4e2c-9ebd-85b2d0dd1651@dedi.netbazchanell.ir:2087?security=tls&encryption=none&type=grpc&path=%2f&allow_insecure=1#%f0%9f%87%ab%f0%9f%87%ae%20FI%204
@@ -497,4 +498,3 @@ vless://17a7bf97-fef5-4101-a5c5-7c730fabeeee@172.66.47.56:2053?security=tls&sni=
 vless://3116cc23-0c39-4bb6-8154-d3f332e9017e@fi4.srv.oplcdn.link:6443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=debug.resolvertest.doh.umbrella.com&sid=6ba85179e30d4fc2#🇫🇮[openproxylist.com] vless-FI```
 vless://dc34e596-701c-4054-b3f9-5b9cc4274031@dl79.sulduznet.ir:35029?security=reality&type=tcp&sni=refersion.com&fp=chrome&sid=9d0424d2&pbk=pS1czo_t8PCQta3IAKrIh-j2_NrOYtGRnoiPTD7ZL1M&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%AB%F0%9F%87%AEFI_1%20%F0%9F%A7%AD%205.2MB%2Fs`
 vless://d3a12e79-ef42-4268-b367-42eeb3494e60@172.66.44.197:443?security=tls&sni=Hagh.PaGes.DEv&type=ws&host=Hagh.PaGes.DEv&path=%2FPath%2FTelegram@FreeVirgoolNet%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
-vless://8b19f5e0-7e51-4311-92da-0c56fda12f63@parsvds.com:80?security=&type=ws&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D80&host=join-to.vmessorg.Community.&encryption=none#@Hope_Net-join-us-on-Telegram
