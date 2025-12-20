@@ -1,3 +1,5 @@
+vless://cb11729b-5e0f-4b2f-ab24-c46447d70ffd@65.109.220.108:443?mode=gun&security=reality&encryption=none&pbk=UaozFwutxGNcfJIJMoMDBR7lzxG1wF9V0zTK0kG-vxo&fp=chrome&type=grpc&serviceName=telegram-@SpringHQ,telegram-@SpringHQ,telegram-@SpringHQ,telegram-@SpringHQ,telegram-@SpringHQ,telegram-@SpringHQ,telegram-@SpringHQ&sni=🔒
+vless://cb11729b-5e0f-4b2f-ab24-c46447d70ffd@65.109.220.108:443?type=grpc&encryption=none&serviceName=telegram-@SpringHQ,telegram-@SpringHQ,telegram-@SpringHQ,telegram-@SpringHQ,telegram-@SpringHQ,telegram-@SpringHQ,telegram-@SpringHQ&authority=&security=reality&pbk=UaozFwutxGNcfJIJMoMDBR7lzxG1wF9V0zTK0kG-vxo&fp=chrome&sni=preview.redd.it&sid=1df5f63bade0&spx=/#Reality25
 vless://cb11729b-5e0f-4b2f-ab24-c46447d70ffd@65.109.220.108:443?type=grpc&encryption=none&serviceName=telegram-@SpringHQ,telegram-@SpringHQ,telegram-@SpringHQ,telegram-@SpringHQ,telegram-@SpringHQ,telegram-@SpringHQ,telegram-@SpringHQ&authority=&security=reality&pbk=UaozFwutxGNcfJIJMoMDBR7lzxG1wF9V0zTK0kG-vxo&fp=chrome&sni=🔒
 vless://cb12aa10-1831-42a0-a489-bc459885187d@www.speedtest.net:80?path=🔒
 vless://cb12aa10-1831-42a0-a489-bc459885187d@www.speedtest.net:80?type=ws&host=s1.VPNCUSTOMIZE.dNs-dynamic.neT.&path=🔒
@@ -496,5 +498,3 @@ vless://cef1e956-e92b-4dbb-999a-6524679f8a40@51.222.158.206:80?path=/vless/&secu
 vless://cef1e956-e92b-4dbb-999a-6524679f8a40@51.222.158.206:80?path=/vless/&security=none&encryption=none&type=ws#All-@V2rayAlpha--7
 vless://cef1e956-e92b-4dbb-999a-6524679f8a40@51.222.158.206:80?path=🔒
 vless://cef4ee17-07fd-492f-921e-ddaa6294ba51@217.195.200.206:53654?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=stackoverflow.com&pbk=lzLim-E_IwmH9H5RvncDdOG4hUe7yy6_bxh2wusbryk&sid=f7&spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#🇦🇪
-vless://cef4ee17-07fd-492f-921e-ddaa6294ba51@217.195.200.206:53654?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=🔒
-vless://cef4ee17-07fd-492f-921e-ddaa6294ba51@dubai.fonixapp.org:53654?security=reality&encryption=none&pbk=lzLim-E_IwmH9H5RvncDdOG4hUe7yy6_bxh2wusbryk&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=f7#@IRAN_V2RAY1--MCI

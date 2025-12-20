@@ -1,3 +1,5 @@
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.21.11.173:443?path=@V2rayBaaz&security=tls&encryption=none&alpn=http/1.1&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#@v2ray_configs_pools
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.21.11.173:443?path=@v2ray_configs_pools&security=tls&encryption=none&alpn=http/1.1&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#@v2ray_configs_pools
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.21.11.173:443?path=🔒
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.21.67.11:443/?type=ws&encryption=none&host=carlotta.shoorekeeper.cloudns.org&path=%2F&security=tls&sni=carlotta.shoorekeeper.cloudns.org&alpn=http%2F1.1&fp=chrome#%40v2ray_configs_pool
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.21.67.11:443/?type=ws&encryption=none&host=carlotta.shoorekeeper.cloudns.org&path=🔒
@@ -496,5 +498,3 @@ vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@103.245.228.143:8880/?type=ws&encry
 vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@103.245.228.254:8880/?type=ws&encryption=none&host=yg.bantony199.top&path=%2F#%40networld_vpn
 vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@103.245.228.254:8880/?type=ws&encryption=none&host=yg.bantony199.top&path=🔒
 vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@104.129.165.254:8880/?type=ws&encryption=none&host=yg.bantony199.top&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#%E2%98%9458%40oneclickvpnkeys
-vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@104.129.165.254:8880/?type=ws&encryption=none&host=yg.bantony199.top&path=🔒
-vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@104.254.140.254:8880/?type=ws&encryption=none&host=yg.bantony199.top&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560#%F0%9F%AB%9C51%40oneclickvpnkeys

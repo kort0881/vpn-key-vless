@@ -1,3 +1,5 @@
+vless://84fc796b-6ac3-4465-98cf-2ae6fd58b4a7@188.114.99.99:2053?type=grpc&serviceName=https%3A%2F%2Ft.me%2Fnew_proxy_channel-%40new_proxy_channel&authority=&security=tls&fp=chrome&alpn=http%2F1.1&sni=🔒
+vless://84fcffc1-4f4f-4b66-bd2c-31a59681268b@104.21.59.22:2096/?type=ws&encryption=none&path=%2F&security=tls&sni=void.crehistory.org&fp=chrome#%40Hope_Net-join-us-on-Telegram
 vless://84fcffc1-4f4f-4b66-bd2c-31a59681268b@104.21.59.22:2096/?type=ws&encryption=none&path=🔒
 vless://84fcffc1-4f4f-4b66-bd2c-31a59681268b@172.67.211.140:2096/?type=ws&encryption=none&path=%2F&security=tls&sni=void.crehistory.org&fp=chrome#%40Hope_Net-join-us-on-Telegram
 vless://84fcffc1-4f4f-4b66-bd2c-31a59681268b@172.67.211.140:2096/?type=ws&encryption=none&path=🔒
@@ -496,5 +498,3 @@ vless://897a4bec-26b8-11e8-94be-00505695472c@104.16.34.159:443/?type=ws&encrypti
 vless://897a4bec-26b8-11e8-94be-00505695472c@104.16.34.159:443/?type=ws&encryption=none&host=xv6.jpmj.dpdns.org#%40Hope_Net-join-us-on-Telegram
 vless://897a4bec-26b8-11e8-94be-00505695472c@104.16.42.81:443/?type=ws&encryption=none&host=xv6.jpmj.dpdns.org
 vless://897a4bec-26b8-11e8-94be-00505695472c@104.16.42.81:443/?type=ws&encryption=none&host=xv6.jpmj.dpdns.org#%40Hope_Net-join-us-on-Telegram
-vless://897a4bec-26b8-11e8-94be-00505695472c@104.16.47.109:443/?type=ws&encryption=none&host=xv6.jpmj.dpdns.org
-vless://897a4bec-26b8-11e8-94be-00505695472c@104.16.47.109:443/?type=ws&encryption=none&host=xv6.jpmj.dpdns.org#%40Hope_Net-join-us-on-Telegram

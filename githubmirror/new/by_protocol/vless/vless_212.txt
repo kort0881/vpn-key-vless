@@ -1,3 +1,5 @@
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@31.43.179.234:2053/?type=ws&encryption=none&host=dl1-fr-cdn.easy-upload.org&path=%2F&security=tls&sni=dl1-fr-cdn.easy-upload.org#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AB%F0%9F%87%B7
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@31.43.179.234:2053?path=🔒
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@31.43.179.34:2053/?type=ws&encryption=none&host=dl1-fr-cdn.easy-upload.org&path=%2F&security=tls&sni=dl1-fr-cdn.easy-upload.org#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AB%F0%9F%87%B7
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@31.43.179.34:2053?path=🔒
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@31.43.179.83:2053/?type=ws&encryption=none&host=dl1-pl-cdn.easy-upload.org&path=%2F&security=tls&sni=dl1-pl-cdn.easy-upload.org&alpn=h2%2Chttp%2F1.1&fp=random#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B5%F0%9F%87%B1
@@ -496,5 +498,3 @@ vless://eea96ff1-ce17-4c8c-964c-fa774ecb84f2@94.131.100.164:443/?type=ws&encrypt
 vless://eea96ff1-ce17-4c8c-964c-fa774ecb84f2@94.131.100.164:443/?type=ws&encryption=none&flow=&path=🔒
 vless://eea96ff1-ce17-4c8c-964c-fa774ecb84f2@94.131.100.164:443?path=%2Fgfvfgzws&security=tls&encryption=none&type=ws&sni=www.vk.com#I%2050%20%28%40Outline_Vpn%29%20free
 vless://eea96ff1-ce17-4c8c-964c-fa774ecb84f2@94.131.100.164:443?path=/gfvfgzws&security=tls&encryption=none&type=ws&sni=www.vk.com#FI🇫🇮
-vless://eeab2e9e-bdf6-4490-b941-2235ee077aab@104.16.53.11:80?path=🔒
-vless://eeb1d180-58df-4797-b88f-e94802bcabac@serv3.alpha2.sbs:2083?security=tls&sni=🔒

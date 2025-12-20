@@ -1,3 +1,5 @@
+vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@45.154.96.164:443/?type=xhttp&encryption=none&flow=&security=tls&sni=🔒
+vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@45.154.96.164:443/?type=xhttp&encryption=none&security=tls&sni=statue.lnmarketplace.net&alpn=h2&fp=firefox#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40v2rayvpn2%20%5B5%5D
 vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@[2a01:4f8:c013:a2c1::b00b]:443?mode=stream-one&path=/statue&security=tls&alpn=h3&encryption=none&type=xhttp&sni=statue.lnmarketplace.net#All--@IRAN_V2RAY1
 vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@[2a01:4f8:c013:a2c1::b00b]:443?mode=stream-one&path=🔒
 vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@[2a10:4640:0:ff38::1]:443?mode=stream-one&path=/statue&security=tls&alpn=h2&encryption=none&extra={
@@ -496,5 +498,3 @@ vless://8041c6d9-8359-4e57-a55d-8f14e99bb9bc@172.64.93.90:2053/?type=ws&encrypti
 vless://8041c6d9-8359-4e57-a55d-8f14e99bb9bc@173.245.49.113:443/?type=ws&encryption=none&host=lv.ylks01.eu.org&path=%2F%3Fed%3D2560&security=tls&sni=lv.ylks01.eu.org#%40Hope_Net-join-us-on-Telegram
 vless://8041c6d9-8359-4e57-a55d-8f14e99bb9bc@173.245.49.149:443/?type=ws&encryption=none&host=lv.ylks01.eu.org&path=%2F%3Fed%3D2560&security=tls&sni=lv.ylks01.eu.org#%40Hope_Net-join-us-on-Telegram
 vless://8041c6d9-8359-4e57-a55d-8f14e99bb9bc@173.245.58.51:443/?type=ws&encryption=none&host=lv.ylks01.eu.org&path=%252...&security=tls&sni=lv.ylks01.eu.org
-vless://8041c6d9-8359-4e57-a55d-8f14e99bb9bc@173.245.59.110:2053/?type=ws&encryption=none&host=lv.ylks01.eu.org&path=...&security=tls&sni=lv.ylks01.eu.org
-vless://8041c6d9-8359-4e57-a55d-8f14e99bb9bc@173.245.59.200:443/?type=ws&encryption=none&host=lv.ylks01.eu.org&path=%2F%3Fed%3D2560&security=tls&sni=lv.ylks01.eu.org#%40Hope_Net-join-us-on-Telegram

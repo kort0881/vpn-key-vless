@@ -1,3 +1,5 @@
+vless://a1ea5e36-54fd-4eea-b583-f59da53d099b@45.14.245.5:443/?type=ws&encryption=none&flow=&path=🔒
+vless://a1ea5e36-54fd-4eea-b583-f59da53d099b@45.14.245.5:443?path=%2Fjkghvmws&security=tls&encryption=none&type=ws&sni=github.com#US🇺🇸
 vless://a1ea5e36-54fd-4eea-b583-f59da53d099b@45.14.245.5:443?path=/jkghvmws&security=tls&encryption=none&type=ws&sni=github.com#All_30--@V2rayAlpha
 vless://a1ea5e36-54fd-4eea-b583-f59da53d099b@45.14.245.5:443?path=/jkghvmws&security=tls&encryption=none&type=ws&sni=github.com#🇳🇱@FreakConfig
 vless://a1ea5e36-54fd-4eea-b583-f59da53d099b@45.14.245.5:443?path=🔒
@@ -496,5 +498,3 @@ vless://a61eb3a2-1adb-48cb-ab46-ce225769de16@5.161.47.151:443?security=tls&sni=�
 vless://a61eb3a2-1adb-48cb-ab46-ce225769de16@ada102.oshtd.com:443?security=tls&type=ws&path=🔒
 vless://a61eb3a2-1adb-48cb-ab46-ce225769de16@ada145.lefxb.com:443?security=tls&type=ws&path=🔒
 vless://a61eb3a2-1adb-48cb-ab46-ce225769de16@ada7.maioy.com:443?path=users?ed=2048&security=tls&encryption=none&type=ws#t.me/entryNET/config=1851929086466062
-vless://a61eb3a2-1adb-48cb-ab46-ce225769de16@ada7.maioy.com:443?path=🔒
-vless://a61eb3a2-1adb-48cb-ab46-ce225769de16@ada70.fupaj.com:443?security=tls&type=ws&path=🔒
