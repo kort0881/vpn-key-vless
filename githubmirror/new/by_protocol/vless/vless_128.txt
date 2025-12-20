@@ -1,5 +1,3 @@
-vless://309fa273-6579-4cb2-9143-7cad50401eba@146.19.80.234:443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#%40meli_proxyy
-vless://49aefaed-ad06-4ce9-ad25-b75b6b489b0c@www.speedtest.net:8880?path=%2F%3Fed%3D2048&security=none&encryption=none&host=mx.amin8263.ir&type=ws#@meli_proxyy
 vless://beb0de6b-9494-4715-a1d0-f2e4064116b1@85.209.153.125:443?path=%2Farfdccws&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1#@meli_proxyy
 vless://aee540f8-fb73-4ee7-98f9-125d4d1d41ff@de2.tunnely.ru:443?security=reality&encryption=none&pbk=pPGE5Uacj1AGAB_WLOXB_UUnVBOmuJGH0vTSfmRBKzM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=de2.tunnely.ru&sid=2e40144ddc07e8e1#@meli_proxyy
 vless://9efbff33-0318-4914-b78d-f47188b58875@141.98.169.104:443?path=%2Flwcnhxws&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1#@meli_proxyy
@@ -498,3 +496,5 @@ vless://fac5bd45-2183-40d0-981a-d22d2166fd4f@104.19.79.222:443/?type=ws&encrypti
 vless://fac5bd45-2183-40d0-981a-d22d2166fd4f@172.64.229.186:443/?type=ws&encryption=none&host=dalinceshi.icu&path=%2F%3Fed%3D2560&security=tls&sni=dalinceshi.icu&fp=random#%E2%9A%99%EF%B8%8F55%40oneclickvpnkeys
 vless://fac5bd45-2183-40d0-981a-d22d2166fd4f@172.66.2.8:443/?type=ws&encryption=none&host=dalinceshi.icu&path=%2F%3Fed%3D2560&security=tls&sni=dalinceshi.icu&fp=random#%E2%9A%99%EF%B8%8F67%40oneclickvpnkeys
 vless://fac5bd45-2183-40d0-981a-d22d2166fd4f@104.17.214.235:443/?type=ws&encryption=none&host=dalinceshi.icu&path=%2F%3Fed%3D2560&security=tls&sni=dalinceshi.icu&fp=random#%E2%9A%99%EF%B8%8F73%40oneclickvpnkeys
+vless://fac5bd45-2183-40d0-981a-d22d2166fd4f@104.17.54.29:443/?type=ws&encryption=none&host=dalinceshi.icu&path=%2F%3Fed%3D2560&security=tls&sni=dalinceshi.icu&fp=random#%E2%9A%99%EF%B8%8F76%40oneclickvpnkeys
+vless://ce7b5e36-a3a0-4f61-af4d-6ca132f892c5@194.164.180.24:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=google.com&fp=firefox&security=reality&pbk=LRnxYf6GAqSZwr6JWbVSnq_pKW99mXJ5VjhtLJMzom0&sid=5c75A51C#%F0%9F%93%A19%40oneclickvpnkeys
