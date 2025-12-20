@@ -1,3 +1,4 @@
+vless://95b1344a-2b59-419f-ab7d-2ff7e5c6aa34@91.98.33.242:443?mode=gun&security=none&encryption=none&authority=telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray&type=grpc#telegram
 vless://95b1344a-2b59-419f-ab7d-2ff7e5c6aa34@91.98.33.242:443?mode=gun&security=none&encryption=none&type=grpc
 vless://95b1344a-2b59-419f-ab7d-2ff7e5c6aa34@91.98.33.242:443?mode=gun&security=none&encryption=none&type=grpc#ALL@azadiiivpn
 vless://95b1344a-2b59-419f-ab7d-2ff7e5c6aa34@91.98.33.242:443?mode=gun&security=none&encryption=none&type=grpc#All-@V2rayAlpha--9
@@ -497,4 +498,3 @@ vless://9ab7946d-5907-4b98-b377-cd4956f7a41c@37.202.237.244:55095?security=none&
 vless://9ab7946d-5907-4b98-b377-cd4956f7a41c@87.248.129.96:55093?security=none&type=tcp&headerType=none&path=🔒
 vless://9ac37507-dc17-5313-8125-c6f588c60103@5.252.23.173:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc
 vless://9ad6196e-9332-4ba8-a60f-efd3bba1f37b@n2vpn-helper.projectis.ir:443/?type=ws&encryption=none&host=n2vpn.projectis.ir&path=%2F%40n2vpn&security=tls&sni=n2vpn.projectis.ir&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20CA%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40n2vpn%20%5B9%5D
-vless://9ad6196e-9332-4ba8-a60f-efd3bba1f37b@n2vpn-helper.projectis.ir:443/?type=ws&encryption=none&host=n2vpn.projectis.ir&path=🔒

@@ -1,3 +1,4 @@
+vless://b6f52521-c65d-43d6-bca4-76790c68d6fd@162.159.192.152:443/?type=ws&encryption=none&host=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&path=%2F%3Fed%3D2048&security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&alpn=h3%2Ch2&fp=chrome#%40Hope_Net-join-us-on-Telegram
 vless://b6f52521-c65d-43d6-bca4-76790c68d6fd@162.159.192.152:443/?type=ws&encryption=none&host=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&path=🔒
 vless://b6f52521-c65d-43d6-bca4-76790c68d6fd@162.159.193.4:443/?type=ws&encryption=none&host=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&path=%2F%3Fed%3D2048&security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&alpn=h3%2Ch2&fp=chrome#%40Hope_Net-join-us-on-Telegram
 vless://b6f52521-c65d-43d6-bca4-76790c68d6fd@162.159.193.4:443/?type=ws&encryption=none&host=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&path=🔒
@@ -497,4 +498,3 @@ vless://bc4f49dc-2c50-49ac-b8fa-d3020a5e65de@91.99.125.215:443?security=none&enc
 vless://bc4f49dc-2c50-49ac-b8fa-d3020a5e65de@91.99.125.215:443?type=tcp&path=/&host=zula.ir&headerType=http&security=none#telegram
 vless://bc4f49dc-2c50-49ac-b8fa-d3020a5e65de@91.99.125.215:443?type=tcp&path=🔒
 vless://bc4f49dc-2c50-49ac-b8fa-d3020a5e65de@91.99.188.109:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp
-vless://bc4f49dc-2c50-49ac-b8fa-d3020a5e65de@91.99.188.109:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp

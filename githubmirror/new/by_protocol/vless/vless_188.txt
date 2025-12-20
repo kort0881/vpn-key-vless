@@ -1,3 +1,4 @@
+vless://Parsashonam-67@www.visa.com:8080?security=none&encryption=none&type=ws&host=Parsashonam.%E6%88%91%E4%BB%AC%E7%B4%AF%E4%BA%86.tech.&path=🔒
 vless://Parsashonam-67@www.visa.com:8080?security=none&encryption=none&type=ws&host=Parsashonam.我们累了.tech.&path=🔒
 vless://Parsashonam-89@188.114.96.3:8080/?type=grpc&encryption=none&serviceName=Telegram
 vless://Parsashonam-89@188.114.96.3:8080/?type=grpc&encryption=none&serviceName=Telegram#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40darkma3ter24%20%5B12%5D
@@ -497,4 +498,3 @@ vless://Telegram--SRCVPN--SRCVPN--@91.99.176.57:2025?type=tcp&security=reality&p
 vless://Telegram--SRCVPN--SRCVPN--@91.99.176.57:2026?type=tcp&security=reality&pbk=ZYOJiXfnupbX7P2IG8VmWZrZCA9QOY39GYYiTyZ21UE&fp=chrome&sni=🔒
 vless://Telegram--SRCVPN--SRCVPN-@91.99.176.57:2025?type=tcp&security=reality&pbk=ZYOJiXfnupbX7P2IG8VmWZrZCA9QOY39GYYiTyZ21UE&fp=chrome&sni=🔒
 vless://Telegram--SRCVPN--SRCVPN-@91.99.176.57:2026?type=tcp&security=reality&pbk=ZYOJiXfnupbX7P2IG8VmWZrZCA9QOY39GYYiTyZ21UE&fp=chrome&sni=🔒
-vless://Telegram--SRCVPN--SRCVPN-@91.99.176.57:2060?type=ws&path=🔒

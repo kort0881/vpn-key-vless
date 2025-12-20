@@ -1,3 +1,4 @@
+vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@172.67.153.156:8443?encryption=none&security=tls&sni=🔒
 vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@172.67.153.156:8443?path=%2F57ba2ab1&security=tls&encryption=none&host=ovhwuxian.pai50288.uk&fp=chrome&type=ws&sni=ovhwuxian.pai50288.uk#%F0%9F%A6%8C%F0%9F%A6%929
 vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@172.67.153.156:8443?path=%2F57ba2ab1&security=tls&encryption=none&host=ovhwuxian.pai50288.uk&type=ws&sni=ovhwuxian.pai50288.uk#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AB%F0%9F%87%B7
 vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@172.67.153.156:8443?path=🔒
@@ -497,4 +498,3 @@ vless://59e13435-da17-4299-97d5-8c49dfe3c820@172.66.40.99:443?path=/admin&securi
 vless://59e13435-da17-4299-97d5-8c49dfe3c820@172.66.40.99:443?path=🔒
 vless://59e67234-cd96-4082-90cb-624be5f79bba@www.speedtest.net:443/?type=ws&encryption=none&flow=&host=v2rayminer2.pages.dev&path=🔒
 vless://59e91ba3-2bb8-4e43-b540-5eaf4b377aa5@www.canva.com:8880?path=🔒
-vless://59f87868-47e7-4208-b624-13c4c6c65fab@209.38.20.147:443?security=tls&sni=🔒

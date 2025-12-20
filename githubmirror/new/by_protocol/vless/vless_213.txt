@@ -1,3 +1,4 @@
+vless://f38865d8-5aca-4135-8d56-7c39aa779b9b@185.193.158.8:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒
 vless://f38865d8-5aca-4135-8d56-7c39aa779b9b@194.49.53.185:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒
 vless://f38865d8-5aca-4135-8d56-7c39aa779b9b@45.150.174.81:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=maviks.eu&fp=chrome&security=reality&pbk=lyLhdojpACv6B3tHViJvPjNGATedXYRMnpAt4n4Siyo&sid=f203719d3ff9a5f5#%40Hope_Net-join-us-on-Telegram
 vless://f38865d8-5aca-4135-8d56-7c39aa779b9b@45.150.174.81:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒
@@ -497,4 +498,3 @@ vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@204.93.210.6:2083?encryption=none&s
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@204.93.210.6:2087/?type=ws&encryption=none&host=juzibaipiao.5112233.xyz&path=🔒
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@204.93.210.6:2087?encryption=none&security=tls&sni=🔒
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@216.116.134.43:2053?encryption=none&security=tls&sni=🔒
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@216.116.134.43:2053?encryption=none&security=tls&type=ws&sni=🔒

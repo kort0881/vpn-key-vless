@@ -1,3 +1,4 @@
+vless://309fa273-6579-4cb2-9143-7cad50401eba@185.130.114.253:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒
 vless://309fa273-6579-4cb2-9143-7cad50401eba@185.130.114.253:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=www.cloudflare.com&fp=chrome&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&sid=7cad5040&packetEncoding=xudp#https://t.me/ShadowsocksM82
 vless://309fa273-6579-4cb2-9143-7cad50401eba@185.130.114.253:443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#%F0%9F%87%B7%F0%9F%87%BA%40FreakConfig
 vless://309fa273-6579-4cb2-9143-7cad50401eba@185.130.114.253:443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#%F0%9F%93%A185%40ConfigV2RayNG
@@ -497,4 +498,3 @@ vless://33b785b4-9470-45fe-8f3f-f743dc25ca14@www.parsvds.ir:8080?encryption=none
 vless://33b8247e-1a56-4fb6-a5cd-5424572be295@65.109.194.11:23584?mode=gun&security=reality&encryption=none&pbk=P493rf_2oHCfasd8wnbUs2KS8Z6D-nZibDPvwUbd_24&fp=chrome&spx=/&type=grpc&serviceName=32135vless&sni=🔒
 vless://33b8247e-1a56-4fb6-a5cd-5424572be295@65.109.194.11:23584?mode=gun&security=reality&encryption=none&pbk=P493rf_2oHCfasd8wnbUs2KS8Z6D-nZibDPvwUbd_24&fp=safari&spx=%2F&type=grpc&serviceName=32135vless&sni=🔒
 vless://33ced7d6-2b32-4d34-bb80-2c55d225e267@151.101.74.228:443/?type=ws&encryption=none&flow=&host=mashti.com&path=🔒
-vless://33ced7d6-2b32-4d34-bb80-2c55d225e267@151.101.74.228:443/?type=ws&encryption=none&host=mashti.com&path=%2F%3Fed%3D1024&security=tls&sni=bwdraper.faculty.ucdavis.edu&alpn=h2%2Chttp%2F1.1&fp=chrome#%40Hope_Net-join-us-on-Telegram

@@ -1,3 +1,4 @@
+vless://9ad6196e-9332-4ba8-a60f-efd3bba1f37b@n2vpn-helper.projectis.ir:443/?type=ws&encryption=none&host=n2vpn.projectis.ir&path=🔒
 vless://9ad6196e-9332-4ba8-a60f-efd3bba1f37b@n2vpn-helper.projectis.ir:443?path=/@n2vpn&security=tls&encryption=none&host=n2vpn.projectis.ir&fp=chrome&type=ws&sni=n2vpn.projectis.ir#@n2vpn+-+کانفیگ+های+اختصاصی
 vless://9ad6196e-9332-4ba8-a60f-efd3bba1f37b@n2vpn-helper.projectis.ir:443?path=🔒
 vless://9ae2dc18-005d-4824-ae22-befaddf4f295@www.speedtest.net:443?encryption=none&security=tls&sni=🔒
@@ -497,4 +498,3 @@ vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@92.118.233.42:2082?security=none&en
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@92.118.233.42:2087?encryption=none&security=tls&allowInsecure=1&type=grpc
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@92.118.233.43:2052?security=none&encryption=none&type=ws
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@92.118.233.43:2087?encryption=none&security=tls&allowInsecure=1&type=grpc
-vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@92.118.233.43:443/?type=ws&encryption=none&path=🔒

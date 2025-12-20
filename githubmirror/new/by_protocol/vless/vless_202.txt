@@ -1,3 +1,4 @@
+vless://d78ac0ca-96fa-4b01-9b6d-b40284b5dfb2@68.183.234.52:443?security=tls&sni=🔒
 vless://d78fa5ec-792a-44c3-8dbc-a1080ff7c467@146.19.70.12:80?mode=stream-up&path=/@Free_HTTPCustom-@Free_HTTPCustom-@Free_HTTPCustom-@Free_HTTPCustom-@Free_HTTPCustom-@Free_HTTPCustom-@Free_HTTPCustom-@Free_HTTPCustom-@Free_HTTPCustom-@Free_HTTPCustom-@Free_HTTPCustom-@Free_HTTPCustom-@Free_HTTPCustom-@Free_HTTPCustom-@Free_HTTPCustom-&security=none&encryption=none&extra={
 vless://d78fa5ec-792a-44c3-8dbc-a1080ff7c467@146.19.70.12:80?mode=stream-up&path=/stream&security=none&encryption=none&extra={
 vless://d78fa5ec-792a-44c3-8dbc-a1080ff7c467@146.19.70.12:80?mode=stream-up&path=🔒
@@ -497,4 +498,3 @@ vless://db162b74-0da8-4c69-8b17-2d89defabc24@root.api-music-fa.com:2053?path=/J5
 vless://db162b74-0da8-4c69-8b17-2d89defabc24@root.api-music-fa.com:2053?path=🔒
 vless://db19fc68-c027-4641-a8eb-eed3e1065c8a@amin.karkas1.ir:443/?type=grpc&encryption=none&serviceName=EJUVVd6sh0f9J6drcXIcStL&security=tls&sni=amin.karkas1.ir&alpn=h2&fp=safari#%E2%9D%94%20XX%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40xrayzxn%20%5B7%5D
 vless://db19fc68-c027-4641-a8eb-eed3e1065c8a@amin.karkas1.ir:443?mode=gun&security=tls&encryption=none&alpn=h2&fp=safari&type=grpc&serviceName=EJUVVd6sh0f9J6drcXIcStL&sni=amin.karkas1.ir#%E2%9D%94%20XX%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40xrayzxn%20%5B7%5D
-vless://db19fc68-c027-4641-a8eb-eed3e1065c8a@amin.karkas1.ir:443?mode=gun&security=tls&encryption=none&alpn=h2&fp=safari&type=grpc&serviceName=EJUVVd6sh0f9J6drcXIcStL&sni=🔒

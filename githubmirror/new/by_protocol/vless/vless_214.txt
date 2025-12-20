@@ -1,3 +1,4 @@
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@216.116.134.43:2053?encryption=none&security=tls&type=ws&sni=🔒
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@216.205.52.109:2083?encryption=none&security=tls&sni=🔒
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@216.205.52.109:2083?encryption=none&security=tls&type=ws&sni=🔒
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@27.50.48.222:443?encryption=none&security=tls&sni=🔒
@@ -497,4 +498,3 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@194.36.55.156:8880?allowInsecure=0&
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@194.36.55.213:8880?allowInsecure=0&sni=🔒
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@194.53.53.156:8880?allowInsecure=0&sni=🔒
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@194.76.18.213:8880?allowInsecure=0&sni=🔒
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@195.13.44.168:8880/?type=ws&encryption=none&host=kjgx.laoyoutiao.link&path=Telegram%40WangCai2%2F%3Fed%3D2560#10%F0%9F%9A%80%40oneclickvpnkeys

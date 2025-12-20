@@ -1,3 +1,4 @@
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@92.118.233.43:443/?type=ws&encryption=none&path=🔒
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@92.118.233.43:443?encryption=none&security=tls&allowInsecure=1&type=ws&path=🔒
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@92.118.233.43:8443/?type=ws&encryption=none&path=🔒
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@92.118.233.43:8443?encryption=none&security=tls&allowInsecure=1&type=ws&path=🔒
@@ -497,4 +498,3 @@ vless://Parsashonam-67@www.speedtest.net:8080?security=none&encryption=none&type
 vless://Parsashonam-67@www.speedtest.net:8080?security=none&encryption=none&type=ws&host=Parsashonam.我们累了.tech.&path=🔒
 vless://Parsashonam-67@www.visa.com:8080/?type=ws&encryption=none&host=Parsashonam.%E6%88%91%E4%BB%AC%E7%B4%AF%E4%BA%86.tech.&path=%2F#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vpn_zvpn%20%5B12%5D
 vless://Parsashonam-67@www.visa.com:8080/?type=ws&encryption=none&host=Parsashonam.%E6%88%91%E4%BB%AC%E7%B4%AF%E4%BA%86.tech.&path=🔒
-vless://Parsashonam-67@www.visa.com:8080?security=none&encryption=none&type=ws&host=Parsashonam.%E6%88%91%E4%BB%AC%E7%B4%AF%E4%BA%86.tech.&path=🔒
