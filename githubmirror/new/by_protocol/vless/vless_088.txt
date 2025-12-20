@@ -1,5 +1,3 @@
-vless://598cb690-b398-40a9-be9d-9c629c32f613@Zula.iR:80?type=ws&host=speedtest.net&security=none # [ By EbraSha ]
-vless://598d2298-5e1f-4d07-bc4b-6d1949693852@162.19.250.117:25921?security=none&encryption=none&headerType=none&type=tcp # [ By EbraSha ]
 vless://59900b55-dd25-4a86-9cb1-1a1e7bb1981e@185.146.173.185:2052?type=ws&encryption=none&host=speedtest.net&security=none # [ By EbraSha ]
 vless://59acb90b-fb9d-433b-a2f0-c039cf23dfc7@Sadaf.Netherlands.mehrdadsadaf.com:80?mode=gun&security=reality&encryption=none&authority=&pbk=5VdWpwWeApKlGJoi50efzxiPjBruG4Rqi6ku0IDxwgc&fp=chrome&spx=%2F&type=grpc&serviceName=%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar%2C%40Mehrdad_Zargar&sid=3bbf56e2 # [ By EbraSha ]
 vless://59c22523-08b9-4dc8-99ac-1bf909b4c36e@77.110.119.151:48469?type=grpc&encryption=none&serviceName=Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-&authority=&security=none # [ By EbraSha ]
@@ -498,3 +496,5 @@ vless://73856b73-19d2-47e6-b991-5eaa421161ea@zula.ir:443?security=tls&alpn=http%
 vless://73872211-fee0-4e37-ba5f-303b0b2998ab@5.253.43.181:443?security=tls&allowInsecure=1&fp=chrome&type=ws&encryption=none # [ By EbraSha ]
 vless://73872211-fee0-4e37-ba5f-303b0b2998ab@tfl.gov.uk:443?security=tls&allowInsecure=1&fp=chrome&type=ws&host=speedtest.net&encryption=none # [ By EbraSha ]
 vless://73872211-fee0-4e37-ba5f-303b0b2998ab@zula.ir:443?security=tls&allowInsecure=1&fp=chrome&type=ws&host=speedtest.net&encryption=none # [ By EbraSha ]
+vless://738c5a04-817a-4f50-b327-893595010155@all32-vip.f-sub.com:2434?security=reality&encryption=none&pbk=yGgU4VVwpWk3sY54VgDxYVg77n5i-4jduHegq6PqPyA&headerType=none&fp=chrome&type=tcp # [ By EbraSha ]
+vless://7392bb3b-7b2c-4eba-b399-b5e9534c12b0@bountyhunter.fonixapp.org:443?security=reality&encryption=none&pbk=HO6w1kV0-nVwjEbAsPFfzRc_plvZjIXB9Ut11owI3Ec&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sid=066b # [ By EbraSha ]
