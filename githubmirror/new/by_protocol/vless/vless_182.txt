@@ -1,3 +1,10 @@
+vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?path=/&security=tls&encryption=none&host=piaz.mrconfigur.site&type=ws&sni=piaz.mrconfigur.site#🇩🇪@FreakConfig
+vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?path=/&security=tls&encryption=none&insecure=0&host=kahoo.mrconfigur.site&type=ws&allowInsecure=0&sni=kahoo.mrconfigur.site#🔸ALL:
+vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?path=/&security=tls&encryption=none&insecure=0&host=piaz.mrconfigur.site&type=ws&allowInsecure=0&sni=piaz.mrconfigur.site#⚜️
+vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?path=/&security=tls&encryption=none&insecure=0&host=piaz.mrconfigur.site&type=ws&allowInsecure=0&sni=piaz.mrconfigur.site#🔸ALL:
+vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?path=/&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=havij.mrconfigur.site#Channel
+vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?path=/&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=havij.mrconfigur.site#🇩🇪
+vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?path=/&security=tls&encryption=none&insecure=1&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=ws&allowInsecure=1&sni=havij.mrconfigur.site#@MARAMBASHI
 vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?path=/&security=tls&encryption=none&type=ws&sni=6389113402676776513.VtNeT.infO#@vmesskhodam
 vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?path=/&security=tls&encryption=none&type=ws&sni=havij.mrconfigur.site#Channel
 vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?path=/&security=tls&encryption=none&type=ws&sni=havij.mrconfigur.site#🇩🇪@FreakConfig
@@ -491,10 +498,3 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.3.2:80/?type=ws&encryption=
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.32.154:443/?type=ws&encryption=none&host=behdasht.hrtc.ir&path=%2FH%3Fed%3D2560&security=tls&sni=behdasht.hrtc.ir&alpn=h2%2Chttp%2F1.1&fp=randomized#%40Hope_Net-join-us-on-Telegram
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.32.185:443/?type=ws&encryption=none&flow=&host=Sanjeshp.Ir&path=🔒
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.32.185:443/?type=ws&encryption=none&host=Sanjeshp.Ir&path=%2FH%3Fed%3D2560&security=tls&sni=Sanjeshp.Ir&alpn=h2%2Chttp%2F1.1&fp=randomized#%40Hope_Net-join-us-on-Telegram
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.32.189:443/?type=tcp&encryption=none
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.32.189:443/?type=tcp&encryption=none&flow=
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.32.234:443/?type=ws&encryption=none&host=behdasht.hrtc.ir&path=%2FH%3Fed%3D2560fp%3Drandomized&security=tls&sni=behdasht.hrtc.ir#%40Hope_Net-join-us-on-Telegram
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.32.247:443/?type=ws&encryption=none&host=Sanjeshp.Ir&path=%2Fsecurity%3Dtls#%40Hope_Net-join-us-on-Telegram
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.32.58:443/?type=ws&encryption=none&flow=&host=mefa.ir&path=🔒
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.32.58:443/?type=ws&encryption=none&host=mefa.ir&path=%2FH%3Fed%3D2560&security=tls&sni=mefa.ir&alpn=h2%2Chttp%2F1.1&fp=randomized#%40Hope_Net-join-us-on-Telegram
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.33.127:443/?type=ws&encryption=none&host=mefa.ir&path=%2FH%3Fed%3D2560fp%3Drandomized&security=tls&sni=mefa.ir&alpn=h2%2Chttp%2F1.1#%40Hope_Net-join-us-on-Telegram

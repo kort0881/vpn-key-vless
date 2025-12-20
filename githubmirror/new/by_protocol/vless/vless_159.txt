@@ -1,3 +1,4 @@
+vless://3058e698-61fd-4d12-95bc-f1fe4c071713@www.speedtest.net:443?path=%2FTelegram%40V2ray_Alpha&security=tls&alpn=http%2F1.1&encryption=none&host=hozori.ir&type=ws&sni=hOZori.iR#%40v2Meli
 vless://3058e698-61fd-4d12-95bc-f1fe4c071713@www.speedtest.net:443?path=🔒
 vless://305bb7a7-8255-4eca-80b3-16b712bd15df@91.107.170.231:2053/?type=tcp&path=🔒
 vless://305e4e81838b431cb24d15595fdfc0f9@89.110.125.141:443?mode=auto&path=/&security=reality&encryption=none&pbk=q0-DSqVo-1rWR_5ASDSLcURxkMqRvC9ITLwyaiYoTVQ&fp=chrome&spx=/sinavm_sinavm_sinavm&type=xhttp&sni=fastnodegate.com&sid=76#@Daily_Configs
@@ -164,6 +165,7 @@ vless://309fa273-6579-4cb2-9143-7cad50401eba@45.8.145.65:443?security=reality&en
 vless://309fa273-6579-4cb2-9143-7cad50401eba@45.8.145.65:443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#🇳🇱[openproxylist.com]
 vless://309fa273-6579-4cb2-9143-7cad50401eba@45.8.145.65:443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒
 vless://309fa273-6579-4cb2-9143-7cad50401eba@45.8.145.65:443?security=reality&type=tcp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=7cad5040&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%B7%F0%9F%87%BARU_1%20%F0%9F%A7%AD%204.8MB%2Fs
+vless://309fa273-6579-4cb2-9143-7cad50401eba@45.8.145.65:443?security=reality&type=tcp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=7cad5040&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%B7%F0%9F%87%BARU_5%20%F0%9F%A7%AD%204.1MB%2Fs#کانفیگ_پرسرعت
 vless://309fa273-6579-4cb2-9143-7cad50401eba@45.8.145.65:443?security=reality&type=tcp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=7cad5040&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&encryption=none#t.me/entryNET/config=1852007100509803
 vless://309fa273-6579-4cb2-9143-7cad50401eba@45.8.145.65:443?security=reality&type=tcp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=7cad5040&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&encryption=none#👉🆔
 vless://309fa273-6579-4cb2-9143-7cad50401eba@45.8.145.65:443?security=reality&type=tcp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=7cad5040&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&encryption=none&note=@freeOnlineVPN#🇳🇱
@@ -496,5 +498,3 @@ vless://31f81de4-c0c3-4aa0-9b1d-dea8906a2ed1@141.147.18.66:443/?type=ws&encrypti
 vless://31f81de4-c0c3-4aa0-9b1d-dea8906a2ed1@190.93.246.128:443/?type=ws&encryption=none&host=lhxt.xiaomi.win&path=%2F%3Fed%3D2560&security=tls&sni=lhxt.xiaomi.win&fp=random#%F0%9F%94%B373%40oneclickvpnkeys
 vless://31f81de4-c0c3-4aa0-9b1d-dea8906a2ed1@190.93.246.128:443/?type=ws&encryption=none&host=lhxt.xiaomi.win&path=🔒
 vless://31f81de4-c0c3-4aa0-9b1d-dea8906a2ed1@8.219.55.76:443/?type=ws&encryption=none&host=lhxt.xiaomi.win&path=🔒
-vless://320052cb-e156-4346-90f6-02be51eba1db@legenderyserversirn.ddns.net:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@LegenderY_Servers&sni=ir.viplegendery.ga#%40v2ray_ar+%D8%A7%DA%AF%D8%B1+%D9%82%D8%B7%D8%B9+%D8%B4%D8%AF%DB%8C+%D8%A8%DB%8C%D8%A7+%D8%A7%DB%8C%D9%86%D8%AC%D8%A7وصل
-vless://320052cb-e156-4346-90f6-02be51eba1db@legenderyserversirn.ddns.net:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@LegenderY_Servers&sni=🔒
