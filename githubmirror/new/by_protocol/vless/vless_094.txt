@@ -1,3 +1,6 @@
+vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.235.241.117:443?security=tls&encryption=none&type=ws # [ By EbraSha ]
+vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.235.241.122:443?security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1 # [ By EbraSha ]
+vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.235.241.127:443/?type=ws&encryption=none&flow=&security=tls&allowInsecure=1 # [ By EbraSha ]
 vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.235.241.127:443?security=tls&encryption=none&type=ws # [ By EbraSha ]
 vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.235.241.129:443/?type=ws&encryption=none&flow=&security=tls&allowInsecure=1 # [ By EbraSha ]
 vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.235.241.129:443?security=tls&encryption=none&type=ws # [ By EbraSha ]
@@ -495,6 +498,3 @@ vless://f3803fc1-e801-465e-99d0-7d8ca6e2f050@V2ngFast.huqpmfood.ir:1146?mode=aut
 vless://f380dfac-92c1-49b6-e7b4-ae77da13c487@Zula.iR:80?type=ws&host=speedtest.net&security=none # [ By EbraSha ]
 vless://f3918c00-6d57-4f23-8ca5-2ee61c13adef@193.111.125.198:53904?security=none&encryption=none&headerType=none&type=tcp # [ By EbraSha ]
 vless://f3a623d4-5569-44d8-a4e3-2becf94056ef@91.242.229.187:443/?type=ws&encryption=none&flow=&security=tls&allowInsecure=1 # [ By EbraSha ]
-vless://f3a623d4-5569-44d8-a4e3-2becf94056ef@91.242.229.187:443?security=tls&encryption=none&type=ws # [ By EbraSha ]
-vless://f3af923e-ecfe-46d5-9c27-4ff95f739afe@91.99.142.198:443?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp # [ By EbraSha ]
-vless://f3af923e-ecfe-46d5-9c27-4ff95f739afe@91.99.203.123:443?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp # [ By EbraSha ]

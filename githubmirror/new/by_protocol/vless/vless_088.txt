@@ -1,3 +1,6 @@
+vless://6780a3c0-a98c-4622-b894-8e34167f7b31@blog.ruangguru.com.servpn.my.id:443?security=tls&encryption=none&host=speedtest.net&type=ws # [ By EbraSha ]
+vless://67c47519-d3d4-4305-8f49-50697a586249@172.66.156.81:80?encryption=none&type=ws&host=speedtest.net # [ By EbraSha ]
+vless://67c47519-d3d4-4305-8f49-50697a586249@www.speedtest.net:80?encryption=none&type=ws&host=speedtest.net # [ By EbraSha ]
 vless://680e9152-1196-4451-a1fd-60830b0f3e4b@195.201.32.169:42671?security=none&encryption=none&headerType=none&type=tcp # [ By EbraSha ]
 vless://680eb606-0a50-4758-a75f-7d17ddeaf28a@aturka.alcatelindan.com:32986?security=reality&encryption=none&pbk=KrdEQtEeVwMSTt908vzHL9cmB6thztbEAHzEk3M3IS8&headerType=none&fp=chrome&spx=%2F&type=tcp&sid=f6818397 # [ By EbraSha ]
 vless://681550bc-d418-46eb-b5da-b2408fbaf19f@141.227.134.118:18929?mode=gun&security=&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON # [ By EbraSha ]
@@ -495,6 +498,3 @@ vless://7fea28c6-f9b0-45ce-b7c2-ed3a3991d1e8@104.24.248.85:80?encryption=none&se
 vless://7ff8a0c0-f106-4b33-b4cb-b5ca613b0874@78.46.140.183:39411?security=reality&encryption=none&pbk=nXgUEoaBeYXNre6foY-3IEIy9cPSCLJzOSCEnlvJ0lE&headerType=none&fp=chrome&spx=/&type=tcp&sid=e3e4740b584aeb # [ By EbraSha ]
 vless://8-TEL-JKVPN--JKVPN@www.speedtest.net:2095?security=none&encryption=none&host=speedtest.net&type=ws # [ By EbraSha ]
 vless://8006d0f3-4683-4d52-804c-e2be3cadd08e@172.66.40.99:8080?type=ws&host=speedtest.net&security=none # [ By EbraSha ]
-vless://801704ad-ab6b-4d1c-d9e7-9a33813761a2@joKer.mEmBerGolaBi.IR:2082?security=none&encryption=none&host=speedtest.net&type=ws # [ By EbraSha ]
-vless://8021b88b-480a-4271-82b0-ea414658efa2@V2ngFast.huqpmfood.ir:1146?mode=auto&security=reality&encryption=none&extra={"scMaxEachPostBytes": "1000000", "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&pbk=l_LBBQyt6du7ZgBadETGtx8zLgUd36-4mZVCSI9qqwA&fp=chrome&type=xhttp&sid=077dc29a23d311f2 # [ By EbraSha ]
-vless://804895c8-257c-4986-8c36-fe879d3f1850@www.speedtest.net:2086?security=none&encryption=none&host=speedtest.net&type=httpupgrade # [ By EbraSha ]

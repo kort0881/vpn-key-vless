@@ -1,6 +1,3 @@
-vless://fc7bb595-80a3-43c9-b2e0-61bda1e955c7@tn6.adamlinux.ir:8051?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tn6-516
-vless://b98796b8-97a5-4bdf-a0f2-aa5da0b111f6@tn6.adamlinux.ir:8051?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tn6-517
-vless://e7919037-d08f-44a4-8834-3704429dc66d@tn6.adamlinux.ir:8051?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tn6-518
 vless://3504a3af-b284-4f96-b9fd-474430d7df52@tn6.adamlinux.ir:8051?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tn6-519
 vless://daa993f2-462c-4fc3-9056-64723d4afed9@tn6.adamlinux.ir:8051?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tn6-520
 vless://483ec807-134e-49e1-bc8e-7f17a7be0851@tn6.adamlinux.ir:8051?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tn6-521
@@ -498,3 +495,6 @@ vless://827d55af-da0d-452a-876c-8d3307eb4cfb@tnl37.radvinmax.ir:8765?encryption=
 vless://0f1c1ffd-9983-4e23-ac42-b822de883aad@tnl37.radvinmax.ir:8765?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tnl37-1013
 vless://7ab46ca7-3d08-49f8-8ae4-3f615b05f355@tnl37.radvinmax.ir:8765?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tnl37-1014
 vless://e384bbc6-9104-4edc-bac6-0f3eba205731@tnl37.radvinmax.ir:8765?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tnl37-1015
+vless://cbc855f1-f244-48ec-8cb1-b7fc4a098cec@tnl37.radvinmax.ir:8765?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tnl37-1016
+vless://b8fd26fa-4378-4f3e-aad4-a645d2d525d9@tnl37.radvinmax.ir:8765?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tnl37-1017
+vless://e2c91703-c042-4c96-9afb-ce074f492cc6@tnl37.radvinmax.ir:8765?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tnl37-1018
