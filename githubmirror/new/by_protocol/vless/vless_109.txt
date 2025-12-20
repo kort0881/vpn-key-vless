@@ -1,3 +1,5 @@
+vless://079291d7-2d5a-4dcc-b2a9-514cda7eb9f9@62.60.179.76:7012?security=none&amp;encryption=none&amp;host=cloud.ir&amp;headerType=http&amp;type=tcp#@CaV2ray
+vless://76ad8213-4617-47eb-92cc-5392b39b45ce@tgju.org:80?path=/?ed=2048&amp;security=none&amp;encryption=none&amp;host=eLOQuENt-caSE.ZUlaIR.orG.&amp;type=ws#@CaV2ray
 vless://d8506e85-4631-4513-9651-5914b8b33e5d@www.speedtest.net:2087?type=httpupgrade&amp;path=/@saeedtelcom?ed=2048&amp;host=unitedkingdom.iranfastspeed.net&amp;security=tls&amp;fp=firefox&amp;alpn=h2,http/1.1&amp;sni=unitedkingdom.iranfastspeed.net#@CaV2ray
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.205.175:51615?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#@CaV2ray
 vless://b8be6118-0dd7-4402-ae1a-69b2816f3a7f@172.67.101.86:80?path=/BaRAyeIran?ed=2560&amp;security=none&amp;encryption=none&amp;host=br.presskiwi.dpdns.org&amp;type=ws#@CaV2ray
@@ -496,5 +498,3 @@ vless://daredevill_404@91.107.130.17:53793?type=xhttp&amp;encryption=none&amp;pa
 vless://daredevill_404@91.107.130.17:537?type=xhttp&amp;encryption=none&amp;path=/telegramchanneldaredevill_404&amp;host=&amp;mode=auto&amp;security=none#@daredevill_404
 vless://TelegramChannel:daredevill_404@91.98.229.73:20569?mode=auto&amp;path=/@daredevill_404&amp;security=&amp;encryption=none&amp;type=xhttp#@daredevill_404
 vless://TelegramChannel:daredevill_404@91.98.229.73:2957?type=xhttp&amp;encryption=none&amp;path=/@daredevill_404&amp;host=&amp;mode=auto&amp;security=none#@daredevill_404
-vless://Telegram:@daredevill_404@91.98.229.73:2957?mode=auto&amp;path=/@daredevill_404&amp;security=&amp;encryption=none&amp;type=xhttp#Telegram:@daredevill_404
-vless://Telegram_daredevill_404@91.98.229.73:2957?mode=auto&amp;path=/@daredevill_404&amp;security=&amp;encryption=none&amp;type=xhttp#@daredevill_404
