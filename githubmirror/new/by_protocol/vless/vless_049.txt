@@ -1,13 +1,3 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.69:8880?mode=gun&security=none&encryption=none&type=grpc#FR_5965_@Surfboardv2ray
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.71:8880?mode=gun&security=&encryption=none&type=grpc#FR_5966_@Surfboardv2ray
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.89:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#FR_5967_@Surfboardv2ray
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.89:8880?mode=gun&security=none&encryption=none&type=grpc#FR_5968_@Surfboardv2ray
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.96:8880?mode=gun&security=&encryption=none&type=grpc#FR_5969_@Surfboardv2ray
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@217.69.7.35:8880?mode=gun&security=none&encryption=none&type=grpc#FR_5970_@Surfboardv2ray
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@217.69.7.35:8880?mode=gun&security=none&encryption=none&type=grpc#FR_5971_@Surfboardv2ray
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@217.69.7.35:8880?mode=gun&security=none&encryption=none&type=grpc#FR_5972_@Surfboardv2ray
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.142.89:8880?mode=gun&security=none&encryption=none&authority=/@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-?ed=2560&type=grpc#NL_5973_@Surfboardv2ray
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.142.96:8880?mode=gun&security=none&encryption=none&type=grpc#NL_5974_@Surfboardv2ray
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.150.134:8880?mode=gun&security=none&encryption=none&type=grpc#ES_5975_@Surfboardv2ray
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.150.134:8880?mode=gun&security=none&encryption=none&type=grpc#ES_5976_@Surfboardv2ray
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.150.156:8880?mode=gun&security=none&encryption=none&type=grpc#ES_5977_@Surfboardv2ray
@@ -498,3 +488,13 @@ vless://e78c4740-48b9-431e-8894-a99925971950@65.108.253.253:100?security=reality
 vless://e7a722d7-2f7c-48ed-974f-23cb0e4ba3d4@www.ninja-online.shop:443?security=none&encryption=none&host=ubuntu.com&headerType=http&type=tcp#IR_6484_@Surfboardv2ray
 vless://e7a88f85-e3dd-4458-81bb-65dff65c5b13@194.182.79.240:22729?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#CZ_6485_@Surfboardv2ray
 vless://e7d08833-b87f-4e9f-9f48-38485e58155e@185.234.66.93:443?path=/zqpahpws&security=tls&encryption=none&type=ws#TR_6486_@Surfboardv2ray
+vless://e7ef2316-2ff9-4266-8d09-acbf90fbd0e4@172.64.150.28:8080?type=ws&host=shad.ir.fin.test.digicyber.click.&path=/olem/ws?ed=1024#CA_6487_@Surfboardv2ray
+vless://e7ef2316-2ff9-4266-8d09-acbf90fbd0e4@cafearz.com:8080?encryption=none&security=none&type=ws&host=shad.ir.fin.test.digicyber.click.&path=/olem/ws?ed=1024#CA_6488_@Surfboardv2ray
+vless://e7ef2316-2ff9-4266-8d09-acbf90fbd0e4@chat.openai.com:8080?encryption=none&security=none&type=ws&host=shad.ir.fin.test.digicyber.click.&path=/olem/ws?ed=1024#CA_6489_@Surfboardv2ray
+vless://e7f4b612-7cca-ddcd-c875-f18650b9eab5@91.107.152.110:443?security=reality&encryption=none&pbk=AUg2h16X8xP5s7tnkcDuyfX5CBV7WvCoY48OKhbtQyw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=zhaket.com&sid=821bbc44dd7a4e15#DE_6490_@Surfboardv2ray
+vless://e7f80705-a246-42b0-9b18-802d125aedc3@104.24.40.146:443?path=/index.html?ed&security=tls&encryption=none&host=revest.maketunnelim.lat&fp=chrome&type=ws&sni=revest.maketunnelim.lat#CA_6491_@Surfboardv2ray
+vless://e808b6fb-a99a-409c-99c9-d43d3208e9f9@free.best-antiaging-reviews.com:2087?security=reality&encryption=none&pbk=apWDV3PACWUfkz4vHSEhoJrTQvO3deytV1n1nWwmzXo&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=f312#FI_6492_@Surfboardv2ray
+vless://e808b6fb-a99a-409c-99c9-d43d3208e9f9@free.best-antiaging-reviews.com:2087?security=reality&encryption=none&pbk=apWDV3PACWUfkz4vHSEhoJrTQvO3deytV1n1nWwmzXo&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=f312#FI_6493_@Surfboardv2ray
+vless://e819cfb1-3c30-48b0-957d-e479bace661b@149.248.58.105:80?path=/rfvtgws&security=none&encryption=none&type=ws#CA_6494_@Surfboardv2ray
+vless://e819cfb1-3c30-48b0-957d-e479bace661b@194.62.99.239:80?path=/rfvtgws&security=none&encryption=none&type=ws#ES_6495_@Surfboardv2ray
+vless://e82a2294-7fe7-4482-8c8a-8b39e6aadd01@151.101.2.57:80?mode=auto&path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=shlnlpld.global.ssl.fastly.net&type=xhttp#CA_6496_@Surfboardv2ray
