@@ -1,6 +1,3 @@
-vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.160.145:443/?encryption=none&host=zula.ir%2F%3FTELEGRAM%40JOKERRVPN&type=tcp&headerType=http#%E2%87%9D%40Gp_Config%20%F0%9F%9F%A1%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%D9%82%D8%B7%D8%B9%20%D9%86%D8%B4%DB%8C
-vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@172.67.153.156:8443/?type=ws&encryption=none&host=ovhwuxian.pai50288.uk&path=%2F57ba2ab1&security=tls&sni=ovhwuxian.pai50288.uk#%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-172.67.153.156%3A8443
-vless://8c17092b-4d89-44e3-9dcb-a00c2bf28827@104.17.119.85:80/?type=ws&encryption=none&host=aymng.bahareh.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.17.119.85%3A80
 vless://6f690965-3be3-43bb-9331-3ead6efb20aa@172.67.208.49:80/?type=ws&encryption=none&host=sib.sibzamini.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-172.67.208.49%3A80
 vless://26bc13af-e442-4956-afd4-b8f85744d26f@172.66.139.99:80/?type=ws&encryption=none&host=fggerlad.gerald81.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-172.66.139.99%3A80
 vless://9cf8d292-153b-4bb9-87fc-1a48907dfda9@104.18.12.51:2087/?type=ws&encryption=none&host=a.xiazitong.zone.id&path=%2F%3Fed%3D2560&security=tls&sni=a.xiazitong.zone.id&fp=randomized#%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.18.12.51%3A2087
@@ -498,3 +495,6 @@ vless://24bbc655-0a77-4438-ab33-8923e5b772de@104.17.26.182:2087/?type=ws&encrypt
 vless://bb57d265-b716-4092-bd0a-68f3988db63c@evay-vpn.fast.hosting-ip.com:80/?type=xhttp&encryption=none
 vless://cc340cb2-4093-4907-9135-a6599907c504@37.32.6.8:35021/?encryption=none&host=skyroom.online&type=tcp&headerType=http
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.5.84:2053/?type=ws&encryption=none&host=dl1-tr-cdn.easy-upload.org&path=%2F&security=tls&sni=dl1-tr-cdn.easy-upload.org#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B9%F0%9F%87%B7
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.211.204:2053/?type=ws&encryption=none&host=dl1-tr-cdn.easy-upload.org&path=%2F&security=tls&sni=dl1-tr-cdn.easy-upload.org#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B9%F0%9F%87%B7
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@194.53.53.60:2053/?type=ws&encryption=none&host=dl1-tr-cdn.easy-upload.org&path=%2F&security=tls&sni=dl1-tr-cdn.easy-upload.org#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B9%F0%9F%87%B7
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@185.162.229.253:2053/?type=ws&encryption=none&host=dl1-tr-cdn.easy-upload.org&path=%2F&security=tls&sni=dl1-tr-cdn.easy-upload.org#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B9%F0%9F%87%B7

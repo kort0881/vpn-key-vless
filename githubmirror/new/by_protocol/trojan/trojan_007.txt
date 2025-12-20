@@ -1,4 +1,3 @@
-trojan://auto@104.20.19.131:443/?type=ws&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F&security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev
 trojan://auto@104.20.22.51:443/?type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F&security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev#%40Hope_Net-join-us-on-Telegram
 trojan://auto@104.20.17.180:443/?type=ws&security=tls
 trojan://auto@104.20.21.144:443/?type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F&security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev#%40Hope_Net-join-us-on-Telegram
@@ -498,3 +497,4 @@ trojan://e2722c0fb503f8a592436c12bce0509a@160.16.138.24:4054?sni=www.nintendogam
 trojan://e2722c0fb503f8a592436c12bce0509a@160.16.214.6:4054?security=tls&sni=www.nintendogames.net&path=%2f#%f0%9f%87%af%f0%9f%87%b5%20JP%209
 trojan://e2722c0fb503f8a592436c12bce0509a@160.16.63.16:4054?security=tls&sni=www.nintendogames.net&path=%2f#%f0%9f%87%af%f0%9f%87%b5%20JP%207
 trojan://e2722c0fb503f8a592436c12bce0509a@160.16.87.174:3169?security=tls&sni=www.nintendogames.net&path=%2f#%f0%9f%87%af%f0%9f%87%b5%20JP%203
+trojan://e2722c0fb503f8a592436c12bce0509a@202.181.103.246:4054?sni=www.nintendogames.net&path=%2f#%f0%9f%87%af%f0%9f%87%b5%20JP%208
