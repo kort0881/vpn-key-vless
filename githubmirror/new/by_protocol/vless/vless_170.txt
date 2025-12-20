@@ -1,7 +1,3 @@
-vless://540d30bb-6368-4e83-ddf0-0164146a1931@www.speedtest.net:2082?path=🔒
-vless://541b75c0-4648-4074-bf12-685d53ec2eea@nl.dnszone.top:45600?security=none&encryption=none&headerType=none&type=tcp
-vless://5425664b-d46d-4754-9de0-422faab3b2a8@kafshu.ir:8080?type=ws&path=🔒
-vless://542f694b-e8bd-4b9e-858c-ccb1c46a3316@104.17.147.22:80?security=none&encryption=none&host=pamchall.com.&type=ws
 vless://5430388e-aeb7-48ef-8236-0eaa73ee3f99@speedtest.net:80?type=ws&host=befreewithus.com&path=🔒
 vless://543bfa2a-9d74-4e5f-a461-9ddf119cc5f8@Www.speedtest.net:2095?path=🔒
 vless://5453ae26-250d-4e79-b4ec-016baf806865@104.21.23.162:443/?type=ws&encryption=none&host=D05f4AA7-92B1-a659-E3B9-695dd2870b3c.131.pp.UA&security=tls&sni=D05f4AA7-92B1-a659-E3B9-695dd2870b3c.131.pp.UA#%40Hope_Net-join-us-on-Telegram
@@ -314,7 +310,6 @@ vless://56718b04-3fe6-4ef3-a61f-cd9b3b5f64f1@nls.jykvpn.com:443?security=reality
 vless://56718b04-3fe6-4ef3-a61f-cd9b3b5f64f1@nls.jykvpn.com:443?security=reality&encryption=none&pbk=MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=c2a0b2d60a7fc300#REALITY|NL🇳🇱
 vless://56718b04-3fe6-4ef3-a61f-cd9b3b5f64f1@nls.jykvpn.com:443?security=reality&encryption=none&pbk=MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒
 vless://56718b04-3fe6-4ef3-a61f-cd9b3b5f64f1@pl.jykvpn.com:443?security=reality&encryption=none&pbk=MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=4c02bbbfa833b3b6#REALITY|PL🇵🇱
-vless://56718b04-3fe6-4ef3-a61f-cd9b3b5f64f1@pl.jykvpn.com:443?security=reality&encryption=none&pbk=MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=4c02bbbfa833b3b6#👉🆔@v2ray_configs_pool📡🇵🇱®️Poland©️Warsaw🅿️ping:90ms
 vless://56718b04-3fe6-4ef3-a61f-cd9b3b5f64f1@pl.jykvpn.com:443?security=reality&encryption=none&pbk=MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=c2a0b2d60a7fc300#REALITY|PL🇵🇱
 vless://56718b04-3fe6-4ef3-a61f-cd9b3b5f64f1@sws.jykvpn.com:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒
 vless://56718b04-3fe6-4ef3-a61f-cd9b3b5f64f1@usa.jykvpn.com:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒
@@ -474,7 +469,6 @@ vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443/?type=ws&encrypti
 vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443?encryption=none&security=tls&sni=🔒
 vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443?path=%2F57ba2ab1&security=tls&encryption=none&host=ovhwuxian.pai50288.uk&fp=chrome&type=ws&sni=ovhwuxian.pai50288.uk#%F0%9F%87%BA%F0%9F%87%B8%20US%20%F0%9F%91%BB
 vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443?path=%2F57ba2ab1&security=tls&encryption=none&host=ovhwuxian.pai50288.uk&fp=chrome&type=ws&sni=ovhwuxian.pai50288.uk#RELAY🚩
-vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443?path=%2F57ba2ab1&security=tls&encryption=none&host=ovhwuxian.pai50288.uk&fp=chrome&type=ws&sni=ovhwuxian.pai50288.uk#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22ms
 vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443?path=/57ba2ab1&security=tls&encryption=none&host=ovhwuxian.pai50288.uk&fp=chrome&type=ws&sni=ovhwuxian.pai50288.uk#All-@V2rayAlpha--45
 vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443?path=/57ba2ab1&security=tls&encryption=none&host=ovhwuxian.pai50288.uk&fp=chrome&type=ws&sni=ovhwuxian.pai50288.uk#Bya
 vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443?path=/57ba2ab1&security=tls&encryption=none&host=ovhwuxian.pai50288.uk&fp=chrome&type=ws&sni=ovhwuxian.pai50288.uk#🇺🇸@AZARBAYJAB1
@@ -498,3 +492,9 @@ vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@ovhwuxian.pai50288.uk:8443?path=%2F
 vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@ovhwuxian.pai50288.uk:8443?path=%2F57ba2ab1&security=tls&encryption=none&host=ovhwuxian.pai50288.uk&fp=chrome&type=ws&sni=ovhwuxian.pai50288.uk#RELAY🚩
 vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@ovhwuxian.pai50288.uk:8443?path=%2F57ba2ab1&security=tls&encryption=none&host=ovhwuxian.pai50288.uk&fp=random&type=ws&sni=ovhwuxian.pai50288.uk#%40V2RAY_VMESS_free
 vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@ovhwuxian.pai50288.uk:8443?path=/57ba2ab1&security=tls&encryption=none&host=ovhwuxian.pai50288.uk&fp=chrome&type=ws&sni=ovhwuxian.pai50288.uk#🇨🇦@AZARBAYJAB1
+vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@ovhwuxian.pai50288.uk:8443?path=🔒
+vless://57bbb5bc-f28f-4ef4-cc44-931bf4ba27fb@62.204.58.175:53185?path=%2Fvpn_proxy_custom&security=none&encryption=none&type=ws#%40vpn_proxy_custom100Gig
+vless://57bbb5bc-f28f-4ef4-cc44-931bf4ba27fb@62.204.58.175:53185?path=🔒
+vless://57cbd1f6-f30f-4d84-ec7b-aefa613cd508@185.143.233.5:80/?type=ws&encryption=none&host=bpm.shaparak.ir&path=%2F#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool
+vless://57cbd1f6-f30f-4d84-ec7b-aefa613cd508@185.143.233.5:80/?type=ws&encryption=none&host=bpm.shaparak.ir&path=🔒
+vless://57cbef06-6568-4ecc-b981-fa8202e7f1ed@5.161.22.31:43676?encryption=none&security=none&type=ws&path=🔒
