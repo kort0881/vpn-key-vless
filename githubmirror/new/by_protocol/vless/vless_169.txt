@@ -1,3 +1,6 @@
+vless://534c8834-d096-462c-8c16-37571a798ef3@graygoat.fonixapp.org:45846?security=reality&encryption=none&pbk=17q39_glGtdUgFWkKwjxnBG0PxYkJbgt9bfkotaj7yg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒
+vless://53503fd1-275c-4623-d426-601a652ca3fc@speedtest.net:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=🔒
+vless://53503fd1-275c-4623-d426-601a652ca3fc@zmaoz.faculty.ucdavis.edu:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=🔒
 vless://535915c5-b455-4ac1-a186-78353570a251@23.166.88.109:443?mode=gun&security=reality&encryption=none&authority=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&pbk=mbUkRT2YVvtaeGlZbLsfdQ-P1j07sEBBRzn9dZQ-DHY&fp=chrome&type=grpc&serviceName=aec69a9d2944dd7468412f47&sni=www.microsoft.com&sid=be8a0c77d5ff88d5#🇨🇭
 vless://535915c5-b455-4ac1-a186-78353570a251@23.166.88.109:443?mode=gun&security=reality&encryption=none&authority=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&pbk=mbUkRT2YVvtaeGlZbLsfdQ-P1j07sEBBRzn9dZQ-DHY&fp=chrome&type=grpc&serviceName=aec69a9d2944dd7468412f47&sni=🔒
 vless://535c22af-c632-434e-9cff-33df14ed8f2a@104.16.29.8:80?security=&type=ws&path=🔒
@@ -495,6 +498,3 @@ vless://5402046c-d986-401a-aafa-e75e5dc2ec8e@trt.fastlynew.hosting-ip.com:80?mod
 vless://5402046c-d986-401a-aafa-e75e5dc2ec8e@trt.fastlynew.hosting-ip.com:80?mode=auto&path=%2F%3Fed%3D2560&security=none&encryption=none&host=maxfr219.global.ssl.fastly.net&type=xhttp#US🇺🇸
 vless://5402046c-d986-401a-aafa-e75e5dc2ec8e@trt.fastlynew.hosting-ip.com:80?mode=auto&path=/?ed=2560&security=none&encryption=none&host=maxfr219.global.ssl.fastly.net&type=xhttp#10
 vless://5402046c-d986-401a-aafa-e75e5dc2ec8e@trt.fastlynew.hosting-ip.com:80?mode=auto&path=/?ed=2560&security=none&encryption=none&host=maxfr219.global.ssl.fastly.net&type=xhttp#@Broz_time
-vless://5402046c-d986-401a-aafa-e75e5dc2ec8e@trt.fastlynew.hosting-ip.com:80?mode=auto&path=/?ed=2560&security=none&encryption=none&host=maxfr219.global.ssl.fastly.net&type=xhttp#@Daily_Configs
-vless://5402046c-d986-401a-aafa-e75e5dc2ec8e@trt.fastlynew.hosting-ip.com:80?mode=auto&path=/?ed=2560&security=none&encryption=none&host=maxfr219.global.ssl.fastly.net&type=xhttp#@V2rayNGVPN
-vless://5402046c-d986-401a-aafa-e75e5dc2ec8e@trt.fastlynew.hosting-ip.com:80?mode=auto&path=/?ed=2560&security=none&encryption=none&host=maxfr219.global.ssl.fastly.net&type=xhttp#All-@V2rayAlpha--10

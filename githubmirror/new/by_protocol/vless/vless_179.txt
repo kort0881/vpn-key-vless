@@ -1,3 +1,6 @@
+vless://7bc12c11-d666-4d73-a086-f77a425d2ef0@www.speedtest.net:2095?type=httpupgrade&path=🔒
+vless://7bcb1c0c-4134-46f2-a010-13f60dab1649@speedtest.net:80?mode=auto&path=🔒
+vless://7bcfdcf8-fe22-4d40-8707-3249aeb66a5f@65.109.189.89:33801?security=none&encryption=none&headerType=http&type=tcp
 vless://7bcfdcf8-fe22-4d40-8707-3249aeb66a5f@65.109.189.89:33801?security=none&encryption=none&headerType=http&type=tcp#𝗝𝗼𝗶𝗻
 vless://7bd25979-cbc3-4184-83b8-3b6a14deb010@ezalor.fonixapp.org:51481/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒
 vless://7bd25979-cbc3-4184-83b8-3b6a14deb010@ezalor.fonixapp.org:51481?security=reality&encryption=none&pbk=7X3ayYDMuYR4Vz8Px8hDjOIxOMnRncjapXpWIzaKyls&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=ilovepdf.com&sid=47#MCI-@V2rayAlpha--7
@@ -495,6 +498,3 @@ vless://7fea28c6-f9b0-45ce-b7c2-ed3a3991d1e8@104.24.248.85:80?encryption=none&se
 vless://7ff23c33-a3b7-4a24-93fd-2d3dcbfa62b1@104.16.1.106:80?type=ws&path=🔒
 vless://7ff264b2-bccb-4ed5-8c8b-d3e95ce0f8aa@uuk1v.tok8888.com:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=🔒
 vless://7ff264b2-bccb-4ed5-8c8b-d3e95ce0f8aa@uuk2v.tok8888.com:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=🔒
-vless://7ff264b2-bccb-4ed5-8c8b-d3e95ce0f8aa@uuk3v.tok8888.com:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=🔒
-vless://7ff264b2-bccb-4ed5-8c8b-d3e95ce0f8aa@uuk4v.tok8888.com:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=🔒
-vless://7ff264b2-bccb-4ed5-8c8b-d3e95ce0f8aa@uuk5v.tok8888.com:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=🔒

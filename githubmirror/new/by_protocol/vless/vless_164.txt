@@ -1,3 +1,6 @@
+vless://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443/?type=tcp&encryption=none&security=tls&sni=🔒
+vless://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=🔒
+vless://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=telegram-join-v2xaytelegram-join-v2xay-telegram-join&headerType=none&type=tcp&sni=local.rogsoftwaregroup.com#%40meli_proxyy%D8%B3%D8%B1%D9%88%D8%B1%D8%A7%DB%8C%E2%80%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1
 vless://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?security=tls&alpn=h3,h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=🔒
 vless://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?security=tls&sni=🔒
 vless://440a5fc6-4d97-46d5-93f7-adf90996081e@104.16.0.41:80?path=%2F&security=none&encryption=none&host=bia-to-channel4.unlimiteddev.shop&type=ws#US🇺🇸
@@ -495,6 +498,3 @@ vless://48198295-b7ba-4b5c-8d85-085d55a6c869@188.114.99.158:443/?type=ws&encrypt
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@188.114.99.203:443/?type=ws&encryption=none&flow=&host=ak.ylks.xyz&path=🔒
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@188.114.99.203:443/?type=ws&encryption=none&host=ak.ylks.xyz&path=%2F%3Fed%3D2048&security=tls&sni=ak.ylks.xyz#%40Hope_Net-join-us-on-Telegram
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@190.93.245.231:443/?type=ws&encryption=none&host=ac.ylks.xyz&path=%2F%3Fed%3D2048&security=tls&sni=ac.ylks.xyz#%40Hope_Net-join-us-on-Telegram
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@190.93.246.129:443/?type=ws&encryption=none&flow=&host=aw.ylks.xyz&path=🔒
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@190.93.246.129:443/?type=ws&encryption=none&host=aw.ylks.xyz&path=%2F%3Fed%3D2048&security=tls&sni=aw.ylks.xyz#%40Hope_Net-join-us-on-Telegram
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@190.93.246.34:443/?type=ws&encryption=none&flow=&host=ax.ylks.xyz&path=🔒

@@ -1,3 +1,6 @@
+vless://019aefe0-f33f-7000-be8d-9d35610b8f72@45.84.1.218:34598?security=reality&encryption=none&pbk=SCkzGfrd6KXuBwpE83LXeBZa03n7sC74iGvSUaZ4IBQ&headerType=none&spx=/&type=tcp&flow=xtls-rprx-vision&sni=telegram.org&sid=0b2e5a9db13f684c#𝗝𝗼𝗶𝗻
+vless://019aefe0-f33f-7000-be8d-9d35610b8f72@45.84.1.218:34598?security=reality&encryption=none&pbk=SCkzGfrd6KXuBwpE83LXeBZa03n7sC74iGvSUaZ4IBQ&headerType=none&spx=/&type=tcp&flow=xtls-rprx-vision&sni=🔒
+vless://019deb98-eef7-4a69-983a-1f9fd77f5280@172.67.197.9:2095?encryption=none&security=none&type=ws&host=worker-gentle-unit-1324.db126b023f83.workers.dev&path=🔒
 vless://01a6e691-b436-40da-bc19-f379923c0f6e@usaa.fastlynew.hosting-ip.com:80?path=%2F&security=none&encryption=none&host=mojhsjd.global.ssl.fastly.net&type=ws#%40V2RAY_VMESS_free
 vless://01a79e57-5051-4b64-9774-8841c25bcecf@172.66.40.99:8080?type=ws&path=🔒
 vless://01a79e57-5051-4b64-9774-8841c25bcecf@www.speedtest.net:8080?type=ws&path=🔒
@@ -495,6 +498,3 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.42.248:22224?type=ws&security
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.42.248:22224?type=ws&security=tls&path=🔒
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.51.53.125:22222?security=tls&sni=🔒
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.156.233.240:22222?encryption=none&host=telegram-channel-vlessconfig.sohala.uk&path=🔒
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.153.82:22224?type=ws&security=tls&path=🔒
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.237.53:22224?type=ws&security=tls&path=🔒
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.45.174:22224?type=ws&security=tls&path=🔒
