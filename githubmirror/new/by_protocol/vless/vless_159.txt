@@ -1,3 +1,5 @@
+vless://2ee2a715-d541-416a-8713-d66567448c2e@91.98.148.160:443?mode=gun&security=none&encryption=none&type=grpc
+vless://2ee2a715-d541-416a-8713-d66567448c2e@91.98.148.160:443?mode=gun&security=none&encryption=none&type=grpc#@Maznet-46212-1
 vless://2ee2a715-d541-416a-8713-d66567448c2e@91.98.148.160:443?mode=gun&security=none&encryption=none&type=grpc#Channel
 vless://2ee2a715-d541-416a-8713-d66567448c2e@91.98.148.160:443?type=grpc&encryption=none&flow=#DE🇩🇪
 vless://2ee2a715-d541-416a-8713-d66567448c2e@91.98.155.240:443?mode=gun&security=none&encryption=none&authority=telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray&type=grpc
@@ -346,7 +348,6 @@ vless://309fa273-6579-4cb2-9143-7cad50401eba@185.130.114.253:443?security=realit
 vless://309fa273-6579-4cb2-9143-7cad50401eba@185.130.114.253:443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#🇷🇺[openproxylist.com]
 vless://309fa273-6579-4cb2-9143-7cad50401eba@185.130.114.253:443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒
 vless://309fa273-6579-4cb2-9143-7cad50401eba@185.130.114.253:443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒
-vless://309fa273-6579-4cb2-9143-7cad50401eba@185.130.114.253:443?security=reality&type=tcp&sni=🔒
 vless://309fa273-6579-4cb2-9143-7cad50401eba@188.34.193.153:443?type=tcp&security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&fp=chrome&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#@meli_proxyy
 vless://309fa273-6579-4cb2-9143-7cad50401eba@45.12.130.79:8443?type=tcp&security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&fp=chrome&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#@meli_proxyy
 vless://309fa273-6579-4cb2-9143-7cad50401eba@45.12.133.61:8443?type=tcp&security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&fp=chrome&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#@meli_proxyy
@@ -497,4 +498,3 @@ vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.14.69:443?path=/proxyip=zani
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.14.69:443?path==zani.yaemiko.ggff.net/?Join---MARAMBASHI---Join---MARAMBASHI?ed=2560&security=tls&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#💎کانفیگ
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.14.69:443?path==zani.yaemiko.ggff.net/?TELEGRAM-v2ray_configs_pools?ed=512&security=tls&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#@v2ray_configs_pools
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.14.69:443?path==zani.yaemiko.ggff.net/@V2rayBaaz---@v2ray_configs_pools---@v2ray_configs_pools?ed=512&security=tls&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#@v2ray_configs_pools
-vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.14.69:443?path=🔒

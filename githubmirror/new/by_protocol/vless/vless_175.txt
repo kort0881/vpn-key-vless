@@ -1,5 +1,3 @@
-vless://667b5dfa-7ec4-45d7-ba9c-6957eed8cfbb@157.173.127.239:443/?type=tcp&encryption=none&sni=🔒
-vless://6683e519-99b1-4df8-9d20-f39a2a7ed1b0@217.60.236.41:3134/?type=ws&encryption=none&path=🔒
 vless://668e148e-de6f-433a-93e0-78f55ef0702c@172.64.155.209:443/?type=ws&encryption=none&host=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&path=🔒
 vless://669be00c-67b4-4b87-b08f-311c45abced2@178.17.53.248:8443?security=reality&encryption=none&pbk=FscaEWx0paNBzL7GWHj4Fll7Xc-KxdhKgTthBAnByWI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pingless.com#REALITY|FI🇫🇮
 vless://669be00c-67b4-4b87-b08f-311c45abced2@fr.atlanta-internet.ru:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒
@@ -61,6 +59,7 @@ vless://672ae05e-16e7-4cc9-8d63-01a25ab13c2e@n2vpn-helper.projectis.ir:2083?path
 vless://672ae05e-16e7-4cc9-8d63-01a25ab13c2e@n2vpn-helper.projectis.ir:2083?path=🔒
 vless://672cc605-8f17-4bb1-917a-b82d3faf86d4@all.vipxali.cfd:2083?alpn=http%2F1.1%2Ch2&encryption=none&fp=safari&mode=gun&security=tls&serviceName=%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray&sni=🔒
 vless://67340574-ff95-4338-8c8a-46caa044effd@trt.fastlynew.hosting-ip.com:80?encryption=none&type=xhttp&mode=auto&host=maxfr171.global.ssl.fastly.net&path=%2F%3Fed%3D2560&security=none#US🇺🇸
+vless://67340574-ff95-4338-8c8a-46caa044effd@trt.fastlynew.hosting-ip.com:80?encryption=none&type=xhttp&mode=auto&host=maxfr171.global.ssl.fastly.net&path=/?ed=2560&security=none#IT🇮🇹
 vless://67340574-ff95-4338-8c8a-46caa044effd@trt.fastlynew.hosting-ip.com:80?encryption=none&type=xhttp&mode=auto&host=maxfr171.global.ssl.fastly.net&path=/?ed=2560&security=none#US🇺🇸
 vless://67340574-ff95-4338-8c8a-46caa044effd@trt.fastlynew.hosting-ip.com:80?encryption=none&type=xhttp&mode=auto&host=maxfr171.global.ssl.fastly.net&path=/?ed=2560&security=none#🇮🇹@SiNAVM
 vless://67340574-ff95-4338-8c8a-46caa044effd@trt.fastlynew.hosting-ip.com:80?encryption=none&type=xhttp&mode=auto&host=maxfr171.global.ssl.fastly.net&path=🔒
@@ -498,3 +497,4 @@ vless://6a6c2353-0e16-4723-ca96-a2eea53f1586@fr.irimcs.org:2087?encryption=none&
 vless://6a6c8662-1c43-4ae5-9018-486b288dfbaa@104.17.147.22:2082?security=none&type=ws&host=www.speedtest.net.zula.ir.Shad.ir.sHaparak.ir.torob.com.namaSha.com.namnak.com.filiMo.com.Rokna.net.teleweBion.com.iraNikala.toP.&path=%2F%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn%3Fed%3D1024#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
 vless://6a7383fe-dcc1-491d-89b1-c902e4be8eb1@151.101.194.219:80?security=none&type=ws&host=Gn85.io&path=%2Fadmin#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD-%3E%F0%9F%87%A9%F0%9F%87%AA_DE_%E5%BE%B7%E5%9B%BD
 vless://6a753f74-b279-44d7-a442-b5cbc425569f@ua.griffon-guard.com:8443?security=reality&encryption=none&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apple.com#@Maznet-46210-2
+vless://6a753f74-b279-44d7-a442-b5cbc425569f@ua.griffon-guard.com:8443?security=reality&encryption=none&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒

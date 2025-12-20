@@ -1,3 +1,7 @@
+vless://0a9063d1-c21d-487f-a182-f199d2eaf889@45.82.161.120:19011?security=none&encryption=none&headerType=none&type=tcp
+vless://0a947205-01a0-4634-8e78-daf200d02def@ru.maviks.eu:443?security=reality&encryption=none&pbk=cGzNRbN_zruI3CVTDukB2nOqWWEj7kgkay24f2fdLmQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒
+vless://0a97c5f3-68de-4d5e-bac2-c6bd94551fb6@178.171.122.65:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=msk.capybara.press&fp=chrome&security=reality&pbk=I0fwGRiSwcXazqFy0qmyhMzaN3JOOBafmvDM6A-AaUs&sid=9c2378562188c3cb#🎨24@oneclickvpnkeys
+vless://0a97c5f3-68de-4d5e-bac2-c6bd94551fb6@178.171.122.65:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=msk.capybara.press&fp=chrome&security=reality&pbk=I0fwGRiSwcXazqFy0qmyhMzaN3JOOBafmvDM6A-AaUs&sid=9c2378562188c3cb#🔷14@oneclickvpnkeys
 vless://0a97c5f3-68de-4d5e-bac2-c6bd94551fb6@178.171.122.65:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒
 vless://0a97c5f3-68de-4d5e-bac2-c6bd94551fb6@178.171.122.65:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=msk.capybara.press&fp=chrome&security=reality&pbk=I0fwGRiSwcXazqFy0qmyhMzaN3JOOBafmvDM6A-AaUs&sid=9c2378562188c3cb#REALITY|TW🇹🇼
 vless://0a97c5f3-68de-4d5e-bac2-c6bd94551fb6@178.171.122.65:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=msk.capybara.press&fp=random&security=reality&pbk=I0fwGRiSwcXazqFy0qmyhMzaN3JOOBafmvDM6A-AaUs&sid=9c2378562188c3cb#REALITY|TW🇹🇼
@@ -190,7 +194,6 @@ vless://0d0782a3-2c62-4936-b893-5790188778ea@45.12.138.8:443?path=/&security=tls
 vless://0d0782a3-2c62-4936-b893-5790188778ea@45.12.138.8:443?path=/&security=tls&encryption=none&type=ws#@Broz_time+>+کانفیگ+رایگان
 vless://0d0782a3-2c62-4936-b893-5790188778ea@45.12.138.8:443?path=/&security=tls&encryption=none&type=ws#@FarazV2ray
 vless://0d0782a3-2c62-4936-b893-5790188778ea@45.12.138.8:443?path=/&security=tls&encryption=none&type=ws#All_20--@V2rayAlpha
-vless://0d0782a3-2c62-4936-b893-5790188778ea@45.12.138.8:443?path=/&security=tls&encryption=none&type=ws#DE🇩🇪
 vless://0d0782a3-2c62-4936-b893-5790188778ea@45.12.138.8:443?path=/&security=tls&encryption=none=/@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@TEHRANARGO&type=ws#برای
 vless://0d0782a3-2c62-4936-b893-5790188778ea@45.12.138.8:443?path=🔒
 vless://0d0782a3-2c62-4936-b893-5790188778ea@5.252.22.113:443?path=%2F&security=tls&encryption=none&type=ws#All_18--%40V2rayAlpha
@@ -495,6 +498,3 @@ vless://0fa9cf4a-7061-5239-9da9-f89a88b56390@199.232.79.57:443/?type=ws&encrypti
 vless://0fae31db-4085-4a44-9c3b-b308c06ade4a@45.87.153.244:443/?type=ws&encryption=none&flow=&path=/loueilws&security=tls&sni=github.com&allowInsecure=1#🔷21@oneclickvpnkeys
 vless://0fae31db-4085-4a44-9c3b-b308c06ade4a@45.87.153.244:443/?type=ws&encryption=none&flow=&path=🔒
 vless://0fae31db-4085-4a44-9c3b-b308c06ade4a@45.87.153.244:443?path=%2Floueilws&security=tls&encryption=none&type=ws&sni=github.com#All_25--%40V2rayAlpha
-vless://0fae31db-4085-4a44-9c3b-b308c06ade4a@45.87.153.244:443?path=%2Floueilws&security=tls&encryption=none&type=ws&sni=github.com#US🇺🇸
-vless://0fae31db-4085-4a44-9c3b-b308c06ade4a@45.87.153.244:443?path=/loueilws&security=tls&encryption=none&type=ws&sni=github.com#All_25--@V2rayAlpha
-vless://0fae31db-4085-4a44-9c3b-b308c06ade4a@45.87.153.244:443?path=/loueilws&security=tls&encryption=none&type=ws&sni=github.com#🇳🇱@FreakConfig

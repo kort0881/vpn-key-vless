@@ -1,10 +1,3 @@
-vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.235.241.98:443?path=/hormoz&security=tls&encryption=none&type=ws&sni=github.com#🇩🇪@FreakConfig
-vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.235.241.98:443?path=🔒
-vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.235.241.98:443?type=ws&encryption=none&flow=&path=%2Fhormoz&security=tls&sni=github.com&allowInsecure=1#US🇺🇸
-vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@45.89.111.103:443/?type=ws&encryption=none&flow=&path=/hormoz&security=tls&sni=github.com&allowInsecure=1#🔶41@oneclickvpnkeys
-vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@45.89.111.103:443/?type=ws&encryption=none&flow=&path=🔒
-vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@45.89.111.103:443?path=%2Fhormoz&security=tls&encryption=none&type=ws&sni=github.com#🇬🇧[openproxylist.com]
-vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@45.89.111.103:443?path=/hormoz&security=tls&encryption=none&type=ws&sni=github.com#🇵🇹@FreakConfig
 vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@45.89.111.103:443?path=🔒
 vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@45.89.111.93:443/?type=ws&encryption=none&flow=&path=/hormoz&security=tls&sni=ads.x5.ru&allowInsecure=1#🔶27@oneclickvpnkeys
 vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@45.89.111.93:443/?type=ws&encryption=none&flow=&path=🔒
@@ -46,7 +39,6 @@ vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@94.131.110.119:443?path=/hormoz&sec
 vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@94.131.110.119:443?path=🔒
 vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@94.131.110.128:443/?type=ws&encryption=none&flow=&path=/hormoz&security=tls&sni=ozon.ru&allowInsecure=1#🔶61@oneclickvpnkeys
 vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@94.131.110.128:443/?type=ws&encryption=none&flow=&path=🔒
-vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@94.131.110.128:443?encryption=none&security=tls&allowInsecure=true&type=ws&path=/hormoz&packetEncoding=xudp#https://t.me/ShadowsocksM8
 vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@94.131.110.128:443?encryption=none&security=tls&allowInsecure=true&type=ws&path=/hormoz&packetEncoding=xudp#🇩🇪[openproxylist.com]
 vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@94.131.110.128:443?encryption=none&security=tls&allowInsecure=true&type=ws&path=🔒
 vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@94.131.110.128:443?path=%2Fhormoz&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1&sni=ozon.ru#RU🇷🇺
@@ -353,7 +345,6 @@ vless://e8a471a3-4837-41fc-9a96-14dfd205306d@45.87.154.92:443?path=/pypcnmws&sec
 vless://e8a471a3-4837-41fc-9a96-14dfd205306d@45.87.154.92:443?path=/pypcnmws&security=tls&encryption=none&type=ws&sni=ads.x5.ru#@Broz_time
 vless://e8a471a3-4837-41fc-9a96-14dfd205306d@45.87.154.92:443?path=/pypcnmws&security=tls&encryption=none&type=ws&sni=ads.x5.ru#All_24--@V2rayAlpha
 vless://e8a471a3-4837-41fc-9a96-14dfd205306d@45.87.154.92:443?path=/pypcnmws&security=tls&encryption=none&type=ws&sni=ads.x5.ru#All_26--@V2rayAlpha
-vless://e8a471a3-4837-41fc-9a96-14dfd205306d@45.87.154.92:443?path=/pypcnmws&security=tls&encryption=none&type=ws&sni=ads.x5.ru#NL🇳🇱
 vless://e8a471a3-4837-41fc-9a96-14dfd205306d@45.87.154.92:443?path=/pypcnmws&security=tls&encryption=none&type=ws&sni=ads.x5.ru#🇳🇱@FreakConfig
 vless://e8a471a3-4837-41fc-9a96-14dfd205306d@45.87.154.92:443?path=🔒
 vless://e8a471a3-4837-41fc-9a96-14dfd205306d@45.87.154.92:443?type=ws&encryption=none&flow=&path=%2Fpypcnmws&security=tls&sni=ads.x5.ru&allowInsecure=1#RU🇷🇺
@@ -498,3 +489,12 @@ vless://e9979910-79d1-4621-a93c-b2a579c44ba7@94.140.0.109:8880/?type=ws&encrypti
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@94.140.0.109:8880/?type=ws&encryption=none&host=VngSuPpLY.IP-DdnS.com&path=🔒
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@94.140.0.109:8880?path=🔒
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@ZuLa.ir:8880?path=🔒
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@lamtakam.com:8880?path=🔒
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@www.wappalyzer.com:8880?path=🔒
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.19.144.33:2096/?type=ws&encryption=none&host=E4aRpUi7Xe.GiTi4.OrG&path=%2F&security=tls&sni=E4aRpUi7Xe.GiTi4.OrG&fp=chrome#%F0%9F%A6%9118%40oneclickvpnkeys
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.19.144.33:2096/?type=ws&encryption=none&host=E4aRpUi7Xe.GiTi4.OrG&path=🔒
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.19.144.33:2096?encryption=none&security=tls&sni=🔒
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.19.144.33:2096?path=/&security=tls&encryption=none&host=E4aRpUi7Xe.GiTi4.OrG&fp=chrome&type=ws&sni=E4aRpUi7Xe.GiTi4.OrG#💎کانفیگ
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.19.144.33:2096?path=/?Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI?ed=2560&security=tls&encryption=none&host=E4aRpUi7Xe.GiTi4.OrG&fp=chrome&type=ws&sni=E4aRpUi7Xe.GiTi4.OrG#💎کانفیگ
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.19.144.33:2096?path=🔒
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.19.144.33:2096?security=tls&sni=🔒

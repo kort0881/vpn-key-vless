@@ -1,6 +1,3 @@
-vless://bc4151a2-fb20-47ea-a141-748c3a51868d@104.21.50.177:443?security=tls&sni=🔒
-vless://bc432859-051c-40e5-ab96-a34f47f1b14a@172.236.103.104:443?encryption=none&security=none&type=xhttp&path=/&mode=stream-one#
-vless://bc432859-051c-40e5-ab96-a34f47f1b14a@172.236.103.104:443?encryption=none&security=none&type=xhttp&path=🔒
 vless://bc432859-051c-40e5-ab96-a34f47f1b14a@172.236.103.104:443?flow=&type=xhttp&host=&path=🔒
 vless://bc432859-051c-40e5-ab96-a34f47f1b14a@172.236.103.104:443?mode=stream-one&path=🔒
 vless://bc4ee3f2-ded6-4a7a-8d7f-c0c37f2cd426@food1.hamrahconfig.com:80?path=🔒
@@ -498,3 +495,6 @@ vless://c1601a96-febd-4baa-8fe3-17ca8f4121bd@104.17.182.58:443/?type=ws&encrypti
 vless://c1601a96-febd-4baa-8fe3-17ca8f4121bd@104.17.183.58:443/?type=ws&encryption=none&host=frieren.albedo.ddns-ip.net&path=%2Fproxyip%3Dayaka.shorekeeper.ir&security=tls&sni=frieren.albedo.ddns-ip.net&alpn=http%2F1.1&fp=randomized#%40V2rayNGVPN
 vless://c1601a96-febd-4baa-8fe3-17ca8f4121bd@104.17.183.58:443/?type=ws&encryption=none&host=frieren.albedo.ddns-ip.net&path=🔒
 vless://c1659206-d827-41f6-9f73-f18ca30102d3@103.21.244.73:80?encryption=none&security=none&type=ws&host=still-forest-e3e8-ppal03.mekah93880.workers.dev&path=/?ed=2560#🎵Ch:
+vless://c1659206-d827-41f6-9f73-f18ca30102d3@103.21.244.73:80?encryption=none&security=none&type=ws&host=still-forest-e3e8-ppal03.mekah93880.workers.dev&path=🔒
+vless://c1659206-d827-41f6-9f73-f18ca30102d3@104.16.53.48:80?encryption=none&security=none&type=ws&host=still-forest-e3e8-ppal03.mekah93880.workers.dev&path=/?ed=2560#🎵Ch:
+vless://c1659206-d827-41f6-9f73-f18ca30102d3@104.16.53.48:80?encryption=none&security=none&type=ws&host=still-forest-e3e8-ppal03.mekah93880.workers.dev&path=🔒
