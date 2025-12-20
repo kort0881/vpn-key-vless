@@ -1,3 +1,7 @@
+vless://44d6bd1f-2c8c-4db7-8d0d-802d7e887c83@185.235.240.17:8443?type=grpc&encryption=none&serviceName=&authority=&security=reality&pbk=i7xqFE7GckhWQ39mo-r420BHuRlygzc3dO78jpaoYVo&fp=chrome&sni=google.com&sid=595f&spx=%2F#REALITY|MD🇲🇩
+vless://44dd59b7-a153-44de-8b62-c2affe0fff02@49.13.203.113:2050/?type=tcp&encryption=none&flow=&sni=canva.com&fp=chrome&security=reality&pbk=Tua_E2HKPrVU1Xikr5b0v0uKKUjpAnG5w8UjqfoEnkI&sid=35d64c10241d8efc#📡8@oneclickvpnkeys
+vless://44dd59b7-a153-44de-8b62-c2affe0fff02@49.13.203.113:2050/?type=tcp&encryption=none&flow=&sni=🔒
+vless://44dd59b7-a153-44de-8b62-c2affe0fff02@49.13.203.113:2050?encryption=none&type=tcp&headerType=none&security=reality&fp=chrome&sni=canva.com&pbk=Tua_E2HKPrVU1Xikr5b0v0uKKUjpAnG5w8UjqfoEnkI&sid=35d64c10241d8efc&spx=/sinavm-sinavm-sinavm#🇩🇪@SiNAVM
 vless://44dd59b7-a153-44de-8b62-c2affe0fff02@49.13.203.113:2050?encryption=none&type=tcp&headerType=none&security=reality&fp=chrome&sni=🔒
 vless://44dd59b7-a153-44de-8b62-c2affe0fff02@49.13.203.113:2050?encryption=none&type=tcp&headerType=none&security=reality&fp=firefox&sni=canva.com&pbk=Tua_E2HKPrVU1Xikr5b0v0uKKUjpAnG5w8UjqfoEnkI&sid=35d64c10241d8efc&spx=%2Fsinavm-sinavm-sinavm#REALITY|DE🇩🇪
 vless://44dd59b7-a153-44de-8b62-c2affe0fff02@49.13.203.113:2050?encryption=none&type=tcp&headerType=none&security=reality&fp=firefox&sni=canva.com&pbk=Tua_E2HKPrVU1Xikr5b0v0uKKUjpAnG5w8UjqfoEnkI&sid=35d64c10241d8efc&spx=/sinavm-sinavm-sinavm#DE🇩🇪
@@ -494,7 +498,3 @@ vless://48198295-b7ba-4b5c-8d85-085d55a6c869@198.62.62.170:443?encryption=none&s
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@198.62.62.176:443/?type=ws&encryption=none&path=%2Fblue&security=tls&sni=ad.ylks.xyz#%40Hope_Net-join-us-on-Tele...
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@198.62.62.186:443/?type=ws&encryption=none&flow=&host=ad.ylks.xyz&path=🔒
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@198.62.62.186:443/?type=ws&encryption=none&host=ad.ylks.xyz&path=%2Fblue&security=tls&sni=ad.ylks.xyz#%40Hope_Net-join-us-on-Telegram
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@198.62.62.211:443/?type=ws&encryption=none&flow=&path=🔒
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@198.62.62.211:443/?type=ws&encryption=none&path=%2Fblue&security=tls&sni=ao.ylks.xyz#%40Hope_Net-join-us-on-Telegram
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@198.62.62.211:443?encryption=none&security=tls&sni=🔒
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@198.62.62.217:443/?type=ws&encryption=none&host=ad.ylks.xyz&path=%2Fblue&security=tls&sni=ad.ylks.xyz#%40Hope_Net-join-us-on-Telegram

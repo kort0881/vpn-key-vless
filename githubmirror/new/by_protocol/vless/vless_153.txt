@@ -1,3 +1,8 @@
+vless://17518f18-0da9-489d-a1ae-61fcc746a79a@152.42.141.126:1615?security=reality&encryption=none&pbk=FeiQv7me3tts_1SFDIoeScklFESISNtjROyxkryUxW8&headerType=none&fp=chrome&type=tcp&sni=🔒
+vless://1759f2bb-ab83-450b-a89b-4b24c0eea75b@198.23.206.26:59814?encryption=none&security=reality&sni=🔒
+vless://1759f2bb-ab83-450b-a89b-4b24c0eea75b@198.23.206.26:59814?security=reality&encryption=none&pbk=aWooxptTQgQjHO1JDxB8axAo8jzLWJdOSE6322B7wWY&headerType=&fp=chrome&type=tcp&sni=yahoo.com&sid=a0209e22#JOIN
+vless://1759f2bb-ab83-450b-a89b-4b24c0eea75b@198.23.206.26:59814?security=reality&encryption=none&pbk=aWooxptTQgQjHO1JDxB8axAo8jzLWJdOSE6322B7wWY&headerType=&fp=chrome&type=tcp&sni=🔒
+vless://1759f2bb-ab83-450b-a89b-4b24c0eea75b@198.23.206.26:59814?security=reality&encryption=none&pbk=aWooxptTQgQjHO1JDxB8axAo8jzLWJdOSE6322B7wWY&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&spx=/&type=tcp&sni=🔒
 vless://175fdc3a-2ae7-4705-b827-3160bcfebecd@gr.dnszone.top:45500?security=none&encryption=none&headerType=none&type=tcp
 vless://175fdc3a-2ae7-4705-b827-3160bcfebecd@nl.dnszone.top:45500?security=none&encryption=none&headerType=none&type=tcp
 vless://17714732-15b6-5b7a-9703-8c874ef8bef4@104.25.165.81:80?security=none&type=ws&host=55965.olielielie.store.&path=%2Fvless%23t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro%3Fed%3D2048#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD-%3E%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF
@@ -493,8 +498,3 @@ vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@172.64.34.176:443/?type=ws&encrypti
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@172.64.34.176:443/?type=ws&encryption=none&flow=&host=terazhedi.info&path=🔒
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@172.64.34.176:443?encryption=none&security=tls&sni=terazhedi.info&allowInsecure=1&type=ws&path=/sghiyws#t.me/v2Line
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@172.64.34.176:443?encryption=none&security=tls&sni=terazhedi.info&type=ws&host=terazhedi.info&path=/sghiyws&packetEncoding=xudp#https://t.me/ShadowsocksM20
-vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@172.64.34.176:443?encryption=none&security=tls&sni=terazhedi.info&type=ws&host=terazhedi.info&path=/sghiyws&packetEncoding=xudp#https://t.me/ShadowsocksM21
-vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@172.64.34.176:443?encryption=none&security=tls&sni=🔒
-vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@172.64.34.176:443?path=%2Fsghiyws&security=tls&encryption=none&host=terazhedi.info&allowinsecure=0&type=ws&sni=terazhedi.info#@meli_proxyy
-vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@172.64.34.176:443?path=%2Fsghiyws&security=tls&encryption=none&host=terazhedi.info&fp=chrome&allowinsecure=0&type=ws&sni=terazhedi.info#%40Filter_breaker
-vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@172.64.34.176:443?path=%2Fsghiyws&security=tls&encryption=none&host=terazhedi.info&fp=chrome&allowinsecure=0&type=ws&sni=terazhedi.info#%40meli_proxyy
