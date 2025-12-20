@@ -26,3 +26,25 @@
 | 1 | 🟩 VLESS | 2025-11-02 23:26 | [📄 vpn-files/all_posts.txt](vpn-files/all_posts.txt) |
 | 1 | 🟩 VLESS | 2025-11-02 16:33 | [📄 vpn-files/all_posts.txt](vpn-files/all_posts.txt) |
 | 1 | 🟩 VLESS | 2025-11-01 22:18 | [📄 vpn-files/all_posts.txt](vpn-files/all_posts.txt) |
+🔥 telegramvlesstrojan 🔥  
+
+✨ Вся подписка:  
+https://vlesstrojan.alexanderyurievich88.workers.dev?token=sub
+
+✨ Только VLESS:  
+https://vlesstrojan.alexanderyurievich88.workers.dev?token=sub&filter=vless
+
+✨ Только VMESS:  
+https://vlesstrojan.alexanderyurievich88.workers.dev?token=sub&filter=vmess
+
+✨ Добавить WARP:  
+https://vlesstrojan.alexanderyurievich88.workers.dev?token=sub&warp=on
+
+✨ С другим именем (пример MyConfig):  
+https://vlesstrojan.alexanderyurievich88.workers.dev?token=sub&name=MyConfig
+
+📌 Инструкция  
+1. Выберите нужную ссылку.  
+2. Скопируйте её полностью.  
+3. Вставьте в Hiddify, V2RayN или другой клиент.  
+4. Подписка готова к использованию.
