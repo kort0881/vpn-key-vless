@@ -1,4 +1,3 @@
-vless://bd7444d1-5f08-43bd-a332-f9058ad15010@107.174.82.65:32068?encryption=none&type=raw&headerType=none&security=reality&fp=chrome&pbk=QNcdT48fsgPz6WLCLTUmfb2pGG_DYAYeYSVJ2Q4Erwc&sni=yahoo.com&sid=684de91a#[🇺🇸] [vl-re-ra] [251220-011803.926]
 vless://c9fd0fb1-8251-4106-b09a-f4b426736f67@137.184.218.169:36925?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=lJ9INPpO4rdnm2Tek_yg0PGFyUrBB6MoKyvqt_Mfqm0&sni=www.cloudflare.com#[🇺🇸] [vl-re-ra] [251220-011818.736]
 vless://bf2778fe-c7b3-4b01-a771-16c65cf1b265@vpn-srv-10.circlevpn.net:50858?encryption=none&type=raw&headerType=none&security=tls#[🇺🇸] [vl-tl-ra] [251220-011805.961]
 vless://0507fbcd-b983-43a7-8e1d-2c561960ad4f@4bb6-b667-f88608d19fd5.664.qzz.io:443?encryption=none&type=ws&host=4bb6-B667-F88608d19fD5.664.QZz.io&path=%2Fa0XhDU2Cxr9noOhn&security=tls&alpn=http%2F1.1&sni=4bB6-B667-F88608d19FD5.664.qzZ.io#[🇺🇸] [vl-tl-ws] [251220-011404.526]
@@ -454,7 +453,6 @@ vless://4819860c-0e62-4804-9c59-967e5c2bed7a@77.110.119.225:443/?type=tcp&encryp
 vless://7a0b6c85-ce1f-4de0-acd4-9e368d74f415@85.239.149.76:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=st.ozone.ru&fp=chrome&security=reality&pbk=4efItvVkLuH2AdiaNzDIzmyHT3yE4uWcql1L3xEPXko&sid=f0e1d8d8d83346e8#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3
 vless://f028a8c0-6763-4558-aee3-2563db9d7825@serena.ns.cloudflare.com:443?path=%2Fxxvclws&security=tls&encryption=none&host=freudd.info&fp=chrome&type=ws&sni=freudd.info#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3
 vless://%40iSeqaro@127.0.0.1:443?security=none&encryption=none&headerType=none&type=tcp
-vless://%40narcod_ping@85.133.228.198:41546?type=tcp&path=%2F&host=varzesh3.com&headerType=http&security=none#%E2%9D%94%20XX%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40narcod_ping%20%5B15%5D
 vless://%40narcod_ping@85.133.228.198:41546?type=tcp&path=%2F&host=varzesh3.com&headerType=http&security=none#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40narcod_ping%20%5B15%5D
 vless://%40narcod_ping@85.133.228.198:41546?type=tcp&path=🔒
 vless://%50%61%72%73%61%73%68%6F%6E%61%6D-299@185.146.173.39:8880?path=🔒
@@ -498,3 +496,5 @@ vless://-----v2ray_fark-----@v2ray-fark2.ddns.net:2096?type=grpc&serviceName=@v2
 vless://-----v2ray_fark-----@v2ray-fark3.ddns.net:2096?type=grpc&serviceName=@v2ray_fark@v2ray_fark&mode=multi&security=tls&fp=chrome&alpn=http/1.1,h2&sni=🔒
 vless://-----v2ray_fark-----@v2ray-fark3.ddns.net:2096?type=grpc&serviceName=@v2ray_fark@v2ray_fark&security=tls&fp=&alpn=http/1.1,h2&sni=🔒
 vless://-----v2ray_fark-----@v2ray-fark4.ddns.net:2087?type=grpc&serviceName=@v2ray_fark@v2ray_fark&security=tls&fp=chrome&alpn=http/1.1&sni=🔒
+vless://-----v2ray_fark-----@v2ray-fark4.ddns.net:2087?type=grpc&serviceName=@v2ray_fark@v2ray_fark&security=tls&fp=chrome&alpn=http/1.1,h2,h3&sni=🔒
+vless://-----v2ray_fark-----@v2ray-fark5.ddns.net:2087?type=grpc&serviceName=@v2ray_fark@v2ray_fark&security=tls&fp=chrome&alpn=http/1.1&sni=🔒
