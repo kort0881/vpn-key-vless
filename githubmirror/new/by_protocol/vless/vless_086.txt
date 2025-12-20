@@ -1,3 +1,6 @@
+vless://31cebb90-917e-4bf4-9f2c-8ec4e35b286d@85.9.210.1:80?type=xhttp&host=speedtest.net&mode=auto&security=reality&pbk=BJ_LJz-7XsQGArgoPaY2JLKUyFbYUakOMXEfSTGwny4&fp=chrome&sid=89&spx=/ # [ By EbraSha ]
+vless://31d35cbe-92d1-44cd-9991-e58d00499fb2@magnataur.fonixapp.org:10922?security=reality&encryption=none&pbk=BWGB4WcFMvsxbu7rfyGTqVSWVlxNUz0HbmotfvlXuxg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sid=d2900d # [ By EbraSha ]
+vless://31d8b56f-524d-47a1-a0c7-5642018b30c7@silverzebra.fonixapp.org:53367?security=reality&encryption=none&pbk=oenAlMhG602prGwOqnAt5yZ55yuDEfZwGZXn-WaxizM&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sid=e1814a # [ By EbraSha ]
 vless://320052cb-e156-4346-90f6-02be51eba1db@legenderyserversirn.ddns.net:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@LegenderY_Servers # [ By EbraSha ]
 vless://3228d8b6-bafd-439f-bdac-0f3111a8e8f2@a.confignor.site:35493?mode=gun&security=reality&encryption=none&authority=&pbk=qeWt8jJZTwf6vmiTvDfaalPaSZDkX7a3XkKrBxf2YVA&fp=chrome&spx=/&type=grpc&serviceName=++++@ConfigFree&sid=9c24 # [ By EbraSha ]
 vless://3228d8b6-bafd-439f-bdac-0f3111a8e8f2@a.confignor.site:35493?mode=gun&security=reality&encryption=none&pbk=qeWt8jJZTwf6vmiTvDfaalPaSZDkX7a3XkKrBxf2YVA&fp=chrome&spx=/&type=grpc&serviceName=    @ConfigFree&sid=9c24 # [ By EbraSha ]
@@ -495,6 +498,3 @@ vless://4819860c-0e62-4804-9c59-967e5c2bed7a@77.110.119.225:443/?type=tcp&encryp
 vless://481c5606-b586-44d7-bc2e-d8ef30d67f62@176.120.72.63:38339?security=reality&encryption=none&pbk=o0MFuznHh_Wztg0FTAMhFXm3hjAqOJAJIIVNn-_A9WA&headerType=none&fp=chrome&type=tcp&sid=e16883e511 # [ By EbraSha ]
 vless://481c5606-b586-44d7-bc2e-d8ef30d67f62@kz.accesspoints.cloakify.app:38339?security=reality&encryption=none&pbk=o0MFuznHh_Wztg0FTAMhFXm3hjAqOJAJIIVNn-_A9WA&headerType=none&fp=chrome&type=tcp&sid=e16883e511 # [ By EbraSha ]
 vless://48300e8d-4f24-483b-a817-f5e894f06b68@172.67.204.84:443?security=tls&encryption=none&type=ws # [ By EbraSha ]
-vless://4839e0b9-b275-47ea-81ab-9bfd38bbe7af@43.156.217.68:41283?security=none&encryption=none&headerType=none&fp=chrome&type=tcp # [ By EbraSha ]
-vless://485fafeb-f806-40ad-996c-94e01ee84daf@elementalss.fonixapp.org:443?security=reality&encryption=none&pbk=lhwCcXyMGY8GEVV0wDTRsSApcOj-CM1fP8DRY0buRHg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sid=eea9 # [ By EbraSha ]
-vless://486cb417-7426-4bed-8135-c3b2ff0740a3@arcwarden.fonixapp.org:16523?security=reality&encryption=none&pbk=TvOk2Yh15ovbOJ9eja69OU6n8L1OgBbyUsaRpOGrByA&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sid=62db # [ By EbraSha ]

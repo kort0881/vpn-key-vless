@@ -25,7 +25,6 @@ hysteria2://5f89ac2a-b6d6-4c66-98d8-39c4d552138c@dir.cybsecguru.com:35000?securi
 hysteria2://5f89ac2a-b6d6-4c66-98d8-39c4d552138c@[2a0c:4ac1:8::2ae]:35000?security=tls&amp;obfs=salamander&amp;obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&amp;insecure=1&amp;sni=jnir.pichondan.com#@V2rayNG3
 hysteria2://571ec94e-613c-430a-93de-397d3d237475@hshl.huasuan666.top:22157?security=tls&amp;insecure=1&amp;sni=hshl.huasuan666.top#@V2rayNG3
 hysteria2://dongtaiwang.com@51.159.111.32:5355?security=tls&amp;insecure=1&amp;sni=www.bing.com#@V2rayNG3
-hysteria2://c1785de0-212f-11ef-92aa-f23c9164ca5d@9c25e30b-t6ccg0-tfpsin-1q3dm.hk1.hyhuawei.com:443?security=tls&amp;insecure=0&amp;mport=30000-60000&amp;sni=9c25e30b-t6ccg0-tfpsin-1q3dm.hk1.hyhuawei.com#All-@V2rayAlpha--41
 hysteria2://SNItest@37.18.14.169:443?security=tls&amp;insecure=1&amp;sni=megafon.ru#All--@V2rayAlpha--13
 hysteria2://a698c4a6-c3c9-11ee-9693-f23c91cfbbc9@f643a7e8-t6ngg0-t74ix0-1m0fq.hk1.hyhuawei.com:443?security=tls&amp;insecure=1&amp;mport=30000-60000&amp;sni=f643a7e8-t6ngg0-t74ix0-1m0fq.hk1.hyhuawei.com#All--@V2rayAlpha--14
 hysteria2://c3dc8d26-ab2b-11ec-a8bf-f23c91cfbbc9@72b99e3a-t6pb40-t8wh4m-1hpo0.hk1.hyhuawei.com:443?security=tls&amp;insecure=0&amp;sni=72b99e3a-t6pb40-t8wh4m-1hpo0.hk1.hyhuawei.com#All--@V2rayAlpha--15
@@ -130,6 +129,7 @@ hysteria2://ByBeTp5j5C@83.147.253.96:2053?security=tls&obfs=salamander&obfs-pass
 hysteria2://Pax8sf4epd@31.56.146.42:443?obfs=salamander&obfs-password=t2]zv9-6Ku]QF,
 hysteria2://UiIoI79ktLVSpD8Fh6vTq5l5@147.45.154.150:443?alpn=h3&fastopen=1&obfs=salamander&obfs-password=6u33lecx372cssb22nzgu5l5fpdhom4ivqwg4fqby133lzsv3q&sni=anymath.ir#@Change_IP1-HYSبرای
 hysteria2://bcc58e88-e147-11ec-b286-f23c91cfbbc9@da6103f9-t6ngg0-tao3bn-ggww.us.hyhuawei.com:443?insecure=1&sni=da6103f9-t6ngg0-tao3bn-ggww.us.hyhuawei.com#All-%23V2rayAlpha--16
+hysteria2://c1785de0-212f-11ef-92aa-f23c9164ca5d@9c25e30b-t6ccg0-tfpsin-1q3dm.hk1.hyhuawei.com:443?insecure=0&sni=9c25e30b-t6ccg0-tfpsin-1q3dm.hk1.hyhuawei.com#All-%40V2rayAlpha--41
 hysteria2://c357a728-1211-11f0-9a65-f23c9164ca5d@e1d6b467-t53wg0-td5oia-1m49t.us.hyhuawei.com:443?insecure=1&sni=e1d6b467-t53wg0-td5oia-1m49t.us.hyhuawei.com#All-%23V2rayAlpha--21
 hysteria2://cfe032e4-1bc3-454f-9d09-301b0aea08ff@40.233.83.110:45979?insecure=1&sni=www.bing.com#All-%40V2ray_Alpha--9
 hysteria2://da9adc6f-03ca-4d32-9e93-7b2bdbc9b00d@us.xn--gmq00sc0nuve.shop:21319?insecure=1&sni=us.xn--gmq00sc0nuve.shop#All-%23V2rayAlpha--17
