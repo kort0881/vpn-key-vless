@@ -320,9 +320,6 @@ hysteria2://dongtaiwang.com@[2001:bc8:32d7:302::11]:20088?security=tls&amp;insec
 hysteria2://linux.do@[2a01:4f9:4b:f378::1]:13599?security=tls&amp;insecure=1&amp;sni=www.bing.com#🇫🇮
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&amp;obfs=salamander&amp;obfs-password=Yet-Another-Public-Config-1&amp;insecure=1&amp;sni=YAPC-1.afshin.ir#🇳🇱
 hysteria2://Telegram-->@Ln2Ray@[2a14:3f87:f001:9::a]:45000?security=tls&amp;obfs=salamander&amp;obfs-password=Telegram-->@Ln2Ray&amp;insecure=1&amp;sni=gavazn.55994421.xyz#🇳🇱
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000?security=tls&amp;obfs=salamander&amp;obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&amp;insecure=0&amp;sni=api.kermanshahi.org#@Broz_time > کانفیگ رایگان
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.40:35000?security=tls&amp;obfs=salamander&amp;obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&amp;insecure=0&amp;sni=api.kermanshahi.org#@Broz_time > کانفیگ رایگان
-hysteria2://Telegram-->@Ln2Ray@206.71.158.23:45000?security=tls&amp;obfs=salamander&amp;obfs-password=Telegram-->@Ln2Ray&amp;insecure=1&amp;sni=gavazn.55994421.xyz#@Broz_time > کانفیگ رایگان
 hysteria2://afc8e385-dc0f-4b26-a5ed-b0fbf08b9df6@tr.xn--9kqx4sc0n.shop:21325?security=tls&amp;insecure=0#(@VmessProtocol)برای خرید و اتصال دائمی جوین شو🇩🇪
 hysteria2://c232f411-96b5-4b07-b2f7-66a434725ffb@193.142.59.41:23899?security=tls&amp;insecure=1&amp;sni=hl01.mistea.top#(@VmessProtocol)برای خرید و اتصال دائمی جوین شو🇩🇪
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&amp;obfs=salamander&amp;obfs-password=Yet-Another-Public-Config-1&amp;insecure=1&amp;sni=YAPC-1.afshin.ir#(@VmessProtocol)برای خرید و اتصال دائمی جوین شو🇩🇪
@@ -338,6 +335,7 @@ hysteria2://72SR90kxWa@91.99.225.11:443?security=tls&amp;obfs=salamander&amp;obf
 hysteria2://4CQDwSnjr3@91.99.225.11:443?security=tls&amp;obfs=salamander&amp;obfs-password=Jsbdksj@V2RayyNGvpn$Miracle&amp;insecure=1&amp;sni=refersion.com#🇩🇪@V2RayyNGvpn🇩🇪همه اوپراتور ها
 hysteria2://LGpqcECo3X@91.99.225.11:443?security=tls&amp;obfs=salamander&amp;obfs-password=Jsbdksj@V2RayyNGvpn$Miracle&amp;insecure=1&amp;sni=refersion.com#🇩🇪@V2RayyNGvpn🇩🇪همه اوپراتور ها
 hysteria2://zdUcTseVJy@91.99.225.11:443?security=tls&amp;obfs=salamander&amp;obfs-password=Jsbdksj@V2RayyNGvpn$Miracle&amp;insecure=1&amp;sni=refersion.com#🇩🇪@V2RayyNGvpn🇩🇪همه اوپراتور ها
+hysteria2://SAOLvYVTTu@91.99.225.11:443?security=tls&amp;obfs=salamander&amp;obfs-password=Jsbdksj@V2RayyNGvpn$Miracle&amp;insecure=1&amp;sni=refersion.com#🇩🇪@V2RayyNGvpn🇩🇪همه اوپراتور ها
 hysteria2://28c05d48e2f470d07a4c392c9bd43849@quran.mci.ai:443?security=tls&amp;insecure=0&amp;sni=quran.mci.ai#https://t.me/v2roay
 hysteria2://KevinZakarian@kevin.serverv.net:8443?&amp;insecure=1&amp;obfs=salamander&amp;obfs-password=KevinZakarian#KevinVPN
 hysteria2://KevinZakarian@kevin.serverv.net:443?obfs=salamander&amp;obfs-password=KevinZakarian&amp;insecure=1#KevinVPN
@@ -498,3 +496,5 @@ hysteria2://71504eaf-29ac-4190-89d1-dd9ce2c9ee14@[2001:bc8:1640:50eb:dc00:ff:fe5
 hysteria2://71504eaf-29ac-4190-89d1-dd9ce2c9ee14@[2001:bc8:1640:50eb:dc00:ff:fe57:dd6f]:443?security=tls&obfs=salamander&obfs-password=FnFgQIckcMRtKq7i&insecure=1&mport=50000-60000&sni=Ab.ac#MCI-IR--@V2rayAlpha-5
 hysteria2://71504eaf-29ac-4190-89d1-dd9ce2c9ee14@[2001:bc8:1640:50eb:dc00:ff:fe57:dd6f]:443?security=tls&obfs=salamander&obfs-password=FnFgQIckcMRtKq7i&insecure=1&mport=50000-60000&sni=Ab.ac#𝗝𝗼𝗶𝗻
 hysteria2://72SR90kxWa@91.99.225.11:443?insecure=1&sni=refersion.com&obfs=salamander&obfs-password=Jsbdksj@V2RayyNGvpn$Miracle#%F0%9F%87%A9%F0%9F%87%AA%40V2RayyNGvpn%F0%9F%87%A9%F0%9F%87%AA%D9%87%D9%85%D9%87%20%D8%A7%D9%88%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%20%D9%87...%20%234
+hysteria2://72SR90kxWa@91.99.225.11:443?security=tls&obfs=salamander&obfs-password=Jsbdksj@V2RayyNGvpn$Miracle&insecure=1&sni=refersion.com#🇩🇪@V2RayyNGvpn🇩🇪همه
+hysteria2://77238c49bd20e407f05e0c073ad08fdb@dd.openaccessnode.com:989?insecure=1&sni=dd.ircybersec.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-King-Reza-Pahlavi#All-%40V2rayAlpha-26

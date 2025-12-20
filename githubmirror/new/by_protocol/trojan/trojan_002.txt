@@ -1,12 +1,3 @@
-trojan://db19fc68-c027-4641-a8eb-eed3e1065c8a@amin.karkas1.ir:443?mode=gun&amp;security=tls&amp;alpn=http/1.1&amp;fp=safari&amp;type=grpc&amp;serviceName=6vuNVgOFnqUEvj0rcXIcStL&amp;sni=amin.karkas1.ir#amin.karkas1.ir_tls_grpc_direct_trojan
-trojan://11ae0edd-2f63-4495-8683-037abbda9986@amin.karkas1.ir:443?path=/6vuNVgOFnqUEvj0sNkGkxxW7&amp;security=tls&amp;alpn=h2&amp;host=amin.karkas1.ir&amp;fp=safari&amp;type=ws&amp;sni=amin.karkas1.ir#Cdn_tls_h2_WS_direct_trojan
-trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:46002#🇨🇳_CN_中国_15
-trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org#🇷🇺_RU_俄罗斯联邦_3
-trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni=sg01.freeflyingcloud.xyz#🇸🇬_SG_新加坡_5
-trojan://0b1371aa-649d-41dc-9126-338c87936500@95.164.33.62:443?allowInsecure=1&amp;sni=sourceforge.net&amp;ws=1&amp;wspath=/websocket#瑞典-143.7KB/s
-trojan://3bedceff-1956-4f2c-a9c1-45c74568a560@ty11t.twty.dynu.net:13761?allowInsecure=1#台湾-5.63MB/s
-trojan://299025b9-6b55-430c-be38-9a18c06873ac@china3.one.edu.kg:12051?allowInsecure=1&amp;sni=china3.one.edu.kg#中转节点-2.60MB/s
-trojan://299025b9-6b55-430c-be38-9a18c06873ac@china3.one.edu.kg:12034?allowInsecure=1&amp;sni=china3.one.edu.kg#中转节点-6.67MB/s
 trojan://299025b9-6b55-430c-be38-9a18c06873ac@china3.one.edu.kg:12052?allowInsecure=1&amp;sni=china3.one.edu.kg#中转节点-6.59MB/s
 trojan://299025b9-6b55-430c-be38-9a18c06873ac@china2.one.edu.kg:12022?allowInsecure=1&amp;sni=china2.one.edu.kg#中转节点-11.41MB/s
 trojan://299025b9-6b55-430c-be38-9a18c06873ac@china4.one.edu.kg:12069?allowInsecure=1&amp;sni=china4.one.edu.kg#中转节点-1.35MB/s
@@ -74,8 +65,8 @@ trojan://59a62e95-6262-4ba1-8027-c642b7c72713@green2.cdntencentmusic.com:31101/?
 trojan://d446ca24-80b7-4e4a-8055-e23838e43705@cdnfire.xiaomispeed.com:23301/?type=tcp&amp;security=tls&amp;sni=cdnfire.xiaomispeed.com&amp;allowInsecure=1#🇸🇬 新加坡
 trojan://d446ca24-80b7-4e4a-8055-e23838e43705@cdnfire.xiaomispeed.com:21102/?type=tcp&amp;security=tls&amp;sni=cdnfire.xiaomispeed.com&amp;allowInsecure=1#🇭🇰 香港
 trojan://b574ea88-168d-4504-a62d-fe9a2271d726@green2.cdntencentmusic.com:31103/?type=tcp&amp;security=tls&amp;sni=green2.cdntencentmusic.com&amp;allowInsecure=1#🇭🇰 香港
-trojan://POORIARED@172.67.134.185:443?path=%2FeyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed&security=tls&fp=chrome&type=ws&sni=reDfRee8.REDFree8.ir#🌐سرور 39 | Aza-29| MTSRVRS
-trojan://POORIARED@172.67.134.185:443?path=%2FeyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed&security=tls&fp=chrome&type=ws&sni=reDfRee8.REDFree8.ir#🌐سرور 40 | Aza-29| MTSRVRS
+trojan://POORIARED@172.67.134.185:443?path=%2FeyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed&security=tls&fp=chrome&type=ws&sni=reDfRee8.REDFree8.ir#🌐سرور 19 | Aza-30| MTSRVRS
+trojan://POORIARED@172.67.134.185:443?path=%2FeyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed&security=tls&fp=chrome&type=ws&sni=reDfRee8.REDFree8.ir#🌐سرور 20 | Aza-30| MTSRVRS
 trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&amp;sni=io.ozone.ru&amp;allowInsecure=true&amp;fp=chrome#🇪🇸[openproxylist.com] trojan-ES
 trojan://RPyW62_b9aH.ztJKeArou@83.143.87.9:18581?security=tls&amp;insecure=1&amp;headerType=none&amp;type=tcp&amp;allowInsecure=1#🇳🇴[openproxylist.com] trojan-NO
 trojan://telegram-id-privatevpns@35.181.17.177:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷[openproxylist.com] trojan-FR
@@ -498,3 +489,12 @@ trojan://Aimer@156.225.72.199:2096/?type=tcp&security=tls&sni=ngepx.ambercc.file
 trojan://Aimer@188.164.159.69:2083/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-188.164.159.69-1379
 trojan://Aimer@154.197.64.206:443/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-154.197.64.206-1392
 trojan://Aimer@173.245.59.109:2087/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-173.245.59.109-1397
+trojan://Aimer@162.159.44.233:8443/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-162.159.44.233-1410
+trojan://Aimer@108.165.152.1:2087/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-108.165.152.1-1411
+trojan://Aimer@52.32.90.142:80/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8US-52.32.90.142-1427
+trojan://Aimer@135.84.76.152:2087/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8US-135.84.76.152-1442
+trojan://Aimer@35.83.185.225:443/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8US-35.83.185.225-1447
+trojan://Aimer@27.50.49.166:8443/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-27.50.49.166-1460
+trojan://Aimer@213.241.198.59:2083/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-213.241.198.59-1470
+trojan://Aimer@167.68.4.199:2053/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-167.68.4.199-1477
+trojan://Aimer@5.182.84.52:2083/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-5.182.84.52-1485

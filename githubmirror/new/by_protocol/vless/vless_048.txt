@@ -1,3 +1,8 @@
+vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&host=iphoster-quran-iran-5.coin.name.ng&fp=chrome&type=ws&sni=iphoster-quran-iran-5.coin.name.ng#<!DOCTYPE html>
+vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=hetzner-12.apple.name.ng&type=ws&sni=hetzner-12.apple.name.ng#<!DOCTYPE html>
+vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=hetzner-4.access.name.ng&type=ws&sni=hetzner-4.access.name.ng#<!DOCTYPE html>
+vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=hetzner-9.cfuk.name.ng&type=ws&sni=hetzner-9.cfuk.name.ng#<!DOCTYPE html>
+vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=lease-14.access.name.ng&fp=chrome&type=ws&sni=lease-14.access.name.ng#<!DOCTYPE html>
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=lease-14.access.name.ng&type=ws&sni=lease-14.access.name.ng#<!DOCTYPE html>
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=lease-18.access.name.ng&fp=chrome&type=ws&sni=lease-18.access.name.ng#<!DOCTYPE html>
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=lease-20.access.name.ng&fp=chrome&type=ws&sni=lease-20.access.name.ng#<!DOCTYPE html>
@@ -493,8 +498,3 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.16:8880?mode=gun&security=
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.19:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#FR_5908_@Surfboardv2ray
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.19:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#FR_5909_@Surfboardv2ray
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.218:8880?mode=gun&security=none&encryption=none&type=grpc#FR_5910_@Surfboardv2ray
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.222:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#FR_5911_@Surfboardv2ray
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.222:8880?mode=gun&security=none&encryption=none&type=grpc#FR_5912_@Surfboardv2ray
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.222:8880?mode=gun&security=none&encryption=none&type=grpc#FR_5913_@Surfboardv2ray
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.226:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#<!DOCTYPE html>
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.226:8880?mode=gun&security=none&encryption=none&type=grpc#FR_5915_@Surfboardv2ray

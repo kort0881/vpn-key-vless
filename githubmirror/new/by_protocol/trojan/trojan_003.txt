@@ -1,12 +1,3 @@
-trojan://Aimer@162.159.44.233:8443/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-162.159.44.233-1410
-trojan://Aimer@108.165.152.1:2087/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-108.165.152.1-1411
-trojan://Aimer@52.32.90.142:80/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8US-52.32.90.142-1427
-trojan://Aimer@135.84.76.152:2087/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8US-135.84.76.152-1442
-trojan://Aimer@35.83.185.225:443/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8US-35.83.185.225-1447
-trojan://Aimer@27.50.49.166:8443/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-27.50.49.166-1460
-trojan://Aimer@213.241.198.59:2083/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-213.241.198.59-1470
-trojan://Aimer@167.68.4.199:2053/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-167.68.4.199-1477
-trojan://Aimer@5.182.84.52:2083/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-5.182.84.52-1485
 trojan://Aimer@206.238.236.252:2096/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%87%B8%F0%9F%87%ACSG-206.238.236.252-1495
 trojan://Aimer@188.164.159.138:2083/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-188.164.159.138-1497
 trojan://Aimer@213.241.198.189:2053/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-213.241.198.189-1501
@@ -498,3 +489,12 @@ trojan://trojan@172.64.155.16:2053/?type=ws&host=ana-service-anaservice--anaserv
 trojan://bpb-trojan@104.26.4.60:443/?type=ws&host=zamim340.ggff.net&path=%2Ftr%3Fed%3D2560&security=tls&sni=zamim340.ggff.net#%40Hope_Net-join-...
 trojan://RV%3CoAVP5SBk%25Q%40jE@104.21.64.1:2096/?type=ws&host=joinmahdiserver-484.pages.dev&path=%2FtrJBYdoA2UbPASexk2%3Fed%3D2560&security=tls&sni=JoInmaHdiservER-484.pagEs.DeV#%40Hope_Net-join-us-on-Telegram
 trojan://Bw5Mz7QkVp@139.84.172.132:443/?type=tcp&security=tls&sni=z-v2-077924.kailib.com#%40Hope_Net-join-us-on-Telegram
+trojan://Aimer@162.159.44.227:443/?type=tcp&security=tls&sni=ngepz.ambercc.filegear-sg.me#%40Hope_Net-join-us-on-Telegram
+trojan://fnufMt%3AsQ&rC0HUu@172.66.47.84:2083/?type=ws&path=%2FtryXCQkx60Z0X0OJmK%3Fed%3D2560&security=tls&sni=joinmAHDIsERVER-6vv.PaGeS.dEv
+trojan://Aimer@104.25.254.197:2096/?type=tcp&security=tls&sni=ngepz.ambercc.filegear-sg.me#%40Hope_Net-join-us-on-Telegram
+trojan://Aimer@162.159.44.48:443/?type=ws&host=ngepz.ambercc.filegear-sg.me&security=tls&sni=ngepz.ambercc.filegear-sg.me#%40Hope_Net-join-us-on-Telegram
+trojan://Aimer@154.197.64.233:443/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#%40Hope_Net-join-us-on-Telegram
+trojan://NISHIKUITAN111@104.16.80.174:443/?type=tcp&security=tls#%40Hope_Net-join-us-on-Telegram
+trojan://Aimer@108.162.195.236:443/?type=ws&host=ngepz.ambercc.filegear-sg.me&security=tls&sni=sage.ns.cloudflare.com#%40Hope_Net-join-us-on-Telegram
+trojan://Aimer@192.200.160.109:8443/?type=tcp&security=tls&sni=ngepy.ambercc.filegear-sg.me#%40Hope_Net-join-us-on-Telegram
+trojan://Aimer@172.64.34.52:2096/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#%40Hope_Net-join-us-on-Telegram
