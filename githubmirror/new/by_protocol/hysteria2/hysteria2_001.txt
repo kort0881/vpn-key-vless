@@ -354,6 +354,7 @@ hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&amp;obf
 hysteria2://a084933d-0b41-4571-ae0c-7163b8c71ed1@de.eyucdn.xyz:2056?security=tls&amp;insecure=1&amp;sni=de.eyucdn.xyz#Telegram:@zede_filteri
 hysteria2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@lsj3.mangshe.xyz:2056?security=tls&amp;insecure=1&amp;sni=lsj3.mangshe.xyz#Telegram:@zede_filteri
 hysteria2://SNItest@37.18.14.169:443?security=tls&amp;insecure=1&amp;sni=megafon.ru#Telegram:@zede_filteri
+hysteria2://EFXf5r4GZHRbq6hG3389EhSDJsL9uRV65Iis9foW4rQ=@47.254.152.7:27452?sni=www.microsoft.com&amp;insecure=1#DE
 hysteria2://17cdeb6c-f046-11ee-bdac-f23c93141fad@c37b0be5n-t3kyo0-t3lvgh-2gok.la.shifen.uk:1743/?sni=c37b0be5-t3kyo0-t3lvgh-2gok.la.shifen.uk#%3E%3E%40ShadowsocksM%3A%3AUS
 hysteria2://693a3ce6-2188-4fe9-82c0-c5c289532534@hl.dabache.top:20000?security=tls&insecure=0&mport=20000-20500&sni=hl.dabache.top#%3E%3E%40ShadowsocksM%3A%3ANL
 hysteria2://dongtaiwang.com@195.154.206.231:33880/?insecure=1&sni=apple.com#%3E%3E%40oneclickvpnkeys%3A%3AFR
@@ -497,4 +498,3 @@ hysteria2://680210f5-3b5f-4947-9983-e508a15cf169@[2a14:3f87:f001:1a::a]:35000?se
 hysteria2://693a3ce6-2188-4fe9-82c0-c5c289532534@hl.dabache.top:20000?#%F0%9F%8E%A82%40oneclickvpnkeys
 hysteria2://693a3ce6-2188-4fe9-82c0-c5c289532534@hl.dabache.top:20000?security=tls&insecure=0#%F0%9F%8E%A82%40oneclickvpnkeys
 hysteria2://693a3ce6-2188-4fe9-82c0-c5c289532534@hl.dabache.top:20000?security=tls&insecure=0&mport=20000-20500&sni=hl.dabache.top#%F0%9F%92%99%F0%9F%A5%B0AZAD.NET.VPN%F0%9F%A5%82%F0%9F%8C%B9
-hysteria2://693a3ce6-2188-4fe9-82c0-c5c289532534@hl.dabache.top:20000?security=tls&insecure=0&mport=20000-20500&sni=hl.dabache.top#%F0%9F%92%99%F0%9F%A5%B0AZAD.NET.VPN%F0%9F%A5%82%F0%9F%8C%B9🌱
