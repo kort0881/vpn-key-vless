@@ -1,7 +1,3 @@
-vless://ea286109-d20f-415e-849e-4af20ab04b65@147.135.1.195:443/?type=tcp&encryption=none&security=tls&sni=147135001195.sec22org.com&alpn=h2%2Chttp%2F1.1
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.75:443/?type=ws&encryption=none&host=v2nGfaSt-Jcr.pagEs.Dev
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.61.49:443/?type=ws&encryption=none&host=a.xn--i-sx6a60i.us.kg&security=tls&sni=a.xn--i-sx6a60i.us.kg
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@199.34.228.48:443/?type=ws&encryption=none&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560&security=tls&sni=a.xn--i-sx6a60i.us.kg#%40Hope_Net-join-us-on-Telegram
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@162.159.152.9:443/?type=ws&encryption=none&host=lu.ylks.us.kg&security=tls&sni=lu.ylks.us.kg#%40Hope_Net-join-us-on-Telegram
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@199.34.228.171:443/?type=tcp&encryption=none
 vless://54694a33-a8dc-47dd-bc38-acd3971e0055@147135004002.sec20org.com:443/?type=tcp&encryption=none&security=tls&alpn=h2%2Chttp%2F1.1#%40Hope_Net-join-us-on-Telegram
@@ -498,3 +494,7 @@ vless://ec7de7e0-3f09-4ef4-8a34-e441917d65fa@172.67.164.5:443/?type=ws&encryptio
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@25.129.198.213:8880/?type=ws&encryption=none&host=jp.laoyoutiao.link&path=%2F#%40v2ray_configs_pool
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@25.129.199.156:8880/?type=ws&encryption=none&host=kjgx.laoyoutiao.link&path=%2F#%40v2ray_configs_pool
 vless://e794da45-0d8d-4b7a-9ae9-b0b84528b360@172.67.128.212:443/?type=ws&encryption=none&host=hexaprop.dirih76753.workers.dev&path=%2F&security=tls&sni=hexaprop.dirih76753.workers.dev#%40v2ray_configs_pool
+vless://3c1eef35-015b-48cd-9f0a-23d9ef5816cc@104.16.8.237:80/?type=ws&encryption=none&host=little-haze-1600-ppal03.gabonim122.workers.dev&path=%2F%3Fed%3D2560#%40v2ray_configs_pool
+vless://bb633907-c6c7-4b97-842f-8536141182bd@v2wray.gimidavy.workers.dev:443/?type=ws&encryption=none&host=v2wray.gimidavy.workers.dev&path=%2FewW9cdZFWnxuIcB8%3Fed%3D2560&security=tls&sni=v2Wray.GImiDaVY.wOrkerS.dEV&alpn=http%2F1.1#%40v2ray_configs_pool
+vless://38141d3b-ddde-4a2f-8d26-a31ddcd49c8a@172.67.187.251:2095/?type=ws&encryption=none&host=520.msdtlasm.workers.dev&path=%2F#%40v2ray_configs_pool
+vless://61d93b9b-00d0-4df1-8027-6e036f4c1f11@104.21.26.58:443/?type=ws&encryption=none&host=freedom13.bypasojd.workers.dev&path=%2F&security=tls&sni=freedom13.bypasojd.workers.dev#%40v2ray_configs_pool
