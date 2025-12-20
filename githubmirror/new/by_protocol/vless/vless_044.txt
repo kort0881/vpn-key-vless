@@ -1,8 +1,3 @@
-vless://723c46be-ac60-4675-8f3f-a1529d41c338@mfa.gov.ua:443?path=/proxyip=kr.william.us.ci:443?ed=2560&security=tls&encryption=none&host=a.azrf.me&fp=chrome&type=ws&sni=a.azrf.me#CA_3361_@Surfboardv2ray
-vless://7270612b-49f6-4b04-999c-34d8263da767@108.162.195.45:443?path=/aymdlws&security=tls&encryption=none&host=picassoo.info&type=ws&sni=picassoo.info#CA_3362_@Surfboardv2ray
-vless://7270612b-49f6-4b04-999c-34d8263da767@108.162.195.45:443?path=/aymdlws&security=tls&encryption=none&host=picassoo.info&type=ws&sni=picassoo.info#<!DOCTYPE html>
-vless://7270612b-49f6-4b04-999c-34d8263da767@108.162.195.45:443?path=/aymdlws&security=tls&encryption=none&insecure=0&host=picassoo.info&fp=chrome&type=ws&allowInsecure=0&sni=picassoo.info#CA_3364_@Surfboardv2ray
-vless://7270612b-49f6-4b04-999c-34d8263da767@108.162.195.45:443?path=/aymdlws&security=tls&encryption=none&insecure=0&host=picassoo.info&fp=chrome&type=ws&allowInsecure=0&sni=picassoo.info#CA_3365_@Surfboardv2ray
 vless://7270612b-49f6-4b04-999c-34d8263da767@108.162.195.45:443?path=/aymdlws&security=tls&encryption=none&insecure=0&host=picassoo.info&type=ws&allowInsecure=0&sni=picassoo.info#<!DOCTYPE html>
 vless://7270612b-49f6-4b04-999c-34d8263da767@108.162.195.45:443?path=/aymdlws&security=tls&encryption=none&insecure=0&host=picassoo.info&type=ws&allowInsecure=0&sni=picassoo.info#CA_3367_@Surfboardv2ray
 vless://7270612b-49f6-4b04-999c-34d8263da767@108.162.195.45:443?path=/aymdlws&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=picassoo.info#<!DOCTYPE html>
@@ -498,3 +493,8 @@ vless://8b478ea5-826d-45b5-bea2-4bdacf71a0e6@45.131.4.11:80?path=/kvgxxTpIKowHI0
 vless://8b4bb431-21bf-46c9-a4bf-4deac75613f9@nwarne.fast.hosting-ip.com:80?path=/de?ed=1048&security=none&encryption=none&host=Afkarnews.com&type=ws#<!DOCTYPE html>
 vless://8b4bb431-21bf-46c9-a4bf-4deac75613f9@nwarne.fast.hosting-ip.com:80?path=/de?ed=1048&security=none&encryption=none&host=Shuposipet.com&type=ws#<!DOCTYPE html>
 vless://8b4bb431-21bf-46c9-a4bf-4deac75613f9@nwarne.fast.hosting-ip.com:80?path=/de?ed=1048&security=none&encryption=none&host=Shupyghb.com&type=ws#<!DOCTYPE html>
+vless://8b4c316e-f05a-413e-bda5-a7383a123a77@85.133.201.45:18818?security=none&encryption=none&headerType=http&type=tcp#<!DOCTYPE html>
+vless://8b63cf90-830c-4fd8-a911-9e84fd7a5898@172.67.74.104:443?security=tls&alpn=http/1.1&encryption=none&host=s.s.google.com.b5r.ir.&fp=chrome&type=ws&sni=b5r.ir#<!DOCTYPE html>
+vless://8b63cf90-830c-4fd8-a911-9e84fd7a5898@172.67.74.104:443?type=ws&host=s.s.google.com.b5r.ir.&path=?ed=2560?ed=2048JOIN---PLANB_PROXY&security=tls&fp=chrome&sni=b5r.ir&alpn=http/1.1#<!DOCTYPE html>
+vless://8b76d8c3-f838-44a3-bbef-30250b9c33fa@185.36.145.122:2083?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=book.smnsoft.com#<!DOCTYPE html>
+vless://8b78a1cb-fe3b-47b8-bbb6-ad78af4cb581@141.227.134.128:14407?mode=gun&security=&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#<!DOCTYPE html>

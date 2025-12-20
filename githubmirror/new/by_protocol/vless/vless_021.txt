@@ -1,8 +1,3 @@
-vless://0cca1132-94a6-476c-ab13-6b28e0727751@104.16.132.136:80?encryption=none&security=none&type=ws&host=blue-pine-59a0-ppal03.haleyaw148.workers.dev&path=/?ed=2560#Tel:@pPal03Join
-vless://0cca1132-94a6-476c-ab13-6b28e0727751@104.24.192.51:80?encryption=none&security=none&type=ws&host=blue-pine-59a0-ppal03.haleyaw148.workers.dev&path=/?ed=2560#Tel:@pPal03Join
-vless://0cd4cffb-13fb-48e1-a5a9-9d993f344f53@46.62.168.178:39411?security=reality&encryption=none&pbk=nXgUEoaBeYXNre6foY-3IEIy9cPSCLJzOSCEnlvJ0lE&headerType=none&fp=chrome&spx=/&type=tcp&sni=google.com&sid=e3e4740b584aeb#@NT_Safe
-vless://0cde39c0-67a6-431f-b708-3f67b83574ee@78.111.84.71:8443?security=&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#@CaV2ray
-vless://0d0782a3-2c62-4936-b893-5790188778ea@37.221.125.172:443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#22@oneclickvpnkeys
 vless://0d0782a3-2c62-4936-b893-5790188778ea@37.221.125.172:443?path=/&security=tls&encryption=none&type=ws#All_19--@V2rayAlpha
 vless://0d0782a3-2c62-4936-b893-5790188778ea@37.221.125.172:443?path=/&security=tls&encryption=none&type=ws#All_22--@V2rayAlpha
 vless://0d0782a3-2c62-4936-b893-5790188778ea@37.221.125.172:443?path=/&security=tls&encryption=none&type=ws#@FreakConfig
@@ -498,3 +493,8 @@ vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=/
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=/sghiyws&security=tls&encryption=none&insecure=1&host=terazhedi.info&type=ws&allowInsecure=1&sni=terazhedi.info#@Daily_Configs
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=/sghiyws&security=tls&encryption=none&insecure=1&host=terazhedi.info&type=ws&allowInsecure=1&sni=terazhedi.info# @Fast78_Channel | Best Free Configs
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=/sghiyws&security=tls&encryption=none&insecure=1&host=terazhedi.info&type=ws&allowInsecure=1&sni=terazhedi.info#:prrofile_purple@
+vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=/sghiyws&security=tls&encryption=none&insecure=1&host=terazhedi.info&type=ws&allowInsecure=1&sni=terazhedi.info&note=@freeOnlineVPN# - DE - @freeOnlineVPN
+vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=/sghiyws&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1&sni=terazhedi.info# @Fast78_Channel | Best Free Configs
+vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=/sghiyws&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1&sni=terazhedi.info&note=@freeOnlineVPN# - DE - @freeOnlineVPN
+vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=/sghiyws&security=tls&encryption=none&type=ws&sni=terazhedi.info#@Broz_time >
+vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=/sghiyws&security=tls&encryption=none&type=ws&sni=terazhedi.info#@sunflowerplato
