@@ -1,4 +1,3 @@
-vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@45.15.127.184:2087?encryption=none&security=tls&allowInsecure=1&type=grpc
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@45.15.127.184:2087?mode=gun&security=tls&encryption=none&type=grpc
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@45.15.127.184:2096/?type=ws&encryption=none&path=🔒
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@45.15.127.184:443/?type=ws&encryption=none&path=🔒
@@ -498,3 +497,4 @@ vless://Parsashonam-299@91.99.16.244:443?mode=auto&path=🔒
 vless://Parsashonam-299@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp
 vless://Parsashonam-300@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp
 vless://Parsashonam-300@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#✅سرورهایبیشتردرکانال:prrofile_purple@✅
+vless://Parsashonam-301@185.146.173.39:8880?path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056&security=none&encryption=none&host=De.Parsashonam.CfD.&type=httpupgrade#💎کانفیگ

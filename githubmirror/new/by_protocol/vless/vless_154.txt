@@ -91,13 +91,10 @@ vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443/?type=
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443/?type=ws&encryption=none&flow=&host=terazhedi.info&path=%2Fsghiyws&security=tls&sni=terazhedi.info&allowInsecure=1&fp=chrome#%F0%9F%93%A153%40oneclickvpnkeys
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443/?type=ws&encryption=none&flow=&host=terazhedi.info&path=/sghiyws&security=tls&sni=terazhedi.info&allowInsecure=1&fp=chrome#📡53@oneclickvpnkeys
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443/?type=ws&encryption=none&flow=&host=terazhedi.info&path=🔒
-vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?encryption=none&security=tls&sni=terazhedi.info&fp=chrome&type=ws&host=terazhedi.info&path=/sghiyws&packetEncoding=xudp#https://t.me/ShadowsocksM64
-vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?encryption=none&security=tls&sni=terazhedi.info&fp=chrome&type=ws&host=terazhedi.info&path=/sghiyws&packetEncoding=xudp#https://t.me/ShadowsocksM76
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?encryption=none&security=tls&sni=terazhedi.info&insecure=0&allowInsecure=0&type=ws&host=terazhedi.info&path=/sghiyws#@Daily_Configs
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?encryption=none&security=tls&sni=terazhedi.info&insecure=0&allowInsecure=0&type=ws&path=/sghiyws#@Daily_Configs
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?encryption=none&security=tls&sni=terazhedi.info&insecure=1&allowInsecure=1&type=ws&host=terazhedi.info&path=/sghiyws#@Daily_Configs
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?encryption=none&security=tls&sni=terazhedi.info&insecure=1&allowInsecure=1&type=ws&path=/sghiyws#@Daily_Configs
-vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?encryption=none&security=tls&sni=terazhedi.info&type=ws&host=terazhedi.info&path=/sghiyws&packetEncoding=xudp#https://t.me/ShadowsocksM63
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?encryption=none&security=tls&sni=🔒
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=%2Fsghiyws%3Fed&security=tls&encryption=none&fp=chrome&type=ws&sni=terazhedi.info#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=%2Fsghiyws%3Fed&security=tls&encryption=none&fp=chrome&type=ws&sni=terazhedi.info#RELAY🚩
@@ -198,7 +195,6 @@ vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?securi
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?security=tls&type=ws&path=🔒
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?type=ws&encryption=none&path=%2Fsghiyws%3Fed&security=tls&sni=terazhedi.info&fp=chrome#RELAY🚩
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@zula.ir:443?encryption=none&security=tls&sni=terazhedi.info&fp=chrome&type=ws&host=terazhedi.info&path=/sghiyws&packetEncoding=xudp#%3E%3E%40ShadowsocksM%3A%3ADE
-vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@zula.ir:443?encryption=none&security=tls&sni=terazhedi.info&fp=chrome&type=ws&host=terazhedi.info&path=/sghiyws&packetEncoding=xudp#https://t.me/ShadowsocksM78
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@zula.ir:443?encryption=none&security=tls&sni=🔒
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@zula.ir:443?path=%2Fsghiyws&security=tls&encryption=none&host=terazhedi.info&fp=chrome&type=ws&sni=terazhedi.info#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@zula.ir:443?path=%2Fsghiyws&security=tls&encryption=none&host=terazhedi.info&type=ws&sni=terazhedi.info#%40V2RAYROZ
@@ -498,3 +494,7 @@ vless://1ef2cc1a-3758-49a4-b811-a584892ddc90@172.66.213.38:443/?type=ws&encrypti
 vless://1ef8a652-2e7e-458e-da96-e51c3b1c93ca@45.82.161.120:19011?security=none&encryption=none&headerType=none&type=tcp
 vless://1ef91e6f-7522-4ded-84ea-4523dd2a15d6@104.21.4.56:2053?path=🔒
 vless://1efab776-c694-4652-f89e-45ffffe49ef6@cafearz.com:8080?encryption=none&security=none&type=ws&host=shad.ir.fin.test.digicyber.click.&path=/olem/ws?ed=1024#@melov2ray🇫🇮
+vless://1efab776-c694-4652-f89e-45ffffe49ef6@cafearz.com:8080?encryption=none&security=none&type=ws&host=shad.ir.fin.test.digicyber.click.&path=🔒
+vless://1efab776-c694-4652-f89e-45ffffe49ef6@chat.openai.com:8080?encryption=none&security=none&type=ws&host=shad.ir.fin.test.digicyber.click.&path=/olem/ws?ed=1024#@melov2ray🇫🇮
+vless://1efab776-c694-4652-f89e-45ffffe49ef6@chat.openai.com:8080?encryption=none&security=none&type=ws&host=shad.ir.fin.test.digicyber.click.&path=🔒
+vless://1f01fda5-6bdc-4c9b-8b52-1b5e174e1f7e@91.224.74.69:25568?path=/&security=&encryption=none&type=ws#Hich

@@ -1,3 +1,5 @@
+vless://82f9beee-a609-47f2-9142-14c25258dc0b@81.27.100.89:4655?security=none&encryption=none&headerType=none&type=tcp#%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%F0%9F%94%A5
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.181.103.189:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3
 vless://b9cade73-6c60-437f-8e99-631cc3560ca7@64.227.47.224:443?path=%2Fevvixzws&security=tls&encryption=none&type=ws&sni=ozon.ru#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%D9%85%D8%A7%F0%9F%91%88%F0%9F%8F%BB%F0%9F%94%A5%20v2raytunn%40%F0%9F%94%A5
 vless://e6ea8587-bc48-4ed2-b93d-3486e51c47a5@79.137.202.150:28485?mode=gun&security=reality&encryption=none&authority=&pbk=kP5lEpXBe5wbaSLOR6A9azX6kwMkfEk06bMkEpZxdSE&fp=chrome&spx=%2F&type=grpc&serviceName=%2F%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec&sni=tgju.org&sid=dc#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3
 vless://1953c1e6-af68-4c60-a6f8-f8194de580f6@172.67.209.105:2087?security=tls&type=ws&path=%2F&host=worker-ancient-bonus-70e8.96dc4cc80bfb.workers.dev&sni=worker-ancient-bonus-70e8.96dc4cc80bfb.workers.dev&fp=chrome&encryption=none#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3
@@ -496,5 +498,3 @@ vless://00134d22-e7bc-4690-860a-05d2be0f6f06@91.99.91.136:443?mode=stream-one&pa
 vless://00134d22-e7bc-4690-860a-05d2be0f6f06@91.99.91.136:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#@vmesskhodam
 vless://00134d22-e7bc-4690-860a-05d2be0f6f06@91.99.91.136:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#🇩
 vless://00134d22-e7bc-4690-860a-05d2be0f6f06@91.99.91.136:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#🇩🇪⤿
-vless://00134d22-e7bc-4690-860a-05d2be0f6f06@91.99.91.136:443?mode=stream-one&path=🔒
-vless://00134d22-e7bc-4690-860a-05d2be0f6f06@sss31842.tas-bazi.com:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#@vmesskhodam

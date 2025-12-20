@@ -1,4 +1,3 @@
-vless://5c3bf036-50fc-425e-ee16-d8e4718d19e6@www.speedtest.net:8880?path=🔒
 vless://5c3bf036-50fc-425e-ee16-d8e4718d19e6@zula.ir:8880?path=🔒
 vless://5c44b52f-361e-45c5-bd12-dc72f28397ce@auto.quattro-tech.ru:8443?security=reality&encryption=none&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=auto.quattro-tech.ru&sid=43dcff53849b81e6#All-@IRAN_V2RAY1
 vless://5c44b52f-361e-45c5-bd12-dc72f28397ce@auto.quattro-tech.ru:8443?security=reality&encryption=none&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=🔒
@@ -498,3 +497,4 @@ vless://6199b420-6037-4513-bb15-0e625ec393c2@38.135.122.158:443/?type=tcp&encryp
 vless://6199b420-6037-4513-bb15-0e625ec393c2@91.149.254.149:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒
 vless://61a433e4-45b2-4da9-b0c9-d0dfa2f6cd15@91.107.174.66:443?security=reality&encryption=none&pbk=EB5YUKMnqSSzyLT3xQZXamGwWu62nPqyAnc24uKN1gY&headerType=&fp=chrome&spx=/&type=tcp&sni=🔒
 vless://61a433e4-45b2-4da9-b0c9-d0dfa2f6cd15@91.107.174.66:443?security=reality&encryption=none&pbk=EB5YUKMnqSSzyLT3xQZXamGwWu62nPqyAnc24uKN1gY&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=🔒
+vless://61b30ada-d2ac-4468-8321-c3da0be6a025@172.66.213.38:2087/?type=grpc&encryption=none&serviceName=Telegram%3A%40Cephalon_ALA-Telegram%3A%40Cephalon_ALA-Telegram%3A%40Cephalon_ALA-Telegram%3A%40Cephalon_ALA-Telegram%3A%40Cephalon_ALA-Telegram%3A%40Cephalon_ALA-Telegram%3A%40Cephalon_ALA&security=tls&sni=g4.ferdowsi.shop&alpn=h2%2Chttp%2F1.1&fp=chrome#%40Hope_Net-join-us-on-Telegram
