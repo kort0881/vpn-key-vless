@@ -1,3 +1,7 @@
+vless://26bc13af-e442-4956-afd4-b8f85744d26f@104.16.53.11:8880?path=🔒
+vless://26bc13af-e442-4956-afd4-b8f85744d26f@172.66.137.85:80/?type=ws&encryption=none&host=fggerlad.gerald81.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-172.66.137.85%3A80
+vless://26bc13af-e442-4956-afd4-b8f85744d26f@172.66.137.85:80/?type=ws&encryption=none&host=fggerlad.gerald81.dpdns.org&path=🔒
+vless://26bc13af-e442-4956-afd4-b8f85744d26f@172.66.138.81:80?path=🔒
 vless://26bc13af-e442-4956-afd4-b8f85744d26f@172.66.139.99:80/?type=ws&encryption=none&host=fggerlad.gerald81.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-172.66.139.99%3A80
 vless://26bc13af-e442-4956-afd4-b8f85744d26f@172.66.139.99:80/?type=ws&encryption=none&host=fggerlad.gerald81.dpdns.org&path=🔒
 vless://26bc13af-e442-4956-afd4-b8f85744d26f@172.67.199.205:80?security=&sni=🔒
@@ -406,7 +410,6 @@ vless://29d72261-bd00-4c51-bf06-00f8d295dae6@webshecan.webredirect.org:2087?type
 vless://29d9a0ef-c568-4c48-a8cc-9b12927df580@www.speedtest.net:8080?path=🔒
 vless://29ec784e-e17f-4527-d2be-4a40d74dc346@s356.nba203.sbs:22907?security=none&encryption=none&host=ilovepdf.com&headerType=http&type=tcp
 vless://29ec784e-e17f-4527-d2be-4a40d74dc346@s356.nba203.sbs:22907?security=none&encryption=none&host=ilovepdf.com&headerType=http&type=tcp#%D8%AD%D8%A7%D9%B0%D8%AC%DB%9A%DD%BA%E0%A3%AE+%40soscwتست
-vless://29efbedc-e30f-488f-ed15-06af05bd1b9c@DEADSEECtelegram.slimshopboyss.ir:8080?mode=auto&path=%2F&security=&encryption=none&host=shop.slimshopboyss.ir&type=xhttp#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://29efbedc-e30f-488f-ed15-06af05bd1b9c@DEADSEECtelegram.slimshopboyss.ir:8080?mode=auto&path=%2F&security=&encryption=none&host=shop.slimshopboyss.ir&type=xhttp#DE🇩🇪
 vless://29efbedc-e30f-488f-ed15-06af05bd1b9c@DEADSEECtelegram.slimshopboyss.ir:8080?mode=auto&path=%2F&security=none&encryption=none&host=shop.slimshopboyss.ir&type=xhttp#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40orange_vpns%20%5B18%5D
 vless://29efbedc-e30f-488f-ed15-06af05bd1b9c@DEADSEECtelegram.slimshopboyss.ir:8080?mode=auto&path=%2F&security=none&encryption=none&host=shop.slimshopboyss.ir&type=xhttp#@meli_proxyy
@@ -495,6 +498,3 @@ vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@172.66.47.105:443/?type=grpc&encryp
 vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@172.66.47.62:443/?type=grpc&encryption=none&security=tls&sni=Tp810P28gI.aNa-SoFt.Ir#%40Hope_Net-join-us-on-Telegram%3C...
 vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@172.66.47.62:443/?type=grpc&encryption=none&security=tls&sni=🔒
 vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@185.170.166.242:443/?type=grpc&encryption=none&security=tls&sni=Tp050KvBgB.eHsAnDnS10.iR#%40Hope_Net-join-us-on-Telegram
-vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@www.zula.ir:443?mode=gun&security=tls&encryption=none&authority=&fp=chrome&type=grpc&serviceName=&sni=🔒
-vless://2a9b85bd-27cc-4e3b-b77d-54dbe5bc23af@aws-link1.liangxin1.xyz:35248/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒
-vless://2a9b85bd-27cc-4e3b-b77d-54dbe5bc23af@aws-link13.liangxin1.xyz:36574/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒

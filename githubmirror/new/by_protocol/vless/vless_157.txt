@@ -1,3 +1,6 @@
+vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@www.zula.ir:443?mode=gun&security=tls&encryption=none&authority=&fp=chrome&type=grpc&serviceName=&sni=🔒
+vless://2a9b85bd-27cc-4e3b-b77d-54dbe5bc23af@aws-link1.liangxin1.xyz:35248/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒
+vless://2a9b85bd-27cc-4e3b-b77d-54dbe5bc23af@aws-link13.liangxin1.xyz:36574/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒
 vless://2a9b85bd-27cc-4e3b-b77d-54dbe5bc23af@aws-link25.liangxin1.xyz:34578/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒
 vless://2a9b85bd-27cc-4e3b-b77d-54dbe5bc23af@aws-link9.liangxin1.xyz:23587/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒
 vless://2a9ed01e-5455-44b4-a66a-76ee8165f0ac@77.73.232.61:19747/?type=tcp&encryption=none#77.73.232.61
@@ -114,7 +117,6 @@ vless://2b74e019-81b0-4c77-9f41-2f3aaf04132d@185.231.205.152:443/?type=ws&encryp
 vless://2b74e019-81b0-4c77-9f41-2f3aaf04132d@185.231.205.152:443/?type=ws&encryption=none&flow=&path=/uefsanws&security=tls&sni=ads.x5.ru&allowInsecure=1&note=@freeOnlineVPN#🇫🇷
 vless://2b74e019-81b0-4c77-9f41-2f3aaf04132d@185.231.205.152:443/?type=ws&encryption=none&flow=&path=🔒
 vless://2b74e019-81b0-4c77-9f41-2f3aaf04132d@185.231.205.152:443?path=%2Fuefsanws&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1&sni=ads.x5.ru#RU🇷🇺
-vless://2b74e019-81b0-4c77-9f41-2f3aaf04132d@185.231.205.152:443?path=%2Fuefsanws&security=tls&encryption=none&type=ws&sni=ads.x5.ru#%F0%9F%87%AB%F0%9F%87%B7%40FreakConfig
 vless://2b74e019-81b0-4c77-9f41-2f3aaf04132d@185.231.205.152:443?path=/uefsanws&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1&sni=ads.x5.ru#@Daily_Configs
 vless://2b74e019-81b0-4c77-9f41-2f3aaf04132d@185.231.205.152:443?path=/uefsanws&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1&sni=ads.x5.ru&note=@freeOnlineVPN#🇫🇷
 vless://2b74e019-81b0-4c77-9f41-2f3aaf04132d@185.231.205.152:443?path=/uefsanws&security=tls&encryption=none&type=ws&sni=ads.x5.ru#🇫🇷@FreakConfig
@@ -226,6 +228,9 @@ vless://2c3e2c41-4395-4df3-e788-cb9cc82beceb@81.12.27.93:52722?security=none&typ
 vless://2c3fb8d8-96a8-4ece-ce48-80fe2266373f@www.speedtest.net:2082?path=🔒
 vless://2c487d9d-25a1-4b79-aed1-086b8c3082ca@178.239.124.30:56482?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cloudcircus.jp&fp=chrome&pbk=W9BjX6YmCIVsjhKMlz233Yoe0xcf0SVHfvPKqbf3vCg&type=raw&headertype=none#[🇯🇵]t.me/ConfigsHub
 vless://2c487d9d-25a1-4b79-aed1-086b8c3082ca@178.239.124.30:56482?encryption=none&flow=xtls-rprx-vision&security=reality&sni=🔒
+vless://2c487d9d-25a1-4b79-aed1-086b8c3082ca@178.239.124.30:56482?security=reality&encryption=none&pbk=W9BjX6YmCIVsjhKMlz233Yoe0xcf0SVHfvPKqbf3vCg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cloudcircus.jp#[🇯🇵]t.me/ConfigsHub
+vless://2c487d9d-25a1-4b79-aed1-086b8c3082ca@178.239.124.30:56482?security=reality&encryption=none&pbk=W9BjX6YmCIVsjhKMlz233Yoe0xcf0SVHfvPKqbf3vCg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cloudcircus.jp#t.me/entryNET/config=1852017176497835
+vless://2c487d9d-25a1-4b79-aed1-086b8c3082ca@178.239.124.30:56482?security=reality&encryption=none&pbk=W9BjX6YmCIVsjhKMlz233Yoe0xcf0SVHfvPKqbf3vCg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒
 vless://2c599f8f-dad2-4d7a-aa78-e13b7050363d@tr.shop.snapppro.nikastoring.ir:1818?security=reality&type=tcp&headerType=&path=🔒
 vless://2c63ed5a-5aa7-4094-8455-a9d3fa636a9b@deu90.worldunbound.org:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com#✅سرورهایبیشتردرکانال:prrofile_purple@✅
 vless://2c63ed5a-5aa7-4094-8455-a9d3fa636a9b@deu90.worldunbound.org:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=🔒
@@ -493,8 +498,3 @@ vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.159.125:443?security=none&enc
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.159.125:443?security=none&encryption=none&host=zul/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHIa.ir&headerType=http&type=tcp#@CaV2ray
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.159.125:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.159.125:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@CaV2ray
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.159.125:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#RELAY🚩
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.160.13:443/?encryption=none&host=zula.ir&type=tcp&headerType=http
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.160.13:443/?encryption=none&host=zula.ir&type=tcp&headerType=http#%40HiByeVPNN
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.160.13:443?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.160.13:443?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#@CaV2ray
