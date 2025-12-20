@@ -1,3 +1,4 @@
+vless://1688039e-a45f-499e-b9f4-c098c87d3b32@jquery.com:443?encryption=none&security=tls&sni=🔒
 vless://1688039e-a45f-499e-b9f4-c098c87d3b32@jquery.com:443?security=tls&sni=🔒
 vless://1688039e-a45f-499e-b9f4-c098c87d3b32@sourceforge.net:443?encryption=none&security=tls&sni=🔒
 vless://1688039e-a45f-499e-b9f4-c098c87d3b32@www.visa.com.tw:443?security=tls&sni=🔒
@@ -497,4 +498,3 @@ vless://1aa7bb00-3863-4151-bc71-940c75bf094b@104.17.207.36:8443/?type=tcp&encryp
 vless://1aa8331b-aa72-4eef-a304-ce1a8b3945c1@V2ngFast.huqpmfood.ir:1146?mode=auto&path=/@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast&security=reality&encryption=none&extra={
 vless://1aa8331b-aa72-4eef-a304-ce1a8b3945c1@V2ngFast.huqpmfood.ir:1146?mode=auto&path=🔒
 vless://1aae9657-c653-495d-e8ad-8ca52916cea8@de.bolagskontaktstockholm.se:443?path=🔒
-vless://1ab0cee7-7ac1-4480-be8a-6b4dab5f81c4@dkfdbnodbd.fastlynew.hosting-ip.com:80?mode=auto&path=/&security=none&encryption=none&host=freefree1213.global.ssl.fastly.net&type=xhttp#All-@V2rayAlpha--8

@@ -1,3 +1,4 @@
+vless://12345678-1234-1234-1234-123456789123@164.38.155.61:2096/?type=ws&encryption=none&flow=&host=vless.hubp.de&path=🔒
 vless://12345678-1234-1234-1234-123456789123@167.68.42.61:2096?path=%2Fsnippets&security=tls&encryption=none&host=vless.hubp.de&fp=chrome&type=ws&sni=vless.hubp.de#%3E%3E%40V2RAY_VMESS_free%3A%3AUS
 vless://12345678-1234-1234-1234-123456789123@167.68.42.61:2096?path=%2Fsnippets&security=tls&encryption=none&host=vless.hubp.de&fp=chrome&type=ws&sni=vless.hubp.de#%40V2RAY_VMESS_free
 vless://12345678-1234-1234-1234-123456789123@167.68.42.61:2096?path=🔒
@@ -497,4 +498,3 @@ vless://1688039e-a45f-499e-b9f4-c098c87d3b32@104.19.77.118:443?path=%2F&security
 vless://1688039e-a45f-499e-b9f4-c098c87d3b32@104.24.222.73:443/?type=ws&encryption=none&host=cr7.rayan.dpdns.org&path=Telegram%40V2ray_Alpha%2Fed%3D2560&security=tls&sni=cr7.rayan.dpdns.org&fp=chrome#%40Hope_Net-join-us-on-Telegram
 vless://1688039e-a45f-499e-b9f4-c098c87d3b32@104.24.222.73:443/?type=ws&encryption=none&host=cr7.rayan.dpdns.org&path=🔒
 vless://1688039e-a45f-499e-b9f4-c098c87d3b32@1password.com:443?encryption=none&security=tls&sni=🔒
-vless://1688039e-a45f-499e-b9f4-c098c87d3b32@jquery.com:443?encryption=none&security=tls&sni=🔒

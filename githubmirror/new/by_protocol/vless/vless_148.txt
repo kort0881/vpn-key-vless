@@ -1,3 +1,4 @@
+vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒
 vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443?security=reality&type=tcp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%BA%F0%9F%87%B8US%20%F0%9F%A7%AD%202.5MB%2Fs
 vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc#REALITY|US🇺🇸
 vless://0566baab-9d3d-4da7-cd81-af7eed13dc74@DEADSEECtelegram.slimshopboyss.ir:8080?mode=auto&path=%2F%3Fed%3D2048&security=none&encryption=none&host=shop.slimshopboyss.ir&type=xhttp#DE🇩🇪
@@ -497,4 +498,3 @@ vless://09397c54-d6a1-4416-98dc-1e09a4ebbc75@185.193.158.9:8443/?type=tcp&encryp
 vless://09397c54-d6a1-4416-98dc-1e09a4ebbc75@91.238.82.241:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=maviks.eu&fp=chrome&security=reality&pbk=lyLhdojpACv6B3tHViJvPjNGATedXYRMnpAt4n4Siyo&sid=f203719d3ff9a5f5#%40Hope_Net-join-us-on-Telegram
 vless://09397c54-d6a1-4416-98dc-1e09a4ebbc75@91.238.82.241:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒
 vless://09417e2f-0a79-4cd1-b190-3e927652b698@iran.mmdmaty83.ir:443?encryption=none&security=reality&sni=🔒
-vless://0943cb18-a760-42c2-95e0-a8c75bfecbc2@185.234.64.97:443?encryption=none&security=tls&allowInsecure=1&type=ws&path=🔒

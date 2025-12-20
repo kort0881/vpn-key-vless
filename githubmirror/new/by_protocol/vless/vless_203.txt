@@ -1,3 +1,4 @@
+vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@5.129.208.19:34045/?type=tcp&encryption=none&sni=🔒
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@5.129.208.19:34045?encryption=none&security=reality&sni=🔒
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@5.129.208.19:34045?security=reality&encryption=none&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&headerType=none&type=tcp&sni=🔒
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@5.61.50.192:34045/?type=tcp&encryption=none&flow=&sni=🔒
@@ -497,4 +498,3 @@ vless://de8ebf94-883b-46e0-b276-2c3cd0c96e4e@trt.fastlynew.hosting-ip.com:80?mod
 vless://de8ebf94-883b-46e0-b276-2c3cd0c96e4e@trt.fastlynew.hosting-ip.com:80?mode=auto&path=/?ed=2560&security=&encryption=none&host=maxde219.global.ssl.fastly.net&type=xhttp#t.me/entryNET/config=1852031637810692
 vless://de8ebf94-883b-46e0-b276-2c3cd0c96e4e@trt.fastlynew.hosting-ip.com:80?mode=auto&path=/?ed=2560&security=none&encryption=none&host=maxde219.global.ssl.fastly.net&type=xhttp#@Broz_time
 vless://de8ebf94-883b-46e0-b276-2c3cd0c96e4e@trt.fastlynew.hosting-ip.com:80?mode=auto&path=/?ed=2560&security=none&encryption=none&host=maxde219.global.ssl.fastly.net&type=xhttp#@V2rayNGVPN
-vless://de8ebf94-883b-46e0-b276-2c3cd0c96e4e@trt.fastlynew.hosting-ip.com:80?mode=auto&path=/?ed=2560&security=none&encryption=none&host=maxde219.global.ssl.fastly.net&type=xhttp#@V2ray_confing33

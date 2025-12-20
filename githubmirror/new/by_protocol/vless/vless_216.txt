@@ -1,3 +1,4 @@
+vless://fbad9ae3-1cbf-42eb-d364-e44150c2df1a@188.114.97.2:443?security=tls&sni=🔒
 vless://fbb48289-91ef-4f30-a90e-f6a4c6f7ae38@172.67.73.216:80?encryption=none&security=none&type=ws&host=www.speedtest.net.tax.gov.ir.aparat.com.a.2.jEy.dPdNs.org.&path=🔒
 vless://fbb4ea34-67db-4eed-a833-96eaf21d2875@104.24.176.7:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@L_AGVPN13
 vless://fbb6b4d0-f878-4594-b333-2917d148406f@45.82.161.120:19011?security=none&encryption=none&headerType=none&type=tcp
@@ -497,4 +498,3 @@ vless://telegram-ArV2ray@FILTERK0SH.fastly80-2.hosting-ip.com:80?type=grpc&servi
 vless://telegram-ID-soalvajavabb@callmark.cl.callmark.cl:48092?security=none&encryption=none&headerType=http&type=tcp
 vless://telegram-deli-servers@185.146.173.59:80/?type=ws&encryption=none&host=kia%E6%9D%A5%E8%87%AA%E6%88%91%E4%BB%AC%E5%9B%A2%E9%98%9F%E7%9A%84%E7%88%B101%E6%88%91%E7%88%B1%E7%86%9F%E9%A3%9F%E5%BA%97lovedeli.speedtest.net.gOogle.com.Arvancloud.ir.realKiaa.ninjA.&path=%2Ftel%20%3A%20deli_servers%20tel%20%3A%20deli_servers%20tel%20%3A%20deli_servers%20tel%20%3A%20deli_servers%20tel%20%3A%20deli_servers%20tel%20%3A%20deli_servers%3Fed%3D2048#%F0%9F%87%B8%F0%9F%87%AA%20SE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40deli_servers%20%5B3%5D
 vless://telegram-deli-servers@185.146.173.59:80/?type=ws&encryption=none&host=kia%E6%9D%A5%E8%87%AA%E6%88%91%E4%BB%AC%E5%9B%A2%E9%98%9F%E7%9A%84%E7%88%B101%E6%88%91%E7%88%B1%E7%86%9F%E9%A3%9F%E5%BA%97lovedeli.speedtest.net.gOogle.com.Arvancloud.ir.realKiaa.ninjA.&path=🔒
-vless://telegram-deli-servers@185.146.173.59:80?path=🔒
