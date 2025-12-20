@@ -1,7 +1,3 @@
-vless://3403d340-3956-4fe8-a971-1a1855fc8a5f@balabala.ahadbala.ir:22626?security=none&encryption=none&host=canva.com&headerType=http&type=tcp
-vless://340584ff-c506-4197-ac96-cefc1b5e9a9d@www.speedtest.net:80?path=🔒
-vless://3407c263-0187-49ce-af76-611d5a2a6712@runner-gitlab-ya.ml:443?encryption=none&security=tls&sni=🔒
-vless://34101c6a-1da4-4ffd-af36-ca8134bd8f8b@finland.netninja.ru:8444?security=reality&encryption=none&pbk=qtqQVReOiQPUhSKBL8rZ9c921pk4Tr2UvponGFdEGQI&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=a71aaf4d2db3e06a#@MARAMBASHI
 vless://34101c6a-1da4-4ffd-af36-ca8134bd8f8b@finland.netninja.ru:8444?security=reality&encryption=none&pbk=qtqQVReOiQPUhSKBL8rZ9c921pk4Tr2UvponGFdEGQI&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=a71aaf4d2db3e06a#⚡
 vless://34101c6a-1da4-4ffd-af36-ca8134bd8f8b@finland.netninja.ru:8444?security=reality&encryption=none&pbk=qtqQVReOiQPUhSKBL8rZ9c921pk4Tr2UvponGFdEGQI&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒
 vless://34101c6a-1da4-4ffd-af36-ca8134bd8f8b@netherlands.netninja.ru:8444?security=reality&encryption=none&pbk=qtqQVReOiQPUhSKBL8rZ9c921pk4Tr2UvponGFdEGQI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=a71aaf4d2db3e06a#@Daily_Configs
@@ -385,7 +381,6 @@ vless://3739354c-6971-4e73-abac-bb2534fc9ed8@104.248.161.198:443/?type=ws&encryp
 vless://3739354c-6971-4e73-abac-bb2534fc9ed8@104.248.161.198:443/?type=ws&encryption=none&flow=&path=🔒
 vless://3739354c-6971-4e73-abac-bb2534fc9ed8@104.248.161.198:443?path=%2Fiqkrmwws&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1&sni=yandex.com#RU🇷🇺
 vless://3739354c-6971-4e73-abac-bb2534fc9ed8@104.248.161.198:443?path=%2Fiqkrmwws&security=tls&encryption=none&type=ws&sni=yandex.com#RU🇷🇺
-vless://3739354c-6971-4e73-abac-bb2534fc9ed8@104.248.161.198:443?path=%2Fiqkrmwws&security=tls&encryption=none&type=ws&sni=yandex.com#🇬🇧[openproxylist.com]
 vless://3739354c-6971-4e73-abac-bb2534fc9ed8@104.248.161.198:443?path=/iqkrmwws&security=tls&encryption=none&type=ws&sni=yandex.com#All-@V2rayAlpha--19
 vless://3739354c-6971-4e73-abac-bb2534fc9ed8@104.248.161.198:443?path=/iqkrmwws&security=tls&encryption=none&type=ws&sni=yandex.com#🇬🇧@FreakConfig
 vless://3739354c-6971-4e73-abac-bb2534fc9ed8@104.248.161.198:443?path=🔒
@@ -498,3 +493,8 @@ vless://3824fba1-352a-44f6-89c3-66bacce658eb@185.143.235.201:443/?type=ws&encryp
 vless://3824fba1-352a-44f6-89c3-66bacce658eb@185.143.235.201:443/?type=ws&encryption=none&host=s2.www.getasa.ir&path=🔒
 vless://3839b44e-daba-48ca-cc3d-bed2e9d6b000@www.speedtest.net:2082?path=🔒
 vless://383c9651-cecb-45b4-8df8-2eb85057848d@91.107.143.41:443?path=/09hmyzvdljYpebWBPqDV7&security=tls&alpn=http/1.1&encryption=none&host=ognbqqfj1a49.greendop.com&fp=chrome&type=ws&sni=ognbqqfj1a49.greendop.com#@Maznet-46211-4
+vless://383c9651-cecb-45b4-8df8-2eb85057848d@91.107.143.41:443?path=/09hmyzvdljYpebWBPqDV7&security=tls&alpn=http/1.1&encryption=none=&host=ognbqqfj1a49.greendop.com&fp=chrome&type=ws&sni=ognbqqfj1a49.greendop.com#@bored_vpn
+vless://383c9651-cecb-45b4-8df8-2eb85057848d@91.107.143.41:443?path=/09hmyzvdljYpebWBPqDV7&security=tls&alpn=http/1.1&encryption=none=/@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@TEHRANARGO&host=ognbqqfj1a49.greendop.com&fp=chrome&type=ws&sni=ognbqqfj1a49.greendop.com#@TEHRANARGO
+vless://383c9651-cecb-45b4-8df8-2eb85057848d@91.107.143.41:443?path=🔒
+vless://384193af-acf4-4e3d-a570-5720befa42ee@104.17.42.10:80?security=&type=ws&path=🔒
+vless://384193af-acf4-4e3d-a570-5720befa42ee@104.17.88.212:80?security=&type=ws&path=🔒

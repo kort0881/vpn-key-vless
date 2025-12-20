@@ -1,3 +1,4 @@
+vless://86bc72f4-c6e8-4702-a917-f5fb6f0c6029@s26.radnikmax.ir:8452?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-s26-16
 vless://6e435769-47f0-445a-8e6a-ce1740bdcf12@s26.radnikmax.ir:8452?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-s26-17
 vless://fbefa774-d51d-4a74-b2ae-a956e2fe442e@s26.radnikmax.ir:8452?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-s26-18
 vless://f744c1a1-9ba5-447f-9058-c3848a424de5@s26.radnikmax.ir:8452?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-s26-19
@@ -497,4 +498,3 @@ vless://ecb7c177-e74f-43a6-9863-1b1057510c79@tn6.adamlinux.ir:8051?encryption=no
 vless://ca255057-5738-4d80-9b27-7898ca1b57f2@tn6.adamlinux.ir:8051?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tn6-513
 vless://dbc5fd06-d10a-41cc-8ac3-4de07fe4b3bc@tn6.adamlinux.ir:8051?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tn6-514
 vless://f78539b8-dcd6-4980-afed-1e2993348494@tn6.adamlinux.ir:8051?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tn6-515
-vless://fc7bb595-80a3-43c9-b2e0-61bda1e955c7@tn6.adamlinux.ir:8051?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tn6-516
