@@ -1,3 +1,6 @@
+vless://1b6ae0f5-01dc-4b96-bca9-31c672dcf0aa@50.7.85.221:443?security=tls&sni=🔒
+vless://1b6d2c37-fe6c-4b13-99dc-24f41b5d5b2d@152.42.184.246:80/?type=ws&encryption=none&host=zoom.us&path=🔒
+vless://1b71208f-4837-4996-bd37-a61b431555fb@79.133.56.170:443/?type=tcp&encryption=none&sni=🔒
 vless://1b715b44-fcaf-4935-b192-78a32456e557@5.75.196.88:19035?security=none&encryption=none&headerType=none&type=tcp
 vless://1b715b44-fcaf-4935-b192-78a32456e557@5.75.196.88:19035?security=none&encryption=none&headerType=none&type=tcp#✅سرورهایبیشتردرکانال:prrofile_purple@✅
 vless://1b715b44-fcaf-4935-b192-78a32456e557@5.75.196.88:19035?security=none&encryption=none&headerType=none&type=tcp#𝗝𝗼𝗶𝗻
@@ -495,6 +498,3 @@ vless://211bbb0b-70a7-4792-ad04-cb6e599d2b9e@108.165.152.241:2053/?type=ws&encry
 vless://211bbb0b-70a7-4792-ad04-cb6e599d2b9e@108.165.152.241:2053/?type=ws&encryption=none&host=v.aivpn.filegear-sg.me&path=🔒
 vless://211bbb0b-70a7-4792-ad04-cb6e599d2b9e@160.79.104.131:8443/?type=ws&encryption=none&host=v.aivpn.filegear-sg.me&path=%2F%3Fed%3D2560&security=tls&sni=v.aivpn.filegear-sg.me&alpn=h3&fp=random#%F0%9F%93%A426%40oneclickvpnkeys
 vless://211bbb0b-70a7-4792-ad04-cb6e599d2b9e@160.79.104.131:8443/?type=ws&encryption=none&host=v.aivpn.filegear-sg.me&path=🔒
-vless://211bbb0b-70a7-4792-ad04-cb6e599d2b9e@176.105.253.98:443/?type=ws&encryption=none&host=v.aivpn.filegear-sg.me&path=%2F%3Fed%3D2560&security=tls&sni=v.aivpn.filegear-sg.me&alpn=h3&fp=random#%F0%9F%93%A418%40oneclickvpnkeys
-vless://211bbb0b-70a7-4792-ad04-cb6e599d2b9e@176.105.253.98:443/?type=ws&encryption=none&host=v.aivpn.filegear-sg.me&path=🔒
-vless://211bbb0b-70a7-4792-ad04-cb6e599d2b9e@206.238.236.187:2096/?type=ws&encryption=none&host=v.aivpn.filegear-sg.me&path=%2F%3Fed%3D2560&security=tls&sni=v.aivpn.filegear-sg.me&alpn=h3&fp=random#%F0%9F%93%A411%40oneclickvpnkeys
