@@ -1,3 +1,4 @@
+vless://d4992ec8-d781-45f5-9f59-ef8c769f46f9@185.234.66.101:443 # [ By EbraSha ]
 vless://d4992ec8-d781-45f5-9f59-ef8c769f46f9@185.234.66.101:443?security=tls&encryption=none&fp=chrome&type=ws # [ By EbraSha ]
 vless://d4e4c02a-d969-47a6-ba0f-3d433fdac206@212.41.8.198:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&host=speedtest.net&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sid=16895459a2c7768d # [ By EbraSha ]
 vless://d4e4c02a-d969-47a6-ba0f-3d433fdac206@80.249.131.7:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sid=16895459a2c7768d # [ By EbraSha ]
@@ -497,4 +498,3 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.179.217.193:8880?mode=gun&securi
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.179.217.208:8880?mode=gun&security=none&encryption=none&authority=telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray&type=grpc # [ By EbraSha ]
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.179.217.208:8880?mode=gun&security=none&encryption=none&type=grpc # [ By EbraSha ]
 vless://df08e9ea-679a-451f-d4ed-9cf58e43d639@157.230.123.178:443?mode=gun&security=none&encryption=none&type=grpc # [ By EbraSha ]
-vless://df3267a7-980d-449c-cc71-04da04ed9fab@www.speedtest.net:2082?security=none&encryption=none&host=speedtest.net&type=ws # [ By EbraSha ]

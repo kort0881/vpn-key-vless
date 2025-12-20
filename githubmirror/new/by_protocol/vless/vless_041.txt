@@ -1,3 +1,4 @@
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?path=/?@v2ray_configs_pools---@v2ray_configs_pools?ed=512&security=tls&alpn=h2,http/1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#<!DOCTYPE html>
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?path=/?TELEGRAM-v2ray_configs_pools?ed=512&security=tls&alpn=h2,http/1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#<!DOCTYPE html>
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?path=/@Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN?ed=2560&security=tls&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#<!DOCTYPE html>
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?path=/@v2ray_configs_pools---@v2ray_configs_pools---@v2ray_configs_pools?ed=2560&security=tls&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#CA_1704_@Surfboardv2ray
@@ -497,4 +498,3 @@ vless://440766d1-858f-4719-84f5-c2de6f6227b2@65.108.231.185:443?security=tls&enc
 vless://440766d1-858f-4719-84f5-c2de6f6227b2@65.108.231.185:443?security=tls&encryption=none&headerType=none&type=tcp&sni=api.avito.ru#FI_2208_@Surfboardv2ray
 vless://440766d1-858f-4719-84f5-c2de6f6227b2@65.108.231.185:443?security=tls&encryption=none&headerType=none&type=tcp&sni=api.avito.ru#FI_2209_@Surfboardv2ray
 vless://440766d1-858f-4719-84f5-c2de6f6227b2@65.108.231.185:443?security=tls&encryption=none&headerType=none&type=tcp&sni=api.avito.ru#FI_2210_@Surfboardv2ray
-vless://440766d1-858f-4719-84f5-c2de6f6227b2@65.108.231.185:443?security=tls&encryption=none&insecure=0&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp&allowInsecure=0&sni=api.avito.ru#FI_2211_@Surfboardv2ray

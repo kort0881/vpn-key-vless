@@ -1,3 +1,4 @@
+vless://TELEGRAM-CONFiGLiNE-99@de.fastlynew.hosting-ip.com:80?mode=auto&security=none&encryption=none&host=speedtest.net&type=xhttp # [ By EbraSha ]
 vless://TELEGRAM-CONFiGLiNE@172.66.40.99:443?serviceName=Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH&security=tls&encryption=none&alpn=h2,http/1.1&host=speedtest.net&fp=chrome&allowinsecure=0&type=ws # [ By EbraSha ]
 vless://TELEGRAM-NUFiLTER@test.fast.hosting-ip.com:80?mode=auto&security=none&encryption=none&host=speedtest.net&type=xhttp # [ By EbraSha ]
 vless://TELEGRAM-v2ray_configs_pools@172.66.40.99:80?security=none&encryption=none&host=speedtest.net&type=httpupgrade # [ By EbraSha ]
@@ -497,4 +498,3 @@ vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.181.47:8443?mode=stream-one&s
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.183.30:8443?mode=stream-one&security=none&encryption=none&type=xhttp # [ By EbraSha ]
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.218.14:8443?mode=auto&security=none&encryption=none&type=xhttp # [ By EbraSha ]
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.220.150:8443?mode=stream-one&security=&encryption=none&type=xhttp # [ By EbraSha ]
-vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.220.150:8443?type=xhttp&host=speedtest.net&mode=stream-one&security=none # [ By EbraSha ]

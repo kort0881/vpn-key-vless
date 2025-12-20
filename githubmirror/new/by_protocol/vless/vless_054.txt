@@ -1,3 +1,4 @@
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@188.114.98.232:443?security=tls&sni=ac.ylks.xyz&type=ws&host=ac.ylks.xyz&path=%2F%3Fed%3D2048# VL-WS-TLS  NA-188.114.98.232:443
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@198.41.216.154:443?security=tls&sni=al.ylks.xyz&type=ws&host=al.ylks.xyz&path=%2F%3Fed%3D2048# VL-WS-TLS  NA-198.41.216.154:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@91.219.150.221:8080?security=tls&sni=vless.ifx.us.kg&type=ws&host=vless.ifx.us.kg&path=%2F%3Fed%3D2560&fp=chrome# VL-WS-TLS  RU-91.219.150.221:8080
 vless://d3a12e79-ef42-4268-b367-42eeb3494e60@172.67.73.163:2083?security=tls&sni=hagh.pages.dev&type=ws&host=hagh.pages.dev&path=%2F%3Fed%3D2048&fp=random# VL-WS-TLS  NA-172.67.73.163:2083
@@ -497,4 +498,3 @@ vless://5b289fea-1e8c-4193-b29f-987f3b31687a@104.17.176.171:2096?security=tls&sn
 vless://ff044ba5-fe79-4752-8ed1-8487ef9b9558@104.18.1.84:443?security=tls&sni=woo.gadovex300.workers.dev&type=ws&host=woo.gadovex300.workers.dev&path=%2F%3Fed%3D2048# VL-WS-TLS  NA-104.18.1.84:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.59:443?security=tls&sni=bpb-WORKer-paNEL-BrH.PagEs.dEv&type=ws&host=bpb-worker-panel-brh.pages.dev&path=%2FovUeFasYrTqkZqpj%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1# VL-WS-TLS  NA-172.66.44.59:443
 vless://fca01448-d84a-436e-9aec-3be1ebdfb350@192.0.54.6:2096?security=tls&sni=Sb-1U6.paGES.deV&type=ws&host=Sb-1U6.paGES.deV&path=%2Fs6rb9yyj3qaak606%2Fmtu4ljewms4ymdmumti3%3Fed%3D2560# VL-WS-TLS  US-192.0.54.6:2096
-vless://9a4bc15d-a7d4-4181-9485-405629c36894@206.238.237.40:8443?security=tls&sni=king-ae1.pages.dev&type=ws&host=king-ae1.pages.dev&path=%2F%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%3Fed%3D2560# VL-WS-TLS  SG-206.238.237.40:8443

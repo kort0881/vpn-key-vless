@@ -1,3 +1,4 @@
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.125:8880?mode=gun&security=none&encryption=none&type=grpc#FR_5925_@Surfboardv2ray
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.141:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#<!DOCTYPE html>
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.27:8880?mode=gun&security=none&encryption=none&type=grpc#FR_5927_@Surfboardv2ray
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.47:8880?mode=gun&security=none&encryption=none&type=grpc#<!DOCTYPE html>
@@ -497,4 +498,3 @@ vless://e89ba39d-ae7e-493a-a57b-cdd55b42b4e3@188.245.75.235:443?security=none&en
 vless://e8a471a3-4837-41fc-9a96-14dfd205306d@45.87.154.92:443?path=/pypcnmws&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1&sni=ads.x5.ru#NL_6456_@Surfboardv2ray
 vless://e8a471a3-4837-41fc-9a96-14dfd205306d@45.87.154.92:443?path=/pypcnmws&security=tls&encryption=none&type=ws&sni=ads.x5.ru#NL_6457_@Surfboardv2ray
 vless://e8a471a3-4837-41fc-9a96-14dfd205306d@45.87.154.92:443?path=/pypcnmws&security=tls&encryption=none&type=ws&sni=ads.x5.ru#<!DOCTYPE html>
-vless://e8a471a3-4837-41fc-9a96-14dfd205306d@45.87.154.92:443?path=/pypcnmws&security=tls&encryption=none&type=ws&sni=ads.x5.ru#NL_6460_@Surfboardv2ray

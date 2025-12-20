@@ -1,3 +1,4 @@
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@194.76.18.62:443?security=tls&sni=cp.ylks.xyz&type=ws&host=cp.ylks.xyz&path=%2Fblue# VL-WS-TLS  KZ-194.76.18.62:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.58:443?security=tls&sni=ld.ylks.us.kg&type=ws&host=ld.ylks.us.kg&path=%2F%3Fed%3D2560# VL-WS-TLS  US-69.84.182.58:443
 vless://47db5676-3e2b-44fd-bd14-9134da8db30d@104.19.223.91:443?security=tls&sni=yelfuif8fbrb3j3an.thelastronin.cloudns.org&type=ws&host=yelan.thelastronin.cloudns.org&path=%2FVLESS%2Fse-full.privateip.net&fp=random&alpn=http%2F1.1# VL-WS-TLS  NA-104.19.223.91:443
 vless://502f1a41-96df-4d6c-8a3b-26781e795893@104.16.26.34:8880?security=none&type=ws&host=sinadfa.dugjup.workers.dev&path=%2F%3Fed%3D2048# VL-WS-NONE  NA-104.16.26.34:8880
@@ -497,4 +498,3 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@188.114.97.139:443?security=tls&sni
 vless://a194cf71-ac0f-429f-9ade-c859441e05e0@190.93.247.155:80?security=none&type=ws&host=Hu2.v2vless.site.&path=%2Fvless# VL-WS-NONE  NA-190.93.247.155:80
 vless://88cdfbf6-352d-4731-9e46-2ad40b130e29@104.22.3.218:8080?security=none&sni=behnooshdklwenfeio.bpbpanel762.workers.dev&type=ws&host=behnooshdklwenfeio.bpbpanel762.workers.dev&path=%2FwmmPnU2qChIUlaQM%3Fed%3D8080# VL-WS-NONE  NA-104.22.3.218:8080
 vless://00c90f03-0b2b-41ea-b901-2f808878ab8f@104.17.148.22:2086?security=none&type=httpupgrade&host=www.speedtest.net.zula.ir.Shad.ir.sHaparak.ir.torob.com.namaSha.com.namnak.com.filiMo.com.Rokna.net.teleweBion.com.iraNikala.toP.&path=%2F%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn%3Fed%3D1024# VL-HTTPUPGRADE-NONE  NA-104.17.148.22:2086
-vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@206.238.236.204:80?security=none&type=ws&host=late-tooth.granzinhannah.workers.dev&path=%2F%3Fed%3D2560# VL-WS-NONE  SG-206.238.236.204:80

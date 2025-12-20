@@ -1,3 +1,7 @@
+vless://aef3b456-2f83-4ca6-a66c-32bd2f534b68@104.31.16.250:80?path=/?ed=2048&amp;security=none&amp;encryption=none&amp;host=ac7.zxv.biz.id&amp;type=ws#@AntiFilterService
+vless://8cb62db2-cb4f-4531-bef4-39aed7a1…
+vless://959dc846-1aa3-4aa7-bc58-7eb51114d1ce@172.67.132.41:8443?path=/?ed=2048&amp;security=tls&amp;encryption=none&amp;host=nl36.vlessx.us&amp;fp=randomized&amp;type=ws&amp;sni=nl36.vlessx.us#@AntiFilterService
+vless://959dc846-1aa3-4aa7-bc58-7eb51114d1ce@172.67.132.41:2082?path=/?ed=2048&amp;security=none&amp;encryption=none&amp;host=nl36.vlessx.us&amp;type=ws#@AntiFilterService
 vless://9bc90ddf-b865-47cc-9f97-9d5ea3bca89f@104.21.78.131:443?path=/?ed=2048&amp;security=tls&amp;encryption=none&amp;host=vl31.rnd.biz.id&amp;type=ws&amp;sni=vl31.rnd.biz.id#@AntiFilterService
 vless://959dc846-1aa3-4aa7-bc58-7eb51114d1ce@172.67.132.41:8443?path=/?ed=2048&amp;security=tls&amp;encryption=none&amp;host=nl36.vlessx.us&amp;fp=randomized&amp;type=ws&amp;sni=nl36.vlessx.us#@AntiFilterService
 vless://959dc846-1aa3-4aa7-bc58-7eb5…
@@ -494,7 +498,3 @@ vless://62319dd8-43b3-4849-9289-cc4f17667f46@a.confignor.site:35493?mode=gun&amp
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.142.55:8880?mode=gun&amp;security=none&amp;encryption=none&amp;authority=&amp;type=grpc&amp;serviceName=#
 vless://0c0b6d4a-0811-460f-d4b0-dd982a911240@91.99.181.225:443?security=reality&amp;encryption=none&amp;pbk=zW8LR-lHS_PXDyY8Q8bE_zvKdhY5MAmnsd8miBulx2U&amp;headerType=none&amp;fp=chrome&amp;allowinsecure=0&amp;type=tcp&amp;sni=store.steampowered.com#
 vless://7ad71a16-f67c-410b-968e-187fd5b49f94@46.62.206.155:31000?path=/&amp;security=none&amp;encryption=none&amp;type=ws#
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.159:8880?mode=gun&amp;security=none&amp;encryption=none&amp;authority=&amp;type=grpc&amp;serviceName=#
-vless://d9a2c56e-30e3-4e35-9a49-cf49dfb1d489@31.6.1.187:27229?security=reality&amp;encryption=none&amp;pbk=1_vS_JKpOvJnqPUDyaREbXWd5M59bIIKsNyV5Kt0uD8&amp;headerType=none&amp;allowinsecure=0&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=store.steampowered.com&amp;sid=cd1f804d#
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.105:8880?mode=gun&amp;security=none&amp;encryption=none&amp;authority=&amp;type=grpc&amp;serviceName=#
-vless://0c0b6d4a-0811-460f-d4b0-dd982a911240@91.98.87.4:443?security=reality&amp;encryption=none&amp;pbk=zW8LR-lHS_PXDyY8Q8bE_zvKdhY5MAmnsd8miBulx2U&amp;headerType=none&amp;fp=chrome&amp;allowinsecure=0&amp;type=tcp&amp;sni=store.steampowered.com#

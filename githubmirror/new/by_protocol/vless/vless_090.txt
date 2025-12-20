@@ -1,3 +1,4 @@
+vless://9040640e-12a7-483f-bcf6-737b86b28c94@2.ariyanln.com:1?security=none&encryption=none&headerType=http&type=tcp # [ By EbraSha ]
 vless://9044733f-2a53-4a83-bd70-4ad5a2dfd9e6@antipingfree.melin.shop:58634?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp # [ By EbraSha ]
 vless://904d6aa4-a648-4b3f-e7a4-fc8bdd58e3fc@159.69.112.17:2095?security=none&encryption=none&host=speedtest.net&type=ws # [ By EbraSha ]
 vless://904d6aa4-a648-4b3f-e7a4-fc8bdd58e3fc@test2.amin8263.ir:2095?security=none&encryption=none&host=speedtest.net&type=ws # [ By EbraSha ]
@@ -497,4 +498,3 @@ vless://TELEGRAM-CONFiGLiNE-97@ip.fastlynew.hosting-ip.com:80?mode=auto&security
 vless://TELEGRAM-CONFiGLiNE-98@ip.fastlynew.hosting-ip.com:80?mode=auto&security=&encryption=none&host=speedtest.net&type=xhttp # [ By EbraSha ]
 vless://TELEGRAM-CONFiGLiNE-98@ip.fastlynew.hosting-ip.com:80?mode=auto&security=none&encryption=none&host=speedtest.net&type=xhttp # [ By EbraSha ]
 vless://TELEGRAM-CONFiGLiNE-99@de.fastlynew.hosting-ip.com:80?mode=auto&security=&encryption=none&host=speedtest.net&type=xhttp # [ By EbraSha ]
-vless://TELEGRAM-CONFiGLiNE-99@de.fastlynew.hosting-ip.com:80?mode=auto&security=none&encryption=none&host=speedtest.net&type=xhttp # [ By EbraSha ]
