@@ -1,3 +1,5 @@
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@149.104.35.37:5010?encryption=none&security=tls&sni=🔒
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@154.197.88.97:2053?encryption=none&security=tls&type=ws&sni=🔒
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@154.197.92.114:5010?encryption=none&security=tls&sni=🔒
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@154.219.5.68:2083?encryption=none&security=tls&sni=🔒
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@154.219.5.92:443?encryption=none&security=tls&sni=🔒
@@ -496,5 +498,3 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.148.105.63:8880?allowInsecure=0
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.148.106.63:8880?allowInsecure=0&sni=🔒
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.148.106.63:8880?path=🔒
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.148.106.63:8880?security=tls&sni=🔒
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.148.107.213:8880?allowInsecure=0&sni=🔒
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.16.110.63:8880?allowInsecure=0&sni=🔒

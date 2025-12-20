@@ -1,3 +1,5 @@
+vless://26bc13af-e442-4956-afd4-b8f85744d26f@172.66.139.99:80/?type=ws&encryption=none&host=fggerlad.gerald81.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-172.66.139.99%3A80
+vless://26bc13af-e442-4956-afd4-b8f85744d26f@172.66.139.99:80/?type=ws&encryption=none&host=fggerlad.gerald81.dpdns.org&path=🔒
 vless://26bc13af-e442-4956-afd4-b8f85744d26f@172.67.199.205:80?security=&sni=🔒
 vless://26bc13af-e442-4956-afd4-b8f85744d26f@172.67.226.132:80?path=/?ed=2560&security=none&encryption=none&host=fggerlad.gerald81.dpdns.org&type=ws#@CaV2ray
 vless://26bc13af-e442-4956-afd4-b8f85744d26f@172.67.226.132:80?path=🔒
@@ -496,5 +498,3 @@ vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@172.66.47.62:443/?type=grpc&encrypt
 vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@172.66.47.62:443/?type=grpc&encryption=none&security=tls&sni=🔒
 vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@185.170.166.242:443/?type=grpc&encryption=none&security=tls&sni=Tp050KvBgB.eHsAnDnS10.iR#%40Hope_Net-join-us-on-Telegram
 vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@www.zula.ir:443?mode=gun&security=tls&encryption=none&authority=&fp=chrome&type=grpc&serviceName=&sni=🔒
-vless://2a9b85bd-27cc-4e3b-b77d-54dbe5bc23af@aws-link1.liangxin1.xyz:35248/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒
-vless://2a9b85bd-27cc-4e3b-b77d-54dbe5bc23af@aws-link13.liangxin1.xyz:36574/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒

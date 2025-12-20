@@ -1,3 +1,5 @@
+vless://cb5a29be-93ac-4743-e294-ec022c167e0a@45.85.118.1:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=🔒
+vless://cb712388-7701-4deb-81ea-4b43515b83c3@32232334.web-manage.com.tr:1519/?encryption=none&host=testspeed-foreign.tci.ir&type=tcp&headerType=http
 vless://cb712388-7701-4deb-81ea-4b43515b83c3@32232334.web-manage.com.tr:1519/?encryption=none&host=testspeed-foreign.tci.ir&type=tcp&headerType=http#2%F0%9F%90%BC%40oneclickvpnkeys
 vless://cb7188cf-2c3a-43a5-af90-d893922e4917@istanbul.fonixapp.org:443?security=reality&encryption=none&pbk=eS0NqJCAo6Jn4PuU3nU4A5D7RyNbn3WyhipXViddnzI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fonts.gstatic.com&sid=5457#All-@V2rayAlpha--10
 vless://cb7188cf-2c3a-43a5-af90-d893922e4917@istanbul.fonixapp.org:443?security=reality&encryption=none&pbk=eS0NqJCAo6Jn4PuU3nU4A5D7RyNbn3WyhipXViddnzI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒
@@ -496,5 +498,3 @@ vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@141.11.78.77:8080/?type=ws&encrypti
 vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@152.70.245.66:12693/?type=ws&encryption=none&host=ngedp.ambercc.filegear-sg.me
 vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@156.255.90.175:8443/?type=ws&encryption=none&path=%2F%3Fed&security=tls&sni=ngedc.ambercc.filegear-sg.me#%40Hope_Net-join-us-on-Telegram
 vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@156.255.90.175:8443/?type=ws&encryption=none&path=🔒
-vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@162.159.44.231:2053/?type=ws&encryption=none&path=%2F%3Fed&security=tls&sni=ngedc.ambercc.filegear-sg.me&fp=chrome#t.me%2FDailyV2Proxy
-vless://cf3df05c-bb63-427a-b48a-d8b1d9ada2c4@162.159.44.231:2053/?type=ws&encryption=none&path=🔒

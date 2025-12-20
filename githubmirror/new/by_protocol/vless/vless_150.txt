@@ -1,3 +1,5 @@
+vless://0e8a6896-ad90-4a3b-89a3-77d64aa409e2@ilta-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz:443?security=reality&encryption=none&pbk=YVDo7U4O-AT2fa5H9E7hyYHKgfZd1vB6UdbAf2ggWQE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=i2pd.website&sid=55e6af1a35e64a98#🇮🇱[openproxylist.com]
+vless://0e8a6896-ad90-4a3b-89a3-77d64aa409e2@ilta-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz:443?security=reality&encryption=none&pbk=YVDo7U4O-AT2fa5H9E7hyYHKgfZd1vB6UdbAf2ggWQE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒
 vless://0e8a6896-ad90-4a3b-89a3-77d64aa409e2@ilta-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz:443?security=reality&sni=🔒
 vless://0e8b8a78-cfcc-48f8-9471-36fd3994242d@gozarfreebot.niniweblog.org:2087?security=reality&type=tcp&headerType=&path=&host=&sni=refersion.com&fp=chrome&pbk=0H5WR9mnrd60mwjvw66EEeH5Ay1mx7OEkm59nWF46VI&sid=591e2a3f25c6ed9c&spx=%2F#REALITY|FR🇫🇷
 vless://0e950b0c-c134-4a92-a150-7745333a7518@dl.darkterror.fonixapp.org:26599/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒
@@ -496,5 +498,3 @@ vless://12345678-1234-1234-1234-123456789123@195.85.23.61:2096?path=🔒
 vless://12345678-1234-1234-1234-123456789123@74.49.215.61:2096?path=%2Fsnippets&security=tls&encryption=none&host=vless.hubp.de&fp=chrome&type=ws&sni=vless.hubp.de#%3E%3E%40V2RAY_VMESS_free%3A%3AUS
 vless://12345678-1234-1234-1234-123456789123@74.49.215.61:2096?path=%2Fsnippets&security=tls&encryption=none&host=vless.hubp.de&fp=chrome&type=ws&sni=vless.hubp.de#%40V2RAY_VMESS_free
 vless://12345678-1234-1234-1234-123456789123@74.49.215.61:2096?path=🔒
-vless://12345678-1234-1234-1234-123456789123@88.216.69.54:2096/?type=ws&encryption=none&host=sni.aizrf.com&path=%2Fsnippets&security=tls&sni=sni.aizrf.com#%F0%9F%87%B1%F0%9F%87%B9%20LT%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40v2rayprotocol%20%5B6%5D
-vless://123dcf44-5cea-4076-896c-137ae3fc214b@172.67.187.18:2087/?type=ws&encryption=none&host=panel.proxystore11.news&path=%2Fprx11&security=tls&sni=panel.proxystore11.news&alpn=h2&fp=chrome#%40Hope_Net-join-us-on-Telegram

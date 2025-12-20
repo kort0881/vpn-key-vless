@@ -1,3 +1,5 @@
+vless://7c1438c0-f28b-4fdf-821e-558931edac3e@ir2.servertopia.top:4555?type=tcp&security=none
+vless://7c18eeab-f38f-48a2-ae25-50c26cdfb0d9@104.21.16.48:80/?type=ws&encryption=none&host=antifilter.doxas38496.workers.dev&path=%2F#%40v2ray_configs_pool
 vless://7c18eeab-f38f-48a2-ae25-50c26cdfb0d9@104.21.16.48:80/?type=ws&encryption=none&host=antifilter.doxas38496.workers.dev&path=🔒
 vless://7c2346f7-122e-4397-f6dd-39053443d8f2@65.109.241.111:44174?type=tcp&path=%2F&host=zula.ir&headerType=http#https%3A%2F%2Ft.me%2Fcustom_14.-izxxx1gey
 vless://7c2346f7-122e-4397-f6dd-39053443d8f2@65.109.241.111:44174?type=tcp&path=🔒
@@ -496,5 +498,3 @@ vless://801704ad-ab6b-4d1c-d9e7-9a33813761a2@joKer.mEmBerGolaBi.IR:2082?path=/TE
 vless://801704ad-ab6b-4d1c-d9e7-9a33813761a2@joKer.mEmBerGolaBi.IR:2082?path=🔒
 vless://8019c738-b3ed-440c-85e2-620b5b71064f@it.clubban.ir:2096?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=it.vizitur.ir#IT🇮🇹
 vless://801fe3b2-d716-4d64-908d-6a05fa5c49b9@176.97.64.92:443/?type=tcp&encryption=none&sni=github.githubassets.com&fp=chrome&security=reality&pbk=MrRk...&sid=
-vless://8021b88b-480a-4271-82b0-ea414658efa2@V2ngFast.huqpmfood.ir:1146?mode=auto&path=/@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast&security=reality&encryption=none&extra={
-vless://8021b88b-480a-4271-82b0-ea414658efa2@V2ngFast.huqpmfood.ir:1146?mode=auto&path=🔒

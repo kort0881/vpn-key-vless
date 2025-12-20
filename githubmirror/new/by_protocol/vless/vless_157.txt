@@ -1,3 +1,5 @@
+vless://2a9b85bd-27cc-4e3b-b77d-54dbe5bc23af@aws-link1.liangxin1.xyz:35248/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒
+vless://2a9b85bd-27cc-4e3b-b77d-54dbe5bc23af@aws-link13.liangxin1.xyz:36574/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒
 vless://2a9b85bd-27cc-4e3b-b77d-54dbe5bc23af@aws-link25.liangxin1.xyz:34578/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒
 vless://2a9b85bd-27cc-4e3b-b77d-54dbe5bc23af@aws-link9.liangxin1.xyz:23587/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒
 vless://2a9ed01e-5455-44b4-a66a-76ee8165f0ac@77.73.232.61:19747/?type=tcp&encryption=none#77.73.232.61
@@ -496,5 +498,3 @@ vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.159.125:443?security=none&enc
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.160.13:443/?encryption=none&host=zula.ir&type=tcp&headerType=http
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.160.13:443/?encryption=none&host=zula.ir&type=tcp&headerType=http#%40HiByeVPNN
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.160.13:443?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.160.13:443?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#@CaV2ray
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.160.13:443?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#RELAY🚩

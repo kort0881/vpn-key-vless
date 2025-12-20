@@ -1,3 +1,5 @@
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.19.144.33:8443?path=🔒
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.19.144.33:8443?security=tls&sni=🔒
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.26.6.89:8443/?type=ws&encryption=none&host=YjF03nNq0B.sOlEnTrAa.InFo&path=%2F&security=tls&sni=YjF03nNq0B.sOlEnTrAa.InFo&alpn=h3%2Ch2&fp=chrome#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40hopev2ray%20%5B12%5D
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.26.6.89:8443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=YjF03nNq0B.sOlEnTrAa.InFo&fp=chrome&type=ws&sni=YjF03nNq0B.sOlEnTrAa.InFo#%F0%9F%87%AB%F0%9F%87%B7%F0%9F%97%BC%20Paris
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.26.6.89:8443?path=🔒
@@ -496,5 +498,3 @@ vless://edb3d24d-1a55-42f7-8752-6ae216f18cf4@147.45.230.128:4443/?type=tcp&encry
 vless://edb3d24d-1a55-42f7-8752-6ae216f18cf4@147.45.230.128:4443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒
 vless://edb3d24d-1a55-42f7-8752-6ae216f18cf4@147.45.230.128:4443?security=reality&encryption=none&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=github.com&sid=aa7e96542880027a#All_10--@V2rayAlpha
 vless://edb3d24d-1a55-42f7-8752-6ae216f18cf4@147.45.230.128:4443?security=reality&encryption=none&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=github.com&sid=aa7e96542880027a#REALITY|RU🇷🇺
-vless://edb3d24d-1a55-42f7-8752-6ae216f18cf4@147.45.230.128:4443?security=reality&encryption=none&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=github.com&sid=aa7e96542880027a#𝗝𝗼𝗶𝗻
-vless://edb3d24d-1a55-42f7-8752-6ae216f18cf4@147.45.230.128:4443?security=reality&encryption=none&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=github.com&sid=aa7e96542880027a#🇳🇱@FreakConfig
