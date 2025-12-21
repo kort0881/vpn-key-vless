@@ -1,4 +1,3 @@
-vless://072f4db4-d89d-420d-9d9e-045ed8d5c9cc@104.21.42.250:443/?type=ws&encryption=none&host=10e.191268.xyz&security=tls&sni=🔒
 vless://07402610-3f00-4384-b54b-eb8cd5037b4c@172.104.148.48:443?security=reality&encryption=none&pbk=MFhTxw6M0UU7nAoxP-jAw8szA2vhXy6KYmBCrDwbpRw&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=🔒
 vless://074ceb2a-a580-4c86-a10e-39b5b262c6e0@68.183.216.44:443?security=tls&sni=🔒
 vless://075a365b-b0c7-4ba3-b5a6-597850c223f9@104.16.24.34:8880?encryption=none&security=none&type=ws&host=sinaazizpor.wapgiz.workers.dev&path=🔒
@@ -498,3 +497,4 @@ vless://0c74e8a6-f48d-4825-98fd-c838bbc0f865@webshecan.webredirect.org:2087?type
 vless://0c76a693-fcd6-4316-bfb7-c22a9b7a89f5@italy1.mongral.ir:7936?security=none&encryption=none&headerType=none&type=tcp
 vless://0c76a693-fcd6-4316-bfb7-c22a9b7a89f5@italy1.mongral.ir:7936?security=none&encryption=none&headerType=none&type=tcp#@IRAN_V2RAY1
 vless://0c76a693-fcd6-4316-bfb7-c22a9b7a89f5@lomia1lopmaliz1.mongral.ir:7936?security=none&encryption=none&headerType=none&type=tcp
+vless://0c76a693-fcd6-4316-bfb7-c22a9b7a89f5@lomia1lopmaliz1.mongral.ir:7936?security=none&encryption=none&headerType=none&type=tcp#@IRAN_V2RAY1

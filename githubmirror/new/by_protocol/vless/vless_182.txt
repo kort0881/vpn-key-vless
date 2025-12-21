@@ -1,4 +1,3 @@
-vless://8106b22a-17ef-44f7-9e17-6425aef9d427@62.212.70.94:2090?type=tcp&security=reality&pbk=QXWMxdRWr0o_Rqe3I3r20NUREf3eqIl28tRRT1TPSXo&fp=chrome&sni=🔒
 vless://8106b4c2-d457-4834-9842-e60720bbf359@217.114.40.9:6500?security=none&encryption=none&host=cafeariel.ir&headerType=http&type=tcp
 vless://81191cda-0982-4cbd-8d60-2ef076e08d17@172.67.204.84:443?encryption=none&security=tls&sni=🔒
 vless://81191cda-0982-4cbd-8d60-2ef076e08d17@188.114.97.6:443?encryption=none&security=tls&sni=🔒
@@ -498,3 +497,4 @@ vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@162.159.255.149:2087/?type=ws&encry
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@162.159.255.149:2087/?type=ws&encryption=none&host=jaegBSEM36.CFD&path=🔒
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@162.159.255.149:2087?encryption=none&security=tls&sni=🔒
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@WWw.speedtest.net:443?path=🔒
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.speedtest.net:443?security=tls&sni=🔒

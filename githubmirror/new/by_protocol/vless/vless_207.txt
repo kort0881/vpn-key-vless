@@ -1,4 +1,3 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.208.110.41:8880?mode=gun&security=none&encryption=none&type=grpc#%40V2rayNG3
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.209.153.82:8880?mode=gun&security=none&encryption=none&type=grpc
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.209.153.82:8880?mode=gun&security=none&encryption=none&type=grpc#@EXPRESSVPN_420
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.209.195.66:8880?encryption=none&type=grpc&mode=gun&authority=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none
@@ -498,3 +497,4 @@ vless://e1c32bed-b458-4273-a953-a74eff15d54c@216.22.5.79:443?security=none&encry
 vless://e1c32bed-b458-4273-a953-a74eff15d54c@216.22.5.79:443?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#@meli_proxyy
 vless://e1cf1cbc-a1b0-4db8-86b0-45dd2e8a68da@104.21.80.12:443/?type=ws&encryption=none&host=easynet23.gosomok252.workers.dev&path=%2F&security=tls&sni=easynet23.gosomok252.workers.dev&fp=chrome#%F0%9F%8D%8B26%40oneclickvpnkeys
 vless://e1cf1cbc-a1b0-4db8-86b0-45dd2e8a68da@104.21.80.12:443/?type=ws&encryption=none&host=easynet23.gosomok252.workers.dev&path=🔒
+vless://e1d22a11-d2fa-4c95-b512-2f8bbc75f66c@104.16.4.103:443/?type=ws&encryption=none&flow=&host=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&path=🔒

@@ -1,4 +1,3 @@
-vless://e1d22a11-d2fa-4c95-b512-2f8bbc75f66c@104.16.4.103:443/?type=ws&encryption=none&flow=&host=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&path=🔒
 vless://e1d22a11-d2fa-4c95-b512-2f8bbc75f66c@104.16.4.103:443/?type=ws&encryption=none&host=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&path=%2F%3Fed%3D2048&security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&alpn=h3%2Ch2&fp=chrome#%40Hope_Net-join-us-on-Telegram
 vless://e1d22a11-d2fa-4c95-b512-2f8bbc75f66c@104.19.54.50:443/?type=tcp&encryption=none&security=tls&sni=xxx....&alpn=h3%2Ch2
 vless://e1d3a347-d380-4ef6-8145-ae76318002d1@104.18.15.19:2086/?type=ws&encryption=none&host=0110.wdpkomyt.workers.dev&path=%2Ftelegram%40V2ray_Alpha%2F%3Fed%3D2048#%40Hope_Net-join-us-on-Telegram
@@ -498,3 +497,4 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh29v4.vetmainconf.shop:8880?secur
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh30v2.vetmainconf.shop:8880?security=&encryption=none&type=grpc
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh30v2.vetmainconf.shop:8880?security=&encryption=none&type=grpc#JOIN
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh30v8.waipdirect.shop:8880/?type=grpc&encryption=none
+vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh30v8.waipdirect.shop:8880?mode=gun&security=none&encryption=none&type=grpc

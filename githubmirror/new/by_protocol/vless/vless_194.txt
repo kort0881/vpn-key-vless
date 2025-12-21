@@ -1,4 +1,3 @@
-vless://a7686574-cbf9-466a-bf8f-88a104fd0fac@n4.asmdns.net:44185?security=none&type=tcp&headerType=http&host=fast.com&packetEncoding=xudp&encryption=none
 vless://a7751b5b-22e7-402a-e990-05b996c4688f@104.21.65.149:2095/?type=ws&encryption=none&flow=&host=test3.amin8263.ir&path=🔒
 vless://a7751b5b-22e7-402a-e990-05b996c4688f@104.21.65.149:2095/?type=ws&encryption=none&host=test3.amin8263.ir&path=%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%3Fed%3D2048#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40bored_vpn%20%5B10%5D
 vless://a78a170d-4f18-45ef-b723-c77d7c235931@172.67.156.243:443?security=tls&type=ws&sni=🔒
@@ -498,3 +497,4 @@ vless://acacdb17-f35a-43b0-8829-dcf2d8fe76a6@srv18.towersflowerss.com:443?securi
 vless://acacdb17-f35a-43b0-8829-dcf2d8fe76a6@srv18.towersflowerss.com:443?security=reality&encryption=none&pbk=Ufkz__Q3m_d8NFR08OVtXx3hLaV4-x7UesrVKduEIn0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒
 vless://acb15819-1eae-421d-af42-3b6c7fa72155@151.101.205.194:80?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=&encryption=none&extra={
 vless://acb15819-1eae-421d-af42-3b6c7fa72155@151.101.205.194:80?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=none&encryption=none&host=e1.ir&extra={
+vless://acb15819-1eae-421d-af42-3b6c7fa72155@151.101.205.194:80?path=🔒

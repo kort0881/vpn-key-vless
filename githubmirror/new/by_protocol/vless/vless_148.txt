@@ -1,4 +1,3 @@
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@185.16.110.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=🔒
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@185.174.138.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=🔒
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@185.207.199.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=%2FTelegram#12225
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@185.207.199.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=🔒
@@ -498,3 +497,4 @@ vless://03c93f49-d573-4889-a4bb-187047c5a314@172.67.158.146:443?security=tls&sni
 vless://03c9f240-0bad-4f71-93f2-f5d272dada97@104.16.74.35:80?encryption=none&security=none&type=ws&host=sparkling-limit-ppal03.yibijow194.workers.dev&path=/?ed=2560#🦆Ch:
 vless://03c9f240-0bad-4f71-93f2-f5d272dada97@104.16.74.35:80?encryption=none&security=none&type=ws&host=sparkling-limit-ppal03.yibijow194.workers.dev&path=🔒
 vless://03c9f240-0bad-4f71-93f2-f5d272dada97@104.24.184.113:80/?type=ws&encryption=none&host=sparkling-limit-ppal03.yibijow194.workers.dev
+vless://03c9f240-0bad-4f71-93f2-f5d272dada97@104.24.184.113:80?encryption=none&security=none&type=ws&host=sparkling-limit-ppal03.yibijow194.workers.dev&path=/?ed=2560#🦆Ch:

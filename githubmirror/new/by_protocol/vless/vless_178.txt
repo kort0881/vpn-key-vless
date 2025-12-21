@@ -1,4 +1,3 @@
-vless://711627d2-1662-4e98-a3d6-086fd4fd4d31@104.16.14.1:443/?type=ws&encryption=none&host=5nrvx1irwfiyq8nqbaiztizua8t8xg0d.pages.dev&path=🔒
 vless://711627d2-1662-4e98-a3d6-086fd4fd4d31@104.16.14.1:443?path=🔒
 vless://71168f32-84d8-4061-b865-dfe7f685ad38@Hi.somo44.sbs:8880?path=🔒
 vless://71243590-61ff-46b9-816c-ec48ea9ea692@199.247.16.203:17928?mode=auto&path=🔒
@@ -498,3 +497,4 @@ vless://7578f457-0f1f-416d-b136-f833f4544e24@newsletter.mydailynews.info:443?pat
 vless://7578f457-0f1f-416d-b136-f833f4544e24@newsletter.mydailynews.info:443?path=%2Fray&security=tls&encryption=none&host=newsletter.mydailynews.info&type=ws#🌐سرور
 vless://7578f457-0f1f-416d-b136-f833f4544e24@newsletter.mydailynews.info:443?path=🔒
 vless://7578f457-0f1f-416d-b136-f833f4544e24@newsletter.mydailynews.info:443?security=tls&type=ws&path=%2Fray&host=newsletter.mydailynews.info&sni=newsletter.mydailynews.info&fp=chrome&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%A9%F0%9F%87%AADE_10%20%F0%9F%A7%AD%204.5MB%2Fs`
+vless://7578f457-0f1f-416d-b136-f833f4544e24@newsletter.mydailynews.info:443?security=tls&type=ws&path=%2Fray&host=newsletter.mydailynews.info&sni=newsletter.mydailynews.info&fp=chrome&encryption=none#RELAY🚩

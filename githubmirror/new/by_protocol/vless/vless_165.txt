@@ -1,4 +1,3 @@
-vless://42f36835-730c-4ecc-9daf-20121ae7ba47@104.24.207.192:443?security=tls&sni=🔒
 vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.0.0:80/?type=ws&encryption=none&host=edge.validbv3528.ir&path=%2F%3Fed%3D2560#%40Hope_Net-join-us-on-Telegram
 vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.0.0:80/?type=ws&encryption=none&host=edge.validbv3528.ir&path=🔒
 vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.0.103:80/?type=ws&encryption=none&path=%2Fvless-ws%2F&security=tls&sni=edge.validbv3528.ir#%40Hope_Net-join-us-on-Telegram
@@ -498,3 +497,4 @@ vless://46aea670-5e6c-40af-9b99-95585dd71cc3@185.143.234.5:443?path=🔒
 vless://46b86ca9-0144-46a7-ac5c-26e8c384c067@65.109.193.233:443?security=reality&encryption=none&pbk=beY-mNQ38zK5HZ4qjcW0cnTmt45Mei1LjnsXWw6bbgw&host=/JKVPN_BYA_CHANEL_JKVPN&headerType=none&fp=chrome&spx=/JKVPN_BYA_CHANEL_JKVPN&type=tcp&sni=🔒
 vless://46b86ca9-0144-46a7-ac5c-26e8c384c067@spdnet-v1.get-service.ir:443?security=reality&encryption=none&pbk=beY-mNQ38zK5HZ4qjcW0cnTmt45Mei1LjnsXWw6bbgw&headerType=none&fp=chrome&spx=/&type=tcp&sni=🔒
 vless://46bf7124-d681-4ecb-9d6a-3f83eed4fc4a@45.144.55.48:46395?encryption=none&type=grpc&mode=gun&serviceName=/@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN&security=reality&fp=chrome&sni=🔒
+vless://46c0349a-4c2f-463a-bced-e45cc132205b@213.21.242.82:443?path=/ray&security=tls&encryption=none&type=ws&sni=hikoop.ru#@sunflowerplato🌻
