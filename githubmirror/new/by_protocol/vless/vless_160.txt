@@ -1,4 +1,3 @@
-vless://309fa273-6579-4cb2-9143-7cad50401eba@45.8.145.65:443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#🇳🇱@FreakConfig
 vless://309fa273-6579-4cb2-9143-7cad50401eba@45.8.145.65:443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒
 vless://309fa273-6579-4cb2-9143-7cad50401eba@45.8.145.65:443?security=reality&type=tcp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=7cad5040&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&encryption=none#[🇳🇱]t.me/ConfigsHub
 vless://309fa273-6579-4cb2-9143-7cad50401eba@45.8.145.65:443?security=reality&type=tcp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=7cad5040&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&encryption=none#t.me/entryNET/config=1852007100509803
@@ -498,3 +497,4 @@ vless://34462e1f-28f5-4db7-8020-ca15aa1e72fc@162.159.136.234:8443/?type=ws&encry
 vless://34462e1f-28f5-4db7-8020-ca15aa1e72fc@162.159.136.234:8443/?type=ws&encryption=none&host=v-2rey-channel.pages.dev&path=🔒
 vless://344ad1bf-0e81-4a9a-843f-accec016684d@104.16.209.12:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=elasticsearch&sni=rglxytcb.mahsa.uno#%E2%9C%85+%40VorTexIRN💠
 vless://344ad1bf-0e81-4a9a-843f-accec016684d@ftdawism.silverengine.uno:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=elasticsearch&sni=ftdawism.silverengine.uno#%E2%9C%85+%40VorTexIRN💠
+vless://344c9272-c35a-4805-8285-e01cb4310b4f@butcher.fonixapp.org:2083?security=reality&encryption=none&pbk=CDUS4VDmw-WDT_lkYZLcLmJIt90jspvykI_1LaUPmSM&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=fonts.gstatic.com&sid=3938#@V2ray1_Ng

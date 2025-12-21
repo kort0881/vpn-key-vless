@@ -361,6 +361,7 @@ vless://160cc7e4-1e01-44e8-78fd-b162fbb1c83e@record.persianmizban.com:443?path=/
 vless://160cc7e4-1e01-44e8-78fd-b162fbb1c83e@record.persianmizban.com:443?path=🔒
 vless://160cc7e4-1e01-44e8-78fd-b162fbb1c83e@record.persianmizban.com:443?security=tls&type=ws&path=%2F&host=lgoin.persianmizban.com&alpn=h3%2Ch2%2Chttp%2F1.1&sni=lgoin.persianmizban.com&fp=chrome&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%AB%F0%9F%87%B7FR_1%20%F0%9F%A7%AD%204.1MB%2Fs
 vless://160cc7e4-1e01-44e8-78fd-b162fbb1c83e@record.persianmizban.com:443?security=tls&type=ws&path=%2F&host=lgoin.persianmizban.com&alpn=h3%2Ch2%2Chttp%2F1.1&sni=lgoin.persianmizban.com&fp=chrome&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%AB%F0%9F%87%B7FR_4%20%F0%9F%A7%AD%204.7MB%2Fs`
+vless://160cc7e4-1e01-44e8-78fd-b162fbb1c83e@record.persianmizban.com:443?security=tls&type=ws&path=🔒
 vless://160e8ffb-1f51-4a9f-a5d8-fd89c7ab1e6f@151.101.3.8:80?type=ws&host=befreewithus.net&path=🔒
 vless://161759ca-b233-4a42-a8ff-39a61376ecea@162.159.62.69:443/?type=ws&encryption=none&host=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&path=%2F%3Fed%3D2048&security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&alpn=h3%2Ch2&fp=chrome#%40Hope_Net-join-us-on-Telegram
 vless://161759ca-b233-4a42-a8ff-39a61376ecea@162.159.62.69:443/?type=ws&encryption=none&host=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&path=🔒
@@ -497,4 +498,3 @@ vless://16e55e1a-6152-4d92-a422-31490e8ef563@38.54.116.73:443?mode=stream-one&pa
 vless://16e55e1a-6152-4d92-a422-31490e8ef563@38.54.116.96:443?mode=stream-one&path=🔒
 vless://16e87c27-a97c-4338-9ff2-12f98eaf6067@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=/edaixvws&security=tls&encryption=none&host=638892846452851844.hamedan-prx-dnraaao.info&type=ws&sni=638892846452851844.hamedan-prx-dnraaao.info#telegram
 vless://16e87c27-a97c-4338-9ff2-12f98eaf6067@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=🔒
-vless://16e97003-110a-423b-fe25-0dc26485939e@157.180.39.43:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=
