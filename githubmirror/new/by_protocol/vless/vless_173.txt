@@ -1,3 +1,7 @@
+vless://5c9b6087-f955-4506-9c1d-67a5aae44bc9@104.20.31.27:443?mode=gun&security=tls&alpn=h2&encryption=none&insecure=0&type=grpc&serviceName=Join-bede-Raiv2mmr&allowInsecure=0&sni=my-gr-raiv2mmr-telegram-join.koyeb.app#JOIN
+vless://5c9b6087-f955-4506-9c1d-67a5aae44bc9@104.20.31.27:443?mode=gun&security=tls&alpn=h2&encryption=none&insecure=0&type=grpc&serviceName=Join-bede-Raiv2mmr&allowInsecure=0&sni=🔒
+vless://5c9b6087-f955-4506-9c1d-67a5aae44bc9@104.20.31.27:443?mode=gun&security=tls&alpn=h3&encryption=none&insecure=0&type=grpc&serviceName=Join-bede-Raiv2mmr&allowInsecure=0&sni=heyto-join-bede-raiv2mmr.koyeb.app#JOIN
+vless://5c9b6087-f955-4506-9c1d-67a5aae44bc9@104.20.31.27:443?mode=gun&security=tls&alpn=h3&encryption=none&insecure=0&type=grpc&serviceName=Join-bede-Raiv2mmr&allowInsecure=0&sni=🔒
 vless://5c9b6087-f955-4506-9c1d-67a5aae44bc9@early-carmina-inkieopdp-f285ef0a.koyeb.app:443?mode=gun&security=tls&encryption=none&insecure=0&type=grpc&serviceName=Join-bede-Raiv2mmr&allowInsecure=0
 vless://5c9b6087-f955-4506-9c1d-67a5aae44bc9@early-carmina-inkieopdp-f285ef0a.koyeb.app:443?mode=gun&security=tls&encryption=none&insecure=0&type=grpc&serviceName=Join-bede-Raiv2mmr&allowInsecure=0#JOIN
 vless://5c9b6087-f955-4506-9c1d-67a5aae44bc9@ge1-raiv2mmr-free.koyeb.app:443/?type=xhttp&encryption=none&flow=&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1
@@ -494,7 +498,3 @@ vless://62301c33-a285-78e8-9689-a28bea5712b9@ir.lightning2025.top:698/?type=ws&e
 vless://62301c33-a285-78e8-9689-a28bea5712b9@ir.lightning2025.top:698/?type=ws&encryption=none&host=telewebion.com%2Cuser.telewebion.com%2Cplus.telewebion.com%2Capi.telewebion.com&path=🔒
 vless://62319dd8-43b3-4849-9289-cc4f17667f46@a.confignor.site:35493?type=grpc&encryption=none&serviceName=چنل+سازنده+اصلی+کانفیگ+@ConfigFree&authority=&security=reality&pbk=qeWt8jJZTwf6vmiTvDfaalPaSZDkX7a3XkKrBxf2YVA&fp=chrome&sni=🔒
 vless://62357561-a129-4b9e-9614-ce2578020866@103.160.204.4:443?security=tls&sni=🔒
-vless://62357561-a129-4b9e-9614-ce2578020866@104.20.46.93:443/?type=ws&encryption=none&host=edg.comorg.us.kg&path=...
-vless://62357561-a129-4b9e-9614-ce2578020866@104.24.38.31:443?security=tls&sni=🔒
-vless://62357561-a129-4b9e-9614-ce2578020866@138.2.18.82:8880/?type=ws&encryption=none&host=edg.comorg.us.kg&path=🔒
-vless://62357561-a129-4b9e-9614-ce2578020866@138.2.18.82:8880?security=tls&sni=🔒
