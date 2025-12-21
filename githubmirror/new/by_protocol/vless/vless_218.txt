@@ -1,3 +1,6 @@
+vless://f3a623d4-5569-44d8-a4e3-2becf94056ef@91.242.229.187:443/?type=ws&encryption=none&flow=&path=🔒
+vless://f3a623d4-5569-44d8-a4e3-2becf94056ef@91.242.229.187:443?path=%2Fwtnaqiws&security=tls&encryption=none&type=ws&sni=github.com#All_24--%40V2rayAlpha
+vless://f3a623d4-5569-44d8-a4e3-2becf94056ef@91.242.229.187:443?path=%2Fwtnaqiws&security=tls&encryption=none&type=ws&sni=github.com#US🇺🇸
 vless://f3a623d4-5569-44d8-a4e3-2becf94056ef@91.242.229.187:443?path=/wtnaqiws&security=tls&encryption=none&type=ws&sni=github.com#All_24--@V2rayAlpha
 vless://f3a623d4-5569-44d8-a4e3-2becf94056ef@91.242.229.187:443?path=/wtnaqiws&security=tls&encryption=none&type=ws&sni=github.com#🇳🇱@FreakConfig
 vless://f3a623d4-5569-44d8-a4e3-2becf94056ef@91.242.229.187:443?path=🔒
@@ -495,6 +498,3 @@ vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@185.148.106.44:2083?encryption=none
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@185.176.24.140:2087?encryption=none&security=tls&sni=🔒
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@185.176.24.140:2087?encryption=none&security=tls&type=ws&sni=🔒
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@185.176.26.61:2087?encryption=none&security=tls&type=ws&sni=🔒
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@185.18.250.185:2053?encryption=none&security=tls&sni=🔒
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@185.18.250.185:2053?encryption=none&security=tls&type=ws&sni=🔒
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@185.238.228.212:443?encryption=none&security=tls&type=ws&sni=🔒

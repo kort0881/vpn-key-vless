@@ -1,3 +1,4 @@
+vless://Parsashonam-Bot-12@[2a01:4f9:c011:76c2::1]:12059?security=reality&encryption=none&pbk=47PT8crL4enRdXrSwKRpbqDjWOqao-cUMABVJ9jq2SI&headerType=none&fp=chrome&spx=/&type=tcp&sni=🔒
 vless://Parsashonam-Bot-12@[2a01:4f9:c011:76c2::1]:12060?security=reality&encryption=none&pbk=ns_xXaKpN5PUjM6FuXjnFGVWN4JLiR-K5I6yDWerBlQ&headerType=none&fp=chrome&spx=/&type=tcp&sni=🔒
 vless://Parsashonam-Bot-13@104.17.147.22:8080?path=🔒
 vless://Parsashonam-Bot-13@104.17.147.22:8080?type=ws&host=Fi.Parsashonam.CfD.&path=🔒
@@ -497,4 +498,3 @@ vless://Telegram--SRCVPN--SRCVPN-@91.99.176.57:2025?type=tcp&security=reality&pb
 vless://Telegram--SRCVPN--SRCVPN-@91.99.176.57:2026?type=tcp&security=reality&pbk=ZYOJiXfnupbX7P2IG8VmWZrZCA9QOY39GYYiTyZ21UE&fp=chrome&sni=🔒
 vless://Telegram--SRCVPN--SRCVPN-@91.99.176.57:2060?type=ws&path=🔒
 vless://Telegram--SRCVPN--SRCVPN@91.99.172.196:28041?type=tcp&security=reality&pbk=WpvjPUZ5x3SIvDzSr5q9v0bfhzo36obh3CXIqJVmnkY&fp=chrome&sni=🔒
-vless://Telegram--SRCVPN--SRCVPN@91.99.176.57:2025?type=tcp&security=reality&pbk=ZYOJiXfnupbX7P2IG8VmWZrZCA9QOY39GYYiTyZ21UE&fp=chrome&sni=🔒

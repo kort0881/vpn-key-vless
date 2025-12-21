@@ -1,3 +1,4 @@
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.4.125:2053?path=🔒
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.4.131:2053/?type=ws&encryption=none&host=dl1-pl-cdn.easy-upload.org&path=%2F&security=tls&sni=dl1-pl-cdn.easy-upload.org&alpn=h2%2Chttp%2F1.1&fp=random#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B5%F0%9F%87%B1
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.4.131:2053?path=🔒
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.4.158:2053/?type=ws&encryption=none&host=dl1-pl-cdn.easy-upload.org&path=%2F&security=tls&sni=dl1-pl-cdn.easy-upload.org&alpn=h2%2Chttp%2F1.1&fp=random#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B5%F0%9F%87%B1
@@ -150,6 +151,8 @@ vless://ee41a97f-e3b7-4ab2-97cf-f12f93d69698@158.220.82.224:443?security=reality
 vless://ee41a97f-e3b7-4ab2-97cf-f12f93d69698@158.220.82.224:443?security=reality&encryption=none&pbk=tTyX27Ray_QxyZv9ICeurhJkRaTp7t98UrBI1EDYVi8&headerType=none&fp=chrome&spx=/ELiV2RAY--ELiV2RAY--ELiV2RAY--ELiV2RAY&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com#UK-ELiV2Ray
 vless://ee4ef665-99fc-4ee5-ba8d-9190430b6d97@104.18.26.90:80?path=🔒
 vless://ee5576a5-d0d7-4c83-9656-f11c85238014@turk.mahfan.xyz:8081?security=none&encryption=none&headerType=none&type=tcp
+vless://ee5576a5-d0d7-4c83-9656-f11c85238014@turk.mahfan.xyz:8081?security=none&type=tcp
+vless://ee5576a5-d0d7-4c83-9656-f11c85238014@turk.mahfan.xyz:8081?security=none&type=tcp#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%B9%F0%9F%87%B7TR_1%20%F0%9F%A7%AD%205.6MB%2Fs#کانفیگ_پرسرعت
 vless://ee5576a5-d0d7-4c83-9656-f11c85238014@turk.mahfan.xyz:8081?security=none&type=tcp&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40freenettir%20%F0%9F%93%A1%20%F0%9F%87%B9%F0%9F%87%B7TR_1%20%F0%9F%A7%AD%205.0MB%2Fs
 vless://ee5576a5-d0d7-4c83-9656-f11c85238014@turk.mahfan.xyz:8081?security=none&type=tcp&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%B9%F0%9F%87%B7TR_1%20%F0%9F%A7%AD%208.5MB%2Fs
 vless://ee5576a5-d0d7-4c83-9656-f11c85238014@turk.mahfan.xyz:8081?security=none&type=tcp&encryption=none#[🇹🇷]t.me/ConfigsHub
@@ -495,6 +498,3 @@ vless://ef5442d6-02f7-4fec-b356-9f212cd4c24e@139.59.167.252:443/?type=ws&encrypt
 vless://ef5442d6-02f7-4fec-b356-9f212cd4c24e@139.59.167.252:443?path=/jysxfpws&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1&sni=ozon.ru#https://t.me/v2rayNplus
 vless://ef5442d6-02f7-4fec-b356-9f212cd4c24e@139.59.167.252:443?path=🔒
 vless://ef5442d6-02f7-4fec-b356-9f212cd4c24e@139.59.167.252:443?type=ws&encryption=none&flow=&path=%2Fjysxfpws&security=tls&sni=ozon.ru&allowInsecure=1&fp=chrome#RU🇷🇺
-vless://ef63d4e8-f79f-4f51-9b88-9b86f25f13e8@dns21.miox.houselife.ir:2020?security=none&encryption=none&host=skyroom.online%2Cigap.net%2Cgharar.ir&headerType=http&type=tcp
-vless://ef6a1a95-f082-44e3-ac10-7f7a5f56d0b6@104.21.77.239:2083?encryption=none&security=tls&sni=🔒
-vless://ef6dfa5c-c976-468f-8a9a-660a0adad17f@antimage.fonixapp.org:2083?security=reality&encryption=none&pbk=rVZQETztt4al4bryh9sL7F9UlGvny2402yvDDJR7o3g&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=ajax.cloudflare.com&sid=6590cb#%40v2raying

@@ -1,3 +1,4 @@
+vless://a207569d-bf8f-43dd-81fd-2c847c7870c4@89.187.174.121:8443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#@meli_proxyy
 vless://a207569d-bf8f-43dd-81fd-2c847c7870c4@89.187.174.121:8443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=🔒
 vless://a207569d-bf8f-43dd-81fd-2c847c7870c4@ams1.fromblancwithlove.com:8443/?type=tcp&encryption=none&flow=&security=tls&sni=🔒
 vless://a207569d-bf8f-43dd-81fd-2c847c7870c4@ams1.fromblancwithlove.com:8443?&security=tls&fp=chrome&sni=ams1.fromblancwithlove.com&type=tcp&headerType=none&host=ams1.fromblancwithlove.com&path=%2F#_%E8%8B%B1%E5%9B%BD%2011
@@ -76,7 +77,6 @@ vless://a27ff611-7c01-4df3-9471-4fd5cd4bb8e1@vfast7.hvitrin.ir:49330?security=re
 vless://a27ff611-7c01-4df3-9471-4fd5cd4bb8e1@vfast7.hvitrin.ir:49330?security=reality&encryption=none&pbk=Dee9YE139lZpb4V3QytB8DvHY3nTCnEXzk2IjvMLHi8&headerType=none&fp=chrome&spx=/&type=tcp&sni=🔒
 vless://a286f903-32d9-4950-a3a3-60937d533326@dl5-de6-cdn.cloud-files-uploader.com:2052?path=/&security=none&encryption=none&host=dl5-de6-cdn.cloud-files-uploader.com&fp=chrome&type=ws#🏴🏳
 vless://a286f903-32d9-4950-a3a3-60937d533326@dl5-de6-cdn.cloud-files-uploader.com:2052?path=🔒
-vless://a286f903-32d9-4950-a3a3-60937d533326@dl5-de6-cdn.cloud-files-uploader.com:2052?security=none&type=ws&path=🔒
 vless://a28952b5-8c6d-4473-9da2-76388877c34a@www.speedtest.net:80?path=🔒
 vless://a28952b5-8c6d-4473-9da2-76388877c34a@www.zula.ir:80?path=🔒
 vless://a295f5d8-fbb0-4a71-bef3-a39a6334bfc4@n2vpn-helper.projectis.ir:2053?path=/@n2vpn&security=tls&encryption=none&host=n2vpn.projectis.ir&fp=chrome&type=ws&sni=n2vpn.projectis.ir#@n2vpn+-+کانفیگ+های+اختصاصی

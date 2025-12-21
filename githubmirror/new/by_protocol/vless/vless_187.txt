@@ -1,4 +1,3 @@
-vless://8bba871f-fb54-4508-a475-06328888d89d@104.26.14.85:8080?security=none&encryption=none&host=2r.YFxG2buH2B.zULaIr.orG.&type=ws#Free%2032%20%28%40Outline_Vpn%29
 vless://8bba871f-fb54-4508-a475-06328888d89d@104.26.14.85:8080?security=none&encryption=none&host=2r.YFxG2buH2B.zULaIr.orG.&type=ws#Free%2037%20%28%40Outline_Vpn%
 vless://8bca284c-d2f2-4367-999c-5f490a872c2d@37.27.15.167:2052?mode=gun&security=reality&encryption=none&authority=Telegram+:&pbk=BamXEb50W1rXENIC96WfSvMiFGE7hnbu_GcXkBv-8H8&fp=chrome&type=grpc&serviceName=2052vless&sni=🔒
 vless://8bd2d4c0-066e-4aad-86a2-6fe8cd348905@150.241.108.219:51410?type=xhttp&mode=auto&path=🔒
@@ -498,3 +497,4 @@ vless://912eacc1-42b4-4d0f-a8ba-abb825c1d468@64.227.47.120:443?path=/ulptgqws#/@
 vless://912eacc1-42b4-4d0f-a8ba-abb825c1d468@64.227.47.120:443?path=/ulptgqws&security=tls&encryption=none&type=ws&sni=api.avito.ru#@FarazV2ray
 vless://912eacc1-42b4-4d0f-a8ba-abb825c1d468@64.227.47.120:443?path=/ulptgqws&security=tls&encryption=none&type=ws&sni=api.avito.ru#All-@V2rayAlpha--38
 vless://912eacc1-42b4-4d0f-a8ba-abb825c1d468@64.227.47.120:443?path=🔒
+vless://912eacc1-42b4-4d0f-a8ba-abb825c1d468@64.227.47.120:443?type=ws&encryption=none&flow=&path=%2Fulptgqws&security=tls&sni=api.avito.ru&allowInsecure=1#RU🇷🇺

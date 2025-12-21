@@ -1,3 +1,4 @@
+vless://dc648bc7-7884-4921-a65d-8eebbf4eb972@vaynora.imlast.com:443/?type=tcp&encryption=none
 vless://dc648bc7-7884-4921-a65d-8eebbf4eb972@vaynora.imlast.com:443/?type=tcp&encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40vaynora%20%5B7%5D
 vless://dc648bc7-7884-4921-a65d-8eebbf4eb972@vaynora.imlast.com:443?type=tcp&security=none
 vless://dc648bc7-7884-4921-a65d-8eebbf4eb972@vaynora.shahinstore1.com:443/?type=tcp&encryption=none
@@ -497,4 +498,3 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.195:8880?mode=gun&securi
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.195:8880?mode=gun&security=none&encryption=none&authority=---@Azarbayjab1_Net---@Azarbayjab1_Net---@azarbayjab1_Net---@azarbayjab1_Net---@Azarbayjab1_Net&type=grpc&serviceName=#TM
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.195:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.195:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#@Hddify
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.213:8880?mode=gun&security=&encryption=none&type=grpc#@V2rayNG3

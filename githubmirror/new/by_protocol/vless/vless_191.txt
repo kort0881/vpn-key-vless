@@ -1,3 +1,4 @@
+vless://9e7a7c17-21c2-4119-bb45-e4154e893aaf@46.101.88.198:443?path=%2Fbpuuxxws&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1&sni=api.avito.ru#RU🇷🇺
 vless://9e7a7c17-21c2-4119-bb45-e4154e893aaf@46.101.88.198:443?path=%2Fbpuuxxws&security=tls&encryption=none&type=ws&sni=api.avito.ru#All-%40V2rayAlpha--14
 vless://9e7a7c17-21c2-4119-bb45-e4154e893aaf@46.101.88.198:443?path=%2Fbpuuxxws&security=tls&encryption=none&type=ws&sni=api.avito.ru#RU🇷🇺
 vless://9e7a7c17-21c2-4119-bb45-e4154e893aaf@46.101.88.198:443?path=%2Fbpuuxxws&security=tls&encryption=none&type=ws&sni=api.avito.ru#🇬🇧[openproxylist.com]
@@ -497,4 +498,3 @@ vless://Parsashonam-Bot-12@104.17.147.22:8880?type=ws&host=Fi.Parsashonam.CfD.&p
 vless://Parsashonam-Bot-12@185.146.173.39:8080?path=🔒
 vless://Parsashonam-Bot-12@185.146.173.39:8080?type=httpupgrade&host=De.Parsashonam.CfD.&path=🔒
 vless://Parsashonam-Bot-12@[2a01:4f8:1c1a:dc2b::1]:4430?security=reality&encryption=none&pbk=5CE4ZpwvR-EmkymzU3V6yeeTcSTCpIBg473J8-6IFnM&headerType=none&fp=chrome&spx=/&type=tcp&sni=🔒
-vless://Parsashonam-Bot-12@[2a01:4f9:c011:76c2::1]:12059?security=reality&encryption=none&pbk=47PT8crL4enRdXrSwKRpbqDjWOqao-cUMABVJ9jq2SI&headerType=none&fp=chrome&spx=/&type=tcp&sni=🔒
