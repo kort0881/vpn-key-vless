@@ -209,7 +209,9 @@ vless://616c06f7-7730-4001-8878-a7a2fc8d7faf@151.101.3.8:80?type=ws&host=befreew
 vless://61757901-3818-46c7-8482-683fa7f6ba10@103.90.75.252:3001/?type=tcp&encryption=none&flow=
 vless://61757901-3818-46c7-8482-683fa7f6ba10@103.90.75.252:3001/?type=tcp&encryption=none&flow=#📡79@oneclickvpnkeys
 vless://61757901-3818-46c7-8482-683fa7f6ba10@103.90.75.252:3001?&security=false&fp=chrome&type=tcp&headerType=none&path=%2F#NL_9136e_0013
+vless://61757901-3818-46c7-8482-683fa7f6ba10@103.90.75.252:3001?allowInsecure=0
 vless://61757901-3818-46c7-8482-683fa7f6ba10@103.90.75.252:3001?allowInsecure=0#NL_speednode_0013
+vless://61757901-3818-46c7-8482-683fa7f6ba10@103.90.75.252:3001?allowInsecure=0#🇳🇱[openproxylist.com]
 vless://61757901-3818-46c7-8482-683fa7f6ba10@103.90.75.252:3001?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&security=none&encryption=none&headerType=none&type=tcp
 vless://61757901-3818-46c7-8482-683fa7f6ba10@103.90.75.252:3001?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&security=none&encryption=none&headerType=none&type=tcp#🇳🇱[Telegram:NetifyVPN]
 vless://61757901-3818-46c7-8482-683fa7f6ba10@103.90.75.252:3001?security=&encryption=none&headerType=none&type=tcp
@@ -220,7 +222,6 @@ vless://61757901-3818-46c7-8482-683fa7f6ba10@103.90.75.252:3001?security=none&en
 vless://61757901-3818-46c7-8482-683fa7f6ba10@103.90.75.252:3001?security=none&encryption=none&headerType=none&type=tcp#@Daily_Configs
 vless://61757901-3818-46c7-8482-683fa7f6ba10@103.90.75.252:3001?security=none&encryption=none&headerType=none&type=tcp#Channel
 vless://61757901-3818-46c7-8482-683fa7f6ba10@103.90.75.252:3001?security=none&encryption=none&headerType=none&type=tcp#NL🇳🇱
-vless://61757901-3818-46c7-8482-683fa7f6ba10@103.90.75.252:3001?security=none&encryption=none&headerType=none&type=tcp#🇳🇱[openproxylist.com]
 vless://61757901-3818-46c7-8482-683fa7f6ba10@103.90.75.252:3001?security=none&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E8%8D%B7%E5%85%B0%2005
 vless://617d5079-9fae-494a-98ca-90da9e10cd70@159.89.45.81:80?path=🔒
 vless://618a6afb-62ce-42be-ffdf-692b1038467b@91.107.163.96:2096?security=none&encryption=none&headerType=none&type=tcp
@@ -429,7 +430,6 @@ vless://63adc981-4362-4550-8f8a-8a475d3b9c96@143.110.173.30:443/?type=ws&encrypt
 vless://63adc981-4362-4550-8f8a-8a475d3b9c96@143.110.173.30:443/?type=ws&encryption=none&flow=&path=🔒
 vless://63adc981-4362-4550-8f8a-8a475d3b9c96@143.110.173.30:443?path=%2Fcitcuuws&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1&sni=github.com#US🇺🇸
 vless://63adc981-4362-4550-8f8a-8a475d3b9c96@143.110.173.30:443?path=%2Fcitcuuws&security=tls&encryption=none&type=ws&sni=github.com#US🇺🇸
-vless://63adc981-4362-4550-8f8a-8a475d3b9c96@143.110.173.30:443?path=%2Fcitcuuws&security=tls&encryption=none&type=ws&sni=github.com#🇬🇧[openproxylist.com]
 vless://63adc981-4362-4550-8f8a-8a475d3b9c96@143.110.173.30:443?path=/citcuuws&security=tls&encryption=none&type=ws&sni=github.com#🇬🇧@FreakConfig
 vless://63adc981-4362-4550-8f8a-8a475d3b9c96@143.110.173.30:443?path=🔒
 vless://63b4093e-bf06-4bb8-9927-d6c883d789c7@test.fast.hosting-ip.com:80?mode=auto&path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=80&security=none&encryption=none&host=sme.global.ssl.fastly.net&type=xhttp#@CaV2ray

@@ -1,6 +1,3 @@
-vless://721a6c8e-809f-404d-91d6-582860af9cc3@172.253.122.100:443/?type=ws&encryption=none&host=gtest-638114869974.europe-west4....&security=tls&sni=google.com
-vless://721a6c8e-809f-404d-91d6-582860af9cc3@172.253.122.113:443/?type=ws&encryption=none&host=gtest-638114869974.europe-west4.run.app&path=%2FrWUMkmNJBTurxq6Hlt8D6ftJ8qP7&security=tls&sni=google.com&alpn=http%2F1.1&fp=chrome#%40Hope_Net-join-us-on-Telegram
-vless://721a6c8e-809f-404d-91d6-582860af9cc3@172.253.122.113:443/?type=ws&encryption=none&host=gtest-638114869974.europe-west4.run.app&path=🔒
 vless://721a6c8e-809f-404d-91d6-582860af9cc3@172.253.122.138:443/?type=ws&encryption=none&host=gtest-638114869974.europe-west4.run.app&path=%2FrWUMkmNJBTurxq6Hlt8D6ftJ8qP7&security=tls&sni=google.com&alpn=http%2F1.1&fp=chrome#%40Hope_Net-join-us-on-Telegram
 vless://721a6c8e-809f-404d-91d6-582860af9cc3@172.253.122.138:443/?type=ws&encryption=none&host=gtest-638114869974.europe-west4.run.app&path=🔒
 vless://721a6c8e-809f-404d-91d6-582860af9cc3@172.253.63.139:443/?type=ws&encryption=none&host=gtest-638114869974.europe-west4.run.app&path=🔒
@@ -468,6 +465,8 @@ vless://76f385df-bb5c-4e92-b60b-fce540b0a6a0@185.177.238.57:443?security=reality
 vless://76f385df-bb5c-4e92-b60b-fce540b0a6a0@185.177.238.99:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒
 vless://76f385df-bb5c-4e92-b60b-fce540b0a6a0@185.177.238.99:443?security=reality&encryption=none&pbk=su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=al.cdn.stun.su&sid=f6f88b14adc6f641#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%40FreakConfig
 vless://76f385df-bb5c-4e92-b60b-fce540b0a6a0@185.177.238.99:443?security=reality&encryption=none&pbk=su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=al.cdn.stun.su&sid=f6f88b14adc6f641#@meli_proxyy
+vless://76f385df-bb5c-4e92-b60b-fce540b0a6a0@51.250.86.102:443?security=reality&type=tcp&sni=api-maps.yandex.ru&fp=chrome&flow=xtls-rprx-vision&sid=17f0f0e38f01af5a&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&encryption=none#🇷🇺[openproxylist.com]
+vless://76f385df-bb5c-4e92-b60b-fce540b0a6a0@51.250.86.102:443?security=reality&type=tcp&sni=🔒
 vless://76f385df-bb5c-4e92-b60b-fce540b0a6a0@78.159.131.23:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒
 vless://76f385df-bb5c-4e92-b60b-fce540b0a6a0@78.159.131.23:443?security=reality&encryption=none&pbk=su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=al.cdn.stun.su&sid=3846b9259d66cc64#[🇦🇱]t.me/ConfigsHub
 vless://76f385df-bb5c-4e92-b60b-fce540b0a6a0@78.159.131.23:443?security=reality&encryption=none&pbk=su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒
@@ -498,3 +497,4 @@ vless://775213ac-3976-439a-8977-3277c0e4735d@45.135.235.111:443/?type=ws&encrypt
 vless://775213ac-3976-439a-8977-3277c0e4735d@45.159.217.54:2087/?type=ws&encryption=none&host=fq521.6789.cloudns.be&security=tls&sni=fq521.6789.cloudns.be
 vless://775213ac-3976-439a-8977-3277c0e4735d@62.72.166.67:2096/?type=ws&encryption=none&host=fq521.6789.cloudns.be&path=%2Ftwitter%E8%8B%8F%E5%B0%8F%E6%9F%A0security%3Dtls&security=tls&sni=fq521.6789.cloudns.be#%40Hope_Net-join-us-on-Telegram
 vless://775213ac-3976-439a-8977-3277c0e4735d@94.247.142.241:443/?type=ws&encryption=none&host=fq521.6789.cloudns.be&path=twitterfreecodessecurity%3Dtls&security=tls&sni=fq521.6789.cloudns.be#%40Hope_Net-join-us-on-Telegram
+vless://77540057-4504-43f7-b229-765f9b7bf35d@game.wlftest.xyz:443?type=tcp&security=reality&pbk=9D4FoKRukUuWRV8jx5ya5HHTmKC4sYH2Tk5RGWjGSmI&fp=ios&sni=🔒

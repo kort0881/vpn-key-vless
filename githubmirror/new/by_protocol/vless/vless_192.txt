@@ -1,8 +1,3 @@
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@2.56.126.45:8443?path=🔒
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.12.133.132:2096/?type=ws&encryption=none&flow=&path=🔒
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.12.133.132:443/?type=ws&encryption=none&flow=&path=🔒
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.12.133.132:8443/?type=ws&encryption=none&flow=&path=🔒
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.12.133.132:8443?path=🔒
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.12.133.143:2096/?type=ws&encryption=none&flow=&path=🔒
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.12.133.143:443/?type=ws&encryption=none&flow=&path=🔒
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.12.133.143:443?path=🔒
@@ -498,3 +493,8 @@ vless://aa2a6598-9bb8-403f-bbfa-52a905a5a87a@104.17.147.22:80?path=/@Vpn_Mikey،
 vless://aa2a6598-9bb8-403f-bbfa-52a905a5a87a@104.17.147.22:80?path=🔒
 vless://aa2d785a-e348-4035-96db-75cc958adcd5@104.17.148.22:2087/?type=ws&encryption=none&host=www.fardares.ir&path=%2Fparis&security=tls&sni=www.fardares.ir&fp=chrome#%40Hope_Net-join-us-on-Telegram
 vless://aa2d785a-e348-4035-96db-75cc958adcd5@104.17.148.22:2087/?type=ws&encryption=none&host=www.fardares.ir&path=🔒
+vless://aa2dc840-be38-4b4d-a002-ba234999fd55@162.159.243.231:8080/?type=ws&encryption=none&host=cdn-allxn--b6gaceuorg.l4o117en.workers.dev&path=%2F#%40Hope_Net-join-us-on-Telegram
+vless://aa2dc840-be38-4b4d-a002-ba234999fd55@162.159.243.231:8080?allowInsecure=0&sni=🔒
+vless://aa2dc840-be38-4b4d-a002-ba234999fd55@172.67.133.19:8080/?type=ws&encryption=none&host=cdn-allxn--b6gaceuorg.l4o117en.workers.dev
+vless://aa2dc840-be38-4b4d-a002-ba234999fd55@172.67.69.34:8080/?type=ws&encryption=none&flow=&host=cdn-allxnb6gaceuorg.l4o117en.workers.dev&path=🔒
+vless://aa2dc840-be38-4b4d-a002-ba234999fd55@172.67.69.34:8080/?type=ws&encryption=none&host=cdn-allxnb6gaceuorg.l4o117en.workers.dev&path=%252...

@@ -1,4 +1,3 @@
-vless://77540057-4504-43f7-b229-765f9b7bf35d@game.wlftest.xyz:443?type=tcp&security=reality&pbk=9D4FoKRukUuWRV8jx5ya5HHTmKC4sYH2Tk5RGWjGSmI&fp=ios&sni=🔒
 vless://77540057-4504-43f7-b229-765f9b7bf35d@situnes.wlftest.xyz:443?type=tcp&security=reality&pbk=9D4FoKRukUuWRV8jx5ya5HHTmKC4sYH2Tk5RGWjGSmI&fp=ios&sni=🔒
 vless://77574e63-cfdc-41b9-a84c-13c91b3d819c@Subfourteen.iranfreedomserver.com:7005?security=reality&encryption=none&pbk=VkxXfuqbYbk_b_KzkphMsR4apMZXAcfnWKAErqyghlY&headerType=none&fp=chrome&type=tcp&sni=refersion.com#REALITY|DE🇩🇪
 vless://7773f153-bf41-4f9c-9c62-46b220272293@104.17.148.22:2095/?type=tcp&encryption=none
@@ -498,3 +497,4 @@ vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@jquery.com:443/?type=ws&encryption=
 vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@jquery.com:443?encryption=none&security=tls&sni=🔒
 vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@jquery.com:443?path=🔒
 vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@patient.co.uk:443?path=🔒
+vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@smosh.com:443/?type=ws&encryption=none&flow=&host=rayan-config-telegram-a05.leila.dpdns.org&path=🔒
