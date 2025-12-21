@@ -1,10 +1,3 @@
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.122:8880/?type=grpc&encryption=none
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.122:8880?mode=gun&security=&encryption=none&type=grpc
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.122:8880?mode=gun&security=none&encryption=none&type=grpc
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.122:8880?mode=gun&security=none&encryption=none&type=grpc#➪+@FILTERK0SH++منبع+کانفیگ+رایگان
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.122:8880?mode=gun&security=none&encryption=none&type=grpc#💎کانفیگ
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.122:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#%40VMESSIR4N+%D8%AC%D9%87%D8%AA+%D8%AE%D8%B1%DB%8C%D8%AF+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.122:8880?security=&encryption=none&type=grpc
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.122:8880?security=&encryption=none&type=grpc#JOIN
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.122:8880?security=none&type=grpc&packetEncoding=xudp&encryption=none
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.124:8880/?type=grpc&encryption=none
@@ -498,3 +491,10 @@ vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.235.241.127:443?path=/hormoz&se
 vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.235.241.127:443?path=/hormoz&security=tls&encryption=none&type=ws&sni=github.com#🇩🇪@FreakConfig
 vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.235.241.127:443?path=🔒
 vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.235.241.129:443/?type=ws&encryption=none&flow=&path=/hormoz&security=tls&sni=github.com&allowInsecure=1#🔷40@oneclickvpnkeys
+vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.235.241.129:443/?type=ws&encryption=none&flow=&path=🔒
+vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.235.241.129:443?path=%2Fhormoz&security=tls&encryption=none&type=ws&sni=github.com#US🇺🇸
+vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.235.241.129:443?path=/hormoz&security=tls&encryption=none&type=ws&sni=github.com#All_23--@V2rayAlpha
+vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.235.241.129:443?path=🔒
+vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.235.241.132:443?encryption=none&security=tls&allowInsecure=true&type=ws&path=/hormoz&packetEncoding=xudp#🇩🇪[openproxylist.com]
+vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.235.241.132:443?encryption=none&security=tls&allowInsecure=true&type=ws&path=🔒
+vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.235.241.150:443/?type=ws&encryption=none&flow=&path=/hormoz&security=tls&sni=github.com&allowInsecure=1#🔷38@oneclickvpnkeys
