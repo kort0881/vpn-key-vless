@@ -1,3 +1,6 @@
+vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.16:443?path=🔒
+vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.17:443/?type=ws&encryption=none&flow=&path=🔒
+vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.17:443?encryption=none&security=tls&allowInsecure=1&type=ws&path=🔒
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.17:443?path=🔒
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.18:443/?type=ws&encryption=none&flow=&path=🔒
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.18:443?encryption=none&security=tls&allowInsecure=1&type=ws&path=🔒
@@ -495,6 +498,3 @@ vless://7ca28380-8f51-4eaa-89c9-6243bdf7f500@104.16.200.182:443/?type=ws&encrypt
 vless://7ca28380-8f51-4eaa-89c9-6243bdf7f500@104.16.64.172:443/?type=ws&encryption=none&host=www.pjw5.top
 vless://7ca28380-8f51-4eaa-89c9-6243bdf7f500@104.16.64.172:443/?type=ws&encryption=none&host=www.pjw5.top#%40Hope_Net-join-us-on-Telegram
 vless://7caad1ea-c29d-4ed4-8055-f52a6b67d3f3@77.83.175.25:43644?security=reality&encryption=none&pbk=gMC-lb-c9zezjmlA89NXLeJKLGFjnb9PDnss4n0I4jo&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=🔒
-vless://7caad1ea-c29d-4ed4-8055-f52a6b67d3f3@77.83.175.25:43644?security=reality&encryption=none&pbk=gMC-lb-c9zezjmlA89NXLeJKLGFjnb9PDnss4n0I4jo&headerType=none&fp=chrome&spx=/&type=tcp&sni=🔒
-vless://7cb1d98d-2238-4e30-adb9-b5bdac948a32@kafshu.ir:8080?path=🔒
-vless://7cc88852-6c8c-4ddc-9211-5628824b223d@79.127.70.106:45147?security=none&encryption=none&host=archlinux.org&headerType=http&type=tcp

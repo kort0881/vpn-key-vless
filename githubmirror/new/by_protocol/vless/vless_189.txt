@@ -1,3 +1,6 @@
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@94.131.122.76:2052?encryption=none&security=none&type=ws&path=🔒
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@94.131.122.76:2053?security=tls&encryption=none&type=grpc
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@94.131.122.76:2082?encryption=none&security=none&type=ws&path=🔒
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@94.131.122.76:2096?path=🔒
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@95.164.18.16:2052?encryption=none&security=none&type=ws&path=🔒
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@95.164.18.16:2096?encryption=none&security=tls&allowInsecure=1&type=ws&path=🔒
@@ -495,6 +498,3 @@ vless://Parsashonam-47@185.146.173.39:8880?encryption=none&host=Search.DigiKala.
 vless://Parsashonam-48@185.146.173.39:8880?encryption=none&host=Search.DigiKala.CYoU.&path=🔒
 vless://Parsashonam-49@185.146.173.39:8880?encryption=none&host=Search.DigiKala.CYoU.&path=🔒
 vless://Parsashonam-49@185.146.173.39:8880?host=Search.DigiKala.CYoU.&path=🔒
-vless://Parsashonam-67@104.18.14.19:8080?security=none&encryption=none&type=ws&host=Parsashonam.%E6%88%91%E4%BB%AC%E7%B4%AF%E4%BA%86.tech.&path=🔒
-vless://Parsashonam-67@104.18.14.19:8080?security=none&encryption=none&type=ws&host=Parsashonam.我们累了.tech.&path=🔒
-vless://Parsashonam-67@185.146.173.58:8080?security=none&encryption=none&type=ws&host=Parsashonam.我们累了.tech.&path=🔒

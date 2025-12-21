@@ -1,3 +1,6 @@
+vless://fa72a38c-56bf-4f3b-9735-e96e9840ae54@65.109.118.175:443?security=tls&alpn=h3,h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=app.chandplus.com#@v2ray_configs_pools👈⚡❤️‍🔥
+vless://fa72a38c-56bf-4f3b-9735-e96e9840ae54@65.109.118.175:443?security=tls&alpn=h3,h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=🔒
+vless://fa72a38c-56bf-4f3b-9735-e96e9840ae54@app.chandplus.com:443/?type=tcp&encryption=none&security=tls&sni=🔒
 vless://fa72a38c-56bf-4f3b-9735-e96e9840ae54@app.chandplus.com:443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN&security=tls&alpn=h3,h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=🔒
 vless://fa72a38c-56bf-4f3b-9735-e96e9840ae54@app.chandplus.com:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=app.chandplus.com#FI🇫🇮
 vless://fa72a38c-56bf-4f3b-9735-e96e9840ae54@app.chandplus.com:443?security=tls&alpn=h3,h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=🔒
@@ -495,6 +498,3 @@ vless://fbd03b27-e673-4f9d-8574-d293377a2337@92.223.124.51:443/?type=ws&encrypti
 vless://fbddfdbf-d505-51ee-b6a6-bc1f4f4e0195@46.102.157.79:58210/?encryption=none&host=myket.ir&type=tcp&headerType=http
 vless://fbddfdbf-d505-51ee-b6a6-bc1f4f4e0195@46.102.157.79:58210/?encryption=none&host=myket.ir&type=tcp&headerType=http#%F0%9F%A5%8F79%40oneclickvpnkeys
 vless://fbde8f25-fbee-49ef-9b47-d4441f2bba03@croatia.netblocksir.ir:6556?security=none&type=tcp&headerType=http&path=🔒
-vless://fbe02c0b-775f-4431-8615-a9497255c876@four.felinetest.site:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=fabWUdBWxh7NsMaqOF35petD3ljQbKf6OSDnROV9jDs&security=reality&sid=6f9deca7&sni=🔒
-vless://fbf024aa-79b4-4521-ae33-6564bd400774@5.161.22.31:10838?encryption=none&security=none&type=ws&path=🔒
-vless://fbf6b625-ddd6-430e-c4b7-f6006c5d07d4@ipV2Ray-mci.ddns.net:2096?mode=gun&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&type=grpc&serviceName=%40narcod_ping&sni=🔒

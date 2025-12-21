@@ -1,3 +1,6 @@
+vless://ec7de7e0-3f09-4ef4-8a34-e441917d65fa@repo-mobile.org:2096?path=/proxyip=robin.yaemiko.ggff.net&security=tls&alpn=http/1.1&encryption=none&host=verina.ccantarella.dns-dynamic.net&fp=chrome&type=ws&sni=verina.ccantarella.dns-dynamic.net#فیلترشکن
+vless://ec7de7e0-3f09-4ef4-8a34-e441917d65fa@repo-mobile.org:2096?path=🔒
+vless://ec80ee4b-8c32-479e-b683-6612608e3437@104.21.43.168:443?path=🔒
 vless://ec80ee4b-8c32-479e-b683-6612608e3437@www.speedtest.net:80?path=🔒
 vless://ec833494-665d-4616-92f5-5cb397771f24@104.18.26.90:80?path=🔒
 vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@154.92.9.151:443?path=🔒
@@ -495,6 +498,3 @@ vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@104.24.6.87:443?path=🔒
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@104.25.18.255:443/?type=ws&encryption=none&path=%2F&security=tls&sni=dl1-de-cdn.easy-upload.org#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A9%F0%9F%87%AA
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@104.25.18.255:443?path=🔒
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@104.27.78.152:443/?type=ws&encryption=none&path=%2F&security=tls&sni=dl1-de-cdn.easy-upload.org#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A9%F0%9F%87%AA
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@104.27.78.152:443?path=🔒
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@108.165.216.198:2053/?type=ws&encryption=none&host=dl1-pl-cdn.easy-upload.org&path=%2F&security=tls&sni=dl1-pl-cdn.easy-upload.org&alpn=h2%2Chttp%2F1.1&fp=random#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B5%F0%9F%87%B1
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@108.165.216.198:2053?path=🔒

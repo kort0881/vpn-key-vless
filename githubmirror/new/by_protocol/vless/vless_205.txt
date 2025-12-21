@@ -1,3 +1,6 @@
+vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@89.116.193.40:34045/?type=tcp&encryption=none&sni=🔒
+vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@89.42.142.247:34045/?type=tcp&encryption=none&flow=&sni=🔒
+vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@89.42.142.247:34045/?type=tcp&encryption=none&sni=🔒
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@89.42.142.247:34045?security=reality&encryption=none&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&headerType=none&fp=chrome&type=tcp&sni=🔒
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@89.42.142.247:34045?security=reality&encryption=none&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&headerType=none&type=tcp&sni=🔒
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@89.42.142.247:34045?security=reality&sni=🔒
@@ -495,6 +498,3 @@ vless://de9e93dc-9ce2-4c8f-839c-f6f3a58a10bb@99.199.73.47:6068?security=none&enc
 vless://de9e93dc-9ce2-4c8f-839c-f6f3a58a10bb@99.199.73.47:6068?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp
 vless://de9e93dc-9ce2-4c8f-839c-f6f3a58a10bb@sport-shop-gw01.cyberscaler.net:6068?security=&encryption=none&host=v10.events.data.microsoft.com&headerType=http&type=tcp
 vless://de9e93dc-9ce2-4c8f-839c-f6f3a58a10bb@sport-shop-gw01.cyberscaler.net:6068?security=&fp=chrome&type=tcp&path=🔒
-vless://de9e93dc-9ce2-4c8f-839c-f6f3a58a10bb@sport-shop-gw01.cyberscaler.net:6068?security=none&encryption=none&host=v10.events.data.microsoft.com&headerType=http&fp=chrome&type=tcp
-vless://dead1bb8-e95a-4517-8ed2-e0694de80ba6@138.197.215.108:443?security=reality&encryption=none&pbk=YyHLH09FoCQ7NvAPFcjXfjIiKU7wRTi-Ri8ahnqaoGU&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&sni=www.icloud.com&sid=5175dd3850#💎کانفیگ
-vless://dead1bb8-e95a-4517-8ed2-e0694de80ba6@138.197.215.108:443?security=reality&encryption=none&pbk=YyHLH09FoCQ7NvAPFcjXfjIiKU7wRTi-Ri8ahnqaoGU&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&sni=🔒
