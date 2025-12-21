@@ -1,13 +1,3 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.246.85.62:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#@hopev2ray🩷
-vless://c30ec165-fcb4-47af-8e68-70d88a3b2910@147.79.100.54:37096?security=tls&amp;encryption=none&amp;headerType=none&amp;type=tcp&amp;sni=vpn-srv-2.circlevpn.net#@hopev2ray🩵
-vless://481c5606-b586-44d7-bc2e-d8ef30d67f62@176.120.72.63:38339?security=reality&amp;encryption=none&amp;pbk=o0MFuznHh_Wztg0FTAMhFXm3hjAqOJAJIIVNn-_A9WA&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=dl.google.com&amp;sid=e16883e511#@hopev2ray🤎
-vless://5f4b2c6f-a231-462b-afdf-0a836bffa71c@5.253.41.223:80?path=/vless/&amp;security=none&amp;encryption=none&amp;host=pq-japan4.09vpn.com&amp;type=ws#@hopev2ray💙
-vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@162.159.152.53:443?path=/?ed=2560&amp;security=tls&amp;alpn=h3&amp;encryption=none&amp;host=vless.hubp.de&amp;fp=random&amp;type=ws&amp;sni=vless.hubp.de#@hopev2ray🩵
-vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@104.18.…
-vless://281f347e-5bfa-4293-a1fa-b511efa89707@93.115.240.30:8082?security=none&amp;encryption=none&amp;host=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&amp;headerType=http&amp;type=tcp#@hopev2ray🩷
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@104.21.224.5:2096?path=/Telegram🇨🇳 @WangCai2 /?ed=2560&amp;security=tls&amp;encryption=none&amp;host=gaosir.unfeeling.sbs&amp;fp=chrome&amp;type=ws&amp;sni=gaosir.unfeeling.sbs#@hopev2ray💙
-vless://d0298536-d670-4045-bbb1-ddd5ea68683e@104.26.13.54:443?path=/&amp;security=tls&amp;encryption=none&amp;host=a.azadnet002.ddns-ip.net&amp;fp=chrome&amp;type=ws&amp;sni=a.azadnet002.ddns-ip.net#@hopev2ray🤍
-vless://dbb3c682-8564-4c02-aec9-23ecf7981820@104.26.12.140:443?path=/assets?ed&amp;security=tls&amp;encryption=none&amp;host=Arc-EMS.pages.dev&amp;fp=chrome&amp;type=ws&amp;sni=Arc-EMS.pages.dev#@hopev2ray🤎
 vless://f64bdc57-0f54-4705-bf75-cfd646d98c06@8.39.125.194:443?path=/?ed=2048&amp;security=tls&amp;encryption=none&amp;host=snippets.nneko.netlib.re&amp;fp=chrome&amp;type=ws&amp;sni=snippets.nneko.netlib.re#@hopev2ray❤️
 vless://6405f134-503f-40b3-aea9-cc92fa77b5ac@104.21.42.33:443?path=/xYzAbc123&amp;security=tls&amp;alpn=h3,h2,http/1.1&amp;encryption=none&amp;host=ger.americanexpressbanks.com&amp;fp=chrome&amp;type=ws&amp;sni=ger.americanexpressbanks.com#@hopev2ray❤️‍🩹
 vless://b9b8cf4c-29a3-4288-9c6c-8811dc37beec@188.114.97.11:2087?path=/&amp;security=tls&amp;encryption=none&amp;host=Xlz767V2Ray.PAGEs.DEv&amp;fp=chrome&amp;type=ws&amp;sni=Xlz767V2Ray.PAGEs.DEv#@hopev2ray🩵
@@ -160,8 +150,6 @@ vless://a0660613-bab4-456f-91b7-b8923788ed3d@128.140.49.220:443?flow=xtls-rprx-v
 vless://12471e51-fcd4-421c-a71f-2ef755c34fec@[2a01:4f9:c010:1ac8::1]:8443?path=/@InterNet_Nor&amp;security=none&amp;encryption=none&amp;type=ws#@InterNet_Nor
 vless://a1591bed-6c12-41cf-93c8-9bcb787ffd16@[2a01:4f9:c010:1ac8::1]:13269?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#@internet_nor
 vless://f9196fa1-ba9f-4f31-98a5-3565476caafe@[2a01:4f8:c010:13e4::1]:443?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#@InterNet_Nor
-vless://064059ce-23b9-45d3-953d-57d4c5092874@026.electrocellco-cf-026.workers.dev:443?security=tls&amp;type=ws&amp;path=/eyJqdW5rIjoieUVOZzhGTTh2OWdLcVYzRCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=&amp;host=026.electrocellco-cf-026.workers.dev&amp;alpn=http/1.1&amp;sni=026.elEctrOCELLCo-cF-026.wORKERs.deV&amp;fp=chrome&amp;encryption=none#
-vless://03715a86-0dfc-42b4-ae1f-a9de57c48950@86.104.74.45:443?path=/dyaghvws&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;type=ws&amp;allowInsecure=1#
 vless://02e46039-200d-4ae4-ac90-b0d619f72034@clyde.ns.cloudflare.com:443?type=ws&amp;encryption=none&amp;host=redlabell.info&amp;path=/aafeuws&amp;security=tls&amp;sni=redlabell.info&amp;allowInsecure=1#
 vless://0a587061-6ccb-407c-86b8-c7d78b6bee5e@5.129.236.170:4443?security=reality&amp;encryption=none&amp;pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=github.com&amp;sid=aa7e96542880027a#
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.254:2053?path=/&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=cXrolvpn.pagEs.DEv&amp;fp=randomized&amp;type=ws&amp;sni=cXrOLvPn.PAgEs.dev#@IRAN_access
@@ -264,6 +252,18 @@ vless://37d20522-5b35-45e8-8742-ace55751c318@144.126.230.48:18080?type=tcp&amp;s
 vless://22f3cbcc-55b5-4d71-a3ca-9d6f3287aace@144.126.234.182:51697?type=tcp&amp;security=reality&amp;pbk=3KmWh8OPrAr-gBXyVdyS4IaB8DKUTtdIpbv5qvN15RY&amp;fp=firefox&amp;sni=*.sourceforge.net&amp;sid=c2abcb19&amp;spx=/#@Capital_NET
 vless://d8e1cfdc-7899-4c71-8d11-058933210c55@143.110.169.61:52189?type=tcp&amp;security=reality&amp;pbk=3mC2lH0qsBuTTzNSC3GtzcJlli2959J4yqZl08G4FCg&amp;fp=firefox&amp;sni=*.sourceforge.net&amp;sid=593f3efe&amp;spx=/#@Capital_NET
 vless://c34a9f73-3c11-4614-90ff-196add3fa4aa@157.230.28.73:23353?type=tcp&amp;security=reality&amp;pbk=OItbKB3XzCXKysSNBIUZ7fDAfASACK_ucLrU6NAAFAU&amp;fp=firefox&amp;sni=*.sourceforge.net&amp;sid=a98a22e2&amp;spx=/#@Capital_NET
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.232.247.61:8880?encryption=none&amp;type=grpc&amp;mode=gun&amp;security=none#@KAFING_2
+vless://b4bd0613-ff7c-4f2f-954d-185915e6ddad@www.speedtest.net:443?encryption=none&amp;type=ws&amp;host=jnir-cdn.javidnaman.com&amp;path=/@JavidnamanIran/Javid-SHAH-KingRezaPahlavi/?ed=2560&amp;security=tls&amp;sni=jnir-cdn.javidnaman.com#@KAFING_2
+vless://cc67ca7f-064e-4117-ac31-a66d5728a11c@fl-3-direct.djarbnet.ru:443?encryption=none&amp;type=ws&amp;host=fl-3-direct.djarbnet.ru&amp;path=/getupdates&amp;security=tls&amp;fp=chrome&amp;sni=fl-3-direct.djarbnet.ru#@KAFING_2
+vless://cfe554a3-4cd5-4fe1-9951-e6b65fc52a74@91.107.139.110:8880?encryption=none&amp;type=grpc&amp;mode=gun&amp;security=none#@KAFING_2
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.232.247.61:8880?encryption=none&amp;type=grpc&amp;mode=gun&amp;security=none#@KAFING_2
+vless://b4bd0613-ff7c-4f2f-954d-185915e6ddad@www.speedtest.net:443?encryption=none&amp;type=ws&amp;host=jnir-cdn.javidnaman.com&amp;path=/@JavidnamanIran/Javid-SHAH-KingRezaPahlavi/?ed=2560&amp;security=tls&amp;sni=jnir-cdn.javidnaman.com#@KAFING_2
+vless://cc67ca7f-064e-4117-ac31-a66d5728a11c@fl-3-direct.djarbnet.ru:443?encryption=none&amp;type=ws&amp;host=fl-3-direct.djarbnet.ru&amp;path=/getupdates&amp;security=tls&amp;fp=chrome&amp;sni=fl-3-direct.djarbnet.ru#@KAFING_2
+vless://cfe554a3-4cd5-4fe1-9951-e6b65fc52a74@91.107.139.110:8880?encryption=none&amp;type=grpc&amp;mode=gun&amp;security=none#@KAFING_2
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.232.247.61:8880?encryption=none&amp;type=grpc&amp;mode=gun&amp;security=none#@KAFING_2
+vless://b4bd0613-ff7c-4f2f-954d-185915e6ddad@www.speedtest.net:443?encryption=none&amp;type=ws&amp;host=jnir-cdn.javidnaman.com&amp;path=/@JavidnamanIran/Javid-SHAH-KingRezaPahlavi/?ed=2560&amp;security=tls&amp;sni=jnir-cdn.javidnaman.com#@KAFING_2
+vless://cc67ca7f-064e-4117-ac31-a66d5728a11c@fl-3-direct.djarbnet.ru:443?encryption=none&amp;type=ws&amp;host=fl-3-direct.djarbnet.ru&amp;path=/getupdates&amp;security=tls&amp;fp=chrome&amp;sni=fl-3-direct.djarbnet.ru#@KAFING_2
+vless://cfe554a3-4cd5-4fe1-9951-e6b65fc52a74@91.107.139.110:8880?encryption=none&amp;type=grpc&amp;mode=gun&amp;security=none#@KAFING_2
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.232.247.61:8880?encryption=none&amp;type=grpc&amp;mode=gun&amp;security=none#@KAFING_2
 vless://b4bd0613-ff7c-4f2f-954d-185915e6ddad@www.speedtest.net:443?encryption=none&amp;type=ws&amp;host=jnir-cdn.javidnaman.com&amp;path=/@JavidnamanIran/Javid-SHAH-KingRezaPahlavi/?ed=2560&amp;security=tls&amp;sni=jnir-cdn.javidnaman.com#@KAFING_2
 vless://cc67ca7f-064e-4117-ac31-a66d5728a11c@fl-3-direct.djarbnet.ru:443?encryption=none&amp;type=ws&amp;host=fl-3-direct.djarbnet.ru&amp;path=/getupdates&amp;security=tls&amp;fp=chrome&amp;sni=fl-3-direct.djarbnet.ru#@KAFING_2

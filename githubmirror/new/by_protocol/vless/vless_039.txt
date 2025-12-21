@@ -1,8 +1,3 @@
-vless://019aefe0-f33f-7000-be8d-9d35610b8f72@45.15.170.188:22599?security=reality&encryption=none&pbk=3zQQrSVaYQJYJCRqPximrXbACRvTCBl6wQiTs2Q_3Qg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=steampowered.com&sid=2a134254db459494#AL_265_@Surfboardv2ray
-vless://019aefe0-f33f-7000-be8d-9d35610b8f72@45.15.170.188:22599?security=reality&encryption=none&pbk=3zQQrSVaYQJYJCRqPximrXbACRvTCBl6wQiTs2Q_3Qg&headerType=none&fp=chrome&spx=/@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-?ed=2560&type=tcp&flow=xtls-rprx-vision&sni=steampowered.com&sid=2a134254db459494#AL_266_@Surfboardv2ray
-vless://019aefe0-f33f-7000-be8d-9d35610b8f72@45.84.1.218:34598?security=reality&encryption=none&pbk=SCkzGfrd6KXuBwpE83LXeBZa03n7sC74iGvSUaZ4IBQ&headerType=none&spx=/&type=tcp&flow=xtls-rprx-vision&sni=telegram.org&sid=0b2e5a9db13f684c#RU_267_@Surfboardv2ray
-vless://01bd02a8-4e8c-4d75-9c74-7a99c1d27d83@185.204.170.191:31783?encryption=none&type=tcp&headerType=none&security=none#DE_268_@Surfboardv2ray
-vless://01cb18d1-2062-47e7-999b-ec08e8b2ec85@104.16.99.78:80?encryption=none&security=none&type=ws&host=muddy-rain-0a28-ppal03.mitey24737.workers.dev&path=/?ed=2560#CA_269_@Surfboardv2ray
 vless://01cb18d1-2062-47e7-999b-ec08e8b2ec85@104.24.148.184:80?encryption=none&security=none&type=ws&host=muddy-rain-0a28-ppal03.mitey24737.workers.dev&path=/?ed=2560#CA_270_@Surfboardv2ray
 vless://01d68a9b-be48-4c7b-b4f9-71b29c4cfaca@95.217.206.161:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=api.chandplus.com#FI_271_@Surfboardv2ray
 vless://020eeb0a-796f-4e31-8ad1-08cc9e13ca21@85.90.207.183:54500?security=none&encryption=none&type=ws#AM_272_@Surfboardv2ray
@@ -498,3 +493,8 @@ vless://1588ca4b-d27a-4447-9dfc-a772c3fe2baf@uk.api-music-fa.com:2053?encryption
 vless://1588ca4b-d27a-4447-9dfc-a772c3fe2baf@uk.api-music-fa.com:2053?encryption=none&security=tls&sni=uk.api-music-fa.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=/J5aLQOY1R9ONWYCM#CA_768_@Surfboardv2ray
 vless://1588ca4b-d27a-4447-9dfc-a772c3fe2baf@uk.api-music-fa.com:2053?path=/J5aLQOY1R9ONWYCM&security=tls&encryption=none&fp=chrome&type=ws&sni=uk.api-music-fa.com#CA_769_@Surfboardv2ray
 vless://1588ca4b-d27a-4447-9dfc-a772c3fe2baf@uk.api-music-fa.com:2053?path=/J5aLQOY1R9ONWYCM&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=uk.api-music-fa.com#CA_770_@Surfboardv2ray
+vless://1588ca4b-d27a-4447-9dfc-a772c3fe2baf@uk.api-music-fa.com:2053?path=/J5aLQOY1R9ONWYCM&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=uk.api-music-fa.com#CA_771_@Surfboardv2ray
+vless://1588ca4b-d27a-4447-9dfc-a772c3fe2baf@uk.api-music-fa.com:2053?path=/J5aLQOY1R9ONWYCM&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=uk.api-music-fa.com#CA_772_@Surfboardv2ray
+vless://1588ca4b-d27a-4447-9dfc-a772c3fe2baf@uk.api-music-fa.com:2053?path=/J5aLQOY1R9ONWYCM&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#CA_773_@Surfboardv2ray
+vless://1588ca4b-d27a-4447-9dfc-a772c3fe2baf@uk.api-music-fa.com:2053?path=/J5aLQOY1R9ONWYCM&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#CA_774_@Surfboardv2ray
+vless://1588ca4b-d27a-4447-9dfc-a772c3fe2baf@uk.api-music-fa.com:2053?path=/J5aLQOY1R9ONWYCM&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#CA_775_@Surfboardv2ray
