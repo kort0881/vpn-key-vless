@@ -1,4 +1,3 @@
-vless://6c11247b-6078-461a-93d5-22e4df284e6d@104.21.36.57:443/?type=ws&encryption=none&host=mirror.fullmargintraders.com&path=🔒
 vless://6c11247b-6078-461a-93d5-22e4df284e6d@104.21.36.57:443?path=/wsv/6c11247b-6078-461a-93d5-22e4df284e6d&security=tls&encryption=none&host=mirror.fullmargintraders.com&type=ws&sni=mirror.fullmargintraders.com#telegram
 vless://6c11247b-6078-461a-93d5-22e4df284e6d@104.21.36.57:443?path=🔒
 vless://6c11247b-6078-461a-93d5-22e4df284e6d@198.62.62.229:443/?type=ws&encryption=none&host=mirror.fullmargintraders.com&path=%2Fwsv%2F6c11247b-6078-461a-93d5-22e4df284e6d&security=tls&sni=mirror.fullmargintraders.com&fp=chrome#%40v2ray_configs_pool
@@ -498,3 +497,4 @@ vless://71759df6-23a4-4db7-b986-1039b65eb433@172.66.156.81:80?path=/@Shh_Proxy--
 vless://71759df6-23a4-4db7-b986-1039b65eb433@172.66.156.81:80?path=🔒
 vless://71759df6-23a4-4db7-b986-1039b65eb433@www.speedtest.net:80?encryption=none&type=ws&host=websocket.network.www.speedtest.net.flutter.dev.russia.pyt.digitalcity5.xyz.&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy#🇺🇸
 vless://71759df6-23a4-4db7-b986-1039b65eb433@www.speedtest.net:80?encryption=none&type=ws&host=websocket.network.www.speedtest.net.flutter.dev.russia.pyt.digitalcity5.xyz.&path=🔒
+vless://717b1b45-37c3-4955-89be-cc8b0a98ffc2@usaa.fastlynew.hosting-ip.com:80?path=/&security=none&encryption=none&host=mojhsjd.global.ssl.fastly.net&type=ws#@v2_city

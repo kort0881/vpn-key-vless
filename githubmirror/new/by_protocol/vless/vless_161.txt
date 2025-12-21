@@ -1,4 +1,3 @@
-vless://31cd85f4-bd12-4866-da94-d48aa8c7d7d5@199.232.190.228:443/?type=ws&encryption=none&host=fonmelo.com&path=🔒
 vless://31cebb90-917e-4bf4-9f2c-8ec4e35b286d@5.223.51.186:80?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp
 vless://31cebb90-917e-4bf4-9f2c-8ec4e35b286d@5.223.51.186:80?security=none&encryption=none&type=tcp&host=zula.ir&path=🔒
 vless://31cebb90-917e-4bf4-9f2c-8ec4e35b286d@5.223.56.230:80?security=&encryption=none&host=zula.ir&headerType=http&type=tcp
@@ -498,3 +497,4 @@ vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.139.18:443?security=&encrypti
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.170.191:443?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.170.191:443?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#@CaV2ray
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.170.191:443?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#RELAY🚩
+vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.170.191:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp

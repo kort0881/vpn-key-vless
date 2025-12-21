@@ -1,4 +1,3 @@
-vless://15d114ee-c814-47c7-bd12-fab0c7a0128e@94.232.247.186:8880?mode=gun&security=none&encryption=none&type=grpc#All-@V2ray_Alpha--41
 vless://15d114ee-c814-47c7-bd12-fab0c7a0128e@94.232.247.208:8880?mode=gun&security=none&encryption=none&type=grpc
 vless://15d114ee-c814-47c7-bd12-fab0c7a0128e@94.232.247.208:8880?mode=gun&security=none&encryption=none&type=grpc#All-@V2ray_Alpha--39
 vless://15d114ee-c814-47c7-bd12-fab0c7a0128e@94.232.247.235:8880?mode=gun&security=&encryption=none&type=grpc
@@ -498,3 +497,4 @@ vless://19ae54a4-716b-4b08-914f-c9c1556c4380@94.131.100.163:443?path=%2Fpyzrgqws
 vless://19ae54a4-716b-4b08-914f-c9c1556c4380@94.131.100.163:443?path=/pyzrgqws&security=tls&encryption=none&type=ws&sni=api.avito.ru#@FarazV2ray
 vless://19ae54a4-716b-4b08-914f-c9c1556c4380@94.131.100.163:443?path=/pyzrgqws&security=tls&encryption=none&type=ws&sni=api.avito.ru#@V2rayNGVPN+
 vless://19ae54a4-716b-4b08-914f-c9c1556c4380@94.131.100.163:443?path=/pyzrgqws&security=tls&encryption=none&type=ws&sni=api.avito.ru#All-@V2rayAlpha--40
+vless://19ae54a4-716b-4b08-914f-c9c1556c4380@94.131.100.163:443?path=/pyzrgqws&security=tls&encryption=none=/@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@TEHRANARGO&type=ws&sni=api.avito.ru#@TEHRANARGOکانال

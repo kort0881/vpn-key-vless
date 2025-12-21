@@ -1,4 +1,3 @@
-vless://630c01ee-92db-4a15-9573-0955853ce362@104.21.61.43:443/?type=ws&encryption=none&host=w26io.deonta-ya...&security=tls&sni=w26io.deonta-yancy.workers.dev
 vless://630e3696-10e2-4789-bfe1-7c1289457534@makeitclassic.numberonedrshabi.top:2052/?type=ws&encryption=none&path=%2F#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40configtrapi%20%5B28%5D
 vless://630e3696-10e2-4789-bfe1-7c1289457534@makeitclassic.numberonedrshabi.top:2052/?type=ws&encryption=none&path=🔒
 vless://630e3696-10e2-4789-bfe1-7c1289457534@makeitclassic.numberonedrshabi.top:2052?security=none&encryption=none&type=ws&path=🔒
@@ -498,3 +497,4 @@ vless://67828a6e-0144-4e57-8169-2447a3dd2e61@ssrsub.cloudflare.182682.xyz:2095/?
 vless://678a8311-6184-4a1f-a651-84be3cc82e37@ula347.tiri-viri.com:21275?security=tls&sni=🔒
 vless://678ac895-92c2-4f27-a9d4-f1a89c5f5365@217.163.76.107:2053?security=tls&type=ws&sni=🔒
 vless://6799df1d-8c4b-4b01-bd82-e9cac3aca5c7@104.17.147.22:443?path=🔒
+vless://6799df1d-8c4b-4b01-bd82-e9cac3aca5c7@104.21.72.109:80?path=🔒

@@ -1,4 +1,3 @@
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.5.26:2053?path=🔒
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.5.84:2053/?type=ws&encryption=none&host=dl1-tr-cdn.easy-upload.org&path=%2F&security=tls&sni=dl1-tr-cdn.easy-upload.org#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B9%F0%9F%87%B7
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.5.84:2053?path=🔒
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.5.90:2053/?type=ws&encryption=none&host=dl1-uk-cdn.easy-upload.org&path=%2F&security=tls&sni=dl1-uk-cdn.easy-upload.org#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AC%F0%9F%87%A7
@@ -498,3 +497,4 @@ vless://ef9f9af9-4c52-45b0-bb3b-9fe983c1650e@zula-game.karaj-game-farsi.ir:443?t
 vless://efa18617-d98d-4f39-a7f5-d74ac2d2ed41@speedtest.net:80?type=ws&host=befreewithus.com&path=🔒
 vless://efa5d848-b741-47df-8b52-dc3347c063df@104.21.77.172:2083/?type=ws&encryption=none&host=hs.rilzaiph.workers.dev&path=vless-ws%2F%3Fed%3D2048&security=tls&sni=hs.rilzaiph.workers.dev&alpn=h2%2Chttp%2F1.1&fp=firefox#%40Hope_Net-join-us-on-Telegram
 vless://efa5d848-b741-47df-8b52-dc3347c063df@172.67.210.155:2087/?type=ws&encryption=none&flow=&host=hs.rilzaiph.workers.dev&path=🔒
+vless://efa5d848-b741-47df-8b52-dc3347c063df@172.67.210.155:2087/?type=ws&encryption=none&host=hs.rilzaiph.workers.dev&path=vless-ws%2F%3Fed%3D2048&security=tls&sni=hs.rilzaiph.workers.dev&alpn=http%2F1.1&fp=ios#%40Hope_Net-join-us-on-Telegram

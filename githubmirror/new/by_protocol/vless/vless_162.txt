@@ -1,4 +1,3 @@
-vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.170.191:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.170.191:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#@CaV2ray
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.170.191:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.171.12:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp
@@ -498,3 +497,4 @@ vless://3cd0bf9c-1d1d-477f-89a1-eb60276ac5f3@www.speedtest.net:8080?security=&ty
 vless://3cd0bf9c-1d1d-477f-89a1-eb60276ac5f3@www.speedtest.net:8080?type=ws&host=inFo.laLezaRanegomaNandish.onlineshopbb.org.&path=🔒
 vless://3cd659ac-a0cf-4b24-f5ff-16d6538a5f71@104.21.112.1:8080?path=🔒
 vless://3cd659ac-a0cf-4b24-f5ff-16d6538a5f71@104.21.112.1:8080?security=&type=ws&path=🔒
+vless://3cd659ac-a0cf-4b24-f5ff-16d6538a5f71@172.66.40.99:8080?path=🔒

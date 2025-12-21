@@ -1,4 +1,3 @@
-vless://1cef7644-7da6-4652-a407-c1119b53f48e@193.228.91.7:31291?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp
 vless://1d03fcc7-8af7-4277-9a6d-bf8f1f0eb6e4@46.224.152.184:55484?&security=false&fp=chrome&type=tcp&headerType=none&path=%2F#%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A%2F%2Fa0a.xyz%2F%E3%80%9145
 vless://1d03fcc7-8af7-4277-9a6d-bf8f1f0eb6e4@46.224.152.184:55484?encryption=none&security=none&type=tcp&headerType=none#%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A%2F%2Fa0a.xyz%2F%E3%80%9145
 vless://1d0dfde1-9f18-4557-9af8-4f3124ee5dcd@wiLd-bIRD.SEOtooLsforyOu.Co.UK:80?path=/&security=&encryption=none&type=ws#https://t.me/v2raynplus
@@ -498,3 +497,4 @@ vless://22253331-3afd-4b87-ec6f-25e995664743@chat.deepseek.com:80?path=🔒
 vless://22253331-3afd-4b87-ec6f-25e995664743@chat.deepseek.com:80?type=ws&path=🔒
 vless://22253331-3afd-4b87-ec6f-25e995664743@tgju.org:80?path=🔒
 vless://22253331-3afd-4b87-ec6f-25e995664743@tgju.org:80?type=ws&path=🔒
+vless://22253331-3afd-4b87-ec6f-25e995664743@www.speedtest.net:80?type=ws&path=🔒

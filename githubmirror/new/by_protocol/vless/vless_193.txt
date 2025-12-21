@@ -1,4 +1,3 @@
-vless://a2eda8e1-4452-481b-9a71-aab18d3ed17e@135.181.43.64:8880?security=none&encryption=none&host=eN.TwiTtER.cOM.:8880&headerType=http&type=tcp
 vless://a2eda8e1-4452-481b-9a71-aab18d3ed17e@37.27.178.186:8880/?encryption=none&host=eN.TwiTtER.cOM.:8880&type=tcp&headerType=http
 vless://a2eda8e1-4452-481b-9a71-aab18d3ed17e@37.27.178.186:8880/?encryption=none&host=eN.TwiTtER.cOM.:8880&type=tcp&headerType=http#@Geek_Spot
 vless://a2f69fb1-6090-4014-bbbd-5d233d717344@104.21.74.139:443?security=tls&type=ws&sni=🔒
@@ -498,3 +497,4 @@ vless://a79d31ed-99d6-4116-8f50-fa46957ac6a0@109.61.17.127:54978?encryption=none
 vless://a79d31ed-99d6-4116-8f50-fa46957ac6a0@109.61.17.127:54978?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=🔒
 vless://a79d31ed-99d6-4116-8f50-fa46957ac6a0@109.61.17.127:54978?security=reality&encryption=none&pbk=clfoV7PyfUylden53xvv2FuAoSYFBeZ2JdP0ZzC2ISo&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=study.com&sid=cc58ae21d5#🇫🇮
 vless://a79d31ed-99d6-4116-8f50-fa46957ac6a0@109.61.17.127:54978?security=reality&encryption=none&pbk=clfoV7PyfUylden53xvv2FuAoSYFBeZ2JdP0ZzC2ISo&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒
+vless://a79f6d15-1a90-4b57-90bf-3164b1d6f239@185.146.173.58:8080?encryption=none&host=lc11.lebasnoo.ir.&path=🔒
