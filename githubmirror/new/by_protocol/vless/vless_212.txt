@@ -1,3 +1,4 @@
+vless://e5c2e234-333e-48b4-8199-2793a64527bc@77.238.237.179:443?security=tls&encryption=none&host=s1-c3r.pages.dev&fp=chrome&type=ws&sni=s1-c3r.pages.dev#𝗝𝗼𝗶𝗻
 vless://e5c2e234-333e-48b4-8199-2793a64527bc@77.238.237.179:443?security=tls&encryption=none&host=s1-c3r.pages.dev&fp=chrome&type=ws&sni=🔒
 vless://e5c31f13-b10a-4e9c-bfa6-09454bc5e65c@a.nl.maviks.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&security=reality&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&sid=21181028b56c8702&packetEncoding=xudp#%F0%9F%8D%AA3%40oneclickvpnkeys
 vless://e5c31f13-b10a-4e9c-bfa6-09454bc5e65c@a.nl.maviks.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒
@@ -497,4 +498,3 @@ vless://e8640056-9fe2-4361-ac1e-d90571672b64@151.101.64.155:80?path=%2F-LiV2ry%4
 vless://e8661019-72cb-4e48-c3c2-4da75f99e3bc@31.56.146.132:24002/?type=ws&encryption=none&host=tgju.org&path=🔒
 vless://e8661019-72cb-4e48-c3c2-4da75f99e3bc@31.56.146.132:24002?encryption=none&security=none&type=ws&host=tgju.org&path=🔒
 vless://e86c804b-d307-4fa3-8eed-6ec8b0981cfe@5.75.195.84:5555?encryption=none&security=reality&sni=🔒
-vless://e8899a8e-729a-43bc-aebf-95e12c6c6db6@211.196.226.172:32202/?type=ws&encryption=none&host=global2.ccdd.site&security=tls&sni=global2.ccdd.site

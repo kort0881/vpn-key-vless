@@ -1,3 +1,4 @@
+vless://b3b2bbb0-0362-440a-c161-4fcf283f1d74@151.101.241.242:80?path=/&security=none&encryption=none&host=mojhsjd.global.ssl.fastly.net&type=ws#@v2_city
 vless://b3b2bbb0-0362-440a-c161-4fcf283f1d74@151.101.241.242:80?path=🔒
 vless://b3b43926-431e-41af-90ff-53aed100beee@145.223.100.61:80/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=yahoo.com&fp=chrome...
 vless://b3c8ec95-d6ca-4eee-b6bd-11aa0ee87153@Net.1lagvpn13.cfd:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@L_AGVPN13
@@ -497,4 +498,3 @@ vless://b7f8c66b-40f0-4160-8b88-76a482e2b593@108.162.194.231:443/?type=ws&encryp
 vless://b7f8c66b-40f0-4160-8b88-76a482e2b593@108.162.194.231:443/?type=ws&encryption=none&host=rs-sg4.lzjnb.shop&path=🔒
 vless://b8018b45-d06c-4837-90bb-9a2c1cbe5adb@188.114.98.68:80?path=🔒
 vless://b807c5f7-98b4-4a91-9e1e-98865d949a51@uuk1v.tok8888.com:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=🔒
-vless://b807c5f7-98b4-4a91-9e1e-98865d949a51@uuk2v.tok8888.com:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=🔒

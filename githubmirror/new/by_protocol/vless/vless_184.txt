@@ -1,3 +1,4 @@
+vless://82db5ebc-7f11-5009-831b-9e9c5b5a22af@185.255.178.188:443/?type=ws&encryption=none&host=185.255.178.188&path=🔒
 vless://82db5ebc-7f11-5009-831b-9e9c5b5a22af@185.255.178.188:443?path=🔒
 vless://82de262c-cd5e-402f-a709-f6979fc7c93e@www.speedtest.net:443?security=tls&type=ws&path=%2F%3Fed%3D2048&host=fragrant-star-ebf2.daheg47484.workers.dev&sni=fragrant-star-ebf2.daheg47484.workers.dev&fp=chrome&encryption=none#%3E%3E%40v2ray_configs_pool%3A%3AUS
 vless://82de262c-cd5e-402f-a709-f6979fc7c93e@www.speedtest.net:443?security=tls&type=ws&path=🔒
@@ -497,4 +498,3 @@ vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?path=%2F&secu
 vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?path=%2F&security=tls&encryption=none&type=ws&sni=havij.mrconfigur.site#🌐سرور
 vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?path=%2F&security=tls&encryption=none&type=ws&sni=porteghal.mrconfigur.site#RELAY🚩
 vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?path=/&security=tls&encryption=none&host=kahoo.mrconfigur.site&type=ws&sni=kahoo.mrconfigur.site#𝗝𝗼𝗶𝗻
-vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?path=/&security=tls&encryption=none&host=kalam.mrconfigur.site&type=ws&sni=kalam.mrconfigur.site#US🇺🇸

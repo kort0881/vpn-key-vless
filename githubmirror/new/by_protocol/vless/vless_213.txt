@@ -1,3 +1,4 @@
+vless://e8899a8e-729a-43bc-aebf-95e12c6c6db6@211.196.226.172:32202/?type=ws&encryption=none&host=global2.ccdd.site&security=tls&sni=global2.ccdd.site
 vless://e8918c01-95da-41dc-ac23-94f33481a475@104.18.26.90:80?type=ws&path=🔒
 vless://e8918c01-95da-41dc-ac23-94f33481a475@Pishgam.sdcards.ir:80?type=ws&path=🔒
 vless://e89ba39d-ae7e-493a-a57b-cdd55b42b4e3@188.245.75.235:443?security=none&encryption=none&headerType=none&type=tcp
@@ -497,4 +498,3 @@ vless://ec1bb388-649c-4deb-9eb1-a096b784e0d3@104.16.25.21:80?encryption=none&sec
 vless://ec1bb388-649c-4deb-9eb1-a096b784e0d3@104.24.167.96:80/?type=ws&encryption=none&host=round-truth-4e97-ppal03.vegasow726.workers.dev&path=%2Ftelegram%40V2ray_Alpha%2F%3Fed%3D2560#%40V2rayNGVPN
 vless://ec1bb388-649c-4deb-9eb1-a096b784e0d3@104.24.167.96:80/?type=ws&encryption=none&host=round-truth-4e97-ppal03.vegasow726.workers.dev&path=🔒
 vless://ec1bb388-649c-4deb-9eb1-a096b784e0d3@104.24.167.96:80?encryption=none&security=none&type=ws&host=round-truth-4e97-ppal03.vegasow726.workers.dev&path=/?ed=2560#🇺🇸Ch:
-vless://ec1bb388-649c-4deb-9eb1-a096b784e0d3@104.24.167.96:80?encryption=none&security=none&type=ws&host=round-truth-4e97-ppal03.vegasow726.workers.dev&path=🔒

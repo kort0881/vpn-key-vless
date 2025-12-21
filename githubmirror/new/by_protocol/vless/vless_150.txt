@@ -1,3 +1,4 @@
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@16.170.60.148:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#🇸🇪[openproxylist.com]
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.184.151.107:22224?type=ws&security=tls&path=🔒
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.184.174.239:22222?security=tls&sni=🔒
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.193.13.65:22224?type=ws&security=tls&path=🔒
@@ -497,4 +498,3 @@ vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.159.217.59:2053?path=/&security=
 vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.159.217.59:2053?path=🔒
 vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.8.211.60:2053?path=/&security=tls&encryption=none&host=iYjnx-71195.zephorium.uk&fp=chrome&type=ws&sni=iYjnx-71195.zephorium.uk#@Hddify
 vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.8.211.60:2053?path=🔒
-vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.80.111.1:2053?path=/&security=tls&encryption=none&host=AeEye-52235.zephorium.uk&type=ws&sni=AeEye-52235.zephorium.uk#@Hddify
