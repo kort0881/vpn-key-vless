@@ -1,9 +1,4 @@
-vless://f85e7cc8-82c9-4b84-b1bf-25011697b6dd@167.172.59.135:443?path=%2Fafrphkws&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=io.ozone.ru#🏳[openproxylist.com] vless-
-vless://9e7a7c17-21c2-4119-bb45-e4154e893aaf@46.101.88.198:443?path=%2Fbpuuxxws&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=api.avito.ru#🇬🇧[openproxylist.com] vless-GB
-vless://4f031e10-8eb8-4b03-bc14-27d7ddb401d6@104.248.161.181:443?path=%2Fdgnagmws&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=io.ozone.ru#🏳[openproxylist.com] vless-
-vless://d0c0be4b-7c56-4f3a-b779-7a7f4d91d170@209.97.138.185:443?path=%2Fegnyfcws&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=github.com#🏳[openproxylist.com] vless-
-vless://6f9d30a9-5b6e-4d17-b6b2-1bcab16222e5@165.227.228.57:443?path=%2Fyueggdws&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=fuck.rkn#🇬🇧[openproxylist.com] vless-GB
-vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@94.131.120.177:443?path=%2Fhormoz&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=fuck.rkn#🇩🇪[openproxylist.com] vless-DE
+vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@94.131.120.177:443?encryption=none&amp;security=tls&amp;sni=fuck.rkn&amp;allowInsecure=true&amp;type=ws&amp;path=/hormoz&amp;packetEncoding=xudp#🇩🇪[openproxylist.com] vless-DE
 vless://0bc2724b-1d00-41ad-8ef8-c23c7114596c@138.68.133.248:443?path=%2Fpqncvhws&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=github.com#🇬🇧[openproxylist.com] vless-GB
 vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.138.164.157:443?path=%2Fhormoz&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=github.com#🇬🇧[openproxylist.com] vless-GB
 vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@45.89.111.93:443?path=%2Fhormoz&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=ads.x5.ru#🇬🇧[openproxylist.com] vless-GB
@@ -16,6 +11,7 @@ vless://8d42b432-c651-4304-bf78-5f853d771360@142.93.37.93:443?path=%2Fzffwggws&a
 vless://3739354c-6971-4e73-abac-bb2534fc9ed8@104.248.161.198:443?path=%2Fiqkrmwws&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=yandex.com#🇬🇧[openproxylist.com] vless-GB
 vless://914ad96a-fb9b-4c42-9696-4fd33f6a1f06@138.68.170.140:443?path=%2Fwrvrwpws&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=github.com#🇬🇧[openproxylist.com] vless-GB
 vless://63adc981-4362-4550-8f8a-8a475d3b9c96@143.110.173.30:443?path=%2Fcitcuuws&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=github.com#🇬🇧[openproxylist.com] vless-GB
+vless://ca78d2ae-e837-467e-bd89-91b98968f987@143.110.172.232:443?path=%2Flafnojws&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=github.com#🇬🇧[openproxylist.com] vless-GB
 vless://357f5259-60dc-4caa-8852-52c99679dd19@209.38.218.66:45418?encryption=none&security=none&type=grpc&authority=&serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&mode=gun#%E2%9D%94%20XX%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40bored_vpn%20%5B14%5D
 vless://109282ee-8e89-4879-8d94-cfefe654d625@135.125.143.200:443?encryption=none&security=none&type=xhttp&host=135.125.143.200&path=%2F%40MaxFree---%40MaxFree---%40MaxFree---%40MaxFree---%40MaxFree#VLESS
 vless://d7dbeb1e-268c-465c-8f59-489f14703efd@5.182.36.251:16331?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=wYtc0dMr5fw5bBQkbLNpTqtu0m4B9NKnOyEWjRJUmzk&sid=910aab&type=tcp&headerType=none#https%3A%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A8%F0%9F%87%AD-Bern-1126ms-PQ%20HOSTING%20PLUS%20S.R.L.
@@ -498,3 +494,7 @@ vless://21071ee3-ad74-f168-9db7-8fd716c44fa6@46.62.241.106:122?encryption=none&f
 vless://e7cc66ec-4b16-42c9-bbc8-20283e67d656@power.dlmoviz.ir:2020?security=none&encryption=none&host=Soft98.ir&headerType=http&type=tcp#🇮🇷 IR | 89.47.198.53
 vless://8369bccd-ec80-4c73-ba46-17edbe003e87@pishgam.sdcards.ir:8080?path=/?ed=2087&security=none&encryption=none&host=pivaz-a.plas-nim.org&type=httpupgrade#🏴‍☠️ UN | pishgam.sdcards.ir
 vless://8351ac44-c461-404d-b1af-6c0365b3d0be@mci-irancel.ir.pmgdrs.site:11125?type=tcp&encryption=none&security=none#🇩🇪 DE | 2a01:4f8:c012:9f93::1
+vless://8a6d643c-39bf-4d11-998a-62e3bc9a7ba4@94.131.100.169:443?path=/eclbanws&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1&sni=www.vk.com#🇫🇮 FI | 94.131.100.169
+vless://eea96ff1-ce17-4c8c-964c-fa774ecb84f2@94.131.100.164:443?path=/gfvfgzws&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1&sni=www.vk.com#🇫🇮 FI | 94.131.100.164
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.190.38:51615?security=none&encryption=none&host=zula.ir/?TELEGRAM_JOKERRVPN&headerType=http&type=tcp#🇩🇪 DE | 91.99.190.38
+vless://b55ec078-3b17-4ed1-a697-71f464cdcaaa@172.67.9.145:80?path=/?ed=2560&security=none&encryption=none&host=kssepa.sabzipolobamahi.dpdns.org&fp=random&type=ws&sni=kssepa.sabzipolobamahi.dpdns.org#🇨🇦 CA | 172.67.9.145

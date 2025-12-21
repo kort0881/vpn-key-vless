@@ -277,7 +277,7 @@ vless://b278fc13-9be7-4e21-90cb-cb52ac0e2469@plb.tunnelguard.ru:443?mode=auto&pa
 vless://b278fc13-9be7-4e21-90cb-cb52ac0e2469@plb.tunnelguard.ru:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&extra={
 vless://b278fc13-9be7-4e21-90cb-cb52ac0e2469@plb.tunnelguard.ru:443?mode=auto&path=/&security=tls&alpn=h2,http/1.1&encryption=none&fp=chrome&type=xhttp&sni=plb.tunnelguard.ru#All-@V2rayAlpha--29
 vless://b278fc13-9be7-4e21-90cb-cb52ac0e2469@plb.tunnelguard.ru:443?mode=auto&path=🔒
-vless://b27c7007-9a35-43cb-ab1e-8c5c0a7e3c34@158.160.201.80:443?security=reality&encryption=none&pbk=Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.com&sid=1929ef620e9b34f5#[🇷🇺]t.me/ConfigsHub
+vless://b27c7007-9a35-43cb-ab1e-8c5c0a7e3c34@158.160.201.80:443?security=reality&encryption=none&pbk=Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒
 vless://b27da426-107a-477a-961a-572a593a68e0@mci-iTV2RAY.ddns.net:2087?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@iTV2RAY:تلگرام&sni=🔒
 vless://b27e35a7-51f4-468e-8921-56a4901dd923@199.34.230.114:2053?path=/containers/de&security=tls&alpn=h3,h2,http/1.1&encryption=none&fp=chrome&type=ws&sni=om1.omidsuccess.uk#𝗝𝗼𝗶𝗻
 vless://b27e35a7-51f4-468e-8921-56a4901dd923@199.34.230.114:2053?path=🔒

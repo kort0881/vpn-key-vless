@@ -1,5 +1,3 @@
-vless://a96cb093-b164-4bc6-bd27-deb0e385de07@104.21.42.93:443?security=tls&sni=🔒
-vless://a96e0b3e-bd29-4f71-b7f9-f8031bc05f76@151.101.2.16:80/?type=ws&encryption=none&host=WHALEV2R.IR&path=🔒
 vless://a96e28a5-6b24-4d38-a372-c7ed42b54212@172.67.163.123:443/?type=ws&encryption=none&host=MIKasA.drAgoNAllEy.ir.&path=%2F%40MiKaSaVpn%2F%3Fed%3D2560&security=tls&sni=MIKasA.drAgoNAllEy.ir.&alpn=h2%2Chttp%2F1.1&fp=chrome#%40Hope_Net-join-us-on-Telegram
 vless://a972ae73-e222-4f1d-9361-3c3c3380358a@mtun.mtechnet.ir:18080/?encryption=none&host=speedtest.net&type=tcp&headerType=http
 vless://a972ae73-e222-4f1d-9361-3c3c3380358a@mtun.mtechnet.ir:18080/?encryption=none&host=speedtest.net&type=tcp&headerType=http#%40Gp_Config%20%F0%9F%8C%9D%20%DA%AF%D8%B1%D9%88%D9%87%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF
@@ -102,6 +100,7 @@ vless://aaa3d1db-44b0-4303-9c43-ca083acbcf61@cp.dayhostpro.com:45655?flow=xtls-r
 vless://aaa3d1db-44b0-4303-9c43-ca083acbcf61@cp.dayhostpro.com:45655?security=reality&encryption=none&pbk=jeHj2bSbC3OI17X0ZR2vqrzXFQI_MtgMylJKiGPkcRw&host=---%40V2RET---%40V2RET---%40V2RET---%40V2RET---%40V2RET&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒
 vless://aaa3d1db-44b0-4303-9c43-ca083acbcf61@cp.dayhostpro.com:45655?security=reality&encryption=none&pbk=jeHj2bSbC3OI17X0ZR2vqrzXFQI_MtgMylJKiGPkcRw&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒
 vless://aaa3d1db-44b0-4303-9c43-ca083acbcf61@cp.dayhostpro.com:45655?security=reality&encryption=none&pbk=jeHj2bSbC3OI17X0ZR2vqrzXFQI_MtgMylJKiGPkcRw&host=www.tradingview.com&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒
+vless://aaa4aada-eab6-4612-c5e4-3544ad92ed15@Free.fast199.hosting-ip.com:80?type=xhttp&encryption=none&path=🔒
 vless://aaa7e14d-13e6-479a-99a4-473d3d1866d0@188.114.98.112:2095?path=🔒
 vless://aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1@104.20.28.30:443?path=🔒
 vless://aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1@172.66.158.93:443?path=🔒
@@ -304,6 +303,7 @@ vless://ac8c53f1-226e-4a33-b7d7-838ff8d017ec@130.193.35.232:8443?encryption=none
 vless://ac8c53f1-226e-4a33-b7d7-838ff8d017ec@130.193.35.232:8443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=tradingview.com&fp=chrome&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&sid=4ffc99daad0f261f&packetEncoding=xudp#t.me/entryNET/config=1852089518611610
 vless://ac8c53f1-226e-4a33-b7d7-838ff8d017ec@130.193.35.232:8443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=🔒
 vless://ac8c53f1-226e-4a33-b7d7-838ff8d017ec@130.193.35.232:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=🔒
+vless://ac8c53f1-226e-4a33-b7d7-838ff8d017ec@130.193.35.232:8443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&security=reality&type=tcp&sni=🔒
 vless://ac8c53f1-226e-4a33-b7d7-838ff8d017ec@130.193.35.232:8443?security=reality&encryption=none&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&headerType=none&fp=chrome&spx=%2F---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=4ffc99daad0f261f#🇮🇹[openproxylist.com]
 vless://ac8c53f1-226e-4a33-b7d7-838ff8d017ec@130.193.35.232:8443?security=reality&encryption=none&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&headerType=none&fp=chrome&spx=%2F---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&type=tcp&flow=xtls-rprx-vision&sni=🔒
 vless://ac8c53f1-226e-4a33-b7d7-838ff8d017ec@130.193.35.232:8443?security=reality&encryption=none&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=🔒
