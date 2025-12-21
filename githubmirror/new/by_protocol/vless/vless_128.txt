@@ -1,3 +1,6 @@
+vless://c1c520e8-436e-438f-9409-afc750a47527@sky.focusontrade.ir:8880?path=/@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7?ed=2048&security=none&encryption=none&host=sky.focusontrade.ir&type=httpupgrade#🇨🇦 CA | 172.67.219.32
+vless://82f10d8c-c5fa-46da-bb66-516baf1e12d9@sky.phootokar.ir:10460?mode=auto&path=/&security=reality&encryption=none&pbk=AIAgJvqIvblB2QT7IqQg29_XpPMsoeOS-xXObNLhnD0&fp=chrome&spx=/&type=xhttp&sni=miro.com&sid=39#🇺🇸 US | 144.31.207.18
+vless://8ac09a15-f388-428b-b9bb-278b135b2de6@142.132.163.70:3030?security=none&encryption=none&headerType=none&type=tcp#🇩🇪 DE | 142.132.163.70
 vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@173.245.59.217:443?encryption=none&type=ws&host=azizoarjmand.info&path=/yhowcws&security=tls&fp=chrome&sni=azizoarjmand.info#🇨🇦 CA | 173.245.59.217
 vless://3d617588-ae06-4379-bed9-60b6bac8dbdc@141.98.169.100:443?encryption=none&type=ws&path=/oyoelzws&security=tls&sni=www.vk.com#🇫🇮 FI | 141.98.169.100
 vless://c82d0254-ec06-42d3-bf01-5834cf2865e1@pop.netbazchanell.ir:2087?mode=gun&security=tls&encryption=none&type=grpc#🇨🇦 CA | 192.99.168.99
@@ -228,7 +231,7 @@ vless://67340574-ff95-4338-8c8a-46caa044effd@trt.fastlynew.hosting-ip.com:80?enc
 vless://8f631f3f-5854-4d77-961a-ad33e10e29bb@de2.mcqueenconnection.ru:5443?type=ws&host=de2.mcqueenconnection.ru&path=/vless&security=none#DE🇩🇪
 vless://8f631f3f-5854-4d77-961a-ad33e10e29bb@noda1.mcqueenconnection.ru:443?flow=xtls-rprx-vision&type=tcp&security=reality&sni=noda1.mcqueenconnection.ru&pbk=z68alxxqxPVzTnKwMA85cFIB4ZXqesP99TQ1QP0H2h8&sid=f75c20abc15db38a&spx=/sinavm-sinavm#DE🇩🇪
 vless://8f631f3f-5854-4d77-961a-ad33e10e29bb@yt2.mcqueenconnection.ru:443?flow=xtls-rprx-vision&type=tcp&security=reality&sni=yt2.mcqueenconnection.ru&pbk=eXeP2FDXVR_WKCjX6QyiBjIAsfwcf_LNpz0hHjs63Rs&sid=f5390f7c74c4ea5c&spx=/sinavm#RU🇷🇺
-vless://a207569d-bf8f-43dd-81fd-2c847c7870c4@ams1.fromblancwithlove.com:8443?type=tcp&security=tls&fp=chrome&sni=ams1.fromblancwithlove.com&alpn=h2#NL🇳🇱
+vless://a207569d-bf8f-43dd-81fd-2c847c7870c4@ams1.fromblancwithlove.com:8443?type=tcp&security=tls&fp=chrome&sni=ams1.fromblancwithlove.com&alpn=h2#US🇺🇸
 vless://8f631f3f-5854-4d77-961a-ad33e10e29bb@51.250.47.231:443?flow=xtls-rprx-vision&type=tcp&security=reality&sni=m.vk.com&pbk=jCx5_z80X_VVRXLp82uwOKgNJ7z5zh6_JXOvofyQmEo&sid=a8e8df4f1fb3e3f8&spx=/sinavm#RU🇷🇺
 vless://fa82677d-78bb-42f9-822b-2146e3873936@185.231.204.97:443/?type=ws&encryption=none&flow=&path=%2Fwqavjjws&security=tls&allowInsecure=1#👉🆔@v2ray_configs_pool📡🇪🇸®️Spain©️Madrid🅿️ping:47.26ms
 vless://bd578810-d9f2-4ea3-b9a3-4983c40eed77@cf.filimostar2.ir:2095?security=none&encryption=none&host=speedtest.net.ira.marz.new3.filimostar2.ir&type=httpupgrade#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22.02ms
@@ -495,6 +498,3 @@ vless://telegram-id-Arfilter@www.speedtest.net:443?path=%2Ftelegram-ArV2ray,tele
 vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?path=%2F&security=tls&encryption=none&host=kalam.mrconfigur.site&type=ws&sni=kalam.mrconfigur.site#I%2052%20%28%40Outline_Vpn%29%20free
 vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@norman.ns.cloudflare.com:443?path=%2Fyhowcws&security=tls&encryption=none&host=azizoarjmand.info&type=ws&sni=azizoarjmand.info#I%2053%20%28%40Outline_Vpn%29%20free
 vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@173.245.59.217:443?path=%2Fyhowcws&security=tls&encryption=none&host=azizoarjmand.info&fp=chrome&type=ws&sni=azizoarjmand.info#I%20%2054%20%28%40Outline_Vpn%29%20free
-vless://8a6d643c-39bf-4d11-998a-62e3bc9a7ba4@94.131.100.169:443?path=%2Feclbanws&security=tls&encryption=none&type=ws&sni=www.vk.com#I%2049%20%28%40Outline_Vpn%29%20free
-vless://eea96ff1-ce17-4c8c-964c-fa774ecb84f2@94.131.100.164:443?path=%2Fgfvfgzws&security=tls&encryption=none&type=ws&sni=www.vk.com#I%2050%20%28%40Outline_Vpn%29%20free
-vless://3d617588-ae06-4379-bed9-60b6bac8dbdc@141.98.169.100:443?path=%2Foyoelzws&security=tls&encryption=none&type=ws&sni=www.vk.com#I%2051%20%28%40Outline_Vpn%29%20free
