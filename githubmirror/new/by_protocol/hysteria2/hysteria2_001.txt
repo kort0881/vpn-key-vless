@@ -384,7 +384,6 @@ hysteria2://1b9c460e-f026-11ef-b737-f23c91cfbbc9@9b13ea8f-t70f40-t7t5pe-1s0a7.hk
 hysteria2://1b9c460e-f026-11ef-b737-f23c91cfbbc9@9b13ea8f-t70f40-t7t5pe-1s0a7.hk1.hyhuawei.com:443?security=tls&insecure=1&mport=30000-60000#All--@V2rayAlpha--26
 hysteria2://2408982813-20241210:409046c1-c229-4b54-986c-f110d96278e1@genshin-v4-oracle-amd.damaoooo.com:40000?security=tls&insecure=0#All-@V2rayAlpha--2
 hysteria2://2408982813-20241210@genshin-v4-oracle-amd.damaoooo.com:443?insecure=0#All-%40V2rayAlpha--2
-hysteria2://2408982813-20241210@genshin-v4-oracle-amd.damaoooo.com:443?insecure=0#🌐سرور
 hysteria2://2516574f-8598-44a4-90ff-a9348c53f5c3@alhkfree.mggl.wang:35789?sni=alhkfree.mggl.wang#%F0%9F%87%AD%F0%9F%87%B0%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E9%A6%99%E6%B8%AF%2008
 hysteria2://254551f6-ec28-4938-ad0e-0aa4aa1965ec@5.83.150.108:49187/?sni=imafake.locker&fp=chrome#D%C3%BCsseldorf-GetAFreeNode
 hysteria2://254551f6-ec28-4938-ad0e-0aa4aa1965ec@74.117.196.232:43916/?sni=imafake.locker&fp=chrome#%E2%9D%8CFremont-GetAFreeNode
@@ -498,3 +497,4 @@ hysteria2://6286105c-fb6d-11ef-be96-f23c93136cb3@227fd503-t4ssg0-t5vo4i-4550.la.
 hysteria2://6286105c-fb6d-11ef-be96-f23c93136cb3@227fd503-t4ssg0-t5vo4i-4550.la.shifen.uk:1743?security=tls&sni=227fd503-t4ssg0-t5vo4i-4550.la.shifen.uk&allowInsecure=true#https://t.me/ShadowsocksM95
 hysteria2://6286105c-fb6d-11ef-be96-f23c93136cb3@cc65f71a-t4v9c0-t5waci-4550.la.shifen.uk:1743?insecure=0&sni=cc65f71a-t4v9c0-t5waci-4550.la.shifen.uk#All-%40V2rayAlpha--46
 hysteria2://6286105c-fb6d-11ef-be96-f23c93136cb3@cc65f71a-t4v9c0-t5waci-4550.la.shifen.uk:1743?security=tls&insecure=0&sni=cc65f71a-t4v9c0-t5waci-4550.la.shifen.uk#All--@IRAN_V2RAY1🇺🇸
+hysteria2://6286105c-fb6d-11ef-be96-f23c93136cb3@cc65f71a-t4v9c0-t5waci-4550.la.shifen.uk:1743?security=tls&insecure=0&sni=cc65f71a-t4v9c0-t5waci-4550.la.shifen.uk#All-@V2rayAlpha--46

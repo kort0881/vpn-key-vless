@@ -1,3 +1,8 @@
+trojan://3bedceff-1956-4f2c-a9c1-45c74568a560@ty11t.twty.dynu.net:13761?allowInsecure=1#台湾-5.63MB/s
+trojan://299025b9-6b55-430c-be38-9a18c06873ac@china3.one.edu.kg:12051?allowInsecure=1&amp;sni=china3.one.edu.kg#中转节点-2.60MB/s
+trojan://299025b9-6b55-430c-be38-9a18c06873ac@china3.one.edu.kg:12034?allowInsecure=1&amp;sni=china3.one.edu.kg#中转节点-6.67MB/s
+trojan://299025b9-6b55-430c-be38-9a18c06873ac@china3.one.edu.kg:12052?allowInsecure=1&amp;sni=china3.one.edu.kg#中转节点-6.59MB/s
+trojan://299025b9-6b55-430c-be38-9a18c06873ac@china2.one.edu.kg:12022?allowInsecure=1&amp;sni=china2.one.edu.kg#中转节点-11.41MB/s
 trojan://299025b9-6b55-430c-be38-9a18c06873ac@china4.one.edu.kg:12069?allowInsecure=1&amp;sni=china4.one.edu.kg#中转节点-1.35MB/s
 trojan://299025b9-6b55-430c-be38-9a18c06873ac@cn1.one.edu.kg:12005?allowInsecure=1&amp;sni=cn1.one.edu.kg#中转节点-2.06MB/s
 trojan://27876_t7d7f4e3f@23.142.200.175:443?allowInsecure=1#美国-1.84MB/s
@@ -493,8 +498,3 @@ trojan://Aimer@156.225.72.199:2096/?type=tcp&security=tls&sni=ngepx.ambercc.file
 trojan://Aimer@188.164.159.69:2083/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-188.164.159.69-1379
 trojan://Aimer@154.197.64.206:443/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-154.197.64.206-1392
 trojan://Aimer@173.245.59.109:2087/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-173.245.59.109-1397
-trojan://Aimer@162.159.44.233:8443/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-162.159.44.233-1410
-trojan://Aimer@108.165.152.1:2087/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-108.165.152.1-1411
-trojan://Aimer@52.32.90.142:80/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8US-52.32.90.142-1427
-trojan://Aimer@135.84.76.152:2087/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8US-135.84.76.152-1442
-trojan://Aimer@35.83.185.225:443/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8US-35.83.185.225-1447
