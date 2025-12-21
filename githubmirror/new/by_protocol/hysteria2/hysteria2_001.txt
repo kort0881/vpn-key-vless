@@ -197,7 +197,6 @@ hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000?security=tls
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.40:35000?security=tls&amp;obfs=salamander&amp;obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&amp;insecure=0&amp;sni=api.kermanshahi.org#@Selinc
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000?security=tls&amp;obfs=salamander&amp;obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&amp;insecure=1&amp;sni=api.kermanshahi.org#@Selinc
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.40:35000?security=tls&amp;obfs=salamander&amp;obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&amp;insecure=0&amp;sni=api.kermanshahi.org#@Selinc
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.40:35000?obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&amp;security=tls&amp;sni=api.kermanshahi.org#https://t.me/ShadowsocksM75
 hysteria2://6286105c-fb6d-11ef-be96-f23c93136cb3@227fd503-t4ssg0-t5vo4i-4550.la.shifen.uk:1743?security=tls&amp;sni=227fd503-t4ssg0-t5vo4i-4550.la.shifen.uk&amp;allowInsecure=true#https://t.me/ShadowsocksM95
 hysteria2://17cdeb6c-f046-11ee-bdac-f23c93141fad@c37b0be5n-t3kyo0-t3lvgh-2gok.la.shifen.uk:1743?security=tls&amp;sni=c37b0be5-t3kyo0-t3lvgh-2gok.la.shifen.uk#https://t.me/ShadowsocksM93
 hysteria2://0b28b12512e00e740cefbb2cb4d17dd7@us.zeepo.ir:443?sni=&amp;insecure=1#@v2_r_ayng23
@@ -498,3 +497,4 @@ hysteria2://693a3ce6-2188-4fe9-82c0-c5c289532534@hl.dabache.top:20000?security=t
 hysteria2://693a3ce6-2188-4fe9-82c0-c5c289532534@hl.dabache.top:20000?security=tls&insecure=0&mport=20000-20500&sni=hl.dabache.top#%F0%9F%92%99%F0%9F%A5%B0AZAD.NET.VPN%F0%9F%A5%82%F0%9F%8C%B9🌱
 hysteria2://6d600864-32da-49fd-baf4-7df051762454@5.83.150.108:49187/?sni=imafake.locker&fp=chrome#D%C3%BCsseldorf-GetAFreeNode
 hysteria2://6d600864-32da-49fd-baf4-7df051762454@74.117.196.232:43772/?sni=imafake.locker&fp=chrome#%E2%9D%8CFremont-GetAFreeNode
+hysteria2://71504eaf-29ac-4190-89d1-dd9ce2c9ee14@[2001:bc8:1640:50eb:dc00:ff:fe57:dd6f]:443?security=tls&obfs=salamander&obfs-password=FnFgQIckcMRtKq7i&insecure=1&mport=50000-60000&sni=Ab.ac#All-#V2rayAlpha--12
