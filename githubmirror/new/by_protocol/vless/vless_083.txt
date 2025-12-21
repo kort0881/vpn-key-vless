@@ -1,11 +1,3 @@
-vless://06fa00a3-59b9-481e-adcb-3bd0790eaa0f@tnl15.radnikmax.ir:8098?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tnl15-730
-vless://f66ee754-5d67-49f0-8bc6-1e22b91e9f55@tnl15.radnikmax.ir:8098?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tnl15-731
-vless://d353f51e-9c38-4f71-a273-508e53bfa503@tnl15.radnikmax.ir:8098?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tnl15-732
-vless://f226a461-2ec4-467a-972e-3dd9daacd537@tnl15.radnikmax.ir:8098?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tnl15-733
-vless://6d6ca3a9-0b39-4e01-9c81-72adc5e65b7c@tnl15.radnikmax.ir:8098?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tnl15-734
-vless://1b8fc646-2293-471d-ae88-1e43b8e3aad5@tnl15.radnikmax.ir:8098?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tnl15-735
-vless://73146760-793f-48b6-9756-29a04cc8a98f@tnl15.radnikmax.ir:8098?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tnl15-736
-vless://a1ee8e6e-22d9-4d98-a96b-3e2e4ad9b919@tnl15.radnikmax.ir:8098?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tnl15-737
 vless://ac30e3d0-0bfa-4c0c-9bfa-94dc7093854b@tnl15.radnikmax.ir:8098?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tnl15-738
 vless://d9596176-4677-4244-b16e-21f19750a3eb@tnl15.radnikmax.ir:8098?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tnl15-739
 vless://ed2b9fb2-54c5-485d-be2b-8dd1a4387e3b@tnl15.radnikmax.ir:8098?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tnl15-740
@@ -498,3 +490,11 @@ vless://920e72a6-83c8-4e9d-aacb-62a691b26aee@tnl38.vipradvin.ir:8099?encryption=
 vless://aa3a3490-f087-4052-8853-e0dd93a16be1@tnl38.vipradvin.ir:8099?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tnl38-1227
 vless://fd937065-3a9d-4256-aae4-64a38fa3390f@tnl38.vipradvin.ir:8099?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tnl38-1228
 vless://194e6550-8078-4293-b71e-6f3c439f49a9@tnl38.vipradvin.ir:8099?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tnl38-1229
+vless://4de79b21-eb5b-43c5-8d13-39a7473befa1@tnl38.vipradvin.ir:8099?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tnl38-1230
+vless://ed0db902-e892-4dc0-a1a7-a1147dc4d3f3@tnl38.vipradvin.ir:8099?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tnl38-1231
+vless://eb4a86a2-237a-417b-bbb1-ff7b39719390@tnl38.vipradvin.ir:8099?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tnl38-1232
+vless://f346233f-d8a8-4fab-9eb5-1a5c88f52c47@tnl38.vipradvin.ir:8099?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tnl38-1233
+vless://676677ad-24c6-4a4a-b621-fc673b834603@tnl38.vipradvin.ir:8099?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tnl38-1234
+vless://303c91e1-249c-418e-aacb-47797072f62e@tnl38.vipradvin.ir:8099?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tnl38-1235
+vless://e86f4613-be94-423b-98f7-d05495d855c3@tnl39.vipradvin.ir:8220?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tnl39-1236
+vless://a93b7ab3-2087-40c7-88ab-344e953db916@tnl39.vipradvin.ir:8220?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tnl39-1237

@@ -1,3 +1,12 @@
+trojan://ypDt8RkT7J@207.211.215.169:43118?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=tpmwf.phooeyunfold.com#🇹🇷+ترکیه+🕊️T.me/X4Azadi
+trojan://ypDt8RkT7J@212.102.54.11:43118?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;fp=random&amp;type=tcp&amp;sni=tpmrq.phooeyunfold.com#🇮🇹+ایتالیا+🕊️@Gozargah_Azadi
+trojan://e6b506e9-2d37-40cb-aff9-35678d0e6c69@amin.karkas1.ir:443?mode=gun&amp;security=tls&amp;type=grpc&amp;serviceName=6vuNVgOFnqUEvj0rcXIcStL&amp;sni=amin.karkas1.ir#Cdn_tls_grpc_direct_trojan
+trojan://db19fc68-c027-4641-a8eb-eed3e1065c8a@amin.karkas1.ir:443?mode=gun&amp;security=tls&amp;alpn=http/1.1&amp;fp=safari&amp;type=grpc&amp;serviceName=6vuNVgOFnqUEvj0rcXIcStL&amp;sni=amin.karkas1.ir#amin.karkas1.ir_tls_grpc_direct_trojan
+trojan://11ae0edd-2f63-4495-8683-037abbda9986@amin.karkas1.ir:443?path=/6vuNVgOFnqUEvj0sNkGkxxW7&amp;security=tls&amp;alpn=h2&amp;host=amin.karkas1.ir&amp;fp=safari&amp;type=ws&amp;sni=amin.karkas1.ir#Cdn_tls_h2_WS_direct_trojan
+trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:46002#🇨🇳_CN_中国_15
+trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org#🇷🇺_RU_俄罗斯联邦_3
+trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni=sg01.freeflyingcloud.xyz#🇸🇬_SG_新加坡_5
+trojan://0b1371aa-649d-41dc-9126-338c87936500@95.164.33.62:443?allowInsecure=1&amp;sni=sourceforge.net&amp;ws=1&amp;wspath=/websocket#瑞典-143.7KB/s
 trojan://3bedceff-1956-4f2c-a9c1-45c74568a560@ty11t.twty.dynu.net:13761?allowInsecure=1#台湾-5.63MB/s
 trojan://299025b9-6b55-430c-be38-9a18c06873ac@china3.one.edu.kg:12051?allowInsecure=1&amp;sni=china3.one.edu.kg#中转节点-2.60MB/s
 trojan://299025b9-6b55-430c-be38-9a18c06873ac@china3.one.edu.kg:12034?allowInsecure=1&amp;sni=china3.one.edu.kg#中转节点-6.67MB/s
@@ -489,12 +498,3 @@ trojan://SSorg@89.248.207.37:443/?type=tcp&security=tls&sni=ssjj.esslh.filegear-
 trojan://SSorg@156.255.90.175:8443/?type=tcp&security=tls&sni=ssjj.esslh.filegear-sg.me#%40Hope_Net-join-us-on-Telegram
 trojan://SSorg@206.238.236.37:2096/?type=tcp&security=tls&sni=ssjj.esslh.filegear-sg.me&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
 trojan://SSorg@104.21.19.236:2087/?type=tcp&security=tls&sni=ssjj.esslh.filegear-sg.me&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
-trojan://SSorg@154.211.8.98:2087/?type=tcp&security=tls&sni=ssjj.esslh.filegear-sg.me#%40Hope_Net-join-us-on-Telegram
-trojan://Aimer@damien.ns.cloudflare.com:443/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
-trojan://Aimer@188.164.159.174:2053/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
-trojan://Aimer@176.124.223.40:2053/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-176.124.223.40-1370
-trojan://Aimer@156.225.72.199:2096/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-156.225.72.199-1378
-trojan://Aimer@188.164.159.69:2083/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-188.164.159.69-1379
-trojan://Aimer@154.197.64.206:443/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-154.197.64.206-1392
-trojan://Aimer@173.245.59.109:2087/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-173.245.59.109-1397
-trojan://Aimer@162.159.44.233:8443/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-162.159.44.233-1410

@@ -390,6 +390,7 @@ hysteria2://254551f6-ec28-4938-ad0e-0aa4aa1965ec@74.117.196.232:40234/?sni=imafa
 hysteria2://27104fae-f047-4993-902a-9368d8a3e9bc@5.83.150.108:49187/?sni=imafake.locker&fp=chrome#D%C3%BCsseldorf-GetAFreeNode
 hysteria2://27104fae-f047-4993-902a-9368d8a3e9bc@74.117.196.232:40234/?sni=imafake.locker&fp=chrome#%E2%9D%8CFremont-GetAFreeNode
 hysteria2://274691f9-e6c0-46ff-82f2-3a9062872a04@it1.miyazono-kaori.com:443?insecure=1&sni=it1.miyazono-kaori.com&obfs=salamander&obfs-password=GyiIHT0mOkKCiq0Q#%F0%9F%8E%A84%40oneclickvpnkeys
+hysteria2://274691f9-e6c0-46ff-82f2-3a9062872a04@it1.miyazono-kaori.com:443?insecure=1&sni=it1.miyazono-kaori.com&obfs=salamander&obfs-password=GyiIHT0mOkKCiq0Q#🌐سرور
 hysteria2://274691f9-e6c0-46ff-82f2-3a9062872a04@it1.miyazono-kaori.com:443?security=tls&obfs=salamander&obfs-password=GyiIHT0mOkKCiq0Q&insecure=1&mport=40000-50000&sni=it1.miyazono-kaori.com#%F0%9F%8E%A84%40oneclickvpnkeys
 hysteria2://28b3a17d-7e9b-43b9-963d-9af8d9e59c52@yg.kaixincloud.top:25200?sni=yg.kaixincloud.top&mport=25200-26200#%F0%9F%87%A9%F0%9F%87%AA%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E5%BE%B7%E5%9B%BD%2006
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@amsterdam.nezhasu.com:443?insecure=1&sni=Amsterdam.nezhasu.com#MCI-IR--%40V2rayAlpha-17
@@ -497,4 +498,3 @@ hysteria2://6286105c-fb6d-11ef-be96-f23c93136cb3@227fd503-t4ssg0-t5vo4i-4550.la.
 hysteria2://6286105c-fb6d-11ef-be96-f23c93136cb3@227fd503-t4ssg0-t5vo4i-4550.la.shifen.uk:1743?security=tls&sni=227fd503-t4ssg0-t5vo4i-4550.la.shifen.uk&allowInsecure=true#https://t.me/ShadowsocksM95
 hysteria2://6286105c-fb6d-11ef-be96-f23c93136cb3@cc65f71a-t4v9c0-t5waci-4550.la.shifen.uk:1743?insecure=0&sni=cc65f71a-t4v9c0-t5waci-4550.la.shifen.uk#All-%40V2rayAlpha--46
 hysteria2://6286105c-fb6d-11ef-be96-f23c93136cb3@cc65f71a-t4v9c0-t5waci-4550.la.shifen.uk:1743?security=tls&insecure=0&sni=cc65f71a-t4v9c0-t5waci-4550.la.shifen.uk#All--@IRAN_V2RAY1🇺🇸
-hysteria2://6286105c-fb6d-11ef-be96-f23c93136cb3@cc65f71a-t4v9c0-t5waci-4550.la.shifen.uk:1743?security=tls&insecure=0&sni=cc65f71a-t4v9c0-t5waci-4550.la.shifen.uk#All-@V2rayAlpha--46
