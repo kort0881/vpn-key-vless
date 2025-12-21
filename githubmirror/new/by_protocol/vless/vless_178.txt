@@ -428,9 +428,7 @@ vless://73a21609-8238-45c0-b2b0-0469e6c58ba3@213.176.95.70:443/?type=tcp&encrypt
 vless://73a21609-8238-45c0-b2b0-0469e6c58ba3@213.176.95.70:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=🔒
 vless://73a22963-1825-4a74-b961-45bffdb590ce@62.60.156.102:8080?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=🔒
 vless://73a22963-1825-4a74-b961-45bffdb590ce@91.99.90.44:8081?type=tcp&headerType=http&host=fast.com&path=🔒
-vless://73a4456a-0442-4550-8b4f-c719871a4eeb@www.speedtest.net:443?security=tls&type=ws&path=%2FeyJqdW5rIjoibWRiMjNWaUwxNHVWIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMjE3LjE0Mi4yMzYuOTMiXX0%3D&host=011.electrocellco-cf-011.workers.dev&alpn=http%2F1.1&sni=011.electrOCELlCO-CF-011.WorKERS.dEV&fp=chrome&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%A9%F0%9F%87%AADE_16%20%F0%9F%A7%AD%204.8MB%2Fs`
 vless://73a4456a-0442-4550-8b4f-c719871a4eeb@www.speedtest.net:443?security=tls&type=ws&path=%2FeyJqdW5rIjoibWRiMjNWaUwxNHVWIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMjE3LjE0Mi4yMzYuOTMiXX0%3D&host=011.electrocellco-cf-011.workers.dev&alpn=http%2F1.1&sni=011.electrOCELlCO-CF-011.WorKERS.dEV&fp=chrome&encryption=none#RELAY🚩
-vless://73a4456a-0442-4550-8b4f-c719871a4eeb@www.speedtest.net:443?security=tls&type=ws&path=🔒
 vless://73acce1d-430a-4cdc-9942-e825e4da9a1c@am288.amin-1.ir:2082?type=xhttp&encryption=none&path=/@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM&host=am288.amin-1.ir&mode=auto&security=none#Telegram
 vless://73acce1d-430a-4cdc-9942-e825e4da9a1c@am288.amin-1.ir:2082?type=xhttp&encryption=none&path=🔒
 vless://73b10f12-d09e-4745-9c6d-75550f5e6253@www.speedtest.net:80?path=🔒
@@ -498,3 +496,5 @@ vless://74a4f351-1f64-4a24-98ac-a1a86dba7f4c@104.21.5.65:8443/?type=ws&encryptio
 vless://74ab69a3-2918-4b25-88fa-9e1723101213@filmnet.filimnet.com:80/?type=xhttp&path=🔒
 vless://74b68cb9-ba3c-4e35-ad41-7b6acab3b79b@shhproxy.varzesh3-cnd.site:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=SHHPROXY-V2ray.%E6%96%AF%E6%B6%85%E9%81%8E%E6%BF%BE%E5%99%A869.website&type=ws#@vpn_kanfik@freV2rayNG@freV2rayNG@freV2rayNG@freV2rayNG@freV2rayNG@freV2rayNG@freV2rayNG@freV2rayNG
 vless://74b68cb9-ba3c-4e35-ad41-7b6acab3b79b@shhproxy.varzesh3-cnd.site:80?path=🔒
+vless://74b8015a-480e-45e9-b13f-c153bd7497b5@151.101.3.8:80?encryption=none&security=none&type=xhttp&host=jointelegramv2ra.com&path=🔒
+vless://74ba9d92-eee7-461b-9ab7-37ef28601830@104.21.72.109:80?path=🔒

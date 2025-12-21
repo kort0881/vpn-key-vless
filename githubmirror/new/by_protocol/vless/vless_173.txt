@@ -1,3 +1,6 @@
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@86.38.214.177:8880?allowInsecure=0&sni=🔒
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@89.116.161.177:8880/?type=ws&encryption=none&host=ip.langmanshanxi.top&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560#%F0%9F%92%8D95%40oneclickvpnkeys
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@89.116.161.177:8880/?type=ws&encryption=none&host=ip.langmanshanxi.top&path=🔒
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@89.116.180.186:8880?allowInsecure=0&sni=🔒
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@89.116.180.186:8880?encryption=none&security=none&sni=🔒
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@89.117.112.186:8880?allowInsecure=0&sni=🔒
@@ -285,8 +288,6 @@ vless://59c22523-08b9-4dc8-99ac-1bf909b4c36e@77.110.119.151:48469?type=grpc&encr
 vless://59c22523-08b9-4dc8-99ac-1bf909b4c36e@77.110.119.151:48469?type=grpc&encryption=none&serviceName=Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-&authority=&security=none#8vn3f1fp
 vless://59c6474e-a854-4416-96fd-c17c654b2ee2@iran.shatak.top:17337?security=none&encryption=none&headerType=none&type=tcp
 vless://59c7bd88-a2e2-45cf-9272-cc422b60c3bc@www.speedtest.net:8880?path=🔒
-vless://59d34352-2512-4c4c-9630-5f5e56e437ac@65.109.205.214:12214?security=none&type=ws&path=%2F&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%AB%F0%9F%87%AEFI_2%20%F0%9F%A7%AD%204.9MB%2Fs`
-vless://59d34352-2512-4c4c-9630-5f5e56e437ac@65.109.205.214:12214?security=none&type=ws&path=🔒
 vless://59d89788-691e-47fb-94c3-14519ca8f8c9@IRANTUNNEL.lunarmc.ir:2098?security=none&encryption=none&headerType=http&type=tcp
 vless://59db3b45-830a-4b6c-8b7d-9bd6d7189c7d@direct.yasharteam.com:443?security=reality&encryption=none&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒
 vless://59db3b45-830a-4b6c-8b7d-9bd6d7189c7d@direct.yasharteam.com:443?security=reality&encryption=none&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=🔒
@@ -497,4 +498,3 @@ vless://5c7114b7-4ba5-40fe-a23b-fe1862ff4e48@172.67.73.163:80/?type=ws&encryptio
 vless://5c7114b7-4ba5-40fe-a23b-fe1862ff4e48@172.67.73.163:80/?type=ws&encryption=none&host=BLUE-LIMIt.ONeEat.co.&path=🔒
 vless://5c75e010-a7f5-11ef-91f8-1239d0255272@104.18.28.244:80?security=none&type=ws&host=us1.socifiles.com&path=%2Fvlws#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD-%3E%F0%9F%87%BA%F0%9F%87%A6_UA_%E4%B9%8C%E5%85%8B%E5%85%B0
 vless://5c75e010-a7f5-11ef-91f8-1239d0255272@104.18.29.244:80/?type=ws&encryption=none&host=us1.socifiles.com&path=%2Fvlws#%40Hope_Net-join-us-on-Telegram
-vless://5c75e010-a7f5-11ef-91f8-1239d0255272@104.18.29.244:80/?type=ws&encryption=none&host=us1.socifiles.com&path=🔒
