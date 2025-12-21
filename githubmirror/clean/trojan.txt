@@ -3049,7 +3049,8 @@ trojan://telegram-id-privatevpns@15.236.119.231:22222?security=tls&amp;alpn=http
 trojan://90y2l3mu48d10uy3ibad@195.154.202.25:58290/?type=tcp&amp;security=tls&amp;sni=ads.x5.ru&amp;allowInsecure=1#%F0%9F%9A%A864%40oneclickvpnkeys
 trojan://90y2l3mu48d10uy3ibad@195.154.202.110:58290/?type=tcp&amp;security=tls&amp;sni=ads.x5.ru&amp;allowInsecure=1#%E2%9C%8526%40oneclickvpnkeys
 trojan://blhwsknjxmfuydz0vhfv@146.70.73.212:53809/?type=tcp&amp;security=tls&amp;sni=www.vk.com&amp;allowInsecure=1#%E2%9C%8575%40oneclickvpnkeys
-trojan://04a6a322-b08e-4635-99af-219c01ade7dd@green2.cdntencentmusic.com:34411?type=raw&headerType=none&security=tls&sni=green2.cdntencentmusic.com#[🇯🇵] [tr-tl-ra] [251221-222110.800]
+trojan://04a6a322-b08e-4635-99af-219c01ade7dd@green2.cdntencentmusic.com:33301?type=raw&headerType=none&security=tls&sni=green2.cdntencentmusic.com#[🇸🇬] [tr-tl-ra] [251222-011211.574]
+trojan://ef76d08c-9841-47e8-92a6-5b74df5d58ac@green2.cdntencentmusic.com:35502?type=raw&headerType=none&security=tls&sni=green2.cdntencentmusic.com#[🇺🇸] [tr-tl-ra] [251222-011219.718]
 trojan://trojan@104.18.13.229:8443?security=tls&sni=pangpi.pages.dev&fp=chrome&type=ws&path=/&host=pangpi.pages.dev#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20TR-WS-TLS%204%E2%83%A3
 trojan://bpb-trojan@104.21.75.193:443?security=none&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20TR-TCP-NONE%204%E2%83%A3
 trojan://trojan@104.26.13.31:8443?security=tls&sni=qianlang.pages.dev&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=qianlang.pages.dev#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20TR-WS-TLS%204%E2%83%A3
