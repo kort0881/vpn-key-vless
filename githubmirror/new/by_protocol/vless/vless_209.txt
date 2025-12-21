@@ -1,3 +1,4 @@
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.231:8880?encryption=none&security=none&type=grpc
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.231:8880?mode=gun&security=&encryption=none&type=grpc
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.231:8880?mode=gun&security=none&encryption=none&authority=@HiByeVPNN&type=grpc
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.231:8880?mode=gun&security=none&encryption=none&type=grpc
@@ -497,4 +498,3 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.188.124:8880?mode=gun&securit
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.191.215:8880?mode=gun&security=none&encryption=none&type=grpc#%40v2raying
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.191.215:8880?security=&type=grpc&encryption=none
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.191.215:8880?security=&type=grpc&encryption=none#@awlix_ir
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.214.78:8880?mode=gun&security=&encryption=none&type=grpc#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B1%F0%9F%87%B9

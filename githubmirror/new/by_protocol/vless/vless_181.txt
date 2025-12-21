@@ -1,3 +1,4 @@
+vless://7489c971-5f82-48ff-96e5-b80fd581318f@46.62.214.228:443?path=/&security=tls&encryption=none&host=cyrus.v2bazzar.ir&type=ws&sni=cyrus.v2bazzar.ir#All---@IRAN_V2RAY1
 vless://7489c971-5f82-48ff-96e5-b80fd581318f@46.62.214.228:443?path=/&security=tls&encryption=none&type=ws&sni=cyrus.v2bazzar.ir#All---@IRAN_V2RAY1
 vless://7489c971-5f82-48ff-96e5-b80fd581318f@46.62.214.228:443?path=🔒
 vless://748bd938-7eaf-4f1c-ac99-ce770c3aad93@m40a.vip784.com:33801?security=none&encryption=none&headerType=http&type=tcp
@@ -497,4 +498,3 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@188.114.97.250:80/?type=ws&encrypti
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@188.114.97.250:80/?type=ws&encryption=none&host=us1.rtacg.com&path=🔒
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@190.93.247.121:80/?type=ws&encryption=none&host=us1.rtacg.com&path=%2F#%40Hope_Net-join-us-on-Telegram
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@190.93.247.121:80/?type=ws&encryption=none&host=us1.rtacg.com&path=🔒
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@198.41.208.237:80/?type=ws&encryption=none&host=us1.rtacg.com&path=%2F#%40Hope_Net-join-us-on-Telegr...
