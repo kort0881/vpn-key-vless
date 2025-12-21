@@ -1,3 +1,4 @@
+vless://ca89921a-c01d-4a96-961e-fdeb52ed6513@root.configforvpn.fun:443?path=%2Fcdn&security=tls&encryption=none&alpn=h2,http/1.1&host=root.configforvpn.fun&fp=chrome&type=ws&sni=root.conf…
 vless://ca89921a-c01d-4a96-961e-fdeb52ed6513@root.configforvpn.fun:443?path=🔒
 vless://ca8be316-c8da-4baa-b131-213e67777e15@62.60.204.227:51160/?type=ws&encryption=none&path=/#@Geek_Spot
 vless://ca8be316-c8da-4baa-b131-213e67777e15@62.60.204.227:51160/?type=ws&encryption=none&path=🔒
@@ -497,4 +498,3 @@ vless://ce354701-e5dd-4ca6-9a44-7eeb0c48b157@104.16.214.14:80?encryption=none&se
 vless://ce354701-e5dd-4ca6-9a44-7eeb0c48b157@104.16.214.14:80?encryption=none&security=none&type=ws&host=still-butterfly-f025-pppal03.rofipo9508.workers.dev&path=🔒
 vless://ce354701-e5dd-4ca6-9a44-7eeb0c48b157@104.24.85.213:80?encryption=none&security=none&type=ws&host=still-butterfly-f025-pppal03.rofipo9508.workers.dev&path=/?ed=2560#😛Tel:
 vless://ce354701-e5dd-4ca6-9a44-7eeb0c48b157@104.24.85.213:80?encryption=none&security=none&type=ws&host=still-butterfly-f025-pppal03.rofipo9508.workers.dev&path=🔒
-vless://ce3acfb7-a0e8-4f96-b9ff-75c2657997fa@freedam.wirecard.store:2053?flow=&type=grpc&mode=gun&serviceName=bing&security=reality&fp=chrome&sni=🔒

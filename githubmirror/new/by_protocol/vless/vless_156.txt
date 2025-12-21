@@ -1,3 +1,4 @@
+vless://1c9054be-74c1-472e-948a-f915de932c8e@91.99.191.47:80?security=&type=tcp&encryption=none#@awlix_ir
 vless://1c9054be-74c1-472e-948a-f915de932c8e@91.99.191.47:80?security=none&encryption=none&headerType=none&type=tcp
 vless://1c9054be-74c1-472e-948a-f915de932c8e@91.99.191.47:80?security=none&encryption=none&headerType=none&type=tcp#All-@V2ray_Alpha--32
 vless://1ca86bf5-dafc-4c7f-9396-4dc7acca9d31@188.227.84.160:8443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp
@@ -497,4 +498,3 @@ vless://21a4f9b4-8b7c-440c-8c9a-8e61d001ad80@www.speedtest.net:2082?path=/@spike
 vless://21a4f9b4-8b7c-440c-8c9a-8e61d001ad80@www.speedtest.net:2082?path=🔒
 vless://21a78493-40c9-4a44-9b03-9c45f41d1845@all.vipxali.cfd:2083?alpn=http%2F1.1%2Ch2&encryption=none&fp=safari&mode=gun&security=tls&serviceName=%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray&sni=🔒
 vless://21b53da2-37ed-49f6-a733-4fd0eb7821a4@2.189.161.76:8080?security=none&encryption=none&headerType=http&type=tcp
-vless://21d509b3-1a2a-4ad0-a11e-17cd92ea2d8a@www.speedtest.net:80?path=🔒

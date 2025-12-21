@@ -1,3 +1,4 @@
+vless://5a40ab4a-8d75-4813-b22b-3569148eea48@direct.yasharteam.com:443?security=reality&encryption=none&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒
 vless://5a40ab4a-8d75-4813-b22b-3569148eea48@direct.yasharteam.com:443?security=reality&encryption=none&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=🔒
 vless://5a47974b-6b43-4591-a8ec-3ec42c47d206@188.114.98.112:8880?path=🔒
 vless://5a4e040a-8de6-4222-bd6f-9f535b8772fd@104.21.58.212:80/?type=ws&encryption=none&host=calm-violet-0e47.pomofoc222.workers.dev&path=%2FlrJO6NEVRGHecfbo%3Fed%3D2560#%40Hope_Net-join-us-on-Telegram
@@ -497,4 +498,3 @@ vless://600c6208-a0e4-4d49-b249-55b69ead4422@xjp.caball.link:443/?type=ws&encryp
 vless://600c6208-a0e4-4d49-b249-55b69ead4422@xjp.caball.link:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&type=ws&sni=xjp.caball.link#%E2%9D%94%20XX%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40v2raybe%20%5B5%5D
 vless://600c6208-a0e4-4d49-b249-55b69ead4422@xjp.caball.link:443?path=🔒
 vless://600eae54-5014-40a2-99f3-215ff340c26d@109.122.249.156:57107?security=none&encryption=none&host=netgoris.ir&headerType=http&type=tcp
-vless://600eae54-5014-40a2-99f3-215ff340c26d@109.122.249.156:57107?security=none&encryption=none&host=netgoris.ir&headerType=http&type=tcp#@CaV2ray

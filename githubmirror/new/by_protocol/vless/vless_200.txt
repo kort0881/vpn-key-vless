@@ -1,3 +1,4 @@
+vless://bc920cd0-6a85-4841-871f-46c440f22353@206.189.29.23:443?path=/aeyloows&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1&sni=ozon.ru#https://t.me/v2rayNplus
 vless://bc920cd0-6a85-4841-871f-46c440f22353@206.189.29.23:443?path=🔒
 vless://bc920cd0-6a85-4841-871f-46c440f22353@206.189.29.23:443?type=ws&encryption=none&flow=&path=%2Faeyloows&security=tls&sni=ozon.ru&allowInsecure=1#RU🇷🇺
 vless://bc920cd0-6a85-4841-871f-46c440f22353@206.189.29.23:443?type=ws&encryption=none&flow=&path=%2Faeyloows&security=tls&sni=ozon.ru&allowInsecure=1&fp=chrome#RU🇷🇺
@@ -497,4 +498,3 @@ vless://c1d16861-5a8b-46d9-bfd3-032b9abcb68f@192.142.15.95:443?security=reality&
 vless://c1d22711-2adf-4ffa-a5d8-439e665bb951@45.131.6.205:80/?type=ws&encryption=none
 vless://c1d22711-2adf-4ffa-a5d8-439e665bb951@45.131.6.205:80/?type=ws&encryption=none#%40Hope_Net-join-us-on-Telegram
 vless://c1d2e3f4-a5b6-1234-7890-0123456789ab@104.20.158.25:443?type=ws&encryption=none&host=iran.aslivpn.ir&path=/Telegram@V2rayNG&security=tls&sni=iran.aslivpn.ir&fp=chrome#@CaV2ray
-vless://c1d2e3f4-a5b6-1234-7890-0123456789ab@104.20.158.25:443?type=ws&encryption=none&host=iran.aslivpn.ir&path=🔒

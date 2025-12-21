@@ -1,3 +1,4 @@
+vless://45749dc9-bb11-440b-e245-e2d49239de61@VPNCUSTOMIZE2.ddns.net:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@VPNCUSTOMIZE&sni=🔒
 vless://4577c520-59c0-4edf-99f9-a131758aecad@91.107.128.99:443?security=reality&encryption=none&pbk=lG2emtmtOMj1MRRYNQnHfH7p5IHkOyGWXvaCe0kwS0Q&host=%2FJKVPN_BYA_CHANEL_JKVPN&headerType=none&fp=chrome&spx=%2FJKVPN_BYA_CHANEL_JKVPN&type=tcp&sni=🔒
 vless://4577c520-59c0-4edf-99f9-a131758aecad@SPDNETVIP.get-service.ir:443?security=reality&encryption=none&pbk=lG2emtmtOMj1MRRYNQnHfH7p5IHkOyGWXvaCe0kwS0Q&headerType=&fp=chrome&spx=/&type=tcp&sni=🔒
 vless://45889dac-ca5b-4587-803b-cedb5d787f4f@www.speedtest.net:80?host=5.www.speedtest.net.zula.ir.zemestanil.iR.&path=🔒
@@ -497,4 +498,3 @@ vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.231:443/?type=ws&encrypti
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.232:443?encryption=none&security=tls&sni=🔒
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.233:443?encryption=none&security=tls&sni=🔒
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.234:443/?type=ws&encryption=none&path=%2F%3Fproxyip&security=tls&sni=xw.ylks.xyz#%40Hope_Net-join-us-on-Telegram
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.26:443/?type=ws&encryption=none&flow=&path=🔒

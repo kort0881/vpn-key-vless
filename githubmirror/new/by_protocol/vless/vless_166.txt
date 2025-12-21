@@ -1,3 +1,4 @@
+vless://4179c595-08ca-45cd-b555-91b6f1faeadc@172.67.128.105:80?path=🔒
 vless://417a3a22-8019-4991-82e1-8e4e27e95022@paris.fonixapp.org:443?security=reality&encryption=none&pbk=9Bx-1do5J20bTshcos2BDFpgRfRHIig3MyRAJET11AY&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=ajax.cloudflare.com&sid=07e75c2cb26c35#All-@V2rayAlpha--7
 vless://417a3a22-8019-4991-82e1-8e4e27e95022@paris.fonixapp.org:443?security=reality&encryption=none&pbk=9Bx-1do5J20bTshcos2BDFpgRfRHIig3MyRAJET11AY&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=🔒
 vless://417a3a22-8019-4991-82e1-8e4e27e95022@paris.fonixapp.org:443?security=reality&encryption=none&pbk=9Bx-1do5J20bTshcos2BDFpgRfRHIig3MyRAJET11AY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ajax.cloudflare.com&sid=07e75c2cb26c35#@Daily_Configs
@@ -497,4 +498,3 @@ vless://456c916d-1241-4a5a-bd2b-c4abc69fd9ed@al-akhbar.com:443?security=tls&sni=
 vless://45749dc9-bb11-440b-e245-e2d49239de61@VPNCUSTOMIZE2.ddns.net:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@VPNCUSTOMIZE&sni=ch.loveislam.top#MCI+%7C+%40VPNCUSTOMIZE+%7C+100GBایرانسل
 vless://45749dc9-bb11-440b-e245-e2d49239de61@VPNCUSTOMIZE2.ddns.net:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@VPNCUSTOMIZE&sni=ch.loveislam.top#v2ray_arهمراه
 vless://45749dc9-bb11-440b-e245-e2d49239de61@VPNCUSTOMIZE2.ddns.net:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@VPNCUSTOMIZE&sni=ch.loveislam…
-vless://45749dc9-bb11-440b-e245-e2d49239de61@VPNCUSTOMIZE2.ddns.net:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@VPNCUSTOMIZE&sni=🔒

@@ -1,3 +1,4 @@
+vless://401374e6-df77-41fb-f638-dad8184f175b@103.133.1.227:443/?type=grpc&encryption=none&security=tls&sni=🔒
 vless://401374e6-df77-41fb-f638-dad8184f175b@103.133.1.227:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=🔒
 vless://401374e6-df77-41fb-f638-dad8184f175b@103.133.1.227:443?mode=gun&security=tls&encryption=none&type=grpc&sni=🔒
 vless://401374e6-df77-41fb-f638-dad8184f175b@103.133.1.227:443?security=tls&sni=pqh24v3.hiddendom.shop&alpn=h2&fp=chrome&type=grpc&encryption=none#@V2ray_Collector
@@ -497,4 +498,3 @@ vless://4179c595-08ca-45cd-b555-91b6f1faeadc@172.67.128.105:80/?type=ws&encrypti
 vless://4179c595-08ca-45cd-b555-91b6f1faeadc@172.67.128.105:80/?type=ws&encryption=none&host=di.dibdibini.dpdns.org&path=🔒
 vless://4179c595-08ca-45cd-b555-91b6f1faeadc@172.67.128.105:80?path=/?ed=2560&security=none&encryption=none&host=di.dibdibini.dpdns.org&type=ws#@CaV2ray
 vless://4179c595-08ca-45cd-b555-91b6f1faeadc@172.67.128.105:80?path=/v?ed=2560&security=none&encryption=none&host=di.dibdibini.dpdns.org&type=ws#https://t.me/v2raynplus
-vless://4179c595-08ca-45cd-b555-91b6f1faeadc@172.67.128.105:80?path=🔒

@@ -1,3 +1,4 @@
+vless://e82d672c-cfcd-4439-bd44-754c0756d663@51.178.253.222:5050?security=&encryption=none&headerType=none&type=tcp
 vless://e82d672c-cfcd-4439-bd44-754c0756d663@51.178.253.222:5050?security=&encryption=none&headerType=none&type=tcp#[🇫🇷]t.me/ConfigsHub
 vless://e832cdc2-0e7b-4d33-8fad-0efc1d0b53f4@104.21.69.44:2053?security=tls&sni=🔒
 vless://e8346e35-2be3-4743-d80b-95e460e7e86b@chat.deepseek.com:80?type=ws&path=🔒
@@ -497,4 +498,3 @@ vless://ebe2de6a-6caf-4d57-8275-dbdb3e62d94f@104.17.223.175:80/?type=ws&encrypti
 vless://ebe2de6a-6caf-4d57-8275-dbdb3e62d94f@104.17.223.175:80?path=🔒
 vless://ebe2de6a-6caf-4d57-8275-dbdb3e62d94f@104.26.13.8:80?path=🔒
 vless://ebe2de6a-6caf-4d57-8275-dbdb3e62d94f@172.67.73.48:443/?type=ws&encryption=none&host=q1.19KalA.co&path=%2F&security=tls&sni=q1.19KalA.co&alpn=h2%2Chttp%2F1.1&fp=chrome#%E1%B4%AC%E1%B4%B8%E1%B4%B8%C2%B9%E2%81%B0%F0%9F%87%A9%F0%9F%87%AA%E2%9E%A3%40JOKERRVPN
-vless://ebe2de6a-6caf-4d57-8275-dbdb3e62d94f@172.67.73.48:443/?type=ws&encryption=none&host=q1.19KalA.co&path=🔒

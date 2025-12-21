@@ -1,3 +1,4 @@
+vless://6ebc2581-bccf-4cac-a0e1-aebd7ded874c@104.18.26.90:2096?path=🔒
 vless://6ec46182-5075-4633-a692-3debfe10de0f@amdiww.fastly80.hosting-ip.com:80?path=🔒
 vless://6ec4cb50-6353-4f60-bc9b-624ad418f6c7@172.66.40.99:80?path=🔒
 vless://6ec52bc7-fcd7-4841-ab69-70d6e03a6eda@104.17.147.22:8880?encryption=none&security=none&type=ws&host=www.speedtest.net.zula.ir.cfp1.a2hdhjdxjbxjsjdjd.ddns-ip.net.&path=🔒
@@ -497,4 +498,3 @@ vless://724383d8-33c6-4e8d-9db4-0184a89efa33@151.101.3.8:80?encryption=none&secu
 vless://7244a576-0680-ee46-acd8-55809ee12479@103.175.79.2:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=speed.cloudflare.com&fp=chrome&security=reality&pbk=4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI&sid=#%F0%9F%8C%B532%40oneclickvpnkeys
 vless://7244a576-0680-ee46-acd8-55809ee12479@103.175.79.2:443?security=reality&encryption=none&pbk=4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒
 vless://7248e825-887c-48b9-83bc-c26bc6392bf8@104.21.42.250:443?encryption=none&security=tls&sni=🔒
-vless://72524be2-bf09-4bed-bcf6-bd15bfa50442@31.58.144.45:30987/?type=tcp&encryption=none&flow=&sni=🔒
