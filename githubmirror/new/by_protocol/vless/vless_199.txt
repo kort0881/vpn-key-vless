@@ -1,10 +1,3 @@
-vless://c42dd991-cdef-4f19-9519-c2632f150f51@www.speedtest.net:2082?path=🔒
-vless://c4335777-e8c8-438b-9364-4bbae410b262@91.99.144.152:443?flow=&type=tcp&headerType=http&host=zula.ir&path=🔒
-vless://c4335777-e8c8-438b-9364-4bbae410b262@91.99.144.152:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp
-vless://c4335777-e8c8-438b-9364-4bbae410b262@91.99.144.152:443?type=tcp&path=/&host=zula.ir&headerType=http&security=none#telegram
-vless://c4335777-e8c8-438b-9364-4bbae410b262@91.99.144.152:443?type=tcp&path=🔒
-vless://c437301a-5c48-4609-80f9-2c19c601fc73@gr.dnszone.top:45500?security=none&encryption=none&headerType=none&type=tcp
-vless://c4389c70-1e5a-4bd2-934f-44fb2e62ccf5@de6.razercompany.com:33200?security=none&encryption=none&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&type=tcp
 vless://c43b7819-008e-4863-aa20-9d3fc2935df8@dl.fastsoft98.ir:443?encryption=none&security=tls&sni=dl.fastsoft98.ir&alpn=h2&fp=chrome&type=ws&host=dl.fastsoft98.ir&path=?ed=2048#@NIM_VPN_ir
 vless://c43b7819-008e-4863-aa20-9d3fc2935df8@dl.fastsoft98.ir:443?encryption=none&security=tls&sni=🔒
 vless://c43b7819-008e-4863-aa20-9d3fc2935df8@rezidental.az9x99.ir:2053?encryption=none&security=none&type=tcp&headerType=none
@@ -498,3 +491,10 @@ vless://c8898cfd-9927-4f36-b7bc-40de76076b80@172.67.173.29:443/?type=ws&encrypti
 vless://c8898cfd-9927-4f36-b7bc-40de76076b80@185.193.158.10:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=🔒
 vless://c8898cfd-9927-4f36-b7bc-40de76076b80@185.193.158.11:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=🔒
 vless://c8898cfd-9927-4f36-b7bc-40de76076b80@185.193.158.8:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒
+vless://c8898cfd-9927-4f36-b7bc-40de76076b80@212.233.95.52:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=maviks.eu&fp=chrome&pbk=cGzNRbN_zruI3CVTDukB2nOqWWEj7kgkay24f2fdLmQ&sid=0f917152a871e9c0&type=tcp&headerType=none#%40Golestan_VPN%20-%20J
+vless://c8898cfd-9927-4f36-b7bc-40de76076b80@45.150.174.80:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=maviks.eu&fp=chrome&security=reality&pbk=lyLhdojpACv6B3tHViJvPjNGATedXYRMnpAt4n4Siyo&sid=f203719d3ff9a5f5#%40Hope_Net-join-us-on-Telegram
+vless://c8898cfd-9927-4f36-b7bc-40de76076b80@45.150.174.80:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒
+vless://c8898cfd-9927-4f36-b7bc-40de76076b80@45.150.174.81:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=maviks.eu&fp=chrome#%40Hope_Net...
+vless://c8898cfd-9927-4f36-b7bc-40de76076b80@45.150.174.81:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=🔒
+vless://c8898cfd-9927-4f36-b7bc-40de76076b80@45.150.174.82:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=maviks.eu&fp=chrome...
+vless://c8898cfd-9927-4f36-b7bc-40de76076b80@45.150.174.84:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=maviks.eu&fp=chrome#%40Hope_Net-join-us-on-Telegram
