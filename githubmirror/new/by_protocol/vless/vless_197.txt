@@ -1,8 +1,3 @@
-vless://be015dd2-30b4-4fcf-a9ee-080c13ac13fb@2.56.125.209:49868?security=reality&encryption=none&pbk=joEKL4Itljxodt1SOe1itSMrAH9bk_udpPtXgIjdu10&headerType=none&fp=chrome&spx=/@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-?ed=2560&type=tcp&sni=🔒
-vless://be015dd2-30b4-4fcf-a9ee-080c13ac13fb@2.56.125.209:49868?security=reality&encryption=none&pbk=joEKL4Itljxodt1SOe1itSMrAH9bk_udpPtXgIjdu10&headerType=none&fp=chrome&type=tcp&sni=🔒
-vless://be015dd2-30b4-4fcf-a9ee-080c13ac13fb@2.56.125.209:49868?security=reality&sni=🔒
-vless://be05581d-a8f4-42f4-b8ab-7e8f438ec290@151.101.3.8:80?path=%2Fdownload%3Fed%3D2048&security=none&encryption=none&host=oFnKGAC26JAs2SXa.xyz&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40dargiiriis%20%5B4%5D
-vless://be05581d-a8f4-42f4-b8ab-7e8f438ec290@151.101.3.8:80?path=🔒
 vless://be0afb54-3839-4390-b2d2-daddcd81cd73@filmnet.filimnet.com:80/?type=xhttp&path=🔒
 vless://be0f78a4-1a32-46c8-ad91-9949d1fbd759@172.66.46.246:443/?type=ws&encryption=none&host=test-cnx.pages.dev&path=%2FSxfwcp252YkHoPFb%3Fed%3D2560&security=tls&sni=TeSt-CnX.pAGes.dEv&alpn=http%2F1.1&fp=randomized#%F0%9F%8E%AF45%40oneclickvpnkeys
 vless://be0f78a4-1a32-46c8-ad91-9949d1fbd759@172.66.46.246:443/?type=ws&encryption=none&host=test-cnx.pages.dev&path=🔒
@@ -498,3 +493,8 @@ vless://c32e86eb-293d-468b-b449-30facbb26029@165.232.47.238:443/?type=ws&encrypt
 vless://c32e86eb-293d-468b-b449-30facbb26029@165.232.47.238:443/?type=ws&encryption=none&flow=&path=/rnugdhws&security=tls&sni=api.avito.ru&allowInsecure=1#🔶69@oneclickvpnkeys
 vless://c32e86eb-293d-468b-b449-30facbb26029@165.232.47.238:443/?type=ws&encryption=none&flow=&path=🔒
 vless://c32e86eb-293d-468b-b449-30facbb26029@165.232.47.238:443?path=%2Frnugdhws&security=tls&encryption=none&host=Join---nitruStore---Join---nitruStore%0AJoin---nitruStore---Join---nitruStore%0AJoin---nitruStore---Join---nitruStore%0AJoin---nitruStore---Join---nitruStore%0AJoin---nitruStore---Join---nitruStore%0AJoin---nitruStore---Join---nitruStore&type=ws&sni=api.avito.ru#RU🇷🇺
+vless://c32e86eb-293d-468b-b449-30facbb26029@165.232.47.238:443?path=%2Frnugdhws&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1&sni=api.avito.ru#RU🇷🇺
+vless://c32e86eb-293d-468b-b449-30facbb26029@165.232.47.238:443?path=%2Frnugdhws&security=tls&encryption=none&type=ws&sni=api.avito.ru#🇬🇧[openproxylist.com]
+vless://c32e86eb-293d-468b-b449-30facbb26029@165.232.47.238:443?path=/rnugdhws&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1&sni=api.avito.ru&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇬🇧]t.me/Raiv2mmr
+vless://c32e86eb-293d-468b-b449-30facbb26029@165.232.47.238:443?path=/rnugdhws&security=tls&encryption=none&type=ws&sni=api.avito.ru#🇬🇧@FreakConfig
+vless://c32e86eb-293d-468b-b449-30facbb26029@165.232.47.238:443?path=🔒

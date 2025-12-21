@@ -1,8 +1,3 @@
-vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@104.19.38.158:443?&security=tls&fp=chrome&sni=kivi.mrconfigur.site&type=ws&headerType=none&host=kivi.mrconfigur.site&path=%2F#%E6%9C%AA%E7%9F%A5%20106
-vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@104.19.39.160:443?&security=tls&fp=chrome&sni=kivi.mrconfigur.site&type=ws&headerType=none&host=kivi.mrconfigur.site&path=%2F#%E6%9C%AA%E7%9F%A5%20132
-vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@104.19.39.253:443?&security=tls&fp=chrome&sni=kivi.mrconfigur.site&type=ws&headerType=none&host=kivi.mrconfigur.site&path=%2F#%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A%2F%2Fa0a.xyz%2F%E3%80%9140
-vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@104.19.39.253:443?encryption=none&security=tls&sni=kivi.mrconfigur.site&type=ws&path=%2F#%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A%2F%2Fa0a.xyz%2F%E3%80%9140
-vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@104.19.39.78:443?&security=tls&fp=chrome&sni=kivi.mrconfigur.site&type=ws&headerType=none&host=kivi.mrconfigur.site&path=%2F#%E6%9C%AA%E7%9F%A5%2086
 vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@104.19.40.189:443?&security=tls&fp=chrome&sni=kivi.mrconfigur.site&type=ws&headerType=none&host=kivi.mrconfigur.site&path=%2F#%E6%9C%AA%E7%9F%A5%2067
 vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@104.19.42.253:443?&security=tls&fp=chrome&sni=kivi.mrconfigur.site&type=ws&headerType=none&host=kivi.mrconfigur.site&path=%2F#%E6%9C%AA%E7%9F%A5%2080
 vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@104.19.44.254:443?&security=tls&fp=chrome&sni=kivi.mrconfigur.site&type=ws&headerType=none&host=kivi.mrconfigur.site&path=%2F#%E6%9C%AA%E7%9F%A5%20108
@@ -498,3 +493,8 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.254:2053?encryption=none&
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.54:2096/?type=ws&encryption=none&host=2RAYNgSeLLLboT-EmG.pAgeS.DEV&path=%2F5pl8QEnuYcUfFIcK%3Fed%3D2560&security=tls&sni=2RAYNgsellLBoT-emG.PAGeS.dEv&alpn=h2%2Chttp%2F1.1&fp=randomized#%40Hope_Net-join-us-on-Telegram
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.58:2096/?type=ws&encryption=none&host=jOINV2ngfast-7nr.PAges.Dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&sni=joinV2NGFasT-7Nr.pAgeS.DeV#%40Hope_Net-join-us-on-Telegram
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.75:443/?type=ws&encryption=none&host=v2nGfaSt-Jcr.pagEs.Dev
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.83:443?path=🔒
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.45.11:443/?type=ws&encryption=none&host=mAhdisErvEr-A73.PAges.dev&path=%2FiaB9XFQkNK14OI76%3Fed%3D2560&security=tls&sni=mAHDiSerVEr-a73.PagES.Dev&alpn=h2%2Chttp%2F1.1&fp=randomized#%40Hope_Net-join-us-on-Telegram
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.45.12:8443/?type=ws&encryption=none&host=MAHDiserVeR-338.pagES.deV&path=%2FKwWqmhog2Zx4u9YD%3Fed%3D2560&security=tls&sni=mAhdisErver-338.pagEs.deV&alpn=h2%2Chttp%2F1.1&fp=randomized#%40Hope_Net-join-us-on-Telegram
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.45.12:8443/?type=ws&encryption=none&host=MAHDiserVeR-338.pagES.deV&path=🔒
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.45.7:2096/?type=ws&encryption=none&host=JOInv2ngFaSt-2mM.pA...&security=tls&sni=JoinV2nGFaSt-2MM.pAges.DEV
