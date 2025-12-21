@@ -1,7 +1,3 @@
-vless://9d3a51b9-a9d6-4370-9fa3-3a60c2f8647e@tnl15.radnikmax.ir:8098?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tnl15-685
-vless://c5018b98-838f-4e3d-802a-e0e2bc38f7a9@tnl15.radnikmax.ir:8098?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tnl15-686
-vless://38226a6d-c25b-4735-a74e-19b729206762@tnl15.radnikmax.ir:8098?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tnl15-687
-vless://12e35e2d-7c5a-462f-ba02-878aa961281a@tnl15.radnikmax.ir:8098?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tnl15-688
 vless://c9a7eeb0-f9d4-4dfd-8a50-f65873e6890f@tnl15.radnikmax.ir:8098?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tnl15-689
 vless://91b3d03f-2ca9-4743-b941-cfc2f2889df7@tnl15.radnikmax.ir:8098?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tnl15-690
 vless://40711382-a9b8-4273-9fb5-ef5e28a82b75@tnl15.radnikmax.ir:8098?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tnl15-691
@@ -498,3 +494,7 @@ vless://18f4ffc2-d0bc-4c43-a577-c36c80ffec84@tnl38.vipradvin.ir:8099?encryption=
 vless://e79524d3-e4c1-417c-8ebf-1aa69c4d67b7@tnl38.vipradvin.ir:8099?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tnl38-1182
 vless://41b2c1fb-c9df-410a-bf55-9b6842a996e5@tnl38.vipradvin.ir:8099?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tnl38-1183
 vless://75053b17-c948-4d18-8ee3-09894e1c195e@tnl38.vipradvin.ir:8099?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tnl38-1184
+vless://72bf213d-32c4-467b-a338-70bd58015f64@tnl38.vipradvin.ir:8099?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tnl38-1185
+vless://b77f5571-3a4d-4318-8d6b-4ab61e48df5d@tnl38.vipradvin.ir:8099?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tnl38-1186
+vless://29bb0e19-cc51-426a-9938-c031d1f954f6@tnl38.vipradvin.ir:8099?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tnl38-1187
+vless://31f4a14a-50b3-431e-8a2f-00ea0245a3c7@tnl38.vipradvin.ir:8099?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tnl38-1188
