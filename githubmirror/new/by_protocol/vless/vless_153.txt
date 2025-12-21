@@ -1,3 +1,7 @@
+vless://181fd3e2-df14-43ba-8a9b-dfb75866fbc1@H:8696?security=none&type=grpc&headerType=&serviceName=200vless&authority=&mode=gun
+vless://181fd3e2-df14-43ba-8a9b-dfb75866fbc1@tun.shadowcx.top:100?security=none&type=grpc&headerType=&serviceName=1081vless&authority=&mode=gun
+vless://181fd3e2-df14-43ba-8a9b-dfb75866fbc1@tun.shadowcx.top:8696?security=none&type=grpc&headerType=&serviceName=200vless&authority=&mode=gun
+vless://181fd3e2-df14-43ba-8a9b-dfb75866fbc1@tun.shadowcx.top:8697?security=none&type=tcp&headerType=&path=🔒
 vless://1820765e-c193-4ae1-a96c-f2c476becb4b@95.141.37.73:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=aws.com&fp=chrome&security=reality&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&sid=#%F0%9F%87%AE%F0%9F%87%B9%20IT%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40evay_vpn%20%5B22%5D
 vless://1820765e-c193-4ae1-a96c-f2c476becb4b@95.141.37.73:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=aws.com&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#🇩🇪@Evay_vpn
 vless://1820765e-c193-4ae1-a96c-f2c476becb4b@95.141.37.73:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=🔒
@@ -494,7 +498,3 @@ vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=%
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=%2Fsghiyws&security=tls&encryption=none&insecure=0&host=terazhedi.info&type=ws&allowInsecure=0&sni=terazhedi.info#RELAY🚩
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=%2Fsghiyws&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=terazhedi.info#%40Daily_Configs
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=%2Fsghiyws&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=terazhedi.info#%40meli_proxyy
-vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=%2Fsghiyws&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=terazhedi.info#RELAY🚩
-vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=%2Fsghiyws&security=tls&encryption=none&insecure=1&host=terazhedi.info&type=ws&allowInsecure=1&sni=terazhedi.info#RELAY🚩
-vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=%2Fsghiyws&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1&sni=terazhedi.info#RELAY🚩
-vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=%2Fsghiyws&security=tls&encryption=none&type=ws&sni=terazhedi.info#%E2%99%A8%EF%B8%8F%20%40PlanB_net%20%D9%85%D9%86%D8%A8%D8%B9%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%88%20%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86

@@ -1,3 +1,7 @@
+vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=🔒
+vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?security=tls&encryption=none&type=ws&host=hetzner-4.access.name.ng&path=🔒
+vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?security=tls&sni=🔒
+vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?security=tls&type=ws&headerType=&path=/&host=lease-20.access.name.ng&sni=lease-20.access.name.ng&fp=#telegram
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?security=tls&type=ws&headerType=&path=🔒
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?type=ws&host=lease-11.access.name.ng&path=🔒
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?type=ws&host=lease-14.access.name.ng&path=🔒
@@ -494,7 +498,3 @@ vless://d1237c01-58b5-48f9-8a27-8a396b7f5422@104.18.209.108:80?path=🔒
 vless://d1237c01-58b5-48f9-8a27-8a396b7f5422@172.67.186.221:80/?type=ws&encryption=none&host=ey.nazanin.dpdns.org&path=%3Fed%3D2560#%F0%9F%92%A710%40oneclickvpnkeys
 vless://d1237c01-58b5-48f9-8a27-8a396b7f5422@172.67.186.221:80/?type=ws&encryption=none&host=ey.nazanin.dpdns.org&path=🔒
 vless://d1237c01-58b5-48f9-8a27-8a396b7f5422@172.67.186.221:80?path=🔒
-vless://d129ba1b-3a4e-4bc8-e153-926a6f28f040@chat.deepseek.com:80?type=ws&path=/olem/ws?ed=1024&host=fin.channel.digicyber.click&security=none#@melov2ray🇫🇮
-vless://d129ba1b-3a4e-4bc8-e153-926a6f28f040@chat.deepseek.com:80?type=ws&path=🔒
-vless://d129ba1b-3a4e-4bc8-e153-926a6f28f040@tgju.org:80?type=ws&path=/olem/ws?ed=1024&host=fin.channel.digicyber.click&security=none#@melov2ray🇫🇮
-vless://d129ba1b-3a4e-4bc8-e153-926a6f28f040@tgju.org:80?type=ws&path=🔒

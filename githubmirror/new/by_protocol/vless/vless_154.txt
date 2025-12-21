@@ -1,3 +1,7 @@
+vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=%2Fsghiyws&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=terazhedi.info#RELAY🚩
+vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=%2Fsghiyws&security=tls&encryption=none&insecure=1&host=terazhedi.info&type=ws&allowInsecure=1&sni=terazhedi.info#RELAY🚩
+vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=%2Fsghiyws&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1&sni=terazhedi.info#RELAY🚩
+vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=%2Fsghiyws&security=tls&encryption=none&type=ws&sni=terazhedi.info#%E2%99%A8%EF%B8%8F%20%40PlanB_net%20%D9%85%D9%86%D8%A8%D8%B9%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%88%20%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=/sghiyws&security=tls&encryption=none&fp=chrome&type=ws&sni=terazhedi.info#telegram
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=/sghiyws&security=tls&encryption=none&fp=chrome&type=ws&sni=terazhedi.info#🇩🇪@FreakConfig
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=/sghiyws&security=tls&encryption=none&fp=chrome&type=ws&sni=terazhedi.info&note=@freeOnlineVPN#🇩🇪
@@ -494,7 +498,3 @@ vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.7.0:80?path=🔒
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@cdnjs.com:80/?type=ws&encryption=none&flow=&host=zoomgov.vipren.biz.id&path=🔒
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@cdnjs.com:80/?type=ws&encryption=none&host=zoomgov.vipren.biz.id&path=%2F193.123.81.105%3D443&packetEncoding=xudp#%E2%8F%B031%40oneclickvpnkeys
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@cdnjs.com:80?encryption=none&security=none&type=ws&host=zoomgov.vipren.biz.id&path=/193.123.81.105=443#@NIM_VPN_ir
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@cdnjs.com:80?encryption=none&security=none&type=ws&host=zoomgov.vipren.biz.id&path=🔒
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@vizzpn.freenet.channel.vizzfrag.ir:80/?type=ws&encryption=none&host=zoomgov.vipren.biz.id&path=%2F193.123.81.105%3D443#23%F0%9F%8F%96%EF%B8%8F%40oneclickvpnkeys
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@vizzpn.freenet.channel.vizzfrag.ir:80/?type=ws&encryption=none&host=zoomgov.vipren.biz.id&path=🔒
-vless://2037eda3-6750-428b-af5d-c396e7ce2a41@151.101.66.228:80/?type=ws&encryption=none&host=hajmainv2.COM.&path=%2FTELEGRAM-%40MainV2-ray%2C...

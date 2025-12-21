@@ -1,3 +1,7 @@
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.178:443/?type=tcp&encryption=none&security=...
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.178:443?encryption=none&security=tls&sni=🔒
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.179:443/?type=ws&encryption=none&path=%2Ffreecodes&security=tls&sni=lm.ylks01.eu.org#%40Hope_Net-join-us-on-Telegram
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.179:443?encryption=none&security=tls&sni=🔒
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.186:443/?type=ws&encryption=none&flow=&host=da.ylks.xyz&path=🔒
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.186:443/?type=ws&encryption=none&host=da.ylks.xyz&path=%2Fproxyip%253...&security=tls&sni=da.ylks.xyz
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.187:443/?type=ws&encryption=none&flow=&path=🔒
@@ -494,7 +498,3 @@ vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@2.56.126.45:443/?type=ws&encryption
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@2.56.126.45:8443/?type=ws&encryption=none&flow=&path=🔒
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@2.56.126.45:8443/?type=ws&encryption=none&path=🔒
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@2.56.126.45:8443?path=🔒
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.12.133.132:2096/?type=ws&encryption=none&flow=&path=🔒
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.12.133.132:443/?type=ws&encryption=none&flow=&path=🔒
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.12.133.132:8443/?type=ws&encryption=none&flow=&path=🔒
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.12.133.132:8443?path=🔒
