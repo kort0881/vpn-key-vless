@@ -1,3 +1,8 @@
+vless://f3a623d4-5569-44d8-a4e3-2becf94056ef@91.242.229.187:443?path=/wtnaqiws&security=tls&encryption=none&type=ws&sni=github.com#All_24--@V2rayAlpha
+vless://f3a623d4-5569-44d8-a4e3-2becf94056ef@91.242.229.187:443?path=/wtnaqiws&security=tls&encryption=none&type=ws&sni=github.com#🇳🇱@FreakConfig
+vless://f3a623d4-5569-44d8-a4e3-2becf94056ef@91.242.229.187:443?path=🔒
+vless://f3aa435a-22c0-4c8c-8db0-6bb6fe154562@151.101.3.8:80?mode=auto&path=🔒
+vless://f3aa435a-22c0-4c8c-8db0-6bb6fe154562@151.101.3.8:80?type=xhttp&path=🔒
 vless://f3af923e-ecfe-46d5-9c27-4ff95f739afe@91.99.142.198:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp
 vless://f3af923e-ecfe-46d5-9c27-4ff95f739afe@91.99.142.198:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#💎کانفیگ
 vless://f3af923e-ecfe-46d5-9c27-4ff95f739afe@91.99.203.123:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp
@@ -493,8 +498,3 @@ vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@185.176.26.61:2087?encryption=none&
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@185.18.250.185:2053?encryption=none&security=tls&sni=🔒
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@185.18.250.185:2053?encryption=none&security=tls&type=ws&sni=🔒
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@185.238.228.212:443?encryption=none&security=tls&type=ws&sni=🔒
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@188.42.145.159:2096?encryption=none&security=tls&type=ws&sni=🔒
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@188.42.145.159:8443?encryption=none&security=tls&type=ws&sni=🔒
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@188.42.145.90:8443?encryption=none&security=tls&sni=🔒
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@193.227.99.249:443?encryption=none&security=tls&sni=🔒
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@194.36.55.198:8443?encryption=none&security=tls&sni=🔒
