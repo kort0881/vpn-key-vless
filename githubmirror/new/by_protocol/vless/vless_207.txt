@@ -1,3 +1,8 @@
+vless://e01029af-ef3e-41a5-89ae-d59fe0939465@185.146.173.185:80?path=🔒
+vless://e0106b16-1d2d-45bc-c306-e31f422d9221@136.244.85.36:443?mode=gun&security=none&encryption=none&type=grpc
+vless://e0106b16-1d2d-45bc-c306-e31f422d9221@136.244.85.36:443?mode=gun&security=none&encryption=none&type=grpc#All_33--@V2rayAlpha
+vless://e0106b16-1d2d-45bc-c306-e31f422d9221@136.244.85.36:443?mode=gun&security=none&encryption=none&type=grpc#𝗝𝗼𝗶𝗻
+vless://e0106b16-1d2d-45bc-c306-e31f422d9221@45.77.64.62:443?mode=gun&security=none&encryption=none&type=grpc
 vless://e0106b16-1d2d-45bc-c306-e31f422d9221@45.77.64.62:443?mode=gun&security=none&encryption=none&type=grpc#All_23--@V2rayAlpha
 vless://e0106b16-1d2d-45bc-c306-e31f422d9221@45.77.64.62:443?mode=gun&security=none&encryption=none&type=grpc#𝗝𝗼𝗶𝗻
 vless://e0106b16-1d2d-45bc-c306-e31f422d9221@70.34.223.207:443/?type=grpc&encryption=none&flow=#%40v2rayNG_021
@@ -137,6 +142,7 @@ vless://e14c0c0e-f838-49e9-bcee-01ead9208af2@cf.dalazhi.eu.org:8443?encryption=n
 vless://e14c0c0e-f838-49e9-bcee-01ead9208af2@cf3.dalazhi.eu.org:8443?encryption=none&security=tls&sni=🔒
 vless://e15ad8b7-9ce6-4667-baac-38e064693cad@deu414.unboundaccess.org:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=🔒
 vless://e15ad8b7-9ce6-4667-baac-38e064693cad@deu414.unboundaccess.org:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=🔒
+vless://e16a35ea-6715-4e75-9845-d20358bd0876@94.232.247.168:41360?&security=reality&pbk=TY6w1zP-qUFKVCAQdQT2ZEJsZBrPO4hZjZYBSS6h6DU&sid=1aab45&fp=chrome&sni=yahoo.com&type=tcp&headerType=none&path=%2F#MD_82a1c_0007
 vless://e16a35ea-6715-4e75-9845-d20358bd0876@94.232.247.168:41360?allowInsecure=0&sni=yahoo.com&fp=chrome&security=tls#MD_speednode_0007
 vless://e16a35ea-6715-4e75-9845-d20358bd0876@94.232.247.168:41360?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=TY6w1zP-qUFKVCAQdQT2ZEJsZBrPO4hZjZYBSS6h6DU&sid=1aab45&type=tcp&headerType=none#REALITY|MD🇲🇩
 vless://e16c1f00-afa4-405f-a944-932f81e18e23@nv137.momdping.com:443/?type=ws&encryption=none&path=%2F&security=tls&sni=nv137.momdping.com#Join%20To%20%40IRAN_V2RAY1
@@ -216,8 +222,10 @@ vless://e23d2235-e0cb-4ac3-b1a8-bda27a0abd28@masterserver1.huqpmfood.ir:1331?mod
 vless://e241fa5d-ee9d-413c-a64e-53ba0112071a@91.107.170.231:24070/?type=grpc&serviceName=@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--&authority=&security=reality&pbk=Wkuh9iexXuhWaaFt1saCWk8iGS0h1mEiMtDsmoJSgAk&fp=chrome&sni=🔒
 vless://e24ae773-a59b-4504-90f8-8cffbc2bf9fe@s60.tizping.top:8880?path=%2F&security=none&encryption=none&type=ws#IR🇮🇷
 vless://e24d4ed7-66b2-402f-fd3e-96c8cfe79943@zula-game.karaj-game-farsi.ir:443?type=grpc&serviceName=/@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM&authority=&security=reality&pbk=UUYC2_gNNVUIpGrNghmPKdJZRwbF0elm-cpKW8W2cWU&fp=chrome&sni=🔒
-vless://e258977b-e413-4718-a3af-02d75492c349@104.16.31.105:443?&security=tls&fp=chrome&sni=bb-67r.pages.dev&type=ws&headerType=none&host=bb-67r.pages.dev&path=%2F%3Fed%3D2560#%E6%9C%AA%E7%9F%A5%2027
-vless://e258977b-e413-4718-a3af-02d75492c349@104.19.173.145:443?&security=tls&fp=chrome&sni=jp-99k.pages.dev&type=ws&headerType=none&host=jp-99k.pages.dev&path=%2F%3Fed%3D2560#%E6%9C%AA%E7%9F%A5%206
+vless://e258977b-e413-4718-a3af-02d75492c349@104.16.31.105:443?&security=tls&fp=chrome&sni=bb-67r.pages.dev&type=ws&headerType=none&host=bb-67r.pages.dev&path=%2F#%E6%9C%AA%E7%9F%A5%2073
+vless://e258977b-e413-4718-a3af-02d75492c349@104.16.31.105:443?&security=tls&fp=chrome&sni=bb-67r.pages.dev&type=ws&headerType=none&host=bb-67r.pages.dev&path=%2F%3Fed%3D2560#%E6%9C%AA%E7%9F%A5%2057
+vless://e258977b-e413-4718-a3af-02d75492c349@104.19.173.145:443?&security=tls&fp=chrome&sni=jp-99k.pages.dev&type=ws&headerType=none&host=jp-99k.pages.dev&path=%2F#%E6%9C%AA%E7%9F%A5%2081
+vless://e258977b-e413-4718-a3af-02d75492c349@104.19.173.145:443?&security=tls&fp=chrome&sni=jp-99k.pages.dev&type=ws&headerType=none&host=jp-99k.pages.dev&path=%2F%3Fed%3D2560#%E6%9C%AA%E7%9F%A5%2088
 vless://e258977b-e413-4718-a3af-02d75492c349@104.19.173.225:443?security=tls&type=ws&path=%2F&host=yyds.x-aniu----hk.netlib.re&sni=yyds.x-aniu----hk.netlib.re#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2012
 vless://e258977b-e413-4718-a3af-02d75492c349@104.19.189.82:443?path=/?ed=2560?ed=2048HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN&security=tls&encryption=none&host=www.x-aniu-hk.netlib.re&type=ws&sni=www.x-aniu-hk.netlib.re#@HiByeVPNN❤️‍🔥🏆💫
 vless://e258977b-e413-4718-a3af-02d75492c349@104.19.189.82:443?path=🔒
@@ -229,15 +237,14 @@ vless://e258977b-e413-4718-a3af-02d75492c349@162.159.2.134:2087?security=tls&typ
 vless://e258977b-e413-4718-a3af-02d75492c349@162.159.2.134:2087?security=tls&type=ws&path=%2F&host=ww.x-aniu---tw.netlib.re&sni=ww.x-aniu---tw.netlib.re&fp=chrome&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%A9%F0%9F%87%AADE_9%20%F0%9F%A7%AD%204.6MB%2Fs#کانفیگ_پرسرعت
 vless://e258977b-e413-4718-a3af-02d75492c349@162.159.2.134:2087?security=tls&type=ws&path=/&host=ww.x-aniu---tw.netlib.re&sni=ww.x-aniu---tw.netlib.re&fp=chrome&encryption=none#t.me/entryNET/config=1851904549697358
 vless://e258977b-e413-4718-a3af-02d75492c349@162.159.2.134:2087?security=tls&type=ws&path=🔒
-vless://e258977b-e413-4718-a3af-02d75492c349@162.159.4.135:2087?&security=tls&fp=chrome&sni=qqq-3t8.pages.dev&type=ws&headerType=none&host=qqq-3t8.pages.dev&path=%2F#%E6%96%B0%E5%8A%A0%E5%9D%A1%20-%20%E6%96%B0%E5%8A%A0%E5%9D%A1%20-%20Cloudflare%2C%20Inc.%20-%209
-vless://e258977b-e413-4718-a3af-02d75492c349@162.159.4.135:2087?&security=tls&fp=chrome&sni=qqq-3t8.pages.dev&type=ws&headerType=none&host=qqq-3t8.pages.dev&path=%2F%3Fed%3D2560#%E6%9C%AA%E7%9F%A5%2020
+vless://e258977b-e413-4718-a3af-02d75492c349@162.159.4.135:2087?&security=tls&fp=chrome&sni=qqq-3t8.pages.dev&type=ws&headerType=none&host=qqq-3t8.pages.dev&path=%2F#%E6%9C%AA%E7%9F%A5%2053
+vless://e258977b-e413-4718-a3af-02d75492c349@162.159.4.135:2087?&security=tls&fp=chrome&sni=qqq-3t8.pages.dev&type=ws&headerType=none&host=qqq-3t8.pages.dev&path=%2F%3Fed%3D2560#%E6%9C%AA%E7%9F%A5%2051
 vless://e258977b-e413-4718-a3af-02d75492c349@162.159.42.71:2087?security=tls&type=ws&path=%2F&host=yyds.x-aniu----hk.netlib.re&sni=yyds.x-aniu----hk.netlib.re#%F0%9F%87%B8%F0%9F%87%AC%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%96%B0%E5%8A%A0%E5%9D%A1%2006
 vless://e258977b-e413-4718-a3af-02d75492c349@162.159.61.134:2087?encryption=none&security=tls&sni=ww.x-aniu---tw.netlib.re&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=ww.x-aniu---tw.netlib.re&path=%2F%3Fed%3D2560#@meli_proxyy
 vless://e258977b-e413-4718-a3af-02d75492c349@162.159.61.134:2087?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=ww1.x-aniu---hk.netlib.re&fp=chrome&type=ws&allowInsecure=0&sni=ww1.x-aniu---hk.netlib.re#@meli_proxyy
 vless://e258977b-e413-4718-a3af-02d75492c349@172.64.154.113:8443?encryption=none&security=tls&sni=yyds.x-aniu----hk.netlib.re&insecure=0&allowInsecure=0&type=ws&host=yyds.x-aniu----hk.netlib.re&path=%2F%3Fed%3D2560#@meli_proxyy
 vless://e258977b-e413-4718-a3af-02d75492c349@172.64.34.82:2087?security=tls&type=ws&path=%2F&host=yyds.x-aniu----hk.netlib.re&sni=yyds.x-aniu----hk.netlib.re#%F0%9F%87%B8%F0%9F%87%AC%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%96%B0%E5%8A%A0%E5%9D%A1%2007
 vless://e258977b-e413-4718-a3af-02d75492c349@172.64.41.222:2087?security=tls&type=ws&path=%2F&host=yyds.x-aniu----hk.netlib.re&sni=yyds.x-aniu----hk.netlib.re&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%96%B0%E5%8A%A0%E5%9D%A1%2010
-vless://e258977b-e413-4718-a3af-02d75492c349@34.92.187.216:443?&security=tls&fp=chrome&sni=qqq-3t8.pages.dev&type=ws&headerType=none&host=qqq-3t8.pages.dev&path=%2F%3Fed%3D2560#_%E9%A6%99%E6%B8%AF
 vless://e258977b-e413-4718-a3af-02d75492c349@47.239.69.137:8440?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=www.x-aniu----sg.netlib.re&fp=chrome&type=ws&sni=www.x-aniu----sg.netlib.re#%40V2RAY_VMESS_free
 vless://e258977b-e413-4718-a3af-02d75492c349@47.57.190.228:8388?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=www.x-aniu-----jp.netlib.re&fp=chrome&type=ws&sni=www.x-aniu-----jp.netlib.re#%40V2RAY_VMESS_free
 vless://e258977b-e413-4718-a3af-02d75492c349@8.212.79.249:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=www.x-aniu-----jp.netlib.re&fp=chrome&type=ws&sni=www.x-aniu-----jp.netlib.re#%40V2RAY_VMESS_free
@@ -256,6 +263,8 @@ vless://e25f83e8-cdaf-46d8-beb0-01a5e57b2ef2@91.107.190.249:2095?path=%2F%40hash
 vless://e25f83e8-cdaf-46d8-beb0-01a5e57b2ef2@91.107.190.249:2095?path=🔒
 vless://e265fc78-e269-46b2-9b6a-85f573dab3d5@engliskieusjai.gojustore.site:7035?path=/&security=none&encryption=none&host=filimo.com&type=ws#t.me/entryNET/config=1852066869716748
 vless://e265fc78-e269-46b2-9b6a-85f573dab3d5@engliskieusjai.gojustore.site:7035?path=🔒
+vless://e265fc78-e269-46b2-9b6a-85f573dab3d5@pizaitaliano.gojustore.site:7035?path=/&security=none&encryption=none&host=filimo.com&type=ws#t.me/entryNET/config=1852102107693412
+vless://e265fc78-e269-46b2-9b6a-85f573dab3d5@pizaitaliano.gojustore.site:7035?path=🔒
 vless://e26f7c15-5805-4082-aa3c-91553d53cb03@62.60.159.205:443?path=🔒
 vless://e27b35d9-8d5b-5352-8c99-ab91563ce158@104.16.16.21:2095/?type=ws&encryption=none&host=ch2.vless.Sitespeedtest.net.&path=%2FELeNa-TheGr...
 vless://e28cf77c-be33-4f99-be90-54b90994b4a8@65.109.203.70:443?security=reality&encryption=none&pbk=NVOzqrT9fAAQzV1t5AQQMgQ-Q4y_Szgyxe14qG3rMS0&headerType=&fp=chrome&spx=/&type=tcp&sni=🔒
@@ -340,7 +349,6 @@ vless://e3c95719-d6ff-4bd6-87ba-80c1d0c975a9@fr.api-music-fa.com:2053?path=%2FJ5
 vless://e3c95719-d6ff-4bd6-87ba-80c1d0c975a9@fr.api-music-fa.com:2053?path=/J5aLQOY1R9ONWYCM&security=tls&encryption=none&host=fr.api-music-fa.com&type=ws&sni=fr.api-music-fa.com#All_13--@V2rayAlpha
 vless://e3c95719-d6ff-4bd6-87ba-80c1d0c975a9@fr.api-music-fa.com:2053?path=🔒
 vless://e3c95719-d6ff-4bd6-87ba-80c1d0c975a9@fr.api-music-fa.com:2053?type=ws&encryption=none&flow=&host=fr.api-music-fa.com&path=%2FJ5aLQOY1R9ONWYCM&security=tls&sni=fr.api-music-fa.com&allowInsecure=1#RELAY🚩
-vless://e3ce253c-896c-416f-9a4a-33b1cb771e02@ru01-blh02.tcp-reset-club.net:443?&security=reality&flow=xtls-rprx-vision&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=e499f276e7bd6420&fp=chrome&sni=www.kinopoisk.ru&type=tcp&headerType=none&host=ru01-blh02.tcp-reset-club.net&path=%2F#_%E9%BB%8E%E5%B7%B4%E5%AB%A9%207
 vless://e3d64166-b47a-44e1-8760-756542f4ca28@V2ngFast.huqpmfood.ir:1146?mode=auto&path=/@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast&security=reality&encryption=none&extra={
 vless://e3d64166-b47a-44e1-8760-756542f4ca28@V2ngFast.huqpmfood.ir:1146?mode=auto&path=🔒
 vless://e3d94113-2327-4e23-8203-c253ad6707ca@62.60.178.200:20322/?type=tcp&security=reality&pbk=cLJCl5LCJzgE87pszomC4YTGLiJvCj2NqG_4ktYIKyk&fp=chrome&sni=🔒
@@ -490,11 +498,3 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.133:8880?mode=gun&securit
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.133:8880?security=&sni=🔒
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.139:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh27v1.nature27.shop#%D8%AE%D8%B1%DB%8C%D8%AF%20%40Orange_supp
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.139:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh27v1.nature27.shop#%D8%B3%D8%B1%D9%88%D8%B1%20%D9%87%D8%A7%DB%8C%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%D8%AF%D8%B1%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20satellitenewspersian%40%E2%9C%85
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.141:443?note=---Telegram---%40NetifyVPN---Telegram---%40NetifyVPN---Telegram---%40NetifyVPN---Telegram---%40NetifyVPN---&mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh27v5.hiddendom.shop#RELAY🚩
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.141:443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh27v5.hiddendom.shop#🇺🇸[Telegram:NetifyVPN]
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.141:443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=🔒
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.141:443?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---&mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh27v5.hiddendom.shop#RELAY🚩
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.141:8880?encryption=none&security=none&type=grpc
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.142:8880?mode=gun&security=none&encryption=none&type=grpc
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.142:8880?mode=gun&security=none&encryption=none&type=grpc#ALL@azadiiivpn
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.144:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh27v6.nature27.shop#@meli_proxyy
