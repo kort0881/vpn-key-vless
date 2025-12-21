@@ -1,9 +1,3 @@
-vless://9ec8ff64-b8b0-4ed3-a216-129a48fa689a@148.113.207.224:443/?type=ws&encryption=none&host=148.113.207.224&path=%2Fws&security=tls&sni=zula.ir&fp=chrome#%40v2ray_configs_pool
-vless://9ec8ff64-b8b0-4ed3-a216-129a48fa689a@148.113.207.224:443/?type=ws&encryption=none&host=148.113.207.224&path=🔒
-vless://9ec8ff64-b8b0-4ed3-a216-129a48fa689a@148.113.207.224:443?path=🔒
-vless://9eca9c74-951c-4947-c108-72c0ae70a74a@chat.deepseek.com:80?path=🔒
-vless://9eca9c74-951c-4947-c108-72c0ae70a74a@chat.deepseek.com:80?type=ws&path=🔒
-vless://9eca9c74-951c-4947-c108-72c0ae70a74a@tgju.org:80?path=🔒
 vless://9eca9c74-951c-4947-c108-72c0ae70a74a@tgju.org:80?type=ws&path=🔒
 vless://9eca9c74-951c-4947-c108-72c0ae70a74a@www.speedtest.net:80?path=🔒
 vless://9eca9c74-951c-4947-c108-72c0ae70a74a@www.speedtest.net:80?type=ws&path=🔒
@@ -498,3 +492,9 @@ vless://Parsashonam-Bot-7@104.17.147.22:8080?type=ws&path=🔒
 vless://Parsashonam-Bot-9@185.146.173.39:8080?path=🔒
 vless://Parsashonam@91.99.16.244:443/?type=xhttp&encryption=none&sni=🔒
 vless://Parsashonam@91.99.16.244:443?mode=auto&path=🔒
+vless://PishiNetVPN@free.piche.pw:443?security=reality&encryption=none&pbk=EZTa45xsiH73ZE0l-VWVfUq7W_dU_zwo2VKpHOXzHw4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=docker.com&sid=cf86b03cf7a52a#✅سرورهایبیشتردرکانال:prrofile_purple@✅
+vless://PishiNetVPN@free.piche.pw:443?security=reality&encryption=none&pbk=EZTa45xsiH73ZE0l-VWVfUq7W_dU_zwo2VKpHOXzHw4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒
+vless://RK_VPS@www.speedtest.net:8880?type=ws&path=🔒
+vless://RK_VPS@www.zula.ir:8880?type=ws&path=🔒
+vless://RxSxCvgCNf8wGoZga0izd2@46.229.253.75:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=dl.google.com&fp=chrome&security=reality&pbk=dROkPCrJlqSRqozeZzh1GvNX43rxvtOFxokj-Ecb2DM&sid=2f2d79e82a96c046#23%F0%9F%A6%96%40oneclickvpnkeys
+vless://SERVERNETT-SERVERNETT1@alo007.sernett.ir:80?mode=auto&path=/&security=none&encryption=none&type=xhttp#azadiiivpn

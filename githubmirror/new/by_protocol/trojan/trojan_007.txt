@@ -1,3 +1,4 @@
+trojan://NISHIKUITAN222@108.162.196.36:443/?type=tcp&security=tls&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
 trojan://Watashi_VPN@104.18.26.94:8443/?type=ws&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&path=%2F&security=tls&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir#%40Hope_Net-join-us-on-Telegram
 trojan://tg-dns68@162.159.152.88:443/?type=ws&host=vip.putata.eu.org&security=tls&sni=vip.putata.eu.org#%40Hope_Net-join-us-on-Telegram
 trojan://6c0ed3fb-f0b0-5b53-a762-f8f8d832bdba@172.67.66.177:2096/?type=ws&host=vfarid.xcdi.wORKeRS.dev&security=tls&sni=vfarid.xcdi.wORKeRS.dev#%40Hope_Net-join-us-on-Telegram
@@ -497,4 +498,3 @@ trojan://telegram-id-directvpn@51.44.146.211:22223?security=tls&alpn=http/1.1&he
 trojan://YwuvGJk36B@creativecommons.org:2053?path=%2Fyamtekodasayahhh&security=tls&alpn=http%2F1.1&host=kotlet.arshiacomplus.dpdns.org&fp=firefox&type=ws&sni=kotlet.arshiacomplus.dpdns.org#%40EuServer
 trojan://telegram-id-privatevpns@3.73.148.183:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@15.188.211.210:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
-trojan://telegram-id-privatevpns@15.236.119.43:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs

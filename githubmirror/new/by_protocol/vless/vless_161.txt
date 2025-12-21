@@ -1,5 +1,3 @@
-vless://34c13de4-7cec-5238-a730-a78f5ae8f890@5.39.249.119:443/?type=ws&encryption=none&host=5.39.249.119&path=🔒
-vless://34c8b6c9-7a1d-445a-92fb-2f10215d8c94@S1.LoadBalance.LAT:2090?mode=gun&security=reality&encryption=none&authority=&pbk=OTv4I7eaaqHgYAlL5EIrDlotApPujvk9OoJU58FRGz4&fp=chrome&type=grpc&serviceName=mgrpcm&sni=refersion.com&sid=e17185329455b179#@CaV2ray
 vless://34c8b6c9-7a1d-445a-92fb-2f10215d8c94@S1.LoadBalance.LAT:2090?mode=gun&security=reality&encryption=none&authority=&pbk=OTv4I7eaaqHgYAlL5EIrDlotApPujvk9OoJU58FRGz4&fp=chrome&type=grpc&serviceName=mgrpcm&sni=🔒
 vless://34c8b6c9-7a1d-445a-92fb-2f10215d8c94@S1.LoadBalance.LAT:5109?mode=gun&security=reality&encryption=none&authority=&pbk=OTv4I7eaaqHgYAlL5EIrDlotApPujvk9OoJU58FRGz4&fp=chrome&type=grpc&serviceName=mgrpcm&sni=refersion.com&sid=e17185329455b179#@CaV2ray
 vless://34c8b6c9-7a1d-445a-92fb-2f10215d8c94@S1.LoadBalance.LAT:5109?mode=gun&security=reality&encryption=none&authority=&pbk=OTv4I7eaaqHgYAlL5EIrDlotApPujvk9OoJU58FRGz4&fp=chrome&type=grpc&serviceName=mgrpcm&sni=🔒
@@ -498,3 +496,5 @@ vless://3a8171ea-a706-40f6-a97a-97264263dc1c@84.201.174.159:443?security=reality
 vless://3a8171ea-a706-40f6-a97a-97264263dc1c@84.201.174.159:443?security=reality&encryption=none&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&headerType=none&fp=chrome&spx=?ed=2048HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN&type=tcp&flow=xtls-rprx-vision&sni=🔒
 vless://3a84d592-025e-495c-8c06-cf3c2f1dbbf4@FASTSHOVPNTELEGRAM.fast.hosting-ip.com:80?mode=auto&path=🔒
 vless://3a95905b-0ee1-494b-bda8-79c20dc41be5@be.kimjo.ir:8080?mode=auto&path=🔒
+vless://3a999fcf-bbb3-4f47-aeb5-cf2e03eb553c@194.120.24.125:21689?type=grpc&serviceName=&authority=&security=none
+vless://3aa78f08-e345-4d83-bda0-f34eebc5fcc8@95.164.117.40:22161?security=none&type=tcp#%F0%9F%87%BA%F0%9F%87%A6_UA_%E4%B9%8C%E5%85%8B%E5%85%B0-%3E%F0%9F%87%B2%F0%9F%87%A9_MD_%E6%91%A9%E5%B0%94%E5%A4%9A%E7%93%A6

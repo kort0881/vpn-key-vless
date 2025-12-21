@@ -1,5 +1,3 @@
-vless://28a6787d-b076-4c7a-be0c-772f5990a25d@94.237.30.138:36534?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=asos.com&pbk=Vq0bh06jdIg-3eyAjHfA8_RZKT9C-a9IbqRqzayWl28&sid=41f255&spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#🇩🇪
-vless://28a6787d-b076-4c7a-be0c-772f5990a25d@94.237.30.138:36534?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=🔒
 vless://28b1fd8a-57b0-481e-830b-af3a7907f474@104.17.148.22:2082?security=none&type=ws&host=www.speedtest.net.zula.ir.Shad.ir.sHaparak.ir.torob.com.namaSha.com.namnak.com.filiMo.com.Rokna.net.teleweBion.com.iraNikala.toP.&path=%2F%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn%3Fed%3D1024#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD-%3E%F0%9F%87%AE%F0%9F%87%B7_IR_%E4%BC%8A%E6%9C%97
 vless://28ba1c0a-63b8-44b0-8bc8-01ef87f8f8b3@de2.arta-net.top:39539?type=tcp&encryption=none&security=none&path=🔒
 vless://28c27cde-5cf8-4cdb-af94-f773b0263729@162.159.135.42:8443/?type=ws&encryption=none&flow=&host=join.bede.VPNCUSTOMIZE.www.speedtest.net.Powerfullserver.de&path=🔒
@@ -498,3 +496,5 @@ vless://2bd0516b-d354-4b73-a198-9d826ab478ae@vlgr1.g2ray.com:443?encryption=none
 vless://2bd0516b-d354-4b73-a198-9d826ab478ae@vlgr2.g2ray.com:443?encryption=none&flow=xtls-rprx-direct&security=xtls&type=tcp&headerType=none
 vless://2bd0516b-d354-4b73-a198-9d826ab478ae@vlgr2.g2ray.com:443?encryption=none&security=tls&type=tcp&headerType=none
 vless://2bd0516b-d354-4b73-a198-9d826ab478ae@vlgr2.g2ray.com:443?encryption=none&security=tls&type=ws&path=🔒
+vless://2bd0516b-d354-4b73-a198-9d826ab478ae@vlgr3.g2ray.com:443?encryption=none&flow=xtls-rprx-direct&security=xtls&type=tcp&headerType=none
+vless://2bd0516b-d354-4b73-a198-9d826ab478ae@vlgr3.g2ray.com:443?encryption=none&security=tls&type=tcp&headerType=none
