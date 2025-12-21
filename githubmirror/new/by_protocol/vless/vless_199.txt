@@ -333,9 +333,7 @@ vless://bb6e0719-3d1a-4896-bddc-ddc86d682609@104.16.122.4:8080?&security=false&f
 vless://bb6e0719-3d1a-4896-bddc-ddc86d682609@104.16.122.4:8080?path=%2F&security=none&encryption=none&host=support.sslzoom.us&type=ws#All_5--%40V2rayAlpha
 vless://bb6e0719-3d1a-4896-bddc-ddc86d682609@104.16.122.4:8080?path=/&security=none&encryption=none&host=support.sslzoom.us&type=ws#All_5--@V2rayAlpha
 vless://bb6e0719-3d1a-4896-bddc-ddc86d682609@104.16.122.4:8080?path=🔒
-vless://bb6e0719-3d1a-4896-bddc-ddc86d682609@104.16.122.4:8080?security=none&type=ws&path=%2F&host=support.sslzoom.us&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%B8%F0%9F%87%ACSG_1%20%F0%9F%A7%AD%204.1MB%2Fs#کانفیگ_پرسرعت
 vless://bb6e0719-3d1a-4896-bddc-ddc86d682609@104.16.122.4:8080?security=none&type=ws&path=%2F&host=support.sslzoom.us&encryption=none#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:21.68ms
-vless://bb6e0719-3d1a-4896-bddc-ddc86d682609@104.16.122.4:8080?security=none&type=ws&path=🔒
 vless://bb747893-51e8-4131-895d-edaae3f7cc80@165.22.205.134:443?mode=gun&security=reality&encryption=none&pbk=eNkiDdcREIqmvvWLHkA9eOZR9OlHHwT8HG-Q-yhcVQQ&fp=chrome&spx=/&type=grpc&serviceName=@IRAN_V2RAY1@IRAN_V2RAY1@IRAN_V2RAY1@IRAN_V2RAY1@IRAN_V2RAY1@IRAN_V2RAY1@IRAN_V2RAY1@IRAN_V2RAY1@IRAN_V2RAY1
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.126.93:8443/?type=xhttp&encryption=none
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.126.93:8443/?type=xhttp&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40imhdiyvp%20%5B11%5D
@@ -498,3 +496,5 @@ vless://bc920cd0-6a85-4841-871f-46c440f22353@206.189.29.23:443/?type=ws&encrypti
 vless://bc920cd0-6a85-4841-871f-46c440f22353@206.189.29.23:443/?type=ws&encryption=none&flow=&path=/aeyloows&security=tls&sni=ozon.ru&allowInsecure=1&fp=chrome#📡39@oneclickvpnkeys
 vless://bc920cd0-6a85-4841-871f-46c440f22353@206.189.29.23:443/?type=ws&encryption=none&flow=&path=🔒
 vless://bc920cd0-6a85-4841-871f-46c440f22353@206.189.29.23:443?path=%2Faeyloows&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1&sni=ozon.ru#RU🇷🇺
+vless://bc920cd0-6a85-4841-871f-46c440f22353@206.189.29.23:443?path=/aeyloows&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1&sni=ozon.ru#https://t.me/v2rayNplus
+vless://bc920cd0-6a85-4841-871f-46c440f22353@206.189.29.23:443?path=🔒
