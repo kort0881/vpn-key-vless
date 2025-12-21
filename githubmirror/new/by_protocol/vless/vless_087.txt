@@ -1,6 +1,3 @@
-vless://40acbc60-0607-43a6-a604-5f27751d36e4@www.speedtest.net:80?serviceName=Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH&security=none&encryption=none&host=speedtest.net&type=ws # [ By EbraSha ]
-vless://40b1c6e0-01d3-4bb7-99b4-4e92b70534eb@a.confignor.site:35493?type=grpc&encryption=none&serviceName=++++@ConfigFree&authority=&security=reality&pbk=qeWt8jJZTwf6vmiTvDfaalPaSZDkX7a3XkKrBxf2YVA&fp=chrome&sid=9c24&spx=/ # [ By EbraSha ]
-vless://40b63324-6e84-4501-bd00-68ca4d8daa0e@77.221.152.27:26480?security=reality&encryption=none&pbk=15ZlM5p8DB5Fp4mtva2pvtC4IBtcxSxqeuZ0R7ffkRk&headerType=none&fp=chrome&spx=/&type=tcp&sid=4b8f669536c45c2b # [ By EbraSha ]
 vless://40b63324-6e84-4501-bd00-68ca4d8daa0e@77.221.152.27:26480?security=reality&encryption=none&pbk=15ZlM5p8DB5Fp4mtva2pvtC4IBtcxSxqeuZ0R7ffkRk&host=speedtest.net&headerType=none&fp=chrome&spx=/&type=tcp&sid=4b8f669536c45c2b # [ By EbraSha ]
 vless://40bbf4bd-a66a-4a01-9e72-2fd3eff6e875@104.19.118.80:2083?type=ws&host=speedtest.net&security=tls&fp=chrome&alpn=h3,h2,http/1.1 # [ By EbraSha ]
 vless://40c4812d-b1fe-4ff1-922b-a10e95ee1d70@45.10.59.218:15833?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&pbk=8z6qPN2t7wZ0nmOGhSTYaq__XqP8gDZar85XauwP4i0&sid=d0&spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn # [ By EbraSha ]
@@ -498,3 +495,6 @@ vless://505953c2-071a-47a1-950d-4c8e7609992e@gr.liteingshop.com:2082?security=no
 vless://5077c281-8431-4943-d8cc-6f67d8bb75c6@104.17.148.22:2095?security=none&encryption=none&host=speedtest.net&type=ws # [ By EbraSha ]
 vless://5077c281-8431-4943-d8cc-6f67d8bb75c6@46.224.119.100:2095?security=none&encryption=none&host=speedtest.net&type=ws # [ By EbraSha ]
 vless://5077c281-8431-4943-d8cc-6f67d8bb75c6@46.224.119.100:2095?security=none&type=ws&host=speedtest.net&encryption=none # [ By EbraSha ]
+vless://5077c281-8431-4943-d8cc-6f67d8bb75c6@test2.amin8263.ir:2095?type=ws&encryption=none&host=speedtest.net&security=none # [ By EbraSha ]
+vless://508d96e8-953f-4a67-bc7d-8aba5878f38a@5.10.214.123:8080?mode=auto&security=none&encryption=none&host=speedtest.net&type=xhttp # [ By EbraSha ]
+vless://508d96e8-953f-4a67-bc7d-8aba5878f38a@dl.dornagamesco.ir:80?encryption=none&security=none&type=xhttp&host=speedtest.net&mode=auto&extra={"xPaddingBytes":"100-1000"} # [ By EbraSha ]

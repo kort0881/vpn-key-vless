@@ -1,6 +1,3 @@
-vless://5077c281-8431-4943-d8cc-6f67d8bb75c6@test2.amin8263.ir:2095?type=ws&encryption=none&host=speedtest.net&security=none # [ By EbraSha ]
-vless://508d96e8-953f-4a67-bc7d-8aba5878f38a@5.10.214.123:8080?mode=auto&security=none&encryption=none&host=speedtest.net&type=xhttp # [ By EbraSha ]
-vless://508d96e8-953f-4a67-bc7d-8aba5878f38a@dl.dornagamesco.ir:80?encryption=none&security=none&type=xhttp&host=speedtest.net&mode=auto&extra={"xPaddingBytes":"100-1000"} # [ By EbraSha ]
 vless://508d96e8-953f-4a67-bc7d-8aba5878f38a@luna.postpapet.ir:13136?security=reality&encryption=none&pbk=r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms&headerType=none&fp=chrome&type=tcp&sid=27e6b66aa77662fb # [ By EbraSha ]
 vless://50a9ab6c-1e20-41f2-b0d2-93ddec168ef9@trt.fastlynew.hosting-ip.com:80?mode=auto&security=&encryption=none&host=speedtest.net&type=xhttp # [ By EbraSha ]
 vless://50a9ab6c-1e20-41f2-b0d2-93ddec168ef9@trt.fastlynew.hosting-ip.com:80?mode=auto&security=none&encryption=none&host=speedtest.net&type=xhttp # [ By EbraSha ]
@@ -498,3 +495,6 @@ vless://6967a7f2-e8a7-497e-f72e-c989e9f896d7@91.98.169.122:443?mode=gun&security
 vless://6967a7f2-e8a7-497e-f72e-c989e9f896d7@91.98.169.122:443?mode=gun&security=none&encryption=none&type=grpc # [ By EbraSha ]
 vless://696f0888-f81f-4bcb-a0da-6aa851ba0705@185.126.255.180:443?type=tcp&encryption=none&headerType=http&security=reality&pbk=AdkdFL1GILtsxWSOcwdB-budJOiw2cXac8eIPxYIokw&fp=chrome&sid=&spx=/ # [ By EbraSha ]
 vless://697eabfd-653c-4da2-8b3f-b4806e0b60aa@139.162.145.100:443?mode=stream-one&security=none&encryption=none&type=xhttp # [ By EbraSha ]
+vless://699dc7cd-243e-4a1c-8136-42424a57b17e@am8.amin-1.ir:2082?type=xhttp&encryption=none&host=speedtest.net&mode=auto&security=none # [ By EbraSha ]
+vless://69d3a1cb-34a0-457f-89d4-28672c7aeabb@England.phantompanel.shop:3681?security=reality&encryption=none&pbk=iEgw42MO585IunvN6WGEO6XlG7l0U3qmawuOBeXrMiM&headerType=none&type=tcp&sid=6fe14a1f66f4bb82 # [ By EbraSha ]
+vless://69dcbbeb-ff0a-44f1-a205-396bd509c2ff@deusup.dashping1.ir:8101?security=reality&encryption=none&pbk=DG2WqjfT9HFqCfHzaYAVNEayiJN8yGQ64YT9-9eV5Fs&fp=chrome&sid=bbddcffa7270&spx=/F------Telegram------RayphoriaHub---------Telegram------RayphoriaHub---------Telegram------RayphoriaHub---------Telegram------RayphoriaHub---------Telegram------RayphoriaHub---------Telegram------RayphoriaHub---&flow=xtls-rprx-vision # [ By EbraSha ]

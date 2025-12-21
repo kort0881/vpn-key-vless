@@ -1,6 +1,3 @@
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.145.219:443?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp # [ By EbraSha ]
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.150.74:51615?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp # [ By EbraSha ]
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.151.199:443/?encryption=none&host=speedtest.net&type=tcp&headerType=http # [ By EbraSha ]
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.151.199:443?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp # [ By EbraSha ]
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.159.125:443?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp # [ By EbraSha ]
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.160.13:443?encryption=none&security=none&type=tcp&headerType=http&host=speedtest.net # [ By EbraSha ]
@@ -498,3 +495,6 @@ vless://40730d97-ffa7-1108-2c53-761516eb5fda@166.1.131.6:993?security=reality&en
 vless://40730d97-ffa7-1108-2c53-761516eb5fda@45.148.233.10:993?security=reality&encryption=none&pbk=eJeVlxdi2YBV1YpPVCcCgTez80y8ny27SQoZZVBFGyc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision # [ By EbraSha ]
 vless://40730d97-ffa7-1108-2c53-761516eb5fda@91.230.128.10:993?security=reality&encryption=none&pbk=uiNUZVDwZTHc3jYpobpZgTzN_2V8Vt8zSVXqANXKUUE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision # [ By EbraSha ]
 vless://408f71e2-170d-4bf9-8b42-b6ba23cc227c@blog.ruangguru.com.servpn.my.id:443?security=tls&encryption=none&host=speedtest.net&fp=chrome&type=ws # [ By EbraSha ]
+vless://40acbc60-0607-43a6-a604-5f27751d36e4@www.speedtest.net:80?serviceName=Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH&security=none&encryption=none&host=speedtest.net&type=ws # [ By EbraSha ]
+vless://40b1c6e0-01d3-4bb7-99b4-4e92b70534eb@a.confignor.site:35493?type=grpc&encryption=none&serviceName=++++@ConfigFree&authority=&security=reality&pbk=qeWt8jJZTwf6vmiTvDfaalPaSZDkX7a3XkKrBxf2YVA&fp=chrome&sid=9c24&spx=/ # [ By EbraSha ]
+vless://40b63324-6e84-4501-bd00-68ca4d8daa0e@77.221.152.27:26480?security=reality&encryption=none&pbk=15ZlM5p8DB5Fp4mtva2pvtC4IBtcxSxqeuZ0R7ffkRk&headerType=none&fp=chrome&spx=/&type=tcp&sid=4b8f669536c45c2b # [ By EbraSha ]
