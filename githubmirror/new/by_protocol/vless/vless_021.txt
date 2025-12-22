@@ -1,3 +1,4 @@
+vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@zula.ir:443?path=/sghiyws&security=tls&encryption=none&host=terazhedi.info&type=ws&sni=terazhedi.info#@Broz_time+>++
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@zula.ir:443?path=/sghiyws&security=tls&encryption=none&host=terazhedi.info&type=ws&sni=terazhedi.info#@bored_vpn
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@zula.ir:443?path=/sghiyws&security=tls&encryption=none&host=terazhedi.info&type=ws&sni=terazhedi.info#@mehrosaboran
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@zula.ir:443?path=/sghiyws&security=tls&encryption=none&host=terazhedi.info&type=ws&sni=terazhedi.info#@FreakConfig
@@ -497,4 +498,3 @@ vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.190.38:51615?security=none&en
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.195.240:443?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#@CaV2ray
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.195.240:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#@CaV2ray
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.198.191:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@CaV2ray
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.198.191:443?security=none&encryption=none&host=zula.ir/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#@CaV2ray
