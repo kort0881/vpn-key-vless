@@ -1,4 +1,3 @@
-vless://fca01448-d84a-436e-9aec-3be1ebdfb350@209.208.227.218:8443?security=tls&sni=sB-1U6.PAgeS.deV&type=ws&host=sB-1U6.PAgeS.deV&path=%2Fbdbeqy5r01xte4fl%2Fmtu4ljewms4ymdmumti3%3Fed%3D2560# VL-WS-TLS  US-209.208.227.218:8443
 vless://8250d638-45df-41fa-b06f-160d1cb1de0c@172.64.202.122:443?security=tls&sni=abc.vpneee.top&type=ws&host=abc.vpneee.top&path=%2FYnqGMcAt%2F&fp=chrome# VL-WS-TLS  NA-172.64.202.122:443
 vless://4a4c4a4d-36f4-4f84-b86f-0aa2489c6acf@172.67.151.138:80?security=none&type=httpupgrade&host=30283.namasha.COM.TR.&path=%2Fd3d3LmlyYW5ob3N0LmNvbQ%3D%3D%3Fed%3D2082# VL-HTTPUPGRADE-NONE  NA-172.67.151.138:80
 vless://ff6f4e1a-75ac-478b-cd4c-03cf05572b90@172.67.132.209:8880?security=none&type=ws&host=www.speedtest.net.Cafinet-lighter.ir.&path=/@Archive_Android------@Archive_Android------@Archive_Android------@Archive_Android------@Archive_Android------@Archive_Android------@Archive_Android------@Archive_Android------@Archive_Android# VL-WS-NONE  NA-172.67.132.209:8880
@@ -498,3 +497,4 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@194.76.18.50:443?security=tls&sni=d
 vless://5475795f-d425-41dc-97f3-a322dfd7515a@104.16.127.169:8880?security=none&type=ws&host=%E7%A9%86%E7%BD%95%E9%BB%98%E5%BE%B7%E4%BE%AFfreerxteamirteamop.rxteam.tech.&path=%2F# VL-WS-NONE  NA-104.16.127.169:8880
 vless://922e96cd-7ed5-4836-a2f3-11c441716e53@104.21.46.253:8880?security=none&type=ws&host=join.2.kiava.cloud.speedtest.net.xn--mgba2h8quf.cdn.ws80.cloudfront.net.kiava.fun&path=%2F%3Fed%3D2560# VL-WS-NONE  NA-104.21.46.253:8880
 vless://578ade22-1e58-4c37-ce01-bfad51a72c62@185.135.9.173:8443?security=tls&sni=12l1.diginoshops3.ir&type=grpc# VL-GRPC-TLS  DE-185.135.9.173:8443
+vless://99b69926-d214-45bd-b111-dd553dcba4d7@104.16.103.112:2087?security=tls&sni=apkdownload.miracleheartbit.icu&type=httpupgrade&host=apkdownload.miracleheartbit.icu&path=%2F%40v2rayyngvpn%3Fed%3D32&fp=chrome# VL-HTTPUPGRADE-TLS  NA-104.16.103.112:2087
