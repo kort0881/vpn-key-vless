@@ -276,11 +276,10 @@ trojan://8dbc65c4-04a9-4e47-b880-d7ed358e7cef@tiananmen.19890604.day:10803?type=
 trojan://8dbc65c4-04a9-4e47-b880-d7ed358e7cef@tank.19890604.day:10827?type=tcp&amp;security=tls&amp;sni=cloudflare.node-ssl.cdn-alibaba.com&amp;allowInsecure=1#TG:@dns68新加坡01
 trojan://8dbc65c4-04a9-4e47-b880-d7ed358e7cef@tank.19890604.day:10828?type=tcp&amp;security=tls&amp;sni=cloudflare.node-ssl.cdn-alibaba.com&amp;allowInsecure=1#TG:@dns68新加坡02
 trojan://8dbc65c4-04a9-4e47-b880-d7ed358e7cef@tank.19890604.day:10829?type=tcp&amp;security=tls&amp;sni=cloudflare.node-ssl.cdn-alibaba.com&amp;allowInsecure=1#新TG:@dns68加坡03
-trojan://44e660b0ee21cf3ac66aee2c08af85d2@58.152.110.104:443?allowInsecure=0&sni=www.nintendogames.net#🇭🇰[openproxylist.com] trojan-HK
+trojan://44e660b0ee21cf3ac66aee2c08af85d2@58.152.110.104:443?security=tls&sni=www.nintendogames.net#🇭🇰[openproxylist.com] trojan-HK
 trojan://BxceQaOe@58.152.26.107:443?allowInsecure=1&sni=t.me%2Fripaojiedian#🇭🇰[openproxylist.com] trojan-HK
 trojan://BxceQaOe@58.152.25.71:443?allowInsecure=1&sni=t.me%2Fripaojiedian#🇭🇰[openproxylist.com] trojan-HK
 trojan://bb824a22-b7ce-427b-9ed6-1adf0751da02@107.174.82.102.sslip.io:443?security=tls&type=ws&sni=107.174.82.102.sslip.io&path=/gXKGj8a1tp1nNbZEcRugowKV#🇺🇸[openproxylist.com] trojan-US
-trojan://BxceQaOe@58.152.30.31:443?allowInsecure=1&sni=🔒 [By DukeMehdi] b2n.ir/v2ray-configs | 676 #🇭🇰[openproxylist.com] trojan-HK
 trojan://tRxkV-KcTuypP%3D8Yj6Bgd@70.34.220.34:25599?type=tcp&security=tls&sni=cryptographiccupcake.silentrocket.click&allowInsecure=1#@Vip_Security join us - 401
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@202.181.103.246:1334?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=www.nintendogames.net#@Vip_Security join us - 400
 trojan://dreDeMpIQpnv@104.21.44.185:2053/?type=tcp&security=tls&sni=aryanews.onetwothree123.ir&allowInsecure=1#%F0%9F%8F%81RELAY-104.21.44.185-5029
@@ -2892,6 +2891,7 @@ trojan://d150c8c3-a667-4d3e-843c-739f8558c7d2@uk-full.privateip.net:443/?type=tc
 trojan://30761083-5dcd-49d6-85b5-33756ef1f7ed@uk2-full.privateip.net:443/?type=tcp&security=tls#%F0%9F%87%AC%F0%9F%87%A7GB-46.101.87.178-4852
 trojan://4d5cc30d-df0f-4d9a-ab3c-6a70ab0ce361@tr-full.privateip.net:443/?type=tcp&security=tls#%F0%9F%87%B9%F0%9F%87%B7TR-94.131.123.236-4853
 trojan://BxceQaOe@219.79.214.159:443/?type=tcp&security=tls&sni=t.me%2Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0HK-219.79.214.159-4990
+trojan://BxceQaOe@58.152.30.31:443/?type=tcp&security=tls&sni=t.me%2Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0HK-58.152.30.31-4992
 trojan://e2722c0fb503f8a592436c12bce0509a@160.16.124.55:2760/?type=tcp&security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.124.55-4999
 trojan://e2722c0fb503f8a592436c12bce0509a@160.16.106.144:2760/?type=tcp&security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.106.144-5000
 trojan://e2722c0fb503f8a592436c12bce0509a@160.16.131.243:2760/?type=tcp&security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.131.243-5066
@@ -2927,7 +2927,7 @@ trojan://34c52684-3aee-456d-8e21-fe16d0277e5a@bestcdn2.868863.xyz:2096/?type=ws&
 trojan://6a5cb4b7-8dad-3077-b21c-6f47e8dfb9af@hn.xiaohouzi.club:18440/?type=tcp&security=tls&sni=avas05.xiaohouzi.club#%F0%9F%87%BA%F0%9F%87%B8US-76.223.54.146-0006
 trojan://740628@136.175.177.136:8000?security=tls&sni=sj.cestbon.work&fp=chrome&type=grpc&serviceName=cestbon#@V2ray_Collector
 trojan://CXCu72eya8wFeRySSFpDz3CN6jBYac5OIl3q0gSl8xZOADY3EK94pxZanDA3RT@35.77.216.3:443?security=tls&sni=broker.superpokemon.com&allowInsecure=1&type=tcp#@awlix_irss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@125.141.31.72:15098#@awlix_irss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.20:38388#@awlix_irvmess://eyJhZGQiOiI0Ny4yMzkuMTIuOTAiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiOTQ2MDU2ZWMtZjdhOC00Njc4LWJhOWItYTU5NWU4ZDYxZjI0IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiMzMyMTAiLCJwcyI6IkBhd2xpeF9pciIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=vmess://eyJhZGQiOiI0My4yNDcuMTM0Ljg1IiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6ImNiZmZiODI1LTkzZDUtNGExOS1hZWQwLTA5MzZhNDhjODRkMyIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjQ3MDEwIiwicHMiOiJAYXdsaXhfaXIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9سری کانفیگ های جدید ، حتما همشو تست کنید حمایت فراموش نشه عزیزان دمتون گرم💚💛🙏🏻@awlix_ir
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Mon-22-Dec-2025 17:01
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Mon-22-Dec-2025 17:47
 trojan://juzi@104.19.57.183:2096?security=tls&amp;sni=juzi8186-sr1.pages.dev&amp;type=tcp#@awlix_ir
 trojan://3r372@91.195.240.94:443?security=tls&amp;sni=tj786.37927.online&amp;type=tcp#@awlix_ir
 trojan://juzi@3.76.154.119:443?security=tls&amp;sni=juzi8186-sr1.pages.dev&amp;type=tcp#@awlix_ir

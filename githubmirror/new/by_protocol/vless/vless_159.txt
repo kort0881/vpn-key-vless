@@ -1,3 +1,6 @@
+vless://401374e6-df77-41fb-f638-dad8184f175b@185.59.218.168:443?mode=gun&security=tls&encryption=none&type=grpc&sni=🔒
+vless://401374e6-df77-41fb-f638-dad8184f175b@185.59.218.58:443/?type=grpc&encryption=none&flow=&security=tls&sni=🔒
+vless://401374e6-df77-41fb-f638-dad8184f175b@185.59.218.58:443/?type=grpc&encryption=none&security=tls&sni=pqh36v4.hiddendom.shop&alpn=h2#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40v2ray_collector%20%5B32%5D
 vless://401374e6-df77-41fb-f638-dad8184f175b@185.59.218.58:443/?type=grpc&encryption=none&security=tls&sni=🔒
 vless://401374e6-df77-41fb-f638-dad8184f175b@185.59.218.58:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=🔒
 vless://401374e6-df77-41fb-f638-dad8184f175b@185.59.218.58:443?security=tls&sni=🔒
@@ -495,6 +498,3 @@ vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.1.103:80?path=🔒
 vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.100.124:80/?type=ws&encryption=none&host=edge.validbv3528.ir
 vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.100.124:80/?type=ws&encryption=none&host=edge.validbv3528.ir#%40Hope_Net-join-us-on-Telegram%3Cbr...
 vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.101.100:80/?type=ws&encryption=none&host=edge.validbv3528.ir&path=%2Fvless-wsfp%3Dchrome#%40Hope_Net-join-us-on-Telegram
-vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.101.100:80/?type=ws&encryption=none&host=edge.validbv3528.ir&path=🔒
-vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.101.10:80/?type=ws&encryption=none&host=edge.validbv3528.ir&path=%2Fvless-wsfp%3Dchrome#%40Hope_Net-join-us-on-Telegram
-vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.101.10:80/?type=ws&encryption=none&host=edge.validbv3528.ir&path=🔒
