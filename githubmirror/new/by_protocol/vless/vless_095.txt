@@ -1,3 +1,4 @@
+vless://e2ecd0b1-d6cc-4f70-8906-4530fb6eff99@helsinki.fonixapp.org:51713?security=reality&encryption=none&pbk=ETlf5jYSfWCurnzl9iZ3URUFHWB8_JWWR8jrp2UizVs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sid=9e7234a45944 # [ By EbraSha ]
 vless://e2f4d1fa-0a6d-48c3-a5bb-8b438e78af23@www.speedtest.net:443?security=tls&encryption=none&host=speedtest.net&fp=randomized&type=ws # [ By EbraSha ]
 vless://e321d153-8bfa-4191-9170-a478f8cf6b8e@91.107.141.33:36959?type=tcp&encryption=none&security=none # [ By EbraSha ]
 vless://e323c1bf-9e9a-0336-961a-b813ac35fd4b@www.speedtest.net:2052?security=&encryption=none&host=speedtest.net&type=ws # [ By EbraSha ]
@@ -497,4 +498,3 @@ vless://edccc2be-382b-4990-90e3-3d2b185c2d79@63.141.128.16:8080?security=none&en
 vless://edd9414d-acbb-4d5a-90e2-52449dfbf430@172.66.40.99:2052?type=ws&host=speedtest.net&security=none # [ By EbraSha ]
 vless://ee06e485-f3d1-46c0-97f4-e98040b828ed@162.159.9.55:443?security=tls&encryption=none&host=speedtest.net&fp=chrome&type=ws # [ By EbraSha ]
 vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@108.162.193.217:443/?type=ws&encryption=none&flow=&host=speedtest.net&security=tls&allowInsecure=1&fp=chrome # [ By EbraSha ]
-vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@108.162.193.217:443?encryption=none&security=tls&fp=chrome&insecure=0&allowInsecure=0&type=ws # [ By EbraSha ]

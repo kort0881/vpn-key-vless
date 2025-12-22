@@ -1,3 +1,4 @@
+vless://797d8132-6c08-4d5f-accc-eba1d6fdc9c5@91.98.76.73:2052?mode=auto&security=reality&encryption=none&pbk=B4bL5jZotLi91qBuoZjrl5wI4txIa5GmgS2ifinc7VA&fp=chrome&spx=/favicon.ico&type=xhttp&sid=6a # [ By EbraSha ]
 vless://799bed94-e67e-4c3f-b87d-0cd843ab1c9c@45.80.230.143:46395?encryption=none&type=grpc&mode=gun&serviceName=/@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN&security=reality&fp=chrome&pbk=R7rQRf2vm_y2RYIFDZcS5ucks0gNKgKthRT-bUtyymo&sid=96973faa2f0bf0&spx=/ # [ By EbraSha ]
 vless://799cab05-0f00-4a6b-9b5b-5485ebed5862@narcod-ping.numallaf.shop:47511?type=tcp&host=speedtest.net&headerType=http&security=none # [ By EbraSha ]
 vless://79a01b8d-48a7-424a-97d6-d4fa0f1bb2f2@104.18.27.90:2053?security=tls&encryption=none&host=speedtest.net&type=ws # [ By EbraSha ]
@@ -497,4 +498,3 @@ vless://93382dc3-a897-402f-8f6a-261f867f1e43@m45a.vip784.com:33801?security=none
 vless://935c990a-9bcc-484b-86a2-2a402f9ad1d4@GRumpY-bUIldinG.seOToOLSfoRYou.cO.Uk:80?security=&encryption=none&type=ws # [ By EbraSha ]
 vless://935c990a-9bcc-484b-86a2-2a402f9ad1d4@grumpy-building.seotoolsforyou.co.uk:80?encryption=none&security=none&type=ws # [ By EbraSha ]
 vless://935c990a-9bcc-484b-86a2-2a402f9ad1d4@grumpy-building.seotoolsforyou.co.uk:80?security=none&encryption=none&type=ws # [ By EbraSha ]
-vless://936698ea-58bf-4b19-8cd5-ffd73cc44c91@csgo-news.film2serial.cloud:443?flow=&type=grpc&mode=gun&serviceName=6k9LhPdmkFyy7eL4dZlhBC&security=tls&fp=chrome&alpn=h2&allowInsecure=false # [ By EbraSha ]

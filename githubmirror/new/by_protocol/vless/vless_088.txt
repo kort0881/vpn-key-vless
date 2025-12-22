@@ -1,3 +1,4 @@
+vless://494e4d9d-e1e6-42be-a9df-8a6fbd46b650@84.201.4.247:1598?security=none&type=grpc&headerType=&serviceName=EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420-bia-EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420-EXPRESSVPN_420&authority=&mode=gun # [ By EbraSha ]
 vless://495c0dad-3268-4470-ac57-887c5089db0d@162.159.152.2:443?security=tls&encryption=none&host=speedtest.net&fp=chrome&type=ws # [ By EbraSha ]
 vless://495c0dad-3268-4470-ac57-887c5089db0d@162.159.152.2:443?security=tls&type=ws&host=speedtest.net&fp=chrome&encryption=none # [ By EbraSha ]
 vless://495c0dad-3268-4470-ac57-887c5089db0d@162.159.153.2:443?security=tls&encryption=none&host=speedtest.net&fp=chrome&type=ws # [ By EbraSha ]
@@ -497,4 +498,3 @@ vless://6-TEL-JKVPN--JKVPN@www.speedtest.net:2095?security=none&encryption=none&
 vless://6-TEL-JKVPN--JKVPN@www.zula.ir:2095?security=none&encryption=none&host=speedtest.net&type=ws # [ By EbraSha ]
 vless://600c6208-a0e4-4d49-b249-55b69ead4422@xjp.caball.link:443?security=tls&encryption=none&type=ws # [ By EbraSha ]
 vless://600eae54-5014-40a2-99f3-215ff340c26d@109.122.249.156:57107?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp # [ By EbraSha ]
-vless://6012197b-0c50-4141-e1b3-857fd3b8748b@www.speedtest.net:2082?security=none&encryption=none&host=speedtest.net&type=ws # [ By EbraSha ]

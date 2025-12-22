@@ -1,3 +1,4 @@
+vless://267e5284-8c31-42ed-9807-2182a88ca78b@45.92.219.50:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&pbk=9F7JxyyP-TNLt0dY2xOB0_34I8W0xXIpFY7rZ7-L0Gg&sid=19aa22f681923dc8 # [ By EbraSha ]
 vless://267e5284-8c31-42ed-9807-2182a88ca78b@45.92.219.50:443?security=reality&encryption=none&pbk=9F7JxyyP-TNLt0dY2xOB0_34I8W0xXIpFY7rZ7-L0Gg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sid=19aa22f681923dc8 # [ By EbraSha ]
 vless://267e5284-8c31-42ed-9807-2182a88ca78b@pl.dznn.net:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&pbk=9F7JxyyP-TNLt0dY2xOB0_34I8W0xXIpFY7rZ7-L0Gg&sid=19aa22f681923dc8 # [ By EbraSha ]
 vless://267e5284-8c31-42ed-9807-2182a88ca78b@pl.dznn.net:443?security=reality&encryption=none&pbk=9F7JxyyP-TNLt0dY2xOB0_34I8W0xXIpFY7rZ7-L0Gg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sid=19aa22f681923dc8 # [ By EbraSha ]
@@ -497,4 +498,3 @@ vless://378df8e8-add6-4416-9eba-e30042fc19c8@37.27.220.157:443?security=reality&
 vless://37b4fc07-e0ab-4036-8843-6ed6945d3a3c@cfip.penubit.com:443?encryption=none&type=httpupgrade&host=speedtest.net&security=tls&fp=chrome&alpn=http/1.1&mux=4 # [ By EbraSha ]
 vless://37d04b77-d08c-4f34-958d-d9f2ff9cc32a@Zula.iR:80?type=ws&host=speedtest.net&security=none # [ By EbraSha ]
 vless://37d95fc6-9bc2-44de-9a67-e122821475b9@62.60.247.164:8880?encryption=none&type=ws&host=speedtest.net&security=none # [ By EbraSha ]
-vless://38021ff2-6778-4363-92b1-d70ac11acf51@www.speedtest.net:2096?security=tls&encryption=none&insecure=0&host=speedtest.net&type=ws&allowInsecure=0 # [ By EbraSha ]
