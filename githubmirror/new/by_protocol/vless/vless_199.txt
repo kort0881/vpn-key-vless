@@ -1,7 +1,3 @@
-vless://b91131f7-c382-4be8-9e7d-a373a3d23d77@172.67.193.36:443?security=tls&sni=🔒
-vless://b91131f7-c382-4be8-9e7d-a373a3d23d77@95.217.188.144:443?security=tls&sni=🔒
-vless://b9199356-42fe-468e-b9aa-2761695cf902@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?encryption=none&security=tls&sni=🔒
-vless://b91f41b0-240f-4672-8408-1de00281630c@104.18.0.0:443?mode=auto&security=tls&alpn=h2&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A+1000000%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D&host=baznet.mmdmrx23.workers.dev&fp=chrome&type=xhttp&sni=baznet.mmdmrx23.workers.dev#RELAY🚩
 vless://b931afaa-c19a-4274-a508-dd4e7c876ddd@62.60.164.140:4040?security=&encryption=none&headerType=&type=tcp
 vless://b931afaa-c19a-4274-a508-dd4e7c876ddd@62.60.164.140:4040?security=&encryption=none&headerType=&type=tcp#✅@v2ray_configs_pools
 vless://b931afaa-c19a-4274-a508-dd4e7c876ddd@newspeople.psmehdizamani.ir:443?encryption=none&security=none&type=tcp&headerType=http&host=varzesh3.com
@@ -498,3 +494,7 @@ vless://be46e8ee-19ea-4f10-93d0-4e6238eb3aae@Net.1lagvpn13.cfd:2087?mode=gun&sec
 vless://be66b332-6b25-4e8e-9529-be5926c47bc6@masterserver1.huqpmfood.ir:1331?mode=auto&path=/@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1&security=reality&encryption=none&extra={
 vless://be66b332-6b25-4e8e-9529-be5926c47bc6@masterserver1.huqpmfood.ir:1331?mode=auto&path=🔒
 vless://be72cd92-92d2-4543-9bef-1673fcd03b45@137.74.53.176:35789/?type=tcp&encryption=none&flow=
+vless://be72cd92-92d2-4543-9bef-1673fcd03b45@137.74.53.176:35789?security=none&encryption=none&headerType=none&type=tcp#%40V2RAY_VMESS_free
+vless://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789/?type=tcp&encryption=none&flow=
+vless://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789?security=&encryption=none&headerType=none&type=tcp
+vless://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789?security=&encryption=none&headerType=none&type=tcp#Channel-@vmesskhodam
