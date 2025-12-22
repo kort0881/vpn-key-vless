@@ -271,6 +271,7 @@ trojan://44e660b0ee21cf3ac66aee2c08af85d2@58.152.110.104:443?allowInsecure=0&sni
 trojan://BxceQaOe@58.152.26.107:443?allowInsecure=1&sni=t.me%2Fripaojiedian#🇭🇰[openproxylist.com] trojan-HK
 trojan://BxceQaOe@58.152.25.71:443?allowInsecure=1&sni=t.me%2Fripaojiedian#🇭🇰[openproxylist.com] trojan-HK
 trojan://bb824a22-b7ce-427b-9ed6-1adf0751da02@107.174.82.102.sslip.io:443?security=tls&type=ws&sni=107.174.82.102.sslip.io&path=/gXKGj8a1tp1nNbZEcRugowKV#🇺🇸[openproxylist.com] trojan-US
+trojan://BxceQaOe@58.152.30.31:443?allowInsecure=1&sni=🔒 [By DukeMehdi] b2n.ir/v2ray-configs | 676 #🇭🇰[openproxylist.com] trojan-HK
 trojan://cf142ac0-4bae-4c4b-9882-21fc0550a661@188.114.97.3:443?sni=red-dream-2d6c.xepis84786.workers.dev&type=ws&path=/?ed=2560&fp=chrome#@Vip_Security join us - 435
 trojan://dreDeMpIQpnv@104.21.44.185:2053/?type=tcp&security=tls&sni=aryanews.onetwothree123.ir&allowInsecure=1#%F0%9F%8F%81RELAY-104.21.44.185-5029
 trojan://52701795-3c3b-46b4-b7cf-c5978b3a4cf2@104.21.47.176:443/?type=tcp&security=tls&sni=hdfyc1.achaemenidempireofpersia.uk&allowInsecure=1#%40Hope_Net-join-us...
@@ -2881,7 +2882,6 @@ trojan://d150c8c3-a667-4d3e-843c-739f8558c7d2@uk-full.privateip.net:443/?type=tc
 trojan://30761083-5dcd-49d6-85b5-33756ef1f7ed@uk2-full.privateip.net:443/?type=tcp&security=tls#%F0%9F%87%AC%F0%9F%87%A7GB-46.101.87.178-4852
 trojan://4d5cc30d-df0f-4d9a-ab3c-6a70ab0ce361@tr-full.privateip.net:443/?type=tcp&security=tls#%F0%9F%87%B9%F0%9F%87%B7TR-94.131.123.236-4853
 trojan://BxceQaOe@219.79.214.159:443/?type=tcp&security=tls&sni=t.me%2Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0HK-219.79.214.159-4990
-trojan://BxceQaOe@58.152.30.31:443/?type=tcp&security=tls&sni=t.me%2Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0HK-58.152.30.31-4992
 trojan://e2722c0fb503f8a592436c12bce0509a@160.16.124.55:2760/?type=tcp&security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.124.55-4999
 trojan://e2722c0fb503f8a592436c12bce0509a@160.16.106.144:2760/?type=tcp&security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.106.144-5000
 trojan://e2722c0fb503f8a592436c12bce0509a@160.16.131.243:2760/?type=tcp&security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.131.243-5066
