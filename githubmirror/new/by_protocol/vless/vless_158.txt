@@ -1,6 +1,3 @@
-vless://2ac2a3ac-49ec-4cf1-90fd-252b7fad9fbe@51.195.119.204:80?path=/vless/&security=none&encryption=none&type=ws#💎کانفیگ
-vless://2ac2a3ac-49ec-4cf1-90fd-252b7fad9fbe@51.195.119.204:80?path=🔒
-vless://2ace2af4-dbe1-4aa8-925c-ecbce7703356@152.53.86.94:34251/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒
 vless://2ace2af4-dbe1-4aa8-925c-ecbce7703356@earthshaker.fonixapp.org:34251/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒
 vless://2ace2af4-dbe1-4aa8-925c-ecbce7703356@earthshaker.fonixapp.org:34251?security=reality&encryption=none&pbk=7YnBT77FEbuPm7lDErGuskhNdiq773WQYumBa0aapXo&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=ilovepdf.com&sid=a57aef#IR-@V2rayAlpha--5
 vless://2ace2af4-dbe1-4aa8-925c-ecbce7703356@earthshaker.fonixapp.org:34251?security=reality&encryption=none&pbk=7YnBT77FEbuPm7lDErGuskhNdiq773WQYumBa0aapXo&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=🔒
@@ -498,3 +495,6 @@ vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.181.193:51615?encryption=none
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.181.193:51615?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#@CaV2ray
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.181.193:51615?security=&encryption=none&host=zula.ir&headerType=http&type=tcp
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.181.193:51615?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#@CaV2ray
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.181.193:51615?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.181.193:51615?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@CaV2ray
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.181.193:51615?security=none&encryption=none&host=zula.ir/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp

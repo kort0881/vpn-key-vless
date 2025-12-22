@@ -1,6 +1,3 @@
-vless://Parsashonam-290@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp
-vless://Parsashonam-291@185.146.173.39:8880?path=/v2ray_configs_pools/?ed=2056&security=none&encryption=none&host=De.Parsashonam.CfD.&type=httpupgrade#✅
-vless://Parsashonam-291@185.146.173.39:8880?path=🔒
 vless://Parsashonam-291@185.146.173.39:8880?type=httpupgrade&path=🔒
 vless://Parsashonam-291@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp
 vless://Parsashonam-292@185.146.173.39:8880?path=🔒
@@ -498,3 +495,6 @@ vless://TELEGRAM-NUFiLTER@speedtest.net:443?alpn=h2%2Chttp%2F1.1&encryption=none
 vless://TELEGRAM-NUFiLTER@speedtest.net:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&host=KEKE.ir&path=🔒
 vless://TELEGRAM-NUFiLTER@test.fast.hosting-ip.com:80?mode=auto&path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=80&security=none&encryption=none&host=Aame.global.ssl.fastly.net&type=xhttp#@CaV2ray
 vless://TELEGRAM-NUFiLTER@test.fast.hosting-ip.com:80?mode=auto&path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=80&security=none&encryption=none&host=asebemee.global.ssl.fastly.net&type=xhttp#@CaV2ray
+vless://TELEGRAM-NUFiLTER@test.fast.hosting-ip.com:80?mode=auto&path=🔒
+vless://TELEGRAM-v2ray_configs_pools@172.66.40.99:80?path=/telegram-v2ray_configs_pools-v2ray_configs_pools,telegram-v2ray_configs_pools?ed=80&security=none&encryption=none&host=narenji.motorphrotan.ir.&type=httpupgrade#[🇺🇸]@v2ray_configs_pools
+vless://TELEGRAM-v2ray_configs_pools@172.66.40.99:80?path=🔒

@@ -1,6 +1,3 @@
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.75:443/?type=ws&encryption=none&host=cd.ylks.xyz&path=%2Fblue&security=tls&sni=cd.ylks.xyz#%40Hope_Net-join-us-on-Telegram
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.76:443/?type=ws&encryption=none&path=%2Fblue&security=tls&sni=kp.ylks.xyz#%40Hope_Net-join-us-on-Telegram
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.81:443/?type=ws&encryption=none&flow=&path=🔒
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.81:443/?type=ws&encryption=none&path=%2Fblue&security=tls&sni=ks.ylks.xyz#%40Hope_Net-join-us-on-Telegram
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.82:443/?type=ws&encryption=none&host=la.kpcloud.eu.org&path=%25...&security=tls&sni=la.kpcloud.eu.org
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.84:443/?type=ws&encryption=none&path=%2Fblue&security=tls&sni=dd.ylks.xyz#%40Hope_Net-join-us-on-Telegram
@@ -498,3 +495,6 @@ vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.14.247.158:2096/?type=ws&encrypt
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.14.247.158:443/?type=ws&encryption=none&flow=&path=🔒
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.14.247.158:8443/?type=ws&encryption=none&flow=&path=🔒
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.14.247.217:2096/?type=ws&encryption=none&flow=&path=🔒
+vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.14.247.217:443/?type=ws&encryption=none&flow=&path=🔒
+vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.14.247.217:8443?path=🔒
+vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.14.247.3:443/?type=ws&encryption=none&flow=&path=🔒

@@ -1,6 +1,3 @@
-vless://c9045738-274c-44b9-b888-80da3fe71951@65.109.183.203:10000?security=none&encryption=none&type=ws
-vless://c9045738-274c-44b9-b888-80da3fe71951@65.109.183.203:10000?security=none&type=ws&packetEncoding=xudp&encryption=none
-vless://c9046670-0bde-4e29-8f83-6af60eca785b@185.146.173.206:2087/?type=grpc&encryption=none&serviceName=Telegram%3A%40Ce...&security=tls&sni=g4.ferdowsi.shop
 vless://c90bf4bc-ad03-4236-9881-c4179175ac93@104.24.169.97:80?type=ws&host=white-butterfly-323e.sheinbuy.workers.dev&path=%2F%3Fed%3D2560#RELAY🚩
 vless://c91ca460-51e6-470f-99ab-2b1d3439f194@198.41.214.141:443/?type=ws&encryption=none&host=byvless.xiaoqi666.xyz&path=%2F&security=tls&sni=byvless.xiaoqi666.xyz#%40Hope_Net-join-us-on-Telegram
 vless://c91ca460-51e6-470f-99ab-2b1d3439f194@198.41.214.141:443/?type=ws&encryption=none&host=byvless.xiaoqi666.xyz&path=🔒
@@ -498,3 +495,6 @@ vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?type=ws&host
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?type=ws&host=lease-20.access.name.ng&path=🔒
 vless://ccc75873-a458-48c5-8de5-890c901aaaf5@mn.co:8080?encryption=none&security=none&type=ws&host=shad.ir.bot.digicyber.click&path=%2Fmelo#RELAY🚩
 vless://ccc75873-a458-48c5-8de5-890c901aaaf5@speedtest.org:8080?encryption=none&security=none&type=ws&host=shad.ir.bot.digicyber.click&path=%2Fmelo#RELAY🚩
+vless://ccd5d8c4-634c-46bc-8f7a-5be3b8649858@85.133.215.188:3311?mode=gun&security=none&encryption=none&type=grpc
+vless://ccd5d8c4-634c-46bc-8f7a-5be3b8649858@85.133.215.188:3311?mode=gun&security=none&encryption=none&type=grpc#@CaV2ray
+vless://ccd5d8c4-634c-46bc-8f7a-5be3b8649858@turkey.jewelll.ir:3311?mode=gun&security=none&encryption=none&type=grpc

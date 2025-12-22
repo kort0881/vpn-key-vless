@@ -1,6 +1,3 @@
-vless://309fa273-6579-4cb2-9143-7cad50401eba@5.253.41.52:8443?type=tcp&security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&fp=chrome&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#@meli_proxyy
-vless://309fa273-6579-4cb2-9143-7cad50401eba@5.253.41.52:8443?type=tcp&security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&fp=chrome&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#REALITY|CY🇨🇾
-vless://309fa273-6579-4cb2-9143-7cad50401eba@67.159.56.108:443?type=tcp&security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&fp=chrome&flow=xtls-rprx-vision&sni=vk.sshield2.xyz&sid=7cad5040#@meli_proxyy
 vless://309fa273-6579-4cb2-9143-7cad50401eba@67.159.56.108:443?type=tcp&security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&fp=chrome&flow=xtls-rprx-vision&sni=vk.sshield2.xyz&sid=7cad5040#REALITY|GB🇬🇧
 vless://309fa273-6579-4cb2-9143-7cad50401eba@77.91.74.179:8443?allowInsecure=0&sni=www.cloudflare.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#IL_speednode_0017
 vless://309fa273-6579-4cb2-9143-7cad50401eba@77.91.74.179:8443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%40FreakConfig
@@ -498,3 +495,6 @@ vless://3458141f-28ec-4aca-9c6c-1bbc38d22f00@deusup.dashping1.ir:8101?security=r
 vless://3458a236-bc0a-4526-8f9a-4607fa0e8834@172.238.190.16:443?mode=stream-one&path=/&security=&encryption=none&type=xhttp#telegram
 vless://3458a236-bc0a-4526-8f9a-4607fa0e8834@172.238.190.16:443?mode=stream-one&path=🔒
 vless://345a9f16-9f70-4a9e-822d-70f632b6b722@n2vpn.projectis.ir:443?path=/&security=tls&encryption=none&fp=chrome&type=ws&sni=ghbi.ir#@n2vpn+-+کانفیگ+های+اختصاصی
+vless://345a9f16-9f70-4a9e-822d-70f632b6b722@n2vpn.projectis.ir:443?path=🔒
+vless://345eab6a-b61f-43d7-a2f5-ce01b87621b7@77.37.33.136:443/?type=ws&encryption=none&host=k7nl1.yfjc.sbs&path=%2Fyfjc%2Fknl1&security=tls&sni=k7nl1.yfjc.sbs&fp=ios#%40Hope_Net-join-us-on-Telegram
+vless://3460022e-866b-46ac-8679-ae2796b4e30a@151.101.3.8:80?path=%2Fdownload%3Fed%3D2048&security=none&encryption=none&host=barghchi.com&type=ws#IR🇮🇷
