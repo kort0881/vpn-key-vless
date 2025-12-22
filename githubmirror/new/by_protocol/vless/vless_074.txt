@@ -1,3 +1,4 @@
+vless://d3bceb00-9a45-4fb1-a417-d110721101f4@104.248.171.106:443/?type=ws&encryption=none&flow=&path=/nzcjowws&security=tls&sni=ozon.ru&allowInsecure=1#4FreeIran-11339
 vless://d3daa900-0377-4575-9ebc-c4d88cb8486c@45.88.183.158:44629?security=&type=tcp&encryption=none#4FreeIran-11340
 vless://d3dfba4e-31e5-47ea-8ac4-56af4dbb6a88@bahbah.khoreshtsabzi.ir:1025?security=reality&type=tcp&sni=refersion.com&fp=chrome&pbk=PjdMp0g9LlKXNW83Qo1taHXr2TUTWwdFfZmsOxhY5Uk&encryption=none#4FreeIran-11341
 vless://d3f3fd0b-7b5c-4070-d5dc-61f96641b507@185.201.49.94:58089?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#4FreeIran-11342
@@ -497,4 +498,3 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638965946052583460.arak-blkaft-aaas
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638966471315850594.lahijan-blkaft-aaas.info:8880?encryption=none&type=grpc&mode=gun&authority=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#4FreeIran-11836
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638967288453104894.lahijan-blkaft-aaap.info:8880?mode=gun&security=none&encryption=none&type=grpc#4FreeIran-11837
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638967500853360616.mashhad-blkaft-aaap.info:8880?mode=gun&security=none&encryption=none&type=grpc#4FreeIran-11838
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638969941052745836.athens-blkaft-aaax.info:8880?mode=gun&security=none&encryption=none&type=grpc#4FreeIran-11839
