@@ -1,3 +1,6 @@
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.6.142:2053/?type=ws&encryption=none&host=dl1-pl-cdn.easy-upload.org&path=%2F&security=tls&sni=dl1-pl-cdn.easy-upload.org&alpn=h2%2Chttp%2F1.1&fp=random#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B5%F0%9F%87%B1
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.7.53:2053/?type=ws&encryption=none&host=dl1-pl-cdn.easy-upload.org&path=%2F&security=tls&sni=dl1-pl-cdn.easy-upload.org&alpn=h2%2Chttp%2F1.1&fp=random#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B5%F0%9F%87%B1
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.210.81:2053/?type=ws&encryption=none&host=dl1-pl-cdn.easy-upload.org&path=%2F&security=tls&sni=dl1-pl-cdn.easy-upload.org&alpn=h2%2Chttp%2F1.1&fp=random#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B5%F0%9F%87%B1
 vless://289a4e03-317f-4bf8-97d3-e33200df6a3b@104.21.80.252:443/?type=ws&encryption=none&host=simowebsitespeedtest.ir&path=%2FOvFDUa0OIcxzDtAe%2FMjEzLjE0OC4xMC4xNzc&security=tls&sni=simOwebsiTeSPeedTEsT.IR&alpn=http%2F1.1&fp=randomized#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40config_proxy%20%5B49%5D
 vless://02811288-9ef3-42ef-86db-d9b1399c1a59@104.16.68.95:8880/?type=ws&encryption=none&host=vghavi32.ip-ddns.com#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40dailytek%20%5B20%5D
 vless://d88937d0-ce43-4bf8-9df6-d632810ba9ff@104.18.131.54:443/?type=ws&encryption=none&host=007.xingfu.qzz.io&path=%2F&security=tls&sni=007.xingfu.qzz.io&fp=random#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40falcunargo%20%5B9%5D
@@ -495,6 +498,3 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.41.199.160:443/?type=ws&encrypt
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@192.200.160.197:443/?type=ws&encryption=none&host=cj.ylks.xyz&path=%2F%3Fed%253...&security=tls&sni=cj.ylks.xyz
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@173.245.49.56:443/?type=ws&encryption=none&host=lj.kpcloud.eu.org&path=...&security=tls&sni=lj.kpcloud.eu.org
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@141.101.120.151:443/?type=ws&encryption=none&host=aj.ylks.xyz&path=%2F%3Fed%3D2048&security=tls&sni=aj.ylks.xyz#%40Hope_Net-join-us-on-Telegram
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@173.245.49.177:443/?type=ws&encryption=none&host=aj.ylks.xyz&path=%2F%3Fed%3D...&security=tls&sni=aj.ylks.xyz
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@173.245.59.30:443/?type=ws&encryption=none&host=aj.ylks.xyz&path=%2F%3Fed%3D2048&security=tls&sni=aj.ylks.xyz#%40Hope_Net-join-us-on-Telegram
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@108.162.196.39:443/?type=ws&encryption=none&host=aj.ylks.xyz&path=%2F%3Fed%3D2048&security=tls&sni=aj.ylks.xyz#%40Hope_Net-join-us-on-Telegram

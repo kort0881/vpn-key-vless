@@ -1,3 +1,9 @@
+vless://bd12cf37-bd2b-4f3b-be23-e91146bf1914@xpanel-ir.panelfreedom.com:2092?security=none&encryption=none&host=parsabr.com&headerType=http&type=tcp
+vless://bd134ebe-650c-4bd6-a208-2463b226adb2@104.17.147.22:80?path=/@Vpn_Mikey،@Vpn_Mikey&security=none&encryption=none&host=Vpn_Mikey-speedtest.net.Amir-Mikey.Tech.&type=httpupgrade#@Vpn_Mikey
+vless://bd134ebe-650c-4bd6-a208-2463b226adb2@104.17.147.22:80?path=🔒
+vless://bd235967-bc87-48c9-b63b-8f2b5be17946@192.99.219.120:40031?security=reality&encryption=none&pbk=s-USVtDmGcodwPKA0nxUNIZu00EvHQcuKmRuXAHFcQg&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&type=tcp&sni=sourceforge.net&sid=b50961503a702b#🇨🇦
+vless://bd235967-bc87-48c9-b63b-8f2b5be17946@192.99.219.120:40031?security=reality&encryption=none&pbk=s-USVtDmGcodwPKA0nxUNIZu00EvHQcuKmRuXAHFcQg&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&type=tcp&sni=🔒
+vless://bd26%656b0-%61865-4c81-b629-d4d07%6579873d@172.66.40.99:8080?path=🔒
 vless://bd26e6b0-a865-4c81-b629-d4d07e79873d@172.66.40.99:8080?path=🔒
 vless://bd33dca5-e673-4c02-a629-f7fa368e2333@5.161.151.225:6009/?type=xhttp&encryption=none&sni=🔒
 vless://bd33dca5-e673-4c02-a629-f7fa368e2333@5.161.151.225:6009?mode=auto&security=reality&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A+1000000%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D&pbk=cUB48wKXH2f7PNrZDtwt0UQ9uf5sMIXA5W_IA8twtGc&fp=firefox&spx=%2F&type=xhttp&sni=🔒
@@ -127,6 +133,7 @@ vless://bea34b73-3244-475b-b914-7bb80e1cda91@mar13t.rasmar1400.com:2080?security
 vless://bea34b73-3244-475b-b914-7bb80e1cda91@mar13t.rasmar1400.com:2080?security=reality&encryption=none&pbk=L3lJWdU7mHijSkNaNt-m29OYnKnHvHYRxg2Y8XXFdng&headerType=none&fp=chrome&spx=/&type=tcp&sni=🔒
 vless://beb0de6b-9494-4715-a1d0-f2e4064116b1@85.209.153.125:443?encryption=none&security=tls&allowInsecure=true&type=ws&path=/arfdccws&packetEncoding=xudp#https://t.me/ShadowsocksM68
 vless://beb0de6b-9494-4715-a1d0-f2e4064116b1@85.209.153.125:443?encryption=none&security=tls&allowInsecure=true&type=ws&path=/arfdccws&packetEncoding=xudp#🇺🇸[openproxylist.com]
+vless://beb0de6b-9494-4715-a1d0-f2e4064116b1@85.209.153.125:443?encryption=none&security=tls&allowInsecure=true&type=ws&path=🔒
 vless://beb0de6b-9494-4715-a1d0-f2e4064116b1@85.209.153.125:443?path=%2Farfdccws&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1#US🇺🇸
 vless://beb0de6b-9494-4715-a1d0-f2e4064116b1@85.209.153.125:443?path=%2Farfdccws&security=tls&encryption=none&type=ws#%40V2RAYROZ
 vless://beb0de6b-9494-4715-a1d0-f2e4064116b1@85.209.153.125:443?path=%2Farfdccws&security=tls&encryption=none&type=ws#%40V2RAY_VMESS_free
@@ -491,10 +498,3 @@ vless://c2483eb9-0a73-5c60-be30-720926aa00d3@185.146.173.42:80/?type=ws&encrypti
 vless://c2559b83-4956-40ee-9839-9e5145e4b2a5@www.check-host.net:443?path=/@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config?ed=2048&security=tls&alpn=h2,http/1.1&encryption=none&host=webfa.dnss-mobile.ir&fp=chrome&type=ws&sni=webfa.dnss-mobile.ir#🇩🇪@Alfred_Config
 vless://c2559b83-4956-40ee-9839-9e5145e4b2a5@www.check-host.net:443?path=🔒
 vless://c257c4fd-149b-492f-9861-50f034779dd4@lovetea.parsianboton.ir:3002/?type=tcp&encryption=none&flow=
-vless://c257c4fd-149b-492f-9861-50f034779dd4@lovetea.parsianboton.ir:3002/?type=tcp&encryption=none&flow=#%E2%9D%84%EF%B8%8F7%40oneclickvpnkeys
-vless://c257c4fd-149b-492f-9861-50f034779dd4@lovetea.parsianboton.ir:3002?encryption=none&packetEncoding=xudp#https://t.me/ShadowsocksM26
-vless://c257c4fd-149b-492f-9861-50f034779dd4@lovetea.parsianboton.ir:3002?security=&encryption=none&headerType=none&type=tcp
-vless://c257c4fd-149b-492f-9861-50f034779dd4@lovetea.parsianboton.ir:3002?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
-vless://c257c4fd-149b-492f-9861-50f034779dd4@lovetea.parsianboton.ir:3002?security=&encryption=none&headerType=none&type=tcp#@meli_proxyy
-vless://c257c4fd-149b-492f-9861-50f034779dd4@lovetea.parsianboton.ir:3002?security=none&encryption=none&headerType=none&type=tcp
-vless://c257c4fd-149b-492f-9861-50f034779dd4@lovetea.parsianboton.ir:3002?security=none&encryption=none&headerType=none&type=tcp#@meli_proxyy
