@@ -345,11 +345,14 @@ hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&amp;obf
 hysteria2://a084933d-0b41-4571-ae0c-7163b8c71ed1@de.eyucdn.xyz:2056?security=tls&amp;insecure=1&amp;sni=de.eyucdn.xyz#Telegram:@zede_filteri
 hysteria2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@lsj3.mangshe.xyz:2056?security=tls&amp;insecure=1&amp;sni=lsj3.mangshe.xyz#Telegram:@zede_filteri
 hysteria2://SNItest@37.18.14.169:443?security=tls&amp;insecure=1&amp;sni=megafon.ru#Telegram:@zede_filteri
+hysteria2://130ec091-df05-4af9-9695-dc982e98a8ec@168.138.194.92:28253?security=tls&insecure=1&sni=www.bing.com#%40%F0%9D%91%BD2_%F0%9D%91%B4%F0%9D%91%B6%F0%9D%91%AB_%F0%9D%91%BA%F0%9D%91%AF%F0%9D%91%B6%F0%9D%91%B7%20-%20%F0%9F%87%AF%F0%9F%87%B5%20%E2%9A%A1%20%7C
 hysteria2://17cdeb6c-f046-11ee-bdac-f23c93141fad@c37b0be5n-t3kyo0-t3lvgh-2gok.la.shifen.uk:1743/?sni=c37b0be5-t3kyo0-t3lvgh-2gok.la.shifen.uk#%3E%3E%40ShadowsocksM%3A%3AUS
-hysteria2://693a3ce6-2188-4fe9-82c0-c5c289532534@hl.dabache.top:20000?security=tls&insecure=0&mport=20000-20500&sni=hl.dabache.top#%3E%3E%40ShadowsocksM%3A%3ANL
-hysteria2://dongtaiwang.com@195.154.206.231:33880/?insecure=1&sni=apple.com#%3E%3E%40oneclickvpnkeys%3A%3AFR
+hysteria2://17cdeb6c-f046-11ee-bdac-f23c93141fad@c37b0be5n-t3kyo0-t3lvgh-2gok.la.shifen.uk:1743?security=tls&sni=c37b0be5-t3kyo0-t3lvgh-2gok.la.shifen.uk#%3E%3E%40ShadowsocksM%3A%3AUS
+hysteria2://6286105c-fb6d-11ef-be96-f23c93136cb3@227fd503-t4ssg0-t5vo4i-4550.la.shifen.uk:1743?security=tls&sni=227fd503-t4ssg0-t5vo4i-4550.la.shifen.uk&allowInsecure=true#%3E%3E%40ShadowsocksM%3A%3AUS
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=api.kermanshahi.org#%F0%9F%8C%B4%F0%9F%92%8E4
 hysteria2://dongtaiwang.com@208.87.243.187:22222/?insecure=1&sni=www.bing.com#%3E%3E%40oneclickvpnkeys%3A%3AUS
 hysteria2://dongtaiwang.com@62.210.99.49:40088/?insecure=1&sni=apple.com#%3E%3E%40oneclickvpnkeys%3A%3AFR
+hysteria2://e20cc63dc06088fba56bf786860aadaf@dd.openaccessnode.com:989?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-King-Reza-Pahlavi&insecure=0&sni=dd.ircybersec.org#%F0%9F%8D%B7%F0%9F%8D%8B%E2%80%8D%F0%9F%9F%A93
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#MHH👉Outline_ir👈%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%A8%D8%A7%20%D8%B3%D8%B1%D9%88%D8%B1%20%D9%87%D8%A7%DB%8C%20%DA%86%D9%86%D9%84%F0%9F%8D%A6%40Outline_ir
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=api.kermanshahi.org#MHH👉V2rayBaaz👈r%E2%99%A1ya
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#MHH👉V2rayBaaz👈r%E2%99%A1ya
@@ -495,6 +498,3 @@ hysteria2://5f89ac2a-b6d6-4c66-98d8-39c4d552138c@[2a0c:4ac1:8::2ae]:35000?securi
 hysteria2://5f89ac2a-b6d6-4c66-98d8-39c4d552138c@dir.cybsecguru.com:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=jnir.pichondan.com#%40V2rayNG3
 hysteria2://6286105c-fb6d-11ef-be96-f23c93136cb3@227fd503-t4ssg0-t5vo4i-4550.la.shifen.uk:1743?insecure=1#All-%40V2rayAlpha--33
 hysteria2://6286105c-fb6d-11ef-be96-f23c93136cb3@227fd503-t4ssg0-t5vo4i-4550.la.shifen.uk:1743?security=tls&insecure=1#All-@V2rayAlpha--33
-hysteria2://6286105c-fb6d-11ef-be96-f23c93136cb3@227fd503-t4ssg0-t5vo4i-4550.la.shifen.uk:1743?security=tls&sni=227fd503-t4ssg0-t5vo4i-4550.la.shifen.uk&allowInsecure=true#https://t.me/ShadowsocksM95
-hysteria2://6286105c-fb6d-11ef-be96-f23c93136cb3@cc65f71a-t4v9c0-t5waci-4550.la.shifen.uk:1743?insecure=0&sni=cc65f71a-t4v9c0-t5waci-4550.la.shifen.uk#All-%40V2rayAlpha--46
-hysteria2://6286105c-fb6d-11ef-be96-f23c93136cb3@cc65f71a-t4v9c0-t5waci-4550.la.shifen.uk:1743?security=tls&insecure=0&sni=cc65f71a-t4v9c0-t5waci-4550.la.shifen.uk#All--@IRAN_V2RAY1🇺🇸
