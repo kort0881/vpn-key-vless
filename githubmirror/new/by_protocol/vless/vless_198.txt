@@ -1,8 +1,3 @@
-vless://d7f943df-d885-4589-93e6-da8b1b2bbde2@104.24.13.124:2087/?type=ws&encryption=none&host=hi.univermap.site&path=%2F%3Fed%3D2560&security=tls&sni=hi.univermap.site&fp=random#%F0%9F%8C%9073%40oneclickvpnkeys
-vless://d7f943df-d885-4589-93e6-da8b1b2bbde2@104.24.13.124:2087/?type=ws&encryption=none&host=hi.univermap.site&path=🔒
-vless://d7f943df-d885-4589-93e6-da8b1b2bbde2@104.24.13.124:2087?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=hi.univermap.site&fp=random&type=ws&sni=hi.univermap.site#%40v2raying
-vless://d7f943df-d885-4589-93e6-da8b1b2bbde2@104.24.221.238:2096/?type=ws&encryption=none&host=hi.univermap.site&path=%2F%3Fed%3D2560&security=tls&sni=hi.univermap.site&fp=random#%F0%9F%8C%9069%40oneclickvpnkeys
-vless://d7f943df-d885-4589-93e6-da8b1b2bbde2@104.24.221.238:2096/?type=ws&encryption=none&host=hi.univermap.site&path=🔒
 vless://d7f943df-d885-4589-93e6-da8b1b2bbde2@104.24.221.238:2096?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=hi.univermap.site&fp=random&type=ws&sni=hi.univermap.site#%40v2raying
 vless://d7f943df-d885-4589-93e6-da8b1b2bbde2@188.114.98.42:2053?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=hi.univermap.site&fp=random&type=ws&sni=hi.univermap.site#%40v2raying
 vless://d7fbe279896e40118c23d15fe537dddd@213.176.16.74:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒
@@ -498,3 +493,8 @@ vless://dbaabafa-7d3e-418a-b40e-a892b2700bff@tun.shadowcx.top:8696?security=none
 vless://dbaabafa-7d3e-418a-b40e-a892b2700bff@tun.shadowcx.top:8697?security=none&type=tcp&headerType=&path=🔒
 vless://dbafa937-f8d3-4585-a266-71a324afd449@31.47.45.97:18811?type=tcp&headerType=http&host=telewebion.com&path=🔒
 vless://dbb3c682-8564-4c02-aec9-23ecf7981820@104.19.219.139:443/?type=ws&encryption=none&host=arc-448.pages.dev&path=%2Fapi%2Fv1&security=tls&sni=ARC-448.Pages.DEV&alpn=h3&fp=firefox#%F0%9F%92%A718%40oneclickvpnkeys
+vless://dbb3c682-8564-4c02-aec9-23ecf7981820@104.19.219.139:443/?type=ws&encryption=none&host=arc-448.pages.dev&path=🔒
+vless://dbb3c682-8564-4c02-aec9-23ecf7981820@104.19.219.139:443?path=🔒
+vless://dbb3c682-8564-4c02-aec9-23ecf7981820@172.66.132.196:443?path=%2FTel-%40%56%32%72%61%79%5f%41%6c%70%68%61&security=tls&encryption=none&host=arc-448.pages.dev&type=ws&sni=ARC-448.Pages.DEV#
+vless://dbb3c682-8564-4c02-aec9-23ecf7981820@172.66.132.196:443?path=/Tel-@V2ray_Alpha&security=tls&encryption=none&host=arc-448.pages.dev&type=ws&sni=ARC-448.Pages.DEV#All-@IRAN_V2RAY1
+vless://dbb3c682-8564-4c02-aec9-23ecf7981820@172.66.132.196:443?path=🔒

@@ -1,8 +1,3 @@
-vless://f282b878-8711-45a1-8c69-5564172123c1@aio.loophole.biz.id:80?path=🔒
-vless://f282b878-8711-45a1-8c69-5564172123c1@aio.xtradata.dpdns.org:443/?type=ws&encryption=none&host=aio.xtradata.dpdns.org&path=🔒
-vless://f2a3f500-2690-466f-9133-b73e7f24d10b@svnteam.misvn.ir:2082?type=ws&path=🔒
-vless://f2a59636-7a71-477b-87fa-3d8d3d0e32ee@138.68.141.171:443?path=%2Fvkdfadws&security=tls&encryption=none&type=ws&sni=github.com#🇬🇧[openproxylist.com]
-vless://f2a59636-7a71-477b-87fa-3d8d3d0e32ee@138.68.141.171:443?path=🔒
 vless://f2a72ad0-d23f-4eed-96cb-7d970b1e784d@141.101.121.110:80/?type=ws&encryption=none&host=ov-germany1.09vpn.com&path=%2Fvless%2F%3FVless_txt#%40V2rayNGVPN
 vless://f2a72ad0-d23f-4eed-96cb-7d970b1e784d@141.101.121.110:80/?type=ws&encryption=none&host=ov-germany1.09vpn.com&path=🔒
 vless://f2a72ad0-d23f-4eed-96cb-7d970b1e784d@141.101.121.110:80?security=none&type=ws&sni=🔒
@@ -498,3 +493,8 @@ vless://f6f442e3-69d1-4a83-bb78-241152eed859@15.204.31.27:443?type=xhttp&path=/s
 vless://f6f442e3-69d1-4a83-bb78-241152eed859@15.204.31.27:443?type=xhttp&path=🔒
 vless://f6f442e3-69d1-4a83-bb78-241152eed859@15.204.74.11:443?mode=stream-one&path=🔒
 vless://f6f442e3-69d1-4a83-bb78-241152eed859@15.204.74.223:443?mode=stream-one&path=🔒
+vless://f6f442e3-69d1-4a83-bb78-241152eed859@15.204.74.250:443?type=xhttp&path=/sef&host=&mode=stream-one&security=none#telegram
+vless://f6f442e3-69d1-4a83-bb78-241152eed859@15.204.74.250:443?type=xhttp&path=🔒
+vless://f6f442e3-69d1-4a83-bb78-241152eed859@15.204.75.192:443?type=xhttp&path=/sef&host=&mode=stream-one&security=none#telegram
+vless://f6f442e3-69d1-4a83-bb78-241152eed859@15.204.75.192:443?type=xhttp&path=🔒
+vless://f6f442e3-69d1-4a83-bb78-241152eed859@15.204.75.62:443?type=xhttp&path=/sef&host=&mode=stream-one&security=none#telegram

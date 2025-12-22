@@ -1,5 +1,3 @@
-vless://0db05419-5dab-4c66-85f6-12be9de74f70@103.253.43.210:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=5hKDqL2dBu7jbCfC_xW5omNEGUzPme8qF4mJOrXuHGY&sni=google.com#VPNKEY-Hong
-vless://0db05419-5dab-4c66-85f6-12be9de74f70@103.253.43.210:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=5hKDqL2dBu7jbCfC_xW5omNEGUzPme8qF4mJOrXuHGY&sni=🔒
 vless://0dc68b86-9b13-4f9d-9315-bdeabf54feec@65.109.212.126:2080?security=none&encryption=none&headerType=none&type=tcp
 vless://0dc68b86-9b13-4f9d-9315-bdeabf54feec@65.109.212.126:2080?security=none&encryption=none&headerType=none&type=tcp#𝗝𝗼𝗶𝗻
 vless://0dcdcbae-0ff6-467c-addb-bff403cd689f@139.162.175.65:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp
@@ -498,3 +496,5 @@ vless://11e0a4c8-6764-42f4-8723-6450804355e2@104.18.104.223:80?path=%2F&security
 vless://11e5b771-1d4d-4362-b4b5-e39e75981f01@104.21.60.171:443/?type=ws&encryption=none&host=3e8B07A5.PUb000bpB.PAGes.Dev&path=%2F&security=tls&sni=3e8B07A5.PUb000bpB.PAGes.Dev#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40merdesert%20%5B2%5D
 vless://11e5b771-1d4d-4362-b4b5-e39e75981f01@104.21.60.171:443/?type=ws&encryption=none&host=3e8B07A5.PUb000bpB.PAGes.Dev&path=🔒
 vless://11e5b771-1d4d-4362-b4b5-e39e75981f01@104.21.60.171:443?path=%2F&security=tls&encryption=none&host=3e8B07A5.PUb000bpB.PAGes.Dev&type=ws&sni=3e8B07A5.PUb000bpB.PAGes.Dev#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40merdesert%20%5B2%5D
+vless://11e5b771-1d4d-4362-b4b5-e39e75981f01@104.21.60.171:443?path=🔒
+vless://11efae42-dd6e-4f4f-93f5-5baf79a244d0@masterserver1.huqpmfood.ir:1331?mode=auto&path=/@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1&security=reality&encryption=none&extra={

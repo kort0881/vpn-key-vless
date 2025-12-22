@@ -1,5 +1,3 @@
-vless://5ba34c00-22be-4362-844c-389d608c2fc8@bn1.iranman.shop:33375/?encryption=none&host=telewebion.com&type=tcp&headerType=http#%E2%9D%94%20XX%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40lakvpn1%20%5B6%5D
-vless://abaaff2a-a66d-40cb-bfdf-9b6c3762789b@31.14.118.226:24100/?encryption=none&host=fast.com&type=tcp&headerType=http#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40lakvpn1%20%5B7%5D
 vless://d7f38b65-c27c-4483-b14e-2e6d13728476@all.yasharteam.com:500/?encryption=none&host=speedtest.net&type=tcp&headerType=http#%E2%9D%94%20XX%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40lakvpn1%20%5B8%5D
 vless://d6cfdcef-d6c0-40b4-a257-ae379a6e5e01@par.lemonsubor.monster:2610/?encryption=none&host=speedtest.net&type=tcp&headerType=http#%E2%9D%94%20XX%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40lemonshopvpn%20%5B9%5D
 vless://4a7728fb-6e86-4a1d-8380-6e64c9bff6f0@ramtin.avairan.online:8080/?type=ws&encryption=none&path=%2F#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40mdvpn184%20%5B1%5D
@@ -498,3 +496,5 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?mode=gun&securit
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.246.85.62:8880?mode=gun&security=none&encryption=none&type=grpc#%40V2rayNG3
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@80.92.206.19:8880?mode=gun&security=none&encryption=none&type=grpc#%40V2rayNG3
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.195:8880?mode=gun&security=none&encryption=none&type=grpc#%40V2rayNG3
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.213:8880?mode=gun&security=none&encryption=none&type=grpc#%40V2rayNG3
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.82:8880?mode=gun&security=none&encryption=none&type=grpc#%40V2rayNG3

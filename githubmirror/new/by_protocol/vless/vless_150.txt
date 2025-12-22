@@ -1,6 +1,3 @@
-vless://202ac83e-9012-4283-8acb-9af2c2a2dfeb@ab.iranlit.ir:1611?security=reality&encryption=none&pbk=3EWvgfHUv-7aKL47dJL1WiIHY43aeWo8QUZRjzCw0RI&headerType=none&fp=chrome&type=tcp&sni=🔒
-vless://202ac83e-9012-4283-8acb-9af2c2a2dfeb@ac.storelit.ir:8880?path=🔒
-vless://20342ce8-3cd3-402c-8382-f3dee3c4d7fd@webshecan.webredirect.org:2087/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.16.53.11:80?path=/193.123.81.105=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#@v2ray_configs_pools
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.16.53.11:80?path=/193.123.81.105=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#Join
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.16.53.11:80?path=🔒
@@ -498,3 +495,6 @@ vless://24163874-2dc3-4c8c-ab81-d289dd573ead@198.41.216.98:8080?path=🔒
 vless://242019e5-e125-4f22-86ce-1b45f418cec4@static-edge-store2.cyberscaler.net:443/?type=tcp&encryption=none&sni=🔒
 vless://242019e5-e125-4f22-86ce-1b45f418cec4@static-edge-store2.cyberscaler.net:443?security=reality&sni=🔒
 vless://24285832-c456-47f8-9e2f-520e84e33612@82.153.217.154:2565?security=none&type=tcp&headerType=http&path=/---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&host=#🇫🇷
+vless://24285832-c456-47f8-9e2f-520e84e33612@82.153.217.154:2565?security=none&type=tcp&headerType=http&path=🔒
+vless://24285832-c456-47f8-9e2f-520e84e33612@82.153.217.154:2566?security=none&type=tcp&headerType=http&path=/---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&host=#🇺🇸
+vless://24285832-c456-47f8-9e2f-520e84e33612@82.153.217.154:2566?security=none&type=tcp&headerType=http&path=🔒
