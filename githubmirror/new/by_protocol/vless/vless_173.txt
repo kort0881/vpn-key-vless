@@ -1,3 +1,7 @@
+vless://75b52620-610a-4e4d-b11b-2bcd8f1d508e@84.234.31.193:2053?mode=gun&security=reality&encryption=none&pbk=Q8kXSdOSxx-00IrhBu-0WbgFCZNhokvYpiUFFNVsfGo&fp=chrome&spx=/&type=grpc&serviceName=www.nvidia.com&sni=🔒
+vless://75b52620-610a-4e4d-b11b-2bcd8f1d508e@84.234.31.193:2083?security=reality&encryption=none&pbk=Gn03kawBW6JEKZRCqDAeeJRsRph_EXRN-FVvK7DkEkc&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=🔒
+vless://75b52620-610a-4e4d-b11b-2bcd8f1d508e@84.234.31.193:2083?security=reality&encryption=none&pbk=Gn03kawBW6JEKZRCqDAeeJRsRph_EXRN-FVvK7DkEkc&headerType=none&fp=chrome&spx=/&type=tcp&sni=🔒
+vless://75b63c38-ba6a-4bc8-b1ce-eb7df9931faf@www.speedtest.net:80?path=/ShadowProxy66-ShadowProxy66&security=none&encryption=none&host=a.kadoo.sbs.&type=ws#💎کانفیگ
 vless://75b63c38-ba6a-4bc8-b1ce-eb7df9931faf@www.speedtest.net:80?path=🔒
 vless://75c6338a-c0ad-4027-ac5c-55f617c50d31@104.26.15.69:8880?path=🔒
 vless://75d13bb1-e7ec-4e67-9b5a-ff8debce695f@kafshu.ir:8080?security=&type=ws&path=🔒
@@ -494,7 +498,3 @@ vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.28:443/?type=ws&encryptio
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.28:443?encryption=none&security=tls&allowInsecure=1&type=ws&path=🔒
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.28:443?path=🔒
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.29:443/?type=ws&encryption=none&flow=&path=🔒
-vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.29:443?encryption=none&security=tls&allowInsecure=1&type=ws&path=🔒
-vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.30:443/?type=ws&encryption=none&flow=&path=🔒
-vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.30:443?encryption=none&security=tls&allowInsecure=1&type=ws&path=🔒
-vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.30:443?path=🔒

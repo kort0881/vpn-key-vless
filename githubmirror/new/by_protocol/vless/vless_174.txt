@@ -1,3 +1,7 @@
+vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.29:443?encryption=none&security=tls&allowInsecure=1&type=ws&path=🔒
+vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.30:443/?type=ws&encryption=none&flow=&path=🔒
+vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.30:443?encryption=none&security=tls&allowInsecure=1&type=ws&path=🔒
+vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.30:443?path=🔒
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.31:443/?type=ws&encryption=none&flow=&path=🔒
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.31:443?encryption=none&security=tls&allowInsecure=1&type=ws&path=🔒
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.31:443?path=🔒
@@ -494,7 +498,3 @@ vless://7d2df3b7-51d5-4ebd-a6f6-0ecfd69c27d8@speedtest.net:80?type=xhttp&path=�
 vless://7d2dfb7a-2ecc-4448-bcbe-245a2092fe85@104.16.16.16:443/?type=ws&encryption=none&host=1v-2wk.pages.dev&path=%2FTelegram-Xv2ry2-7%3Fed%3D512&security=tls&sni=Pages.dev#%40Hope_Net-join-us-on-Telegram
 vless://7d2dfb7a-2ecc-4448-bcbe-245a2092fe85@151.101.62.102:443/?type=ws&encryption=none&host=9x.ru&path=%2FTelegram-Xv2ry2-7%3Fed%3D1080&security=tls&sni=default.ssl.fastly.net#%40Hope_Net-join-us-on-Telegram
 vless://7d2dfb7a-2ecc-4448-bcbe-245a2092fe85@162.159.129.60:443/?type=tcp&encryption=none
-vless://7d2dfb7a-2ecc-4448-bcbe-245a2092fe85@162.159.129.60:80/?type=w...&encryption=none
-vless://7d31065b-980c-4295-83f0-23bde0eee9cc@185.234.64.228:443/?type=ws&encryption=none&path=🔒
-vless://7d31065b-980c-4295-83f0-23bde0eee9cc@185.234.64.228:443?encryption=none&security=tls&allowInsecure=1&type=ws&path=🔒
-vless://7d31065b-980c-4295-83f0-23bde0eee9cc@185.234.64.228:443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&encryption=none&security=tls&allowInsecure=1&type=ws&path=🔒

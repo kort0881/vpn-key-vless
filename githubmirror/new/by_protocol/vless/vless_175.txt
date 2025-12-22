@@ -1,3 +1,7 @@
+vless://7d2dfb7a-2ecc-4448-bcbe-245a2092fe85@162.159.129.60:80/?type=w...&encryption=none
+vless://7d31065b-980c-4295-83f0-23bde0eee9cc@185.234.64.228:443/?type=ws&encryption=none&path=🔒
+vless://7d31065b-980c-4295-83f0-23bde0eee9cc@185.234.64.228:443?encryption=none&security=tls&allowInsecure=1&type=ws&path=🔒
+vless://7d31065b-980c-4295-83f0-23bde0eee9cc@185.234.64.228:443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&encryption=none&security=tls&allowInsecure=1&type=ws&path=🔒
 vless://7d31065b-980c-4295-83f0-23bde0eee9cc@185.234.64.228:443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&path=🔒
 vless://7d31065b-980c-4295-83f0-23bde0eee9cc@185.234.64.228:443?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---&encryption=none&security=tls&allowInsecure=1&type=ws&path=🔒
 vless://7d31065b-980c-4295-83f0-23bde0eee9cc@185.234.64.228:443?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---&path=🔒
@@ -494,7 +498,3 @@ vless://80c19783-5c4f-4794-ae0b-6efd11fd27ab@157.180.120.194:40200?security=none
 vless://80c19783-5c4f-4794-ae0b-6efd11fd27ab@157.180.120.194:40200?security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#@MARAMBASHI
 vless://80c19783-5c4f-4794-ae0b-6efd11fd27ab@157.180.120.194:40200?type=tcp&encryption=none&security=none
 vless://80c19783-5c4f-4794-ae0b-6efd11fd27ab@157.180.120.194:40200?type=tcp&encryption=none&security=none#@V2rayNG3
-vless://80c19783-5c4f-4794-ae0b-6efd11fd27ab@157.180.120.194:40200?type=tcp&encryption=none&security=none#🇫🇮[openproxylist.com]
-vless://80c19783-5c4f-4794-ae0b-6efd11fd27ab@157.180.120.194:40200?type=tcp&encryption=none&security=none#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:42ms
-vless://80c32a2b-d074-4069-b82f-cf5f0bcf8aaf@194.165.59.20:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=cdnjs.com&fp=chrome&security=reality&pbk=p1dCL7vkrK9KPfZ0EudMxZXyZbBaH2Asqvd6NHJfnyE&sid=2eec1cff2b290424#%40Hope_Net-join-us-on-Telegram
-vless://80c32a2b-d074-4069-b82f-cf5f0bcf8aaf@194.165.59.20:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒
