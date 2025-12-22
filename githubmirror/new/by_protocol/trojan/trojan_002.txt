@@ -1,5 +1,3 @@
-trojan://27876_t7d7f4e3f@23.142.200.175:443?allowInsecure=1#美国-1.84MB/s
-trojan://299025b9-6b55-430c-be38-9a18c06873ac@cn1.one.edu.kg:12003?allowInsecure=1&amp;sni=cn1.one.edu.kg#中转节点-16.92MB/s
 trojan://f37a931d-7092-48fe-b82f-a98da3040eb2@95.164.68.116:2053?allowInsecure=1&amp;sni=ftp.debian.org#直布罗陀-203.9KB/s
 trojan://4d48aeee-ee05-426e-b35b-8b1ccfd74e3d@sg01.freeflyingcloud.xyz:35702?allowInsecure=1&amp;sni=sg01.freeflyingcloud.xyz#新加坡-3.39MB/s
 trojan://4f811851-23b7-408d-8c25-5e49db8ea7ec@ru01.freeflyingcloud.xyz:30002?allowInsecure=1&amp;sni=ru01.freeflyingcloud.xyz#俄罗斯联邦-3.91MB/s
@@ -498,3 +496,5 @@ trojan://Aimer@52.32.90.142:80/?type=tcp&security=tls&sni=ngepx.ambercc.filegear
 trojan://Aimer@135.84.76.152:2087/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8US-135.84.76.152-1442
 trojan://Aimer@35.83.185.225:443/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8US-35.83.185.225-1447
 trojan://Aimer@27.50.49.166:8443/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-27.50.49.166-1460
+trojan://Aimer@213.241.198.59:2083/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-213.241.198.59-1470
+trojan://Aimer@167.68.4.199:2053/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-167.68.4.199-1477
