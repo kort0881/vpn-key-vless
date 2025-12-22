@@ -1,3 +1,4 @@
+vless://b0fc9436-2dfd-4d16-9312-ff7a3e2aff5f@www.speedtest.net:8443?path=/@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config?ed=2048&security=tls&alpn=http/1.1&encryption=none&host=root.dns-23.ir&fp=chrome&type=ws&sni=root.dns-23.ir#@Alfred_Config
 vless://b0fc9436-2dfd-4d16-9312-ff7a3e2aff5f@www.speedtest.net:8443?path=🔒
 vless://b106570b-6b5f-40c1-8081-03093fbe8fa5@[2a0b:4140:659a:6::6]:33000?mode=gun&security=reality&encryption=none&authority=&pbk=JrN7nZEbUeBJFHTAKwtz5Dmd10SGgA8UCHEMLA2xOg0&fp=chrome&type=grpc&serviceName=b&sni=🔒
 vless://b111c17d-c8a4-4d4d-a417-fa40a020bcc8@104.18.14.19:2086/?type=ws&encryption=none
@@ -497,4 +498,3 @@ vless://b61ee73b-67ac-4403-8660-2163d5963b3c@164.92.196.95:27269?mode=gun&securi
 vless://b62045d1-2226-4277-da92-44f4b5bd9844@164.90.210.2:443?mode=gun&security=none&encryption=none&type=grpc
 vless://b62045d1-2226-4277-da92-44f4b5bd9844@164.90.210.2:443?mode=gun&security=none&encryption=none&type=grpc#𝗝𝗼𝗶𝗻
 vless://b623979a-936c-4964-b554-4b4b038fd942@51.81.211.0:80?encryption=none&security=none&type=ws&host=us3.v2vless.xyz&path=🔒
-vless://b6256883-ea5f-4a88-b8b2-a9b3903f17d1@sg2vless.ipservers.xyz:443?encryption=none&security=tls&sni=🔒

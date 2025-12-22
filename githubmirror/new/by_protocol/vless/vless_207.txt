@@ -1,3 +1,4 @@
+vless://b6256883-ea5f-4a88-b8b2-a9b3903f17d1@sg2vless.ipservers.xyz:443?encryption=none&security=tls&sni=🔒
 vless://b646e0d6-137b-49e1-90bc-3b9ad8a6484a@Russiatest-Tap.servers807.ir:13796?security=reality&pbk=AIUUKeq08usIla0uv-NTp5wVe4TMb3VkXWDLoutlFnM&fp=chrome&spx=/&-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPNtype=tcp&sni=🔒
 vless://b646e0d6-137b-49e1-90bc-3b9ad8a6484a@test.ir:13796?security=reality&encryption=none&pbk=AIUUKeq08usIla0uv-NTp5wVe4TMb3VkXWDLoutlFnM&headerType=none&fp=chrome&spx=/&type=tcp&sni=🔒
 vless://b6483285-7a02-4feb-b09c-540d0c6026fa@91.107.136.208:23114?security=&encryption=none&headerType=none&type=tcp
@@ -497,4 +498,3 @@ vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.218.14:8443?mode=auto&path=/x
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.218.14:8443?mode=auto&path=🔒
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.218.14:8443?type=xhttp&mode=auto&path=🔒
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.220.150:8443?mode=stream-one&path=/xhttp&security=&encryption=none&type=xhttp#@vmesskhodam
-vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.220.150:8443?mode=stream-one&path=🔒

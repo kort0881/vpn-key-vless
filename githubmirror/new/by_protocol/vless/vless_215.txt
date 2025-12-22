@@ -1,3 +1,4 @@
+vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@72.18.81.226:34045/?type=tcp&encryption=none&flow=&sni=🔒
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@72.18.81.226:34045/?type=tcp&encryption=none&sni=🔒
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@77.239.109.216:34045/?type=tcp&encryption=none&sni=🔒
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@77.246.109.191:34045/?type=tcp&encryption=none&sni=🔒
@@ -497,4 +498,3 @@ vless://de8ebf94-883b-46e0-b276-2c3cd0c96e4e@trt.fastlynew.hosting-ip.com:80?mod
 vless://de8ebf94-883b-46e0-b276-2c3cd0c96e4e@trt.fastlynew.hosting-ip.com:80?mode=auto&path=/?ed=2560&security=none&encryption=none&host=maxde219.global.ssl.fastly.net&type=xhttp#𝗝𝗼𝗶𝗻
 vless://de8ebf94-883b-46e0-b276-2c3cd0c96e4e@trt.fastlynew.hosting-ip.com:80?mode=auto&path=/?ed=2560&security=none&encryption=none&host=maxde219.global.ssl.fastly.net&type=xhttp#🇩🇪@FreakConfig
 vless://de8ebf94-883b-46e0-b276-2c3cd0c96e4e@trt.fastlynew.hosting-ip.com:80?mode=auto&path=/?ed=2560&security=none&encryption=none&host=maxde219.global.ssl.fastly.net&type=xhttp#🇮🇹
-vless://de8ebf94-883b-46e0-b276-2c3cd0c96e4e@trt.fastlynew.hosting-ip.com:80?mode=auto&path=🔒

@@ -1,3 +1,4 @@
+vless://c5179990-6e22-484e-9f00-47fbc0491b88@104.17.148.22:443?path=🔒
 vless://c5179990-6e22-484e-9f00-47fbc0491b88@104.18.26.90:80?path=🔒
 vless://c5179990-6e22-484e-9f00-47fbc0491b88@104.26.6.89:443?path=🔒
 vless://c5179990-6e22-484e-9f00-47fbc0491b88@104.26.6.89:80?path=🔒
@@ -497,4 +498,3 @@ vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@104.17.210.171:443?path=%2F&securit
 vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@104.17.210.171:443?security=tls&alpn=h3&encryption=none&host=vless10-9sc.pages.dev&fp=chrome&type=ws&sni=🔒
 vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@104.18.86.131:443/?type=ws&encryption=none&host=vless5-edu.pages.dev&path=%2F%3Fed%3D2560&security=tls&sni=vless5-edu.pages.dev&alpn=h3&fp=random#%F0%9F%90%BB38%40oneclickvpnkeys
 vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@104.18.86.131:443/?type=ws&encryption=none&host=vless5-edu.pages.dev&path=🔒
-vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@104.18.86.131:443?path=%2F%3Fed&security=tls&encryption=none&fp=chrome&type=ws&sni=vless5-edu.pages.dev#%40VMESSIR4N%20%D8%AC%D9%87%D8%AA%20%D8%AE%D8%B1%DB%8C%D8%AF%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF
