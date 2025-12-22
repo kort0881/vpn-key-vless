@@ -190,14 +190,14 @@ trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@k
 trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.228:10889?security=tls&amp;sni=web.max&amp;allowInsecure=1&amp;type=tcp&amp;headerType=none#t.me/v2Line
 trojan://telegram-id-directvpn@52.59.43.9:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#OurChannel
 trojan://telegram-id-privatevpns@52.47.92.82:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#T.me%2FSafeNet_Server+%F0%9F%92%9A%F0%9F%A4%8D%E2%9D%A4
-trojan://.ie4rghJuMkcf0oF@38.96.254.102:18509?type=raw&headerType=none&security=tls&sni=shoppingmall.electricbanana.click#[🇨🇦] [tr-tl-ra] [251222-102911.372]
-trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?type=raw&headerType=none&security=tls&sni=diningtable.electricbanana.click#[🇨🇦] [tr-tl-ra] [251222-102913.696]
-trojan://POORIARED@172.67.134.185:443?type=ws&path=%2FeyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed&security=tls&fp=chrome&sni=reDfRee8.REDFree8.ir#[🇩🇪] [tr-tl-ws] [251222-102916.457]
-trojan://3846a29b-57d5-40f2-8acd-13855aa025cd@green2.cdntencentmusic.com:31104?type=raw&headerType=none&security=tls&sni=green2.cdntencentmusic.com#[🇭🇰] [tr-tl-ra] [251222-102912.605]
-trojan://44e660b0ee21cf3ac66aee2c08af85d2@58.152.110.104:443?type=raw&headerType=none&security=tls&sni=www.nintendogames.net#[🇭🇰] [tr-tl-ra] [251222-102912.876]
-trojan://04a6a322-b08e-4635-99af-219c01ade7dd@green2.cdntencentmusic.com:34411?type=raw&headerType=none&security=tls&sni=green2.cdntencentmusic.com#[🇯🇵] [tr-tl-ra] [251222-102911.425]
-trojan://a213e1a5-3c5a-40f2-b70e-98ffa63ffc8e@green2.cdntencentmusic.com:34411?type=raw&headerType=none&security=tls&sni=green2.cdntencentmusic.com#[🇯🇵] [tr-tl-ra] [251222-102917.080]
-trojan://BaeSzHdfJIR13l67@70.34.218.149:11930?type=raw&headerType=none&security=tls&sni=softpillow.silentrocket.click#[🇸🇪] [tr-tl-ra] [251222-102915.019]
+trojan://.ie4rghJuMkcf0oF@38.96.254.102:18509?type=raw&headerType=none&security=tls&sni=shoppingmall.electricbanana.click#[🇨🇦] [tr-tl-ra] [251222-132207.030]
+trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?type=raw&headerType=none&security=tls&sni=diningtable.electricbanana.click#[🇨🇦] [tr-tl-ra] [251222-132209.387]
+trojan://3846a29b-57d5-40f2-8acd-13855aa025cd@green2.cdntencentmusic.com:31104?type=raw&headerType=none&security=tls&sni=green2.cdntencentmusic.com#[🇭🇰] [tr-tl-ra] [251222-132208.290]
+trojan://44e660b0ee21cf3ac66aee2c08af85d2@58.152.110.104:443?type=raw&headerType=none&security=tls&sni=www.nintendogames.net#[🇭🇰] [tr-tl-ra] [251222-132208.568]
+trojan://04a6a322-b08e-4635-99af-219c01ade7dd@green2.cdntencentmusic.com:34411?type=raw&headerType=none&security=tls&sni=green2.cdntencentmusic.com#[🇯🇵] [tr-tl-ra] [251222-132207.080]
+trojan://a213e1a5-3c5a-40f2-b70e-98ffa63ffc8e@green2.cdntencentmusic.com:34411?type=raw&headerType=none&security=tls&sni=green2.cdntencentmusic.com#[🇯🇵] [tr-tl-ra] [251222-132212.806]
+trojan://POORIARED@172.67.134.185:443?type=ws&path=%2FeyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed&security=tls&fp=chrome&sni=reDfRee8.REDFree8.ir#[🇳🇱] [tr-tl-ws] [251222-132212.176]
+trojan://BaeSzHdfJIR13l67@70.34.218.149:11930?type=raw&headerType=none&security=tls&sni=softpillow.silentrocket.click#[🇸🇪] [tr-tl-ra] [251222-132210.723]
 trojan://trojan@172.67.75.172:8443?security=tls&sni=fofang.pages.dev&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=fofang.pages.dev#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20TR-WS-TLS%204%E2%83%A3
 trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&fp=chrome&type=ws&path=/&host=store.timimi.dpdns.org#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20-%20NA%20%F0%9F%8C%8D%20TR-WS-TLS%204%E2%83%A3
 trojan://trojan@104.18.13.229:8443?security=tls&sni=pangpi.pages.dev&fp=chrome&type=ws&path=/&host=pangpi.pages.dev#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20TR-WS-TLS%204%E2%83%A3
