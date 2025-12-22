@@ -1,4 +1,3 @@
-vless://22d29719-4510-46f6-a26b-61fbb6963fcc@83.228.210.39:443?security=reality&encryption=none&pbk=XSIaUifuSpo2bF-eYsY5fgTG3wzo09SY-oGn73zJPF0&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.samsung.com#🇨🇭
 vless://22d29719-4510-46f6-a26b-61fbb6963fcc@83.228.210.39:443?security=reality&encryption=none&pbk=XSIaUifuSpo2bF-eYsY5fgTG3wzo09SY-oGn73zJPF0&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒
 vless://22dae673-91fd-49be-899d-75876715ee02@secmec2ec.aslanmaslan.com:2053?encryption=none&fp=chrome&host=tyfyjtr76r76t78t687t676r56d45e45drt.behazinpokht.ir&path=🔒
 vless://22de03c7-09b4-44a5-ae9a-46d0acae4e0b@zZz.ZzZ.zZz.yasharteam.com:443?security=reality&encryption=none&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒
@@ -498,3 +497,4 @@ vless://260b83b9-e8bb-434c-969b-9f3034cf8cb5@45.87.153.45:443?encryption=none&se
 vless://260b83b9-e8bb-434c-969b-9f3034cf8cb5@45.87.153.45:443?encryption=none&security=tls&allowInsecure=true&type=ws&path=🔒
 vless://260b83b9-e8bb-434c-969b-9f3034cf8cb5@45.87.153.45:443?path=%2Ffgoexdws&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1#@meli_proxyy
 vless://260b83b9-e8bb-434c-969b-9f3034cf8cb5@45.87.153.45:443?path=%2Ffgoexdws&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1#RU🇷🇺
+vless://260b83b9-e8bb-434c-969b-9f3034cf8cb5@45.87.153.45:443?path=%2Ffgoexdws&security=tls&encryption=none&type=ws#@meli_proxyy

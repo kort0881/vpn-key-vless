@@ -1,4 +1,3 @@
-vless://4b9063e0-3288-44e9-9aac-80fbfce323a0@83.222.23.81:38065/?type=tcp&encryption=none&sni=yahoo.com&fp=chrome&security=reality&pbk=dSSDPTK6AHfAdRAXD9i4rzqcNIY65RxlF25UyCKdiyo&sid=fa#Channel%20id%3A%20%40ShadowProxy66%20
 vless://4b9063e0-3288-44e9-9aac-80fbfce323a0@83.222.23.81:38065/?type=tcp&encryption=none&sni=🔒
 vless://4b9063e0-3288-44e9-9aac-80fbfce323a0@83.222.23.81:38065?encryption=none&security=reality&sni=🔒
 vless://4b9063e0-3288-44e9-9aac-80fbfce323a0@83.222.23.81:38065?security=reality&encryption=none&pbk=dSSDPTK6AHfAdRAXD9i4rzqcNIY65RxlF25UyCKdiyo&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=fa#@V2rayNG3
@@ -498,3 +497,4 @@ vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@www.visaeurope.ch:443/?type=ws&encr
 vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@www.visaeurope.ch:443?security=tls&sni=🔒
 vless://4e4dc1ac-b66f-4c27-8dd2-ba791e92b869@91.99.18.180:8558?security=none&encryption=none&headerType=none&type=tcp
 vless://4e52ce91-87c8-46df-8166-8ef487e9dd76@51.195.25.127:443?path=/@MaxFree---@MaxFree---@MaxFree---@MaxFree---@MaxFree&security=&encryption=none&host=51.195.25.127&type=xhttp#VLESS
+vless://4e52ce91-87c8-46df-8166-8ef487e9dd76@51.195.25.127:443?path=🔒
