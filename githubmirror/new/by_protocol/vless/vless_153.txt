@@ -1,3 +1,4 @@
+vless://309fa273-6579-4cb2-9143-7cad50401eba@185.130.114.253:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒
 vless://309fa273-6579-4cb2-9143-7cad50401eba@185.130.114.253:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=www.cloudflare.com&fp=chrome&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&sid=7cad5040&packetEncoding=xudp#https://t.me/ShadowsocksM57
 vless://309fa273-6579-4cb2-9143-7cad50401eba@185.130.114.253:443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#%F0%9F%93%A185%40ConfigV2RayNG
 vless://309fa273-6579-4cb2-9143-7cad50401eba@185.130.114.253:443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#@FarazV2ray
@@ -497,4 +498,3 @@ vless://32dbe23a-852e-44a8-9dc2-80188643f550@151.101.194.133:443?path=🔒
 vless://330369f6-cc36-4f45-ba8c-83cde8dcbbf1@www.speedtest.net:8880/?type=httpupgrade&path=🔒
 vless://33039dbe-8889-42f1-9aeb-ecfbfa2a1640@104.18.32.69:2052/?type=ws&encryption=none&host=21tg.459tj345.workers.dev&path=%2F%3Fed%3D2560#%40Hope_Net-join-us-on-Telegram
 vless://33039dbe-8889-42f1-9aeb-ecfbfa2a1640@104.18.32.69:2052?allowInsecure=0&sni=🔒
-vless://33039dbe-8889-42f1-9aeb-ecfbfa2a1640@104.18.32.69:2052?path=🔒

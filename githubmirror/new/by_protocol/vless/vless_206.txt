@@ -1,3 +1,4 @@
+vless://f11b2b93-7ced-425b-97f9-b3439af05485@gr.dnszone.top:45500?security=none&encryption=none&headerType=none&type=tcp
 vless://f11b2b93-7ced-425b-97f9-b3439af05485@nl.dnszone.top:45500?security=none&encryption=none&headerType=none&type=tcp
 vless://f12977e6-d296-4d94-9aaf-d31770b70f84@104.21.69.44:443?path=%2F&security=tls&encryption=none&host=cr77.hedieh.dpdns.org&fp=chrome&type=ws&sni=cr77.hedieh.dpdns.org#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
 vless://f12977e6-d296-4d94-9aaf-d31770b70f84@zula.ir:443?path=%2F%3Fed&security=tls&encryption=none&host=cr77.hedieh.dpdns.org&type=ws&sni=cr77.hedieh.dpdns.org#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
@@ -497,4 +498,3 @@ vless://f64bdc57-0f54-4705-bf75-cfd646d98c06@8.39.125.194:443?path=/?ed=2048J_T&
 vless://f64bdc57-0f54-4705-bf75-cfd646d98c06@8.39.125.194:443?path=/?ed=2048J_T&security=tls&encryption=none&insecure=0&host=snippets.nneko.netlib.re&fp=chrome&type=ws&allowInsecure=0&sni=snippets.nneko.netlib.re#✅
 vless://f64bdc57-0f54-4705-bf75-cfd646d98c06@8.39.125.194:443?path=🔒
 vless://f64bdc57-0f54-4705-bf75-cfd646d98c06@8.39.125.85:443/?type=ws&encryption=none&flow=&host=snippets.nneko.netlib.re&path=🔒
-vless://f64bdc57-0f54-4705-bf75-cfd646d98c06@8.39.125.85:443?path=/?ed=2048&security=tls&encryption=none&host=snippets.nneko.netlib.re&fp=chrome&type=ws&sni=snippets.nneko.netlib.re#@Hddify

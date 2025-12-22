@@ -1,3 +1,4 @@
+vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@norman.ns.cloudflare.com:443?encryption=none&security=tls&sni=🔒
 vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@norman.ns.cloudflare.com:443?path=%2Fyhowcws&security=tls&encryption=none&host=azizoarjmand.info&fp=chrome&type=ws&sni=azizoarjmand.info#%F0%9F%87%AC%F0%9F%87%A7%40FreakConfig
 vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@norman.ns.cloudflare.com:443?path=%2Fyhowcws&security=tls&encryption=none&host=azizoarjmand.info&fp=chrome&type=ws&sni=azizoarjmand.info#RELAY🚩
 vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@norman.ns.cloudflare.com:443?path=%2Fyhowcws&security=tls&encryption=none&host=azizoarjmand.info&type=ws&sni=azizoarjmand.info#%F0%9F%87%AC%F0%9F%87%A7%40FreakConfig
@@ -497,4 +498,3 @@ vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@172.64.33.128:443/?type=ws&encrypti
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@172.64.35.168:443?path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&encryption=none&host=edcck.ambercc.filegear-sg.me&fp=random&type=ws&sni=edcck.ambercc.filegear-sg.me#%40v2ray
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@172.64.35.236:443/?type=ws&encryption=none
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@172.64.35.236:443/?type=ws&encryption=none#%40Hope_Net-join-us-on-Telegram
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@172.66.42.191:443/?type=ws&encryption=none&host=edccj.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560&security=tls&sni=edccj.ambercc.filegear-sg.me#%40Hope_Net-join-us-on-Telegram
