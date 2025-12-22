@@ -9,7 +9,6 @@ trojan://telegram-id-privatevpns@15.236.125.108:22222?security=tls&amp;alpn=http
 trojan://telegram-id-privatevpns@35.158.205.73:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S101)
 trojan://2ee85121-31de-4581-a492-eb00f606e392@192.3.107.252:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=rc8.freeguard.org#%40VMESSIR4N%20%D8%AC%D9%87%D8%AA%20%D8%AE%D8%B1%DB%8C%D8%AF%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF
 trojan://trojan@ip.sb:8443?path=%2F&amp;security=tls&amp;host=fofang.pages.dev&amp;type=ws&amp;sni=fofang.pages.dev#%40VMESSIR4N%20%D8%AC%D9%87%D8%AA%20%D8%AE%D8%B1%DB%8C%D8%AF%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF
-trojan://BxceQaOe@58.152.53.22:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=t.me%252Fripaojiedian#I%201256%20%28%40Outline_Vpn%29%20free
 trojan://FodSUXysuS@180.131.145.161:23274?mode=gun&amp;security=reality&amp;pbk=iX_s_-F07vtmJa8t81J6OBiVksCy0ZHRmXUMyw3l4Vw&amp;fp=chrome&amp;type=grpc&amp;sni=cloudflare.com&amp;sid=14#I%201263%20%28%40Outline_Vpn%29%20free
 trojan://.%2BQAJot50sDi6mvb@5.188.108.13:11790?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=runningshoes.purpletornado.click#I%201266%20%28%40Outline_Vpn%29%20free
 trojan://BxceQaOe@58.152.18.95:443?security=tls&amp;headerType=none&amp;type=tcp#I%2015%20%28%40Outline_Vpn%29%20free
