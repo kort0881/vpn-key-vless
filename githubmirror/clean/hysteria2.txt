@@ -83,7 +83,7 @@ hysteria2://20u6GU2Rpm@91.107.189.175:443?security=tls&obfs=salamander&obfs-pass
 hysteria2://2408982813-20241210:409046c1-c229-4b54-986c-f110d96278e1@genshin-v4-oracle-amd.damaoooo.com:40000?security=tls&insecure=0#All-@V2rayAlpha--2
 hysteria2://2408982813-20241210@genshin-v4-oracle-amd.damaoooo.com:443?insecure=0#All-%40V2rayAlpha--2
 hysteria2://254551f6-ec28-4938-ad0e-0aa4aa1965ec@5.83.150.108:49187/?sni=imafake.locker&fp=chrome#D%C3%BCsseldorf-GetAFreeNode
-hysteria2://254551f6-ec28-4938-ad0e-0aa4aa1965ec@74.117.196.232:50460/?sni=imafake.locker&fp=chrome#%E2%9D%8CFremont-GetAFreeNode
+hysteria2://254551f6-ec28-4938-ad0e-0aa4aa1965ec@74.117.196.232:49460/?sni=imafake.locker&fp=chrome#%E2%9D%8CFremont-GetAFreeNode
 hysteria2://274691f9-e6c0-46ff-82f2-3a9062872a04@it1.miyazono-kaori.com:443?security=tls&obfs=salamander&obfs-password=GyiIHT0mOkKCiq0Q&insecure=1&mport=40000-50000&sni=it1.miyazono-kaori.com#%F0%9F%8E%A84%40oneclickvpnkeys
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@amsterdam.nezhasu.com:443?insecure=1&sni=Amsterdam.nezhasu.com#MCI-IR--%40V2rayAlpha-17
 hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@ashburn.nezhasu.com:443?insecure=1&sni=ashburn.nezhasu.com#MCI-IR--%40V2rayAlpha-15
@@ -146,6 +146,7 @@ hysteria2://c3de5c64-68ca-482b-956a-2ad39386d101@azcus1.jueduibupao.top:20101?in
 hysteria2://c3de5c64-68ca-482b-956a-2ad39386d101@lvs.jueduibupao.top:50001?insecure=1&sni=lvs.jueduibupao.top#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2023
 hysteria2://cfe032e4-1bc3-454f-9d09-301b0aea08ff@40.233.83.110:45979?insecure=1&sni=www.bing.com#All-%40V2ray_Alpha--9
 hysteria2://da9adc6f-03ca-4d32-9e93-7b2bdbc9b00d@us.xn--gmq00sc0nuve.shop:21319?insecure=1&sni=us.xn--gmq00sc0nuve.shop#All-%23V2rayAlpha--17
+hysteria2://dc4b63d4-5010-4b92-b0e8-adfa4c3292c4@us.xn--9kqy68chx3a.shop:21738?security=tls&insecure=0&mport=21001-21999#@TapsiVpn
 hysteria2://df7bed3c-06eb-11f0-8ebc-f23c93141fad@9edb1f6e-t56dc0-t9lxaa-1glq.la.shifen.uk:443?insecure=0&sni=9edb1f6e-t56dc0-t9lxaa-1glq.la.shifen.uk#All-%40V2ray_Alpha--7
 hysteria2://df7bed3c-06eb-11f0-8ebc-f23c93141fad@e10829f0-t4un40-t9lb2a-1glq.la.shifen.uk:1743?insecure=0&sni=e10829f0-t4un40-t9lb2a-1glq.la.shifen.uk#All--%40IRAN_V2RAY1%F0%9F%87%BA%F0%9F%87%B8%20%235
 hysteria2://dongtaiwang.com@[2001:bc8:32d7:234::5]:40088/?insecure=1&sni=apple.com#%F0%9F%8E%842%40oneclickvpnkeys

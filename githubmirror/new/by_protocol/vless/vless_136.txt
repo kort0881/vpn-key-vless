@@ -1,4 +1,3 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.208.110.183:8880?mode=gun&security=none&encryption=none&type=grpc#%40V2rayNG3
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.208.110.41:8880?mode=gun&security=none&encryption=none&type=grpc#%40V2rayNG3
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.16:8880?mode=gun&security=none&encryption=none&type=grpc#%40V2rayNG3
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.94:8880?mode=gun&security=none&encryption=none&type=grpc#%40V2rayNG3
@@ -498,3 +497,4 @@ vless://SERVERNETT-SERVERNETT1@sdct.sernett.ir:80?mode=auto&amp;path=%2F&amp;sec
 vless://SERVERNETT@yuo0.sernett.ir:80?mode=auto&amp;path=%2F&amp;security=none&amp;encryption=none&amp;type=xhttp#SERVERNETT-CHANNEL
 vless://SERVERNETT@yuo0.sernett.ir:80?mode=auto&amp;path=%2F&amp;security=none&amp;encryption=none&amp;type=xhttp#SERVERNETT-CHANNEL
 vless://SERVERNETT@yuo0.sernett.ir:80?mode=auto&amp;path=%2F&amp;security=none&amp;encryption=none&amp;type=xhttp#SERVERNETT-CHANNEL
+vless://SERVERNETT-SERVERNETT1@mnk.sernett.ir:80?mode=auto&amp;path=%2F&amp;security=&amp;encryption=none&amp;type=xhttp#SERVERNETT_CHANNEL
