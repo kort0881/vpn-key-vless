@@ -1,6 +1,3 @@
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@198.41.206.230:443/?type=ws&encryption=none&flow=&path=🔒
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@198.41.206.230:443/?type=ws&encryption=none&path=%2F%3Fed%3D2048&security=tls&sni=aw.ylks.xyz#%40Hope_Net-join-u...
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@198.41.208.147:443/?type=ws&encryption=none&host=aj.ylks.xyz&path=%2F%3Fed%3D2048&security=tls&sni=aj.ylks.xyz#%40Hope_Net-join-us-on-Telegram
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@198.41.208.45:443/?type=ws&encryption=none&host=aw.ylks.xyz&path=%2F%3Fed%3D2048security%3Dtls#%40Hope_Net-join-us-on-Telegram
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@198.41.211.28:443/?type=ws&encryption=none&host=ax.ylks.xyz&path=%2F%3Fed%3D2048&security=tls&sni=ax.ylks.xyz#%40Hope_Net-join-us-on-Telegram
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@198.41.214.64:443/?type=ws&encryption=none&flow=&host=aj.ylks.xyz&path=🔒
@@ -498,3 +495,6 @@ vless://496e91a6-c90c-483d-adb1-133d04d8e725@blog.ruangguru.com.servpn.my.id:443
 vless://4974a3b2-ba08-47e0-806b-85fb45d038a0@facelessvoid.fonixapp.org:443?security=reality&encryption=none&pbk=WXPq4NT1gqVRO7IUJGU3tv0NDe8gxEVN2WGa1dwjiCk&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=mesu.apple.com&sid=1b89#All-@V2rayAlpha--14
 vless://4974a3b2-ba08-47e0-806b-85fb45d038a0@facelessvoid.fonixapp.org:443?security=reality&encryption=none&pbk=WXPq4NT1gqVRO7IUJGU3tv0NDe8gxEVN2WGa1dwjiCk&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=🔒
 vless://497d7003-8159-4f29-d6aa-a1d7b05c7fb0@www.speedtest.net:2082?path=🔒
+vless://4981b98f-4943-4083-83aa-00b028f57a18@57.129.92.155:36626/?type=grpc&encryption=none&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40proxycrone%20%5B6%5D
+vless://4981b98f-4943-4083-83aa-00b028f57a18@57.129.92.155:36626?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON
+vless://4981b98f-4943-4083-83aa-00b028f57a18@57.129.92.155:36626?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40proxycrone%20%5B6%5D

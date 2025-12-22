@@ -1,6 +1,3 @@
-vless://6babb657-1524-43bb-b421-11bda27bc9de@162.159.15.204:2087/?type=grpc&encryption=none&security=tls&sni=smart.titimoji-f6.fun#%40Hope_Net-join-us-on-Telegra...
-vless://6babb657-1524-43bb-b421-11bda27bc9de@162.159.15.244:2087/?type=grpc&encryption=none&security=tls&sni=smart.titimoji-f6.fun#%40Hope_Net-join-us-on-Telegram
-vless://6babb657-1524-43bb-b421-11bda27bc9de@173.245.49.109:2087/?type=grpc&encryption=none&security=tls&sni=smart.titimoji-f6.fun#%40Hope_Net-join-us-on-Telegra...
 vless://6babb657-1524-43bb-b421-11bda27bc9de@173.245.49.20:2087/?type=grpc&encryption=none&flow=&security=tls&sni=🔒
 vless://6babb657-1524-43bb-b421-11bda27bc9de@173.245.49.20:2087/?type=grpc&encryption=none&security=tls&sni=smart.titimoji-f6.fun#%40Hope_Net-join-us-on-Telegram
 vless://6babb657-1524-43bb-b421-11bda27bc9de@173.245.49.66:2087/?type=grpc&encryption=none&security=tls&sni=smart.titimoji-f6.fun#%40Hope_Net-join-us-on-Telegram...
@@ -498,3 +495,6 @@ vless://70ef0e6e-0492-4132-a226-1689aff3e3eb@194.76.18.70:8080/?type=httpupgrade
 vless://70f5d3b8-7d31-4d7d-9467-e43752d66fca@104.21.25.220:2096/?type=ws&encryption=none&flow=&host=sub.shadowsokstes.WoRkErs.DeV&path=🔒
 vless://70f5d3b8-7d31-4d7d-9467-e43752d66fca@104.21.25.220:2096/?type=ws&encryption=none&host=sub.shadowsokstes.WoRkErs.DeV&path=vless-ws%2F%3Fed%3D2048&security=tls&sni=sub.shadowsokstes.WoRkErs.DeV&alpn=h2%2Chttp%2F1.1&fp=randomized#%40Hope_Net-join-us-on-Telegram
 vless://70f5d3b8-7d31-4d7d-9467-e43752d66fca@172.67.134.202:2096/?type=ws&encryption=none&host=sub.shadowsokstes.WoRkErs.DeV&path=vless-ws%2F%3Fed%3D2048&security=tls&sni=sub.shadowsokstes.WoRkErs.DeV&alpn=h2%2Chttp%2F1.1&fp=randomized#%40Hope_Net-join-us-on-Telegram
+vless://70f5d3b8-7d31-4d7d-9467-e43752d66fca@sub.shadowsokstes.WoRkErs.DeV:2096?path=vless-ws%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=sub.shadowsokstes.WoRkErs.DeV&fp=randomized&type=ws&sni=sub.shadowsokstes.WoRkErs.DeV#%F0%9D%90%92%F0%9D%90%87%F0%9D%90%80%F0%9D%90%83%F0%9D%90%8E%F0%9D%90%96%F0%9D%90%92%F0%9D%90%8E%F0%9D%90%82%F0%9D%90%8A%F0%9D%90%92%F0%9D%90%92%F0%9D%90%87%F0%9D%90%8E%F0%9D%90%8F
+vless://70f5d3b8-7d31-4d7d-9467-e43752d66fca@sub.shadowsokstes.WoRkErs.DeV:2096?path=🔒
+vless://70f5d3b8-7d31-4d7d-9467-e43752d66fca@sub.shadowsokstes.workers.dev:2096/?type=ws&encryption=none&host=sub.shadowsokstes.WoRkErs.DeV&path=vless-ws%2F%3Fed%3D2048&security=tls&sni=sub.shadowsokstes.WoRkErs.DeV&alpn=h2%2Chttp%2F1.1&fp=randomized#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40shadowsocksshop%20%5B1%5D

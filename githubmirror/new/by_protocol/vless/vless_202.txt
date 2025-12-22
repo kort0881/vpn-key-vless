@@ -1,6 +1,3 @@
-vless://e16a35ea-6715-4e75-9845-d20358bd0876@94.232.247.168:41360?security=reality&type=tcp&sni=yahoo.com&fp=chrome&sid=1aab45&pbk=TY6w1zP-qUFKVCAQdQT2ZEJsZBrPO4hZjZYBSS6h6DU&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%B2%F0%9F%87%A9MD%20%F0%9F%A7%AD%206.1MB%2Fs
-vless://e16c1f00-afa4-405f-a944-932f81e18e23@nv137.momdping.com:443/?type=ws&encryption=none&path=%2F&security=tls&sni=nv137.momdping.com#Join%20To%20%40IRAN_V2RAY1
-vless://e16c1f00-afa4-405f-a944-932f81e18e23@nv137.momdping.com:443/?type=ws&encryption=none&path=🔒
 vless://e16c1f00-afa4-405f-a944-932f81e18e23@nv137.momdping.com:443?path=%2F&security=tls&encryption=none&type=ws&sni=nv137.momdping.com#GB🇬🇧
 vless://e16c1f00-afa4-405f-a944-932f81e18e23@nv137.momdping.com:443?path=/&security=tls&encryption=none&type=ws&sni=nv137.momdping.com#@CaV2ray
 vless://e16c1f00-afa4-405f-a944-932f81e18e23@nv137.momdping.com:443?path=🔒
@@ -498,3 +495,6 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@public15v7.fastipsport.com:8880?enc
 vless://e4824193-4f54-453b-d037-88368e85ef0e@public15v7.fastipsport.com:8880?flow=&type=grpc&mode=gun&serviceName=&security=none
 vless://e4824193-4f54-453b-d037-88368e85ef0e@public15v7.fastipsport.com:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=
 vless://e4824193-4f54-453b-d037-88368e85ef0e@public15v7.fastipsport.com:8880?mode=gun&security=none&encryption=none&type=grpc
+vless://e4824193-4f54-453b-d037-88368e85ef0e@public15v7.fastipsport.com:8880?mode=gun&security=none&encryption=none&type=grpc#✅
+vless://e4824193-4f54-453b-d037-88368e85ef0e@public15v7.fastipsport.com:8880?security=&encryption=none&type=grpc
+vless://e4824193-4f54-453b-d037-88368e85ef0e@public15v7.fastipsport.com:8880?security=&encryption=none&type=grpc#JOIN
