@@ -1,3 +1,5 @@
+vless://7244a576-0680-ee46-acd8-55809ee12479@103.175.79.2:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=speed.cloudflare.com&fp=chrome&security=reality&pbk=4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI&sid=#%F0%9F%8C%B532%40oneclickvpnkeys
+vless://7244a576-0680-ee46-acd8-55809ee12479@103.175.79.2:443?security=reality&encryption=none&pbk=4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒
 vless://7248e825-887c-48b9-83bc-c26bc6392bf8@104.21.42.250:443?encryption=none&security=tls&sni=🔒
 vless://72524be2-bf09-4bed-bcf6-bd15bfa50442@31.58.144.45:30987/?type=tcp&encryption=none&flow=&sni=🔒
 vless://72524be2-bf09-4bed-bcf6-bd15bfa50442@31.58.144.45:30987?security=reality&encryption=none&pbk=2RxaU-6x9JSARC6nLDfTaY446vMuCjBSNn3R0SSzezQ&headerType=none&fp=chrome&spx=/&type=tcp&sni=🔒
@@ -496,5 +498,3 @@ vless://76f385df-bb5c-4e92-b60b-fce540b0a6a0@84.252.141.211:443?security=reality
 vless://76f5e2e8-8970-4873-9332-6a1ffbb3abb0@62.60.248.14:46395?encryption=none&type=grpc&mode=gun&serviceName=/@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN&security=reality&fp=chrome&sni=www.latimes.com&pbk=R7rQRf2vm_y2RYIFDZcS5ucks0gNKgKthRT-bUtyymo&sid=96973faa2f0bf0&spx=/#V2rayArgo
 vless://76f5e2e8-8970-4873-9332-6a1ffbb3abb0@62.60.248.14:46395?encryption=none&type=grpc&mode=gun&serviceName=/@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN&security=reality&fp=chrome&sni=🔒
 vless://770d49ff-d8d1-456a-a009-6a4833718c98@62.212.70.94:2060?type=tcp&security=reality&pbk=B6w7zRowM6YMjWfoo93HdAwngS7SxXa-K1msMet_P3U&fp=chrome&sni=🔒
-vless://7711fc80-c163-4f35-80c4-d5e61c69659d@104.16.112.97:80/?type=ws&encryption=none&host=icy-bar-399d-ppal03.pomoyes509.workers.dev&path=%2F%3Fed%3D2560#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.16.112.97%3A80
-vless://7711fc80-c163-4f35-80c4-d5e61c69659d@104.16.112.97:80/?type=ws&encryption=none&host=icy-bar-399d-ppal03.pomoyes509.workers.dev&path=🔒

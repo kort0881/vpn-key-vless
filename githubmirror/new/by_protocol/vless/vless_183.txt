@@ -1,3 +1,5 @@
+vless://9a5414b6-20b7-4313-8cd4-693d3c19ec05@176.108.242.76:443?security=reality&encryption=none&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒
+vless://9a5414b6-20b7-4313-8cd4-693d3c19ec05@de.cdn.stun.su:443?allowInsecure=0&sni=de.cdn.stun.su&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#AU_speednode_0001
 vless://9a5414b6-20b7-4313-8cd4-693d3c19ec05@de.cdn.stun.su:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=de.cdn.stun.su&fp=qq&pbk=ca5sfJNcjkh3oNt51hRexXbGWgITAqCprGSU-YKCJBA&sid=dcd27eb15ebed5f2&packetEncoding=xudp#https://t.me/ShadowsocksM56
 vless://9a5414b6-20b7-4313-8cd4-693d3c19ec05@de.cdn.stun.su:443?security=reality&encryption=none&pbk=ca5sfJNcjkh3oNt51hRexXbGWgITAqCprGSU-YKCJBA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=de.cdn.stun.su&sid=dcd27eb15ebed5f2#@Daily_Configs
 vless://9a5414b6-20b7-4313-8cd4-693d3c19ec05@de.cdn.stun.su:443?security=reality&encryption=none&pbk=ca5sfJNcjkh3oNt51hRexXbGWgITAqCprGSU-YKCJBA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=de.cdn.stun.su&sid=dcd27eb15ebed5f2#Channel
@@ -496,5 +498,3 @@ vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@199.34.228.147:2096/?type=ws&encryp
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@205.233.181.186:2096/?type=ws&encryption=none&host=DrOt0Ai1Oq.DeRaKhT.iNfO&path=%2F&security=tls&sni=DrOt0Ai1Oq.DeRaKhT.iNfO&fp=chrome#%F0%9F%A7%BF45%40oneclickvpnkeys
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@205.233.181.186:2096/?type=ws&encryption=none&host=DrOt0Ai1Oq.DeRaKhT.iNfO&path=🔒
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@205.233.181.186:8443/?type=ws&encryption=none&host=CiR346yL3b.DeRaKhT.iNfO&path=%2F&security=tls&sni=CiR346yL3b.DeRaKhT.iNfO&fp=chrome#%F0%9F%A7%BF29%40oneclickvpnkeys
-vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@205.233.181.186:8443/?type=ws&encryption=none&host=CiR346yL3b.DeRaKhT.iNfO&path=🔒
-vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@205.233.181.205:2096/?type=ws&encryption=none&host=DrOt0Ai1Oq.DeRaKhT.iNfO&security=tls&sni=DrOt0Ai1Oq.DeRaKhT.iNfO#%40Hope_Net-join-us-on-Telegram

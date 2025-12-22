@@ -1,3 +1,5 @@
+vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@104.26.6.89:443?path=/api/v1&security=tls&encryption=none&host=gb-8981.shenzogmbh.com&type=ws&sni=gb-8981.shenzogmbh.com#All-@V2ray_Alpha--14
+vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@104.26.6.89:443?path=🔒
 vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@104.26.6.89:443?type=ws&encryption=none&flow=&host=gb-021.shenzogmbh.com&path=%2Fapi%2Fv1&security=tls&sni=gb-021.shenzogmbh.com#RELAY🚩
 vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@45.139.196.153:443?path=/api/v1&security=tls&encryption=none&fp=chrome&type=ws#MCI--@IRAN_V2RAY1
 vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@45.139.196.153:443?path=🔒
@@ -496,5 +498,3 @@ vless://64d6d0d4-3706-4837-b154-cda2816adcc5@104.20.43.81:80/?type=ws&encryption
 vless://64d6d0d4-3706-4837-b154-cda2816adcc5@104.20.43.81:80?path=%2F&security=none&encryption=none&host=crazy-identity.oneeat.co&type=ws#%40V2rayNG3
 vless://64d6d0d4-3706-4837-b154-cda2816adcc5@104.20.43.81:80?path=/&security=none&encryption=none&host=crazy-identity.oneeat.co&type=ws#🇳🇱[
 vless://64d6d0d4-3706-4837-b154-cda2816adcc5@104.20.43.81:80?path=🔒
-vless://64d6d0d4-3706-4837-b154-cda2816adcc5@CRazy-idENtity.onEEat.co:80?path=/&security=&encryption=none&type=ws#https://t.me/v2raynplus
-vless://64d6d0d4-3706-4837-b154-cda2816adcc5@CRazy-idENtity.onEEat.co:80?path=🔒
