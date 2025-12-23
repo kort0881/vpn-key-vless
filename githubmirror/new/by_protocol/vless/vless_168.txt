@@ -357,6 +357,8 @@ vless://5a2c16f9-e365-4080-8d38-6924c3835586@104.19.212.207:443?security=tls&typ
 vless://5a2c16f9-e365-4080-8d38-6924c3835586@104.19.220.22:443?security=tls&type=ws&path=%2F&host=snippets.kkii.eu.org&sni=snippets.kkii.eu.org#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2017
 vless://5a2c16f9-e365-4080-8d38-6924c3835586@104.19.39.97:443?security=tls&type=ws&path=%2F&host=snippets.kkii.eu.org&sni=snippets.kkii.eu.org#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2011
 vless://5a2c16f9-e365-4080-8d38-6924c3835586@172.64.229.205:443?path=%2F&security=tls&encryption=none&insecure=0&host=snippets.kkii.eu.org&fp=randomized&type=ws&allowInsecure=0&sni=snippets.kkii.eu.org#RELAY🚩
+vless://5a2c16f9-e365-4080-8d38-6924c3835586@172.64.53.226:443?&security=tls&fp=chrome&sni=snippets.kkii.eu.org&type=ws&headerType=none&host=snippets.kkii.eu.org&path=%2F#🏳[openproxylist.com]
+vless://5a2c16f9-e365-4080-8d38-6924c3835586@172.64.53.226:443?&security=tls&fp=chrome&sni=🔒
 vless://5a2c16f9-e365-4080-8d38-6924c3835586@ali.nonull.pp.ua:443?&security=tls&fp=chrome&sni=snippets.kkii.eu.org&type=ws&headerType=none&host=snippets.kkii.eu.org&path=%2F#%E6%9C%AA%E7%9F%A5%2016
 vless://5a2c16f9-e365-4080-8d38-6924c3835586@cdn.204910.best:443?&security=tls&fp=chrome&sni=snippets.kkii.eu.org&type=ws&headerType=none&host=snippets.kkii.eu.org&path=%2F#_%E7%BE%8E%E5%9B%BD%205
 vless://5a2c16f9-e365-4080-8d38-6924c3835586@cdn.204910.best:443?security=tls&type=ws&path=%2F&host=snippets.kkii.eu.org&sni=snippets.kkii.eu.org#%F0%9F%87%AF%F0%9F%87%B5%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%97%A5%E6%9C%AC%2004
@@ -496,5 +498,3 @@ vless://5be96290-7b84-4c76-9b5c-7e42083f68ee@www.speedtest.net:2086?path=/@spike
 vless://5be96290-7b84-4c76-9b5c-7e42083f68ee@www.speedtest.net:2086?path=🔒
 vless://5c00f0cb-905e-47ce-9b6b-2d4d137a1f9e@drow-ranger.fonixapp.org:443?security=reality&encryption=none&pbk=BnwepsrMVlmIpiUMIOoAlBXJ5iZh5GMpgfjHuhwhklM&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=workers.cloudflare.com&sid=48#All-@V2rayAlpha--17
 vless://5c00f0cb-905e-47ce-9b6b-2d4d137a1f9e@drow-ranger.fonixapp.org:443?security=reality&encryption=none&pbk=BnwepsrMVlmIpiUMIOoAlBXJ5iZh5GMpgfjHuhwhklM&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=🔒
-vless://5c00f0cb-905e-47ce-9b6b-2d4d137a1f9e@drow-ranger.fonixapp.org:443?security=reality&encryption=none&pbk=BnwepsrMVlmIpiUMIOoAlBXJ5iZh5GMpgfjHuhwhklM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=workers.cloudflare.com&sid=48#@Daily_Configs
-vless://5c00f0cb-905e-47ce-9b6b-2d4d137a1f9e@drow-ranger.fonixapp.org:443?security=reality&encryption=none&pbk=BnwepsrMVlmIpiUMIOoAlBXJ5iZh5GMpgfjHuhwhklM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒
