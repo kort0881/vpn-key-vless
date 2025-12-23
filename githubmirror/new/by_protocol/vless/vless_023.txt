@@ -1,11 +1,3 @@
-vless://3635a438-c066-4630-8daa-0812691c0551@91.107.190.98:48476?type=tcp&encryption=none&security=reality&pbk=vhlEFttiskr1M-4QmXAcqTHe0p-kFTbp8u5LSsaJWS0&fp=chrome&sni=cloudflare.com&sid=eb806375&spx=/#@armanstore2-
-vless://36628fb7-b83f-4f84-827c-462e4b8a7f78@51.250.103.238:443?security=reality&encryption=none&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=43dcff53849b81e6#@Daily_Configs
-vless://3691b39b-4aa7-4f68-8304-902e4734e2f4@45.128.232.102:16798?security=reality&encryption=none&pbk=UGm82qoVVxxTkwGLniA8C004EYPW52VG7GmdgHzwSXU&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=229b2a94#All--@IRAN_V2RAY1
-vless://3691b39b-4aa7-4f68-8304-902e4734e2f4@45.128.232.102:16798?security=reality&encryption=none&pbk=UGm82qoVVxxTkwGLniA8C004EYPW52VG7GmdgHzwSXU&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=229b2a94#      Config_Rayegan@
-vless://36b3da92-5318-452a-80f4-9025e8c9b87a@m72a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#@ATLAS_V2VPN8
-vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.139.18:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#@CaV2ray
-vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.170.191:443?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#@CaV2ray
-vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.170.191:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#@CaV2ray
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.171.12:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@CaV2ray
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.171.12:443?security=none&encryption=none&host=zula.ir/?TELEGRAM_JOKERRVPN&headerType=http&type=tcp#@CaV2ray
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.182.117:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#@CaV2ray
@@ -498,3 +490,11 @@ vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.172:23576?security=realit
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.175:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#@Daily_Configs
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.175:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#@FreakConfig
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.175:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#@MARAMBASHI
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.176:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#@Daily_Configs
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.176:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#@FreakConfig
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.177:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#@FreakConfig
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.197:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#@FreakConfig
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.198:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#@Daily_Configs
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.198:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#@FreakConfig
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.214:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#@Daily_Configs
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.214:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#@FreakConfig
