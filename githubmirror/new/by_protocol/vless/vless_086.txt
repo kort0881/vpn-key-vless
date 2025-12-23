@@ -1,6 +1,3 @@
-vless://7138a76f-452b-4d23-83e2-faed94efdb10@deusup.dashping1.ir:8101?security=reality&encryption=none&pbk=DG2WqjfT9HFqCfHzaYAVNEayiJN8yGQ64YT9-9eV5Fs&fp=chrome&sid=bbddcffa7270&spx=/F------Telegram------RayphoriaHub---------Telegram------RayphoriaHub---------Telegram------RayphoriaHub---------Telegram------RayphoriaHub---------Telegram------RayphoriaHub---------Telegram------RayphoriaHub---&flow=xtls-rprx-vision # [ By EbraSha ]
-vless://714ed6b1-ee85-4ef1-9e74-572f39a98bf3@199.232.5.153:80?type=grpc&serviceName=Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH&security=none&alpn=h3,h2,http/1.1&encryption=none&host=speedtest.net&fp=chrome&type=ws # [ By EbraSha ]
-vless://7168e209-85df-4602-819e-a41560059b74@104.18.24.9:443?security=tls&encryption=none&type=ws # [ By EbraSha ]
 vless://716afcbb-e1d3-49d5-bdd1-4a0826eb8fd5@www.speedtest.net:80?security=none&encryption=none&host=speedtest.net&type=ws # [ By EbraSha ]
 vless://71759df6-23a4-4db7-b986-1039b65eb433@172.66.156.81:80?encryption=none&type=ws&host=speedtest.net # [ By EbraSha ]
 vless://71759df6-23a4-4db7-b986-1039b65eb433@172.66.156.81:80?security=&encryption=none=-@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann&host=speedtest.net&type=ws # [ By EbraSha ]
@@ -498,3 +495,6 @@ vless://895bcc7e-59c4-4872-d1b7-7fa19a8ec2ce@95.179.241.11:443?mode=gun&security
 vless://895bcc7e-59c4-4872-d1b7-7fa19a8ec2ce@95.179.241.11:443?mode=gun&security=none&encryption=none&type=grpc # [ By EbraSha ]
 vless://89743cca-6855-478c-b9a8-79ae9ab9c3e4@s2.skullvpn.xyz:443?security=tls&encryption=none&host=speedtest.net&type=ws # [ By EbraSha ]
 vless://89952144-8ad0-4af7-a334-940df81d820d@vpncustomize2.ddns.net:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&security=tls&encryption=none&type=grpc&serviceName=&security=tls&encryption=none&type=grpc&serviceName= # [ By EbraSha ]
+vless://8997a0a4-0e51-43b9-b13d-210265d00d3a@51.79.29.17:443?security=none&encryption=none&host=speedtest.net&type=ws # [ By EbraSha ]
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.17.147.22:8443?security=tls&alpn=http/1.1&encryption=none&host=speedtest.net&fp=chrome&type=ws # [ By EbraSha ]
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.17.148.22:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=speedtest.net&fp=randomized&type=ws # [ By EbraSha ]
