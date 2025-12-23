@@ -1,3 +1,4 @@
+vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@208.103.161.32:2053?encryption=none&type=ws&host=sni.111000.dynv6.net&path=/?ed=2560&security=tls&fp=chrome&sni=sni.111000.dynv6.net#@SiNAVM
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@208.103.161.32:2053?path=/?ed=2560&security=tls&encryption=none&host=sni.111000.dynv6.net&fp=chrome&type=ws&sni=sni.111000.dynv6.net#@V2ray_confing33
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@208.103.161.32:2053?path=/?ed=2560&security=tls&encryption=none&host=sni.111000.dynv6.net&fp=chrome&type=ws&sni=sni.111000.dynv6.net#telegram
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@208.103.161.33:2053?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&path=/&security=tls&encryption=none&type=ws&sni=sni.111000.dynv6.net#[Telegram:NetifyVpn]
@@ -497,4 +498,3 @@ vless://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@51.38.232.101:80?path=/vless/&secur
 vless://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@51.38.232.101:80?path=/vless/&security=none&encryption=none&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&type=ws# | @External_Net
 vless://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@51.38.232.101:80?path=/vless/&security=none&encryption=none&host=Join---azadiiivpn---Join---azadiiivpn---Join---azadiiivpn---Join---azadiiivpn&type=ws#azadiiivpn
 vless://2a30e90e-02be-4602-8c57-308eb4feff5b@tr.spirako.com:443?security=reality&encryption=none&pbk=0hH6R90pSxwm7nZPGtJJcJFhwCXU3Rvf-wcEHE7hczo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com#@sunflowerplato
-vless://2a509678-3795-4b13-b425-70741c3f5ca3@151.101.25.242:80?encryption=none&security=none&type=xhttp&host=jetuk43.global.ssl.fastly.net&path=/&mode=auto#Telegram: @Daily_Configs
