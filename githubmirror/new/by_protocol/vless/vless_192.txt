@@ -1,8 +1,3 @@
-vless://bb747893-51e8-4131-895d-edaae3f7cc80@165.22.205.134:443?mode=gun&security=reality&encryption=none&pbk=eNkiDdcREIqmvvWLHkA9eOZR9OlHHwT8HG-Q-yhcVQQ&fp=chrome&spx=/&type=grpc&serviceName=@IRAN_V2RAY1@IRAN_V2RAY1@IRAN_V2RAY1@IRAN_V2RAY1@IRAN_V2RAY1@IRAN_V2RAY1@IRAN_V2RAY1@IRAN_V2RAY1@IRAN_V2RAY1
-vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.126.93:8443/?type=xhttp&encryption=none
-vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.126.93:8443/?type=xhttp&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40imhdiyvp%20%5B11%5D
-vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.126.93:8443?mode=stream-one&path=🔒
-vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.126.93:8443?security=none&type=tcp&packetEncoding=xudp&encryption=none
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.132.59:8443/?type=xhttp&encryption=none
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.132.59:8443?flow=&type=xhttp&host=&path=🔒
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.132.59:8443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#
@@ -498,3 +493,8 @@ vless://c03f1122-5aee-4e22-b82f-c1dd1d09d502@www.speedtest.net:80?path=🔒
 vless://c0412b52-27c2-4be8-b1aa-30e95d16d116@77.110.119.151:48469?type=grpc&encryption=none&serviceName=Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-&authority=&security=none
 vless://c0412b52-27c2-4be8-b1aa-30e95d16d116@77.110.119.151:48469?type=grpc&encryption=none&serviceName=Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-&authority=&security=none#l1ugilhx
 vless://c056d27f-b44c-42e7-b631-66e4c04ba35d@online.4zkaban.xyz:80?encryption=none&headerType=none&type=ws&path=🔒
+vless://c058db12-2c29-49d2-8893-6c82561c162a@172.66.40.99:80?path=🔒
+vless://c058fe92-58fd-18fe-2ce0-53eebbeb2ceb@185.201.49.30:58088/?encryption=none&host=myket.ir&type=tcp&headerType=http
+vless://c058fe92-58fd-18fe-2ce0-53eebbeb2ceb@185.201.49.30:58088/?encryption=none&host=myket.ir&type=tcp&headerType=http#%40TeLPJ%2B%D8%AA%D9%85%D8%A7%D9%85%2B%D9%86%D8%AA%2B%D9%87%D8%A7%2B%F0%9F%9F%A6%F0%9F%9F%A8
+vless://c058fe92-58fd-18fe-2ce0-53eebbeb2ceb@185.201.49.30:58097?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp
+vless://c05bb475-64d2-447b-92c0-143aa6b71d1c@5.253.43.181:443/?type=ws&encryption=none&flow=&path=🔒

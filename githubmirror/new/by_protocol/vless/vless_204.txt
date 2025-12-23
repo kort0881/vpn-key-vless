@@ -1,8 +1,3 @@
-vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.235.241.117:443/?type=ws&encryption=none&flow=&path=🔒
-vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.235.241.117:443?path=%2Fhormoz&security=tls&encryption=none&allowinsecure=1&type=ws#MD🇲🇩
-vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.235.241.117:443?path=%2Fhormoz&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1#MD🇲🇩
-vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.235.241.117:443?path=%2Fhormoz&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1#🇩🇪[openproxylist.com]
-vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.235.241.117:443?path=%2Fhormoz&security=tls&encryption=none&type=ws#MD🇲🇩
 vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.235.241.117:443?path=/hormoz&security=tls&encryption=none&type=ws#𝗝𝗼𝗶𝗻
 vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.235.241.117:443?path=🔒
 vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.235.241.122:443?path=%2Fhormoz&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1#MD🇲🇩
@@ -498,3 +493,8 @@ vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?path=🔒
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?security=none&encryption=none&host=vngsupply.ip-ddns.com&type=ws
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?type=ws&host=vngsupply.ip-ddns.com&path=🔒
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.1.197:8880/?type=ws&encryption=none&host=VngSuPpLY.IP-DdnS.com&path=%2F1ycR2zb3KeELWRha%3Fed%3D2560#%40NETMelliAnti
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.1.197:8880/?type=ws&encryption=none&host=VngSuPpLY.IP-DdnS.com&path=🔒
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.1.197:8880/?type=ws&host=VngSuPpLY.IP-Ddns.com&path=🔒
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.1.197:8880?flow=&type=ws&host=VngSuPpLY.IP-DdnS.com&path=🔒
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.1.197:8880?path=%2F1ycR2zb3KeELWRha%3Fed%3D2560&security=none&encryption=none&host=VngSuPpLY.IP-DdnS.com&type=ws#🌐سرور
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.1.197:8880?path=%2F1ycR2zb3KeELWRha%3Fed%3D2560&security=none&encryption=none&host=VngSuPpLY.IP-DdnS.com&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22ms

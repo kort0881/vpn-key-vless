@@ -1,8 +1,3 @@
-vless://0f7e89d6-9f35-4e94-ba4b-509a724dc177@91.99.219.10:443?mode=auto&path=🔒
-vless://0f7e89d6-9f35-4e94-ba4b-509a724dc177@91.99.219.10:443?type=xhttp&path=/ds&host=&mode=auto&security=none#@NIM_VPN_ir
-vless://0f7e89d6-9f35-4e94-ba4b-509a724dc177@91.99.219.10:443?type=xhttp&path=🔒
-vless://0f7e89d6-9f35-4e94-ba4b-509a724dc177@91.99.219.15:443/?type=xhttp&encryption=none
-vless://0f7e89d6-9f35-4e94-ba4b-509a724dc177@91.99.219.15:443?mode=auto&path=🔒
 vless://0f7e89d6-9f35-4e94-ba4b-509a724dc177@91.99.223.14:443?mode=auto&path=🔒
 vless://0f7e89d6-9f35-4e94-ba4b-509a724dc177@91.99.223.68:443?mode=auto&path=🔒
 vless://0f7e89d6-9f35-4e94-ba4b-509a724dc177@91.99.228.179:443?mode=auto&path=/ds&security=none&encryption=none&type=xhttp#@vmesskhodam
@@ -498,3 +493,8 @@ vless://141032e5-c719-47a2-8aa5-d6c7f6bb3765@104.19.250.118:443/?type=ws&encrypt
 vless://1417a34f-a0d9-46c4-a2c7-9c7d56ac4b5d@Evay_vpn.heloisfood.ir:1530?type=xhttp&mode=auto&host=EVAY_VPN---EVAY_VPN---EVAY_VPN---EVAY_VPN&path=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=reality&fp=chrome&sni=stackoverflow.com&pbk=l_LBBQyt6du7ZgBadETGtx8zLgUd36-4mZVCSI9qqwA&sid=077dc29a23d311f2#1🇫🇮
 vless://1417a34f-a0d9-46c4-a2c7-9c7d56ac4b5d@Evay_vpn.heloisfood.ir:1530?type=xhttp&mode=auto&host=EVAY_VPN---EVAY_VPN---EVAY_VPN---EVAY_VPN&path=🔒
 vless://1417a34f-a0d9-46c4-a2c7-9c7d56ac4b5d@Evay_vpn.heloisfood.ir:8678?type=xhttp&mode=auto&host=EVAY_VPN-EVAY_VPN-EVAY_VPN-EVAY_VPN.heloisfood.ir&path=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn?ed=2048&security=none#2🇫🇮
+vless://1417a34f-a0d9-46c4-a2c7-9c7d56ac4b5d@Evay_vpn.heloisfood.ir:8678?type=xhttp&mode=auto&host=EVAY_VPN-EVAY_VPN-EVAY_VPN-EVAY_VPN.heloisfood.ir&path=🔒
+vless://142dd8b5-0b9e-4018-a961-2370d50cc435@185.215.228.90:20118?security=none&encryption=none&host=hub.docker.com/?TELEGRAM_JOKERRVPN&headerType=http&type=tcp
+vless://142dd8b5-0b9e-4018-a961-2370d50cc435@185.215.228.90:20118?security=none&encryption=none&host=hub.docker.com/?TELEGRAM_JOKERRVPN&headerType=http&type=tcp#@CaV2ray
+vless://142e062f-475e-4484-8bd6-8386b246f366@199.232.198.133:443/?type=ws&encryption=none&host=vpngaming.ir&path=%2F&security=tls&sni=www.speedrun.com&fp=chrome#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool
+vless://142e062f-475e-4484-8bd6-8386b246f366@199.232.198.133:443/?type=ws&encryption=none&host=vpngaming.ir&path=🔒

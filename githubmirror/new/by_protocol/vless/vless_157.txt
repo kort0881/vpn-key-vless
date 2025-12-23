@@ -1,8 +1,3 @@
-vless://35312035-3420-4533-a035-312035322031@92.112.126.22:8442?security=reality&encryption=none&pbk=pFRfJJDY6TYJq-OVgAqFXhdaeur7gJWJM-RZT8g8yAA&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=🔒
-vless://35323594-9ee2-4f06-ae14-3148b6950621@188.114.97.171:443/?type=ws&encryption=none&host=ooao14004.74gwenneth.workers.dev&path=%2F&security=tls&sni=ooao14004.74gwenneth.workers.dev#%40v2ray_configs_pool
-vless://35323594-9ee2-4f06-ae14-3148b6950621@188.114.97.171:443/?type=ws&encryption=none&host=ooao14004.74gwenneth.workers.dev&path=🔒
-vless://35323594-9ee2-4f06-ae14-3148b6950621@188.114.97.171:443?encryption=none&security=tls&sni=🔒
-vless://35323594-9ee2-4f06-ae14-3148b6950621@188.114.97.171:443?security=tls&sni=ooao14004.74gwenneth.workers.dev&type=ws&host=ooao14004.74gwenneth.workers.dev&path=%2F#RELAY🚩
 vless://35332031-3031-4035-b720-343920313032@213.108.198.158:8442?security=reality&encryption=none&pbk=pFRfJJDY6TYJq-OVgAqFXhdaeur7gJWJM-RZT8g8yAA&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=🔒
 vless://35342035-3420-4130-b120-353620313032@92.112.126.22:8442?security=reality&encryption=none&pbk=pFRfJJDY6TYJq-OVgAqFXhdaeur7gJWJM-RZT8g8yAA&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=creativecommons.org&sid=59b75803#💎کانفیگ
 vless://35342035-3420-4130-b120-353620313032@92.112.126.22:8442?security=reality&encryption=none&pbk=pFRfJJDY6TYJq-OVgAqFXhdaeur7gJWJM-RZT8g8yAA&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=🔒
@@ -498,3 +493,8 @@ vless://3b3b3674-015b-4ccb-8cd0-f3f8c2320435@n2vpn-helper.projectis.ir:2053?path
 vless://3b3b3674-015b-4ccb-8cd0-f3f8c2320435@n2vpn-helper.projectis.ir:2053?path=🔒
 vless://3b3ca8ba-3e3a-45c0-96af-aa61b84a12e1@185.49.105.236:9292?type=tcp&headerType=http&host=speedtest.net&path=🔒
 vless://3b40219d-541c-4a8e-aa19-377bd68f1f62@cache.netflix.com.unlimited.spauu.web.id:443/?type=ws&encryption=none&flow=&host=cache.netflix.com.unlimited.spauu.web.id&path=🔒
+vless://3b40219d-541c-4a8e-aa19-377bd68f1f62@cache.netflix.com.unlimited.spauu.web.id:443?path=🔒
+vless://3b49818a-b6f2-499d-9a22-5742bead0e00@f.paliss.ir:2525?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&security=none&type=Tcp&headerType=&path=🔒
+vless://3b49818a-b6f2-499d-9a22-5742bead0e00@f.paliss.ir:2525?security=none&encryption=none&host=f.paliss.ir&headerType=none&type=tcp
+vless://3b4d1c7f-4fd7-45bb-9251-79cd53a3e006@185.234.59.74:8443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&spx=/telegram
+vless://3b4d1c7f-4fd7-45bb-9251-79cd53a3e006@185.234.59.89:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒
