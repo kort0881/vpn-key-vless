@@ -1,3 +1,5 @@
+vless://6bc3fbd5-1c71-4321-b5b7-5e1060ed4826@104.21.37.43:443/?type=ws&encryption=none&host=sinabigo.soft10.ir&security=tls&sni=sinabigo.soft10.ir
+vless://85e741b8-8233-4b38-e89a-2d2658119f27@172.66.0.218:2087/?type=ws&encryption=none&host=cpanel3.sassanidempire.com&path=%2Fws&security=tls&sni=cpanel3.sassanidempire.com&fp=chrome#%40Hope_Net-join-us-on-Telegram
 vless://6c0ed3fb-f0b0-5b53-a762-f8f8d832bdba@104.16.46.205:2053/?type=ws&encryption=none&host=vfarid.xcdi.woRKErs....&security=tls&sni=vfarid.xcdi.woRKErs.DEv
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@23.235.33.159:443/?type=ws&encryption=none&host=en.mfa.gov.ir&path=%2FH%3Fed%3D2560&security=tls&sni=en.mfa.gov.ir&alpn=h2%2Chttp%2F1.1&fp=randomized#%40Hope_Net-join-us-on-Telegram
 vless://3fa3261f-8f6b-4f5a-8f75-eb39911a0798@194.76.18.124:2082/?type=httpupgrade&encryption=none&host=finhztco.nipytee.info&path=%2F#%40Hope_Net-join-us-on-Telegram
@@ -496,5 +498,3 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.129:8880?security=&fp=c
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.121:8880?security=&fp=chrome&type=grpc&encryption=none#@V2ray_Collector
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.124:8880?security=&fp=chrome&type=grpc&encryption=none#@V2ray_Collector
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.180:8880?security=&fp=chrome&type=grpc&encryption=none#@V2ray_Collector
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.63:8880?security=&fp=chrome&type=grpc&encryption=none#@V2ray_Collector
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?security=&fp=chrome&type=grpc&encryption=none#@V2ray_Collector
