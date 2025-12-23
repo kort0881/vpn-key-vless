@@ -1,4 +1,3 @@
-vless://2456f90c-5183-476d-b069-16ae74ce120f@91.206.71.253:2096?path=%2F&security=tls&encryption=none&type=ws&sni=fast01.0860852.xyz#RELAY🚩
 vless://2456f90c-5183-476d-b069-16ae74ce120f@91.206.71.253:2096?path=/&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1&sni=fast01.0860852.xyz#🇩🇪
 vless://2456f90c-5183-476d-b069-16ae74ce120f@91.206.71.253:2096?path=/Telegram/?ed=2560&security=tls&encryption=none&host=fast01.0860852.xyz&type=ws&sni=fast01.0860852.xyz#♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️🔷️14🌐
 vless://2456f90c-5183-476d-b069-16ae74ce120f@91.206.71.253:2096?path=🔒
@@ -498,3 +497,4 @@ vless://279d41e2-ea00-4e04-a546-6caab44909f6@x2-england-amazon-v2.we-are-team-xs
 vless://279d41e2-ea00-4e04-a546-6caab44909f6@x2-england-amazon-v2.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?security=none&encryption=none&type=ws
 vless://27ab1462-5fa9-47f0-c7fe-f8e83f4be942@65.109.208.107:2083?encryption=none&security=reality&sni=🔒
 vless://27ab1462-5fa9-47f0-c7fe-f8e83f4be942@65.109.208.107:2083?type=grpc&mode=gun&serviceName=melov2ray&security=reality&fp=chrome&sni=🔒
+vless://27cbfd99-8afe-4f86-aaf8-e4d4af202eee@199.232.66.133:80/?type=xhttp&encryption=none

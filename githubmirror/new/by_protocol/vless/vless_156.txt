@@ -1,4 +1,3 @@
-vless://2ece0f4a-bb37-42ab-8a91-b6c43de8e6d5@webshecan.webredirect.org:2087?type=tcp&security=reality&fp=chrome&pbk=2M6UwPCIFyRuf41xzoiHRo_5DUDNBs8lfe-sK3c8-Dw&sni=🔒
 vless://2ed0e544-d2ea-4c92-b29e-d947cd56bb9e@129.153.90.9:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=dj-download-us.xn--4gq62f52gopi49k.com&fp=ios#%40Hope_Net-join-us-on-Telegram
 vless://2ed0e544-d2ea-4c92-b29e-d947cd56bb9e@129.153.90.9:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=🔒
 vless://2ee2a715-d541-416a-8713-d66567448c2e@91.98.123.121:443?encryption=none&security=none&type=grpc
@@ -498,3 +497,4 @@ vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?security=tls&encry
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.21.11.173:443/?type=ws&encryption=none&host=carlotta.shoorekeeper.cloudns.org&path=%40V2rayBaaz&security=tls&sni=carlotta.shoorekeeper.cloudns.org&alpn=http%2F1.1&fp=chrome#%40v2ray_configs_pool
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.21.11.173:443/?type=ws&encryption=none&host=carlotta.shoorekeeper.cloudns.org&path=🔒
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.21.11.173:443?encryption=none&security=tls&sni=🔒
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.21.11.173:443?path=@V2rayBaaz&security=tls&encryption=none&alpn=http/1.1&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#@v2ray_configs_pools

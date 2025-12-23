@@ -1,4 +1,3 @@
-vless://684ead3d-43b1-4707-904a-24e3e9e91fb1@85.9.217.56:2080?security=reality&encryption=none&pbk=9jcs1L8alkKMjyWZh0b0TNaPV53ilNkMIJGLtMU-2S4&fp=chrome&spx=/&type=grpc&sni=🔒
 vless://684ead3d-43b1-4707-904a-24e3e9e91fb1@85.9.217.56:2080?type=grpc&serviceName=&authority=&security=reality&pbk=9jcs1L8alkKMjyWZh0b0TNaPV53ilNkMIJGLtMU-2S4&fp=chrome&sni=yahoo.com&sid=722ee6b369&spx=/#telegram
 vless://684ead3d-43b1-4707-904a-24e3e9e91fb1@85.9.217.56:2080?type=grpc&serviceName=&authority=&security=reality&pbk=9jcs1L8alkKMjyWZh0b0TNaPV53ilNkMIJGLtMU-2S4&fp=chrome&sni=🔒
 vless://68509c26-cfad-4dc8-9def-e8190a98d647@104.21.69.44:8880/?type=ws&encryption=none&host=revolutiontime-dailyconfigs.vigilante.ir&path=%252...
@@ -498,3 +497,4 @@ vless://6d57fabc-2160-40ff-8e38-4cd984bf2b41@91.107.130.44:24070?mode=gun&securi
 vless://6d5d6143-2daa-41d5-c51f-cb7b64783b68@99.199.73.27:8060?path=%2Fdsjh5tGfRgUy789-jU%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=sport-shop-online-02.cyberscaler.com&fp=chrome&type=ws&sni=sport-shop-online-02.cyberscaler.com#%40v2Meli
 vless://6d5d6143-2daa-41d5-c51f-cb7b64783b68@99.199.73.27:8060?path=🔒
 vless://6d60c0fc-ec20-4c8c-9f43-a6750c6096f2@103.231.75.49:443/?type=ws&encryption=none&path=🔒
+vless://6d60c0fc-ec20-4c8c-9f43-a6750c6096f2@103.231.75.49:443?encryption=none&security=tls&allowInsecure=1&type=ws&path=🔒

@@ -1,4 +1,3 @@
-vless://dbd0ec7c-b8a0-4c60-a87e-d00edd6f0248@senator.cdniran.info:8443?security=tls&type=ws&headerType=&path=&host=srv33.flightbean24.com&sni=srv33.flightbean24.com&fp=chrome&alpn=h2,http/1.1#telegram
 vless://dbd0ec7c-b8a0-4c60-a87e-d00edd6f0248@senator.cdniran.info:8443?security=tls&type=ws&headerType=&path=🔒
 vless://dbdcf9b0-990b-4c30-8166-8303ca64f505@archivetr.arenafile.com:443?path=🔒
 vless://dbe12f56-f7c3-477f-8deb-6a4da6777f7a@www-de.slotplanet88vip.com:8443?security=reality&encryption=none&pbk=vUjqwVqb_8n22kndy1Hx7sgGK8rk4pFIwe5sYWfKn3w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tgju.org&sid=fe91ea4400b478d2#@V2rayNGVPN
@@ -498,3 +497,4 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.101:8880?mode=gun&securi
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.103:8880?mode=gun&security=none&encryption=none&authority=/?BIA_TELEGRAM
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.106:8880?mode=gun&security=&encryption=none&authority=Join----TM
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.79:8880?mode=gun&security=&encryption=none&authority=Join----TM
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.80106:8880?mode=gun&security=none&encryption=none&authority=/?BIA_TELEGRAM

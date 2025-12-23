@@ -1,4 +1,3 @@
-vless://d80f1a54-7a16-42de-c4b4-7ed04a485548@99.199.73.53:6464?security=none&encryption=none&host=www.speedtest.net/?BIA_CHANEL@JOKERRVPN&headerType=http&type=tcp#@CaV2ray
 vless://d814beb3-f48d-4bbe-b6ba-b084ffea4d91@37.32.6.8:35021?security=none&type=tcp&headerType=http&path=/&host=skyroom.online#telegram
 vless://d814beb3-f48d-4bbe-b6ba-b084ffea4d91@37.32.6.8:35021?security=none&type=tcp&headerType=http&path=🔒
 vless://d818c2c8-6bae-4171-b442-6429b1a5fe20@www.speedtest.net:2083?path=/@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config?ed=2048&security=tls&alpn=http/1.1&encryption=none&host=webfa.dnss-mobile.ir&fp=chrome&type=ws&sni=webfa.dnss-mobile.ir#🇩🇪@Alfred_Config
@@ -498,3 +497,4 @@ vless://dbcf007d-f950-4d98-9397-8da2b27c2931@85.133.236.19:63986?security=none&a
 vless://dbcf007d-f950-4d98-9397-8da2b27c2931@85.133.236.19:63986?security=none&alpn=http/1.1&encryption=none&host=skyroom.online,igap.net,gharar.ir/?Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&headerType=http&type=tcp
 vless://dbd0ec7c-b8a0-4c60-a87e-d00edd6f0248@senator.cdniran.info:8443?security=tls&alpn=h2,http/1.1&encryption=none&host=srv26.flightbean24.com&fp=chrome&type=ws&sni=🔒
 vless://dbd0ec7c-b8a0-4c60-a87e-d00edd6f0248@senator.cdniran.info:8443?security=tls&type=ws&headerType=&path=&host=srv26.flightbean24.com&sni=srv26.flightbean24.com&fp=chrome&alpn=h2,http/1.1#telegram
+vless://dbd0ec7c-b8a0-4c60-a87e-d00edd6f0248@senator.cdniran.info:8443?security=tls&type=ws&headerType=&path=&host=srv33.flightbean24.com&sni=srv33.flightbean24.com&fp=chrome&alpn=h2,http/1.1#telegram
