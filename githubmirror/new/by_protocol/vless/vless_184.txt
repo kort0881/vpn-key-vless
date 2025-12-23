@@ -1,3 +1,8 @@
+vless://Parsashonam-292@185.146.173.39:8880?type=httpupgrade&path=🔒
+vless://Parsashonam-292@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp
+vless://Parsashonam-293@185.146.173.39:8880?path=🔒
+vless://Parsashonam-293@185.146.173.39:8880?type=httpupgrade&path=🔒
+vless://Parsashonam-293@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp
 vless://Parsashonam-294@185.146.173.39:8880?path=🔒
 vless://Parsashonam-294@185.146.173.39:8880?type=httpupgrade&host=De.Parsashonam.CfD.&path=🔒
 vless://Parsashonam-294@185.146.173.39:8880?type=httpupgrade&path=🔒
@@ -171,7 +176,7 @@ vless://SERVERNETT-SERVERNETT1@tyiu.sernett.ir:80?mode=auto&path=%2F&security=no
 vless://SERVERNETT-SERVERNETT1@tyiu.sernett.ir:80?mode=auto&path=/&security=none&encryption=none&type=xhttp#✅سرورهایبیشتردرکانال:prrofile_purple@✅
 vless://SERVERNETT-SERVERNETT1@tyiu.sernett.ir:80?mode=auto&path=🔒
 vless://SERVERNETT@yuo0.sernett.ir:80?mode=auto&path=%2F&security=none&encryption=none&type=xhttp#SERVERNETT-CHANNEL
-vless://SVNTEAM-2@public.misvn.ir:443/?type=tcp&security=reality&pbk=O0DFIyOlsDyOPthL8Z27Fna1vuoWB5CYTFXrcUf_jlc&fp=chrome&sni=tgju.org&sid=&spx=%2F#🌐
+vless://SVNTEAM-2@public.misvn.ir:443/?type=tcp&security=reality&pbk=O0DFIyOlsDyOPthL8Z27Fna1vuoWB5CYTFXrcUf_jlc&fp=chrome&sni=tgju.org&sid=&spx=%2F#🌐سرور
 vless://SVNTEAM-2@public.misvn.ir:443/?type=tcp&security=reality&pbk=O0DFIyOlsDyOPthL8Z27Fna1vuoWB5CYTFXrcUf_jlc&fp=chrome&sni=tgju.org&sid=&spx=/#SVNTEAM🇩🇪#2
 vless://SVNTEAM-2@public.misvn.ir:443/?type=tcp&security=reality&pbk=O0DFIyOlsDyOPthL8Z27Fna1vuoWB5CYTFXrcUf_jlc&fp=chrome&sni=🔒
 vless://SVNTEAM-3@public.misvn.ir:443/?type=tcp&security=reality&pbk=O0DFIyOlsDyOPthL8Z27Fna1vuoWB5CYTFXrcUf_jlc&fp=chrome&sni=tgju.org&sid=&spx=/#SVNTEAM🇩🇪Free3
@@ -493,8 +498,3 @@ vless://TELEGRAM-NUFiLTER@test.fast.hosting-ip.com:80?mode=auto&path=/telegram-N
 vless://TELEGRAM-NUFiLTER@test.fast.hosting-ip.com:80?mode=auto&path=🔒
 vless://TELEGRAM-v2ray_configs_pools@172.66.40.99:80?path=/telegram-v2ray_configs_pools-v2ray_configs_pools,telegram-v2ray_configs_pools?ed=80&security=none&encryption=none&host=narenji.motorphrotan.ir.&type=httpupgrade#[🇺🇸]@v2ray_configs_pools
 vless://TELEGRAM-v2ray_configs_pools@172.66.40.99:80?path=🔒
-vless://TELEGRAM_JKVPN______JKVPN@www.zula.ir:80?type=ws&path=🔒
-vless://TELEGRAM____JKVPN@www.speedtest.net:80?type=ws&path=🔒
-vless://TGM_33534168518@147.45.178.124:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒
-vless://TGM_33534168518@147.45.178.124:443?security=reality&encryption=none&pbk=ClKe8P35ovCPaw8zWCoslc7Js9lYSNi6fNL67twY-zU&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=🔒
-vless://Tel

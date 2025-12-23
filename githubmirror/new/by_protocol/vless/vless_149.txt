@@ -1,6 +1,3 @@
-vless://17034eef-9472-45cc-bca5-a71f90e36244@104.21.112.1:8080/?type=ws&encryption=none&host=join-to-unlimiteddev.sabadyt.ir&path=🔒
-vless://17034eef-9472-45cc-bca5-a71f90e36244@104.21.112.1:8080?path=🔒
-vless://17034eef-9472-45cc-bca5-a71f90e36244@104.21.112.1:8080?security=&type=ws&path=🔒
 vless://17034eef-9472-45cc-bca5-a71f90e36244@192.0.54.219:8080?path=🔒
 vless://17034eef-9472-45cc-bca5-a71f90e36244@198.62.62.162:8080?path=🔒
 vless://17088e1c-2ec5-41e9-e948-f711d0a2bbee@91.99.179.41:24199?security=none&encryption=none&headerType=none&type=tcp
@@ -498,3 +495,6 @@ vless://1b197700-e6fd-43ea-96ca-488f4c4cd731@93.127.180.128:125?security=none&se
 vless://1b197700-e6fd-43ea-96ca-488f4c4cd731@93.127.180.128:8443?security=none&serviceName=Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH&encryption=none&headerType=none&type=tcp
 vless://1b197700-e6fd-43ea-96ca-488f4c4cd731@93.127.180.128:8443?security=none&serviceName=Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH&encryption=none&headerType=none&type=tcp#JOIN
 vless://1b20f1e7-b946-46e4-acb4-ffa17216e774@www.speedtest.net:80?path=🔒
+vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@104.21.69.44:443?encryption=none&security=tls&sni=terazhedi.info&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=terazhedi.info&path=%2Fsghiyws#RELAY🚩
+vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@104.21.69.44:443?path=%2Fsghiyws&security=tls&encryption=none&host=terazhedi.info&fp=chrome&type=ws&sni=terazhedi.info#RELAY🚩
+vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@108.162.194.176:443?encryption=none&security=tls&sni=terazhedi.info&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=terazhedi.info&path=/sghiyws#@Daily_Configs

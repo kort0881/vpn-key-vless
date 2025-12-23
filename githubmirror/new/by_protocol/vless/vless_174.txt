@@ -1,3 +1,6 @@
+vless://76ed13e5-b315-4055-971a-7accddae57a5@svir1.craftedsmp.ir:443?security=none&encryption=none&host=anten.ir&headerType=none&type=tcp#IR🇮🇷
+vless://76f223c5-dc30-43b9-981d-af231995066b@64.227.125.44:31712?security=reality&encryption=none&pbk=scHzer8e1L1Ik4vES66WdkAKVc4fUOU39ob30FIUMmY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒
+vless://76f2c7ff-1fa4-474f-f522-f2f76d5a4542@snapp.ir.iraniantim.ir:80/?type=tcp&security=reality&pbk=dK5nR9FbarexoEC-fYTBy2jtSHxIzUS1CyV3kLFnmCo&fp=chrome&sni=🔒
 vless://76f385df-bb5c-4e92-b60b-fce540b0a6a0@185.177.238.57:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=al.cdn.stun.su&fp=chrome&security=reality&pbk=su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24&sid=0eccda18dcb95082#🎲11@oneclickvpnkeys
 vless://76f385df-bb5c-4e92-b60b-fce540b0a6a0@185.177.238.57:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒
 vless://76f385df-bb5c-4e92-b60b-fce540b0a6a0@185.177.238.57:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=al.cdn.stun.su&fp=qq&pbk=su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24&sid=0eccda18dcb95082&type=tcp&headerType=none#REALITY|AL🇦🇱
@@ -412,6 +415,8 @@ vless://78cd6075-2e30-41f6-9b50-cd4da39a4895@Zula.ir:8880?path=🔒
 vless://78cd6075-2e30-41f6-9b50-cd4da39a4895@Zula.ir:8880?type=ws&path=🔒
 vless://78d0ab33-a8e4-435f-9b24-1850a8659ba8@103.71.22.160:42988?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp
 vless://78d743e4-1519-4770-aa84-ca0d6de0cc80@[2a12:5940:1527::2]:443?type=tcp&path=🔒
+vless://78dbbe22-96ef-4902-89d0-4cce76fc11a2@axe.soyet2j.ir:443?security=tls&type=ws&path=%2F77d76f3d-5da8-4198-b5d2-9634d3059ad0&host=menu.gejeh683bm.ir&alpn=h2&sni=menu.gejeh683bm.ir&fp=chrome&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%AB%F0%9F%87%AEFI_2%20%F0%9F%A7%AD%204.8MB%2Fs#کانفیگ_پرسرعت
+vless://78dbbe22-96ef-4902-89d0-4cce76fc11a2@axe.soyet2j.ir:443?security=tls&type=ws&path=🔒
 vless://78dd3bc3-e435-44fc-926d-bf0c8c0ebdb7@www.speedtest.net:443?alpn=h3&encryption=none&fp=randomized&host=ellisweissellisweissellisweissellisweissellisweisselliswei.pages.dev&path=🔒
 vless://78e3cff7-75e1-4418-9db0-b3a00aece703@www.speedtest.net:2052?flow=&type=ws&host=Vmessorg.paradoxone.ir&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480&security=none#JOIN
 vless://78e3cff7-75e1-4418-9db0-b3a00aece703@www.speedtest.net:2052?flow=&type=ws&host=Vmessorg.paradoxone.ir&path=🔒
@@ -493,8 +498,3 @@ vless://79d0f0c1-c428-4e80-c988-bd6783a3a39f@test2.amin8263.ir:2095?path=/@XpnTe
 vless://79d0f0c1-c428-4e80-c988-bd6783a3a39f@test2.amin8263.ir:2095?path=🔒
 vless://79d40805-c7eb-49cb-bb88-61d18b6c52b2@172.66.46.227:2053/?type=ws&encryption=none&host=mahdiserver-ac2.pa...&security=tls&sni=mAHDiseRveR-ac2.pagEs.deV
 vless://79d53c0e-9aee-433a-bcb9-bf9c9f75ba1c@104.17.147.22:443?path=/?ed=2560&security=tls&alpn=h3&encryption=none&fp=chrome&type=ws&sni=q.qdio008.workers.dev#𝗝𝗼𝗶𝗻
-vless://79d53c0e-9aee-433a-bcb9-bf9c9f75ba1c@104.17.147.22:443?path=🔒
-vless://79e18d4a-863d-466b-aeaa-8bf24b3fb390@172.66.40.99:443?path=🔒
-vless://79e18d4a-863d-466b-aeaa-8bf24b3fb390@172.66.40.99:443?type=ws&host=az52.mashkestan.com&path=🔒
-vless://79e44dad-d529-46a3-b7c9-5e765b9d9277@151.101.3.8:80?type=ws&host=befreewithus.com&path=🔒
-vless://79fcdd14-e8b0-4a62-b4d1-66f9e62b409e@45.144.55.48:46395?encryption=none&type=grpc&mode=gun&serviceName=/@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN&security=reality&fp=chrome&sni=www.latimes.com&pbk=R7rQRf2vm_y2RYIFDZcS5ucks0gNKgKthRT-bUtyymo&sid=96973faa2f0bf0&spx=/#V2rayArgo

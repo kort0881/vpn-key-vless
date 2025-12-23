@@ -1,3 +1,8 @@
+vless://9e25693f-a2a4-4c54-a6d0-3eb9ed4fbf99@exclavevirtualvless.alirexaxulst.workers.dev:443?path=ws&security=tls&encryption=none&host=exclavevirtualvless.alirexaxulst.workers.dev&fp=chrome&type=ws&sni=exclavevirtualvless.alirexaxulst.workers.dev#%3E%3E%40V2RAY_VMESS_free%3A%3AUS
+vless://9e25693f-a2a4-4c54-a6d0-3eb9ed4fbf99@exclavevirtualvless.alirexaxulst.workers.dev:443?path=ws&security=tls&encryption=none&host=exclavevirtualvless.alirexaxulst.workers.dev&fp=chrome&type=ws&sni=exclavevirtualvless.alirexaxulst.workers.dev#%40V2RAY_VMESS_free
+vless://9e25693f-a2a4-4c54-a6d0-3eb9ed4fbf99@exclavevirtualvless.alirexaxulst.workers.dev:443?path=🔒
+vless://9e25693f-a2a4-4c54-a6d0-3eb9ed4fbf99@exclavevirtualvless.alirexaxulst.workers.dev:443?security=tls&type=ws&path=%2Fws&host=exclavevirtualvless.alirexaxulst.workers.dev&sni=exclavevirtualvless.alirexaxulst.workers.dev&fp=chrome&encryption=none#RELAY🚩
+vless://9e28dd25-f4e1-4434-a31d-40c8ed0c0f52@88.218.95.8:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#Free%2054%20%28%40Outline_Vpn%29
 vless://9e28dd25-f4e1-4434-a31d-40c8ed0c0f52@88.218.95.8:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#Free%2066%20%28%40Outline_Vpn%29
 vless://9e316ce0-8fd3-4058-bc5e-241f9c3a9f56@78.157.59.140:50067/?type=ws&encryption=none&host=MgbJP.divarcdn.com%2CLXHRl.snappfood.ir%2C3cubP.yjc.ir%2CXbifM.digikala.com%2CHL56Q.tic.ir&path=%2F#%40Hope_Net-join-us-on-Telegram
 vless://9e316ce0-8fd3-4058-bc5e-241f9c3a9f56@78.157.59.140:50067/?type=ws&encryption=none&host=MgbJP.divarcdn.com%2CLXHRl.snappfood.ir%2C3cubP.yjc.ir%2CXbifM.digikala.com%2CHL56Q.tic.ir&path=🔒
@@ -493,8 +498,3 @@ vless://Parsashonam-291@185.146.173.39:8880?path=🔒
 vless://Parsashonam-291@185.146.173.39:8880?type=httpupgrade&path=🔒
 vless://Parsashonam-291@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp
 vless://Parsashonam-292@185.146.173.39:8880?path=🔒
-vless://Parsashonam-292@185.146.173.39:8880?type=httpupgrade&path=🔒
-vless://Parsashonam-292@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp
-vless://Parsashonam-293@185.146.173.39:8880?path=🔒
-vless://Parsashonam-293@185.146.173.39:8880?type=httpupgrade&path=🔒
-vless://Parsashonam-293@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp
