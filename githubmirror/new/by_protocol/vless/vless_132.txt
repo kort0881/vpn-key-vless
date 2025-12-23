@@ -1,5 +1,3 @@
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@188.42.89.245:2053/?type=ws&encryption=none&host=dl1-uk-cdn.easy-upload.org&path=%2F&security=tls&sni=dl1-uk-cdn.easy-upload.org#%F0%9F%9A%9C13%40oneclickvpnkeys
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.80.111.238:2053/?type=ws&encryption=none&host=dl1-uk-cdn.easy-upload.org&path=%2F&security=tls&sni=dl1-uk-cdn.easy-upload.org#%F0%9F%9A%9C12%40oneclickvpnkeys
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@188.42.89.57:2053/?type=ws&encryption=none&host=dl1-tr-cdn.easy-upload.org&path=%2F&security=tls&sni=dl1-tr-cdn.easy-upload.org#%F0%9F%9A%9C20%40oneclickvpnkeys
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@89.116.250.203:2053/?type=ws&encryption=none&host=dl1-tr-cdn.easy-upload.org&path=%2F&security=tls&sni=dl1-tr-cdn.easy-upload.org#%F0%9F%9A%9C21%40oneclickvpnkeys
 vless://id6856346113@s3.nodu6.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=vk.com&fp=chrome&security=reality&pbk=tCpCrwX6N-c-YUcFR3FhMJhix3cpZZEPX5nHgswLzCo&sid=658580e2941c8a32#%F0%9F%9A%9C41%40oneclickvpnkeys
@@ -498,3 +496,5 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.19.49.117:443/?type=tcp&encrypt
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@216.24.57.171:443/?type=ws&encryption=none&host=lu.ylks.us.kg&path=%2F%3Fed%3D2560&security=tls&sni=lu.ylks.us.kg#%40Hope_Net-join-us-on-Telegram
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@194.76.18.50:443/?type=ws&encryption=none&host=lu.ylks.us.kg&path=%2F%3Fed%25...&security=tls&sni=lu.ylks.us.kg
 vless://34a83286-ba4e-4f0a-ac08-77a95469eeaf@172.66.44.101:443/?type=ws&encryption=none&host=pardazesh18.pages.dev&security=tls&sni=pardazesh18.pages.dev
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@188.114.98.13:443/?type=ws&encryption=none&host=lu.kpcloud.eu.org&path=...&security=tls&sni=lu.kpcloud.eu.org
+vless://b2e07c41-c240-5bf3-b904-dc40852c780e@199.232.8.52:443/?type=ws&encryption=none&host=joinbede-eliv2ray.ai&security=tls&sni=JOinBede-ELiv2RaY.Ai&fp=randomized#%40Hope_Net-join-us-on-Telegram
