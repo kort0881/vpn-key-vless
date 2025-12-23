@@ -1,3 +1,7 @@
+vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh27v6.nature27.shop:8880?encryption=none&security=none&sni=🔒
+vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh27v8.vetmainconf.shop:8880/?type=grpc&encryption=none
+vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh28v4.vetmainconf.shop:8880/?type=grpc&encryption=none
+vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh28v5.vetrkot.com:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#%40vpnfail_bot%20free%v2ray
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh28v5.waipdirect.shop:8880/?type=grpc&encryption=none
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh28v5.waipdirect.shop:8880?security=&encryption=none&type=grpc
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh28v5.waipdirect.shop:8880?security=&encryption=none&type=grpc#telegram
@@ -366,10 +370,6 @@ vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.235.241.97:443?type=ws&encrypti
 vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.235.241.98:443?type=ws&encryption=none&flow=&path=%2Fhormoz&security=tls&sni=github.com&allowInsecure=1#US🇺🇸
 vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@45.89.111.103:443?path=%2Fhormoz&security=tls&encryption=none&type=ws&sni=github.com#🇬🇧[openproxylist.com]
 vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@45.89.111.103:443?path=🔒
-vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@45.89.111.93:443?path=%2Fhormoz&security=tls&encryption=none&type=ws&sni=ads.x5.ru#🇬🇧[openproxylist.com]
-vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@45.89.111.93:443?path=🔒
-vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@45.89.111.94:443?path=%2Fhormoz&security=tls&encryption=none&type=ws&sni=rzd.ru#🇬🇧[openproxylist.com]
-vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@45.89.111.94:443?path=🔒
 vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@5.180.30.83:443?path=%2Fhormoz&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1#US🇺🇸
 vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@5.180.30.83:443?path=/hormoz&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1#t.me/entryNET/config=1852153691595566
 vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@5.180.30.83:443?path=🔒

@@ -1,3 +1,4 @@
+vless://c2e177d4-e610-4abd-85cd-1a869d158751@188.114.97.202:8443?path=%2F&security=tls&encryption=none&host=teslakit1.pages.dev&type=ws&sni=teslakit1.pages.dev#%F0%9F%9F%A3%F0%9F%94%A5%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%D9%86%DA%AF%20%20%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C%20%40ParsiV2ray%20%D9%BE%D8%B1%20%D8%B3%D8%B1%D8%B9%D8%AA
 vless://c2e177d4-e610-4abd-85cd-1a869d158751@188.114.97.202:8443?path=🔒
 vless://c2e196d4-3453-4c6c-bb80-fe372801e1a0@62.60.237.26:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=st.ozone.ru&fp=chrome&security=reality&pbk=lmLFxJO0l6GlHhi3a4I6cKWdQLDo-f8ciODP0xh3EXQ&sid=9d36b8589fa524fd#❄️50@oneclickvpnkeys
 vless://c2e196d4-3453-4c6c-bb80-fe372801e1a0@62.60.237.26:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒
@@ -99,6 +100,7 @@ vless://c39d53d9-bcc7-48ee-a8a9-c08987b61263@15.204.75.105:443?type=tcp&security
 vless://c39d53d9-bcc7-48ee-a8a9-c08987b61263@15.204.75.105:443?type=tcp&security=reality&pbk=UVhwRVjACeQugwdCeoM3isxOY8bDErxgXL-suDg6v14&fp=chrome&sni=🔒
 vless://c3a07500-54ef-6215-7eac-c22f36bb23a4@5.255.121.230:2092?mode=gun&security=&encryption=none&type=grpc
 vless://c3a07500-54ef-6215-7eac-c22f36bb23a4@5.255.121.230:2092?mode=gun&security=&encryption=none&type=grpc#%40RexoPing%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88
+vless://c3a07500-54ef-6215-7eac-c22f36bb23a4@5.255.121.230:2092?mode=gun&security=&encryption=none&type=grpc#🇳🇱[openproxylist.com]
 vless://c3aea77c-cb41-442b-a083-2811707ba623@104.18.14.19:80/?type=ws&encryption=none&host=0305.reandoor.workers.dev&path=%2F%3Fed%3D2560#%40Gp_Config%20%F0%9F%8D%8B%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20vpn%20%D9%85%D9%86%D8%A8%D8%B9
 vless://c3aea77c-cb41-442b-a083-2811707ba623@104.18.14.19:80/?type=ws&encryption=none&host=0305.reandoor.workers.dev&path=🔒
 vless://c3b4b127-a7d9-4ded-b221-0023ccbe3f69@78.39.57.73:443?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp
@@ -306,8 +308,6 @@ vless://c495cf08-e046-4311-aa4b-82cc16576992@51.250.75.169:444?mode=gun&security
 vless://c495cf08-e046-4311-aa4b-82cc16576992@51.250.75.169:444?mode=gun&security=reality&encryption=none&pbk=L0ZCh9LynIMEkK9BZq3gC--mzL6xnR4bkBJmXHSwVCM&type=grpc&serviceName=ads.x5.ru&sni=🔒
 vless://c495cf08-e046-4311-aa4b-82cc16576992@51.250.75.169:444?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&security=reality&type=grpc&mode=gun&serviceName=ads.x5.ru&sni=ads.x5.ru&fp=chrome&sid=0614386789abcdef&pbk=L0ZCh9LynIMEkK9BZq3gC--mzL6xnR4bkBJmXHSwVCM&encryption=none#🇷🇺[Telegram:NetifyVPN]
 vless://c495cf08-e046-4311-aa4b-82cc16576992@51.250.75.169:444?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&security=reality&type=grpc&mode=gun&serviceName=ads.x5.ru&sni=🔒
-vless://c495cf08-e046-4311-aa4b-82cc16576992@51.250.75.169:444?security=reality&type=grpc&mode=gun&serviceName=ads.x5.ru&sni=ads.x5.ru&fp=chrome&sid=0614386789abcdef&pbk=L0ZCh9LynIMEkK9BZq3gC--mzL6xnR4bkBJmXHSwVCM&encryption=none#🇷🇺[openproxylist.com]
-vless://c495cf08-e046-4311-aa4b-82cc16576992@51.250.75.169:444?security=reality&type=grpc&mode=gun&serviceName=ads.x5.ru&sni=🔒
 vless://c495cf08-e046-4311-aa4b-82cc16576992@51.250.75.169:446?encryption=none&security=tls&sni=ads.x5.ru&fp=chrome&pbk=mMaSUsOC5i3ErLDcaWW9UOOjG0fcKPCwVjzGS1wXQx8&sid=0512567389abcdef&type=grpc&serviceName=ads.x5.ru&packetEncoding=xudp#https://t.me/ShadowsocksM71
 vless://c495cf08-e046-4311-aa4b-82cc16576992@51.250.88.6:446?encryption=none&security=tls&sni=ads.x5.ru&pbk=mMaSUsOC5i3ErLDcaWW9UOOjG0fcKPCwVjzGS1wXQx8&sid=0512567389abcdef&type=grpc&serviceName=ads.x5.ru&packetEncoding=xudp#https://t.me/ShadowsocksM3
 vless://c495cf08-e046-4311-aa4b-82cc16576992@51.250.88.6:446?encryption=none&type=grpc&mode=gun&serviceName=ads.x5.ru&security=reality&sni=ads.x5.ru&pbk=mMaSUsOC5i3ErLDcaWW9UOOjG0fcKPCwVjzGS1wXQx8&sid=0512567389abcdef&spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#🇷🇺@EVAY_VPN
