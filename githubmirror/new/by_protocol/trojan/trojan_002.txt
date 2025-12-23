@@ -74,14 +74,16 @@ trojan://59a62e95-6262-4ba1-8027-c642b7c72713@green2.cdntencentmusic.com:31101/?
 trojan://d446ca24-80b7-4e4a-8055-e23838e43705@cdnfire.xiaomispeed.com:23301/?type=tcp&amp;security=tls&amp;sni=cdnfire.xiaomispeed.com&amp;allowInsecure=1#🇸🇬 新加坡
 trojan://d446ca24-80b7-4e4a-8055-e23838e43705@cdnfire.xiaomispeed.com:21102/?type=tcp&amp;security=tls&amp;sni=cdnfire.xiaomispeed.com&amp;allowInsecure=1#🇭🇰 香港
 trojan://b574ea88-168d-4504-a62d-fe9a2271d726@green2.cdntencentmusic.com:31103/?type=tcp&amp;security=tls&amp;sni=green2.cdntencentmusic.com&amp;allowInsecure=1#🇭🇰 香港
+trojan://telegram-id-privatevpns@3.78.3.121:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪[openproxylist.com] trojan-DE
 trojan://telegram-id-privatevpns@15.237.171.88:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷[openproxylist.com] trojan-FR
+trojan://d0298536-d670-4045-bbb1-ddd5ea68683e@104.25.254.4:2087?security=tls&amp;sni=azadnet-bdr.pages.dev&amp;type=tcp#🇺🇸[openproxylist.com] trojan-US
 trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&amp;sni=io.ozone.ru&amp;allowInsecure=true#🇪🇸[openproxylist.com] trojan-ES
 trojan://RPyW62_b9aH.ztJKeArou@83.143.87.9:18581?security=tls&amp;allowInsecure=true#🇳🇴[openproxylist.com] trojan-NO
-trojan://BxceQaOe@58.152.26.107:443?allowInsecure=1&sni=t.me%2Fripaojiedian#🏳[openproxylist.com] trojan-
-trojan://BxceQaOe@58.152.25.71:443?allowInsecure=1&sni=t.me%2Fripaojiedian#🏳[openproxylist.com] trojan-
-trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.172:10889?security=tls&amp;insecure=1&amp;headerType=none&amp;type=tcp&amp;allowInsecure=1&amp;sni=web.max.ru#🇮🇸[openproxylist.com] trojan-IS
+trojan://BxceQaOe@58.152.26.107:443?allowInsecure=1&sni=t.me%2Fripaojiedian#🇭🇰[openproxylist.com] trojan-HK
+trojan://BxceQaOe@58.152.25.71:443?allowInsecure=1&sni=t.me%2Fripaojiedian#🇭🇰[openproxylist.com] trojan-HK
+trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.172:10889?security=tls&amp;sni=web.max.ru&amp;allowInsecure=true&amp;fp=chrome#🇮🇸[openproxylist.com] trojan-IS
 trojan://ZblhWr0mqMakCPg.N@212.193.18.144:36158?security=tls&amp;sni=ya.ru&amp;allowInsecure=true#🇫🇮[openproxylist.com] trojan-FI
-trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=api.avito.ru#🇮🇹[openproxylist.com] trojan-IT
+trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&amp;sni=api.avito.ru&amp;allowInsecure=true&amp;fp=chrome#🇮🇹[openproxylist.com] trojan-IT
 trojan://44e660b0ee21cf3ac66aee2c08af85d2@112.118.116.8:443?allowInsecure=0&sni=www.nintendogames.net#🇭🇰[openproxylist.com] trojan-HK
 trojan://bb824a22-b7ce-427b-9ed6-1adf0751da02@107.174.82.102.sslip.io:443?security=tls&type=ws&sni=107.174.82.102.sslip.io&path=/gXKGj8a1tp1nNbZEcRugowKV#🇺🇸[openproxylist.com] trojan-US
 trojan://POORIARED@172.67.134.185:443?security=tls&sni=reDfRee8.REDFree8.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=%2FeyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40v2rayvpn2%20%5B6%5D
@@ -496,5 +498,3 @@ trojan://936c6853-6bbf-4e24-8667-ec5b2fc275b3@104.26.15.85:443/?type=ws&host=md1
 trojan://Aimer@91.149.239.198:443/?type=tcp&security=tls&sni=agepq.ambercc.filegear-sg.me#%40Hope_Net-join-us-on-Telegram
 trojan://Aimer@107.175.37.135:443/?type=tcp&security=tls&sni=ngepo.ambercc.filegear-sg.me#%40Hope_Net-join-us-on-Telegram
 trojan://Aimer@155.46.213.38:2083/?type=tcp&security=tls&sni=agepw.ambercc.filegear-sg.me&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
-trojan://Aimer@46.254.92.191:443/?type=tcp&security=tls&sni=agepw.ambercc.fil...
-trojan://NISHIKUITAN111@104.17.157.109:443/?type=tcp&security=tls#%40Hope_Net-join-us-on-Telegram
