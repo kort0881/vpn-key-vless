@@ -1,4 +1,3 @@
-vless://086cf79c-589a-4726-a57f-ca32a2f52c9b@Net.1lagvpn13.cfd:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@L_AGVPN13 @L_AGVPN13 @L_AGVPN13 @L_AGVPN13 # [ By EbraSha ]
 vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&encryption=none&headerType=none&type=tcp # [ By EbraSha ]
 vless://087a6680-eaae-4718-b27f-1863f2ded927@V2ngnet.huqpmfood.ir:4455?mode=auto&security=reality&encryption=none&extra={"scMaxEachPostBytes": "1000000", "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&pbk=18l7-wCCLwKZn-slnEV1HlM-ocxV94nau8CHNEpv3Ew&fp=chrome&type=xhttp&sid=077dc29a23d311f2 # [ By EbraSha ]
 vless://0882a150-746a-4ba7-81b8-7922511894c5@194.87.29.240:443?security=reality&encryption=none&pbk=vfmqSXTEjdIOgz43eZTNzBRztAvd1U1dDkSz_mnaSk4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sid=82c8140feb118043 # [ By EbraSha ]
@@ -498,3 +497,4 @@ vless://1e503e46-5ab8-4f79-8cd1-73bac4bcd102@104.234.4.120:8080?security=reality
 vless://1e7c4a44-c556-4998-8b91-3810a3fbe742@172.67.146.171:2095?security=none&encryption=none&host=speedtest.net&type=ws # [ By EbraSha ]
 vless://1e7c4a44-c556-4998-8b91-3810a3fbe742@www.speedtest.net:2095?security=none&encryption=none&host=speedtest.net&type=ws # [ By EbraSha ]
 vless://1e84f32e-0dcb-4859-8e08-319c1ddbc748@109.120.179.49:2053?security=tls&encryption=none&fp=chrome&type=ws # [ By EbraSha ]
+vless://1e8da77c-91d7-4046-80a3-ca6cd525d875@62.60.248.14:46395?encryption=none&type=grpc&mode=gun&serviceName=/@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN&security=reality&fp=chrome&pbk=R7rQRf2vm_y2RYIFDZcS5ucks0gNKgKthRT-bUtyymo&sid=96973faa2f0bf0&spx=/ # [ By EbraSha ]
