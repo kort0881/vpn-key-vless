@@ -1,3 +1,6 @@
+trojan://1640ef52-2db0-44ab-b3f3-8690b762ebc9@165.154.112.107:12000?security=tls&amp;insecure=1&amp;headerType=none&amp;type=tcp&amp;allowInsecure=1#🇭🇰
+trojan://eDHWaPzxcl@145.223.70.115:25365?mode=gun&amp;security=reality&amp;pbk=YaP997bVbPWOkNwZ-aKWVNHSdzQkZLzhTGjVRVC1u3I&amp;fp=chrome&amp;spx=/&amp;type=grpc&amp;sni=cloudflare.com&amp;sid=d9#🇫🇷
+trojan://44e660b0ee21cf3ac66aee2c08af85d2@58.152.110.104:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=www.nintendogames.net#@V2rayNGVPN+<=+کانفیگ+رایگان
 trojan://Pooria@www.speedtest.net:443?path=/trJF1XisQEbWZpxEHh?ed=2560&amp;security=tls&amp;alpn=h2,http/1.1&amp;host=redfree8w.pooriam.ir&amp;fp=randomized&amp;type=ws&amp;sni=redfree8w.pooriam.ir#
 trojan://Pooria@www.speedtest.net:80?path=/trLwW5jwrnymnOdqki?ed=2560&amp;security=none&amp;host=redfree8w.pooriam.ir&amp;type=ws#
 trojan://POORIARED@172.67.134.185:443?path=/eyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&amp;security=tls&amp;fp=chrome&amp;type=ws&amp;sni=reDfRee8.REDFree8.ir#@v2rayvpn2
@@ -495,6 +498,3 @@ trojan://Aimer@108.165.152.1:2087/?type=tcp&security=tls&sni=ngepx.ambercc.fileg
 trojan://Aimer@52.32.90.142:80/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8US-52.32.90.142-1427
 trojan://Aimer@135.84.76.152:2087/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8US-135.84.76.152-1442
 trojan://Aimer@35.83.185.225:443/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8US-35.83.185.225-1447
-trojan://Aimer@27.50.49.166:8443/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-27.50.49.166-1460
-trojan://Aimer@213.241.198.59:2083/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-213.241.198.59-1470
-trojan://Aimer@167.68.4.199:2053/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-167.68.4.199-1477
