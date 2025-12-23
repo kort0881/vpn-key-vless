@@ -1,3 +1,6 @@
+vless://2bd0516b-d354-4b73-a198-9d826ab478ae@vlfr2.g2ray.com:443?encryption=none&flow=xtls-rprx-direct&security=xtls&type=tcp&headerType=none#XTLS-N-France
+vless://2bd0516b-d354-4b73-a198-9d826ab478ae@vlnl.g2ray.com:443?encryption=none&security=tls&type=tcp&headerType=none#TLS-N-Netherland
+vless://2bd0516b-d354-4b73-a198-9d826ab478ae@vlnl.g2ray.com:443?encryption=none&security=tls&type=ws&path=%2Fd0c584255975f6%2F#WS_TLS-N-Netherland
 vless://2bd0516b-d354-4b73-a198-9d826ab478ae@vlnl.g2ray.com:443?encryption=none&flow=xtls-rprx-direct&security=xtls&type=tcp&headerType=none#XTLS-N-Netherland
 vless://2bd0516b-d354-4b73-a198-9d826ab478ae@vluk1.g2ray.com:443?encryption=none&security=tls&type=ws&path=%2Fbd8f221bcb7b%2F#WS_TLS-N-England1
 vless://2bd0516b-d354-4b73-a198-9d826ab478ae@vluk1.g2ray.com:443?encryption=none&security=tls&type=tcp&headerType=none#TLS-N-England1
@@ -495,6 +498,3 @@ vless://5a2c16f9-e365-4080-8d38-6924c3835586@104.19.220.22:443?encryption=none&s
 vless://00000000-0000-4000-8000-000000000000@43.165.190.11:42841?encryption=none&security=tls&sni=mot.luyuju.dpdns.org&type=ws&host=mot.luyuju.dpdns.org&path=%2F%40Marisa_kristi#HK%E9%A6%99%E6%B8%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 vless://5a2c16f9-e365-4080-8d38-6924c3835586@104.16.65.1:443?encryption=none&security=tls&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=%2F#NL%E8%8D%B7%E5%85%B0%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@blog.cloudflare.com:2095?encryption=none&security=none&type=ws&host=fuckingfangbinxing.cnm-fangbinxing-cnm.workers.dev&path=%2F#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@docs.cloudflare.com:2095?encryption=none&security=none&type=ws&host=fuckingfangbinxing.cnm-fangbinxing-cnm.workers.dev&path=%2F#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.fbi.gov:2095?encryption=none&security=none&type=ws&host=fuckingfangbinxing.cnm-fangbinxing-cnm.workers.dev&path=%2F#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.npmjs.com:2095?encryption=none&security=none&type=ws&host=fuckingfangbinxing.cnm-fangbinxing-cnm.workers.dev&path=%2F#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29

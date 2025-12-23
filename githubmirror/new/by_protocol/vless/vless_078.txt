@@ -1,3 +1,6 @@
+vless://8819ea52-1542-4a60-828b-5c057b45d6fb@s26.radnikmax.ir:8452?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-s26-81
+vless://a9e129fd-4aae-4e19-a652-c33198565fca@s26.radnikmax.ir:8452?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-s26-82
+vless://96b78b49-cbae-45ab-9892-39f15ed6b1df@s26.radnikmax.ir:8452?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-s26-83
 vless://19debd10-0204-4ea1-ab04-21216124007a@s26.radnikmax.ir:8452?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-s26-84
 vless://0d892bbc-b789-455f-bb03-73f4f9371793@s26.radnikmax.ir:8452?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-s26-85
 vless://8de42228-5c3a-479e-9123-241fac0c023c@s26.radnikmax.ir:8452?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-s26-86
@@ -495,6 +498,3 @@ vless://ae480f4d-d4d2-4cd4-82ef-7aa78eee2f33@tnl15.radnikmax.ir:8098?encryption=
 vless://b4fe4ba8-fb7a-4cca-bd6d-2332f069609d@tnl15.radnikmax.ir:8098?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tnl15-578
 vless://418a3c6c-5f0b-4d74-858d-5daa18d10cbb@tnl15.radnikmax.ir:8098?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tnl15-579
 vless://8ed346fd-a1af-4b25-a524-15164cf431d9@tnl15.radnikmax.ir:8098?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tnl15-580
-vless://2406599b-2f38-4bc8-8ab8-db50ac6fc9d0@tnl15.radnikmax.ir:8098?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tnl15-581
-vless://6bd90da8-b13c-499e-a7d9-6c8303d1aba6@tnl15.radnikmax.ir:8098?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tnl15-582
-vless://4e3c9e59-5c32-417f-bb9c-393f9b59959d@tnl15.radnikmax.ir:8098?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tnl15-583

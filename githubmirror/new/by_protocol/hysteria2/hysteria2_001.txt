@@ -158,6 +158,7 @@ hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36300?security=tls&amp;obf
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000?security=tls&amp;obfs=salamander&amp;obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&amp;insecure=1&amp;sni=api.kermanshahi.org#@IRAN_V2RAY1
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&amp;obfs=salamander&amp;obfs-password=Yet-Another-Public-Config-1&amp;insecure=1&amp;sni=YAPC-1.afshin.ir#@IRAN_V2RAY1
 hysteria2://17cdeb6c-f046-11ee-bdac-f23c93141fad@6adab57e-t53wg0-tdvgqe-2gok.la.shifen.uk:1743?sni=6adab57e-t53wg0-tdvgqe-2gok.la.shifen.uk&amp;insecure=0#@KAFING_2
+hysteria2://17cdeb6c-f046-11ee-bdac-f23c93141fad@6adab57e-t53wg0-tdvgqe-2gok.la.shifen.uk:1743?sni=6adab57e-t53wg0-tdvgqe-2gok.la.shifen.uk&amp;insecure=0#@KAFING_2
 hysteria2://17cdeb6c-f046-11ee-bdac-f23c93141fad@c37b0be5n-t3kyo0-t3lvgh-2gok.la.shifen.uk:1743?sni=c37b0be5-t3kyo0-t3lvgh-2gok.la.shifen.uk&amp;insecure=0#@KAFING_2
 hysteria2://537d7098-fdbe-11ef-8ebc-f23c93141fad@14ff4864-t4x400-tcjtj6-d70y.la.shifen.uk:1743?sni=14ff4864-t4x400-tcjtj6-d70y.la.shifen.uk&amp;insecure=0#@KAFING_2
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.40:35000?obfs=salamander&amp;obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&amp;sni=api.kermanshahi.org&amp;insecure=0#@KAFING_2
@@ -497,4 +498,3 @@ hysteria2://7424db1f-ba68-496d-9426-4018b6a3a23c@nl1.xiaoliyu.cyou:443/?mport=22
 hysteria2://7424db1f-ba68-496d-9426-4018b6a3a23c@nl1.xiaoliyu.cyou:443?insecure=1#%F0%9F%8E%846%40oneclickvpnkeys
 hysteria2://7424db1f-ba68-496d-9426-4018b6a3a23c@sg3.xiaoliyu.cyou:4433?insecure=1&sni=sg3.xiaoliyu.cyou&mport=22000-27000#%F0%9F%87%B8%F0%9F%87%AC%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%96%B0%E5%8A%A0%E5%9D%A1%2003
 hysteria2://77238c49bd20e407f05e0c073ad08fdb@dd.openaccessnode.com:989?insecure=1&sni=dd.ircybersec.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-King-Reza-Pahlavi#All-%40V2rayAlpha-26
-hysteria2://77238c49bd20e407f05e0c073ad08fdb@dd.openaccessnode.com:989?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-King-Reza-Pahlavi&insecure=1&sni=dd.ircybersec.org#All-@V2rayAlpha-26

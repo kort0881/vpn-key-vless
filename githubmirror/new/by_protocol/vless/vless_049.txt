@@ -1,3 +1,7 @@
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@www.speedtest.net:2096?path=/&security=tls&encryption=none&host=smart.zarnovia.info&type=ws&sni=smart.zarnovia.info#CA_6489_@Surfboardv2ray
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@www.speedtest.net:2096?path=/&security=tls&encryption=none&host=smart.zarnovia.info&type=ws&sni=smart.zarnovia.info#CA_6490_@Surfboardv2ray
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@www.speedtest.net:2096?path=/&security=tls&encryption=none&host=smart.zarnovia.info&type=ws&sni=smart.zarnovia.info#CA_6491_@Surfboardv2ray
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@www.speedtest.net:2096?path=/&security=tls&encryption=none&host=smart.zarnovia.info&type=ws&sni=smart.zarnovia.info#CA_6492_@Surfboardv2ray
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@www.speedtest.net:2096?path=/&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=smart.zarnovia.info#<!DOCTYPE html>
 vless://e9c011b3-5e03-4496-c030-3dba558d87d3@165.232.120.27:443?mode=gun&security=none&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#DE_6494_@Surfboardv2ray
 vless://e9c011b3-5e03-4496-c030-3dba558d87d3@165.232.120.27:443?mode=gun&security=none&encryption=none&type=grpc#DE_6495_@Surfboardv2ray
@@ -494,7 +498,3 @@ vless://fea633c3-cacf-41d7-951a-a04b578b0dcf@bountyhunter.fonixapp.org:18092?sec
 vless://febbc960-a868-4e9a-a93b-aa52308b1452@trt.fastlynew.hosting-ip.com:80?encryption=none&security=none&type=xhttp&host=maxpl165.global.ssl.fastly.net&path=/?ed=2560&mode=auto#US_7017_@Surfboardv2ray
 vless://febbc960-a868-4e9a-a93b-aa52308b1452@trt.fastlynew.hosting-ip.com:80?mode=auto&path=/?ed=2560&security=&encryption=none&host=maxpl165.global.ssl.fastly.net&type=xhttp#US_7018_@Surfboardv2ray
 vless://febbc960-a868-4e9a-a93b-aa52308b1452@trt.fastlynew.hosting-ip.com:80?mode=auto&path=/?ed=2560&security=none&encryption=none&host=maxpl165.global.ssl.fastly.net&type=xhttp#IT_7019_@Surfboardv2ray
-vless://febbc960-a868-4e9a-a93b-aa52308b1452@trt.fastlynew.hosting-ip.com:80?mode=auto&path=/?ed=2560&security=none&encryption=none&host=maxpl165.global.ssl.fastly.net&type=xhttp#<!DOCTYPE html>
-vless://febbc960-a868-4e9a-a93b-aa52308b1452@trt.fastlynew.hosting-ip.com:80?mode=auto&path=/?ed=2560&security=none&encryption=none&host=maxpl165.global.ssl.fastly.net&type=xhttp#IT_7021_@Surfboardv2ray
-vless://fef15ae1-cdc9-42ec-9c76-ea083550fd45@erfwp.fast.hosting-ip.com:80?mode=auto&path=/erfwp?ed=2048&security=none&encryption=none&host=erfwp.com&type=xhttp#IE_7022_@Surfboardv2ray
-vless://ff17a225-f0c0-4e34-91e3-990f0eff40b7@Holrealityam.wordperessweb.ir:999?security=reality&encryption=none&pbk=-d7gZw19wFxZcnqRsf0L8gin2NcQC8Quub0Y-NUnaR4&headerType=none&fp=chrome&type=tcp&sni=tgju.org&sid=e1ac6d894342c318#NL_7023_@Surfboardv2ray

@@ -1,3 +1,7 @@
+vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@best.cdniran.info:443?path=/&security=tls&alpn=h3,h2&encryption=none&host=smart.topfornnow.org&fp=chrome&type=ws&sni=smart.topfornnow.org#CA_1802_@Surfboardv2ray
+vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@best.cdniran.info:443?path=/&security=tls&alpn=h3,h2&encryption=none&host=smart.topfornnow.org&fp=chrome&type=ws&sni=smart.topfornnow.org#CA_1803_@Surfboardv2ray
+vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/&security=tls&alpn=h3,h2&encryption=none&fp=chrome&type=ws&sni=8WfUsRv0Of.ToRsAnSpOrT16.oRg#<!DOCTYPE html>
+vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?path=/&security=tls&alpn=h3,h2&encryption=none&fp=chrome&type=ws&sni=SmL7g6VtS9.tOrSaNsPoRt16.OrG#<!DOCTYPE html>
 vless://33a0c07b-82c7-40c8-aac7-4ab2071bcc03@43.160.246.221:46920?security=reality&encryption=none&pbk=26jcWQerQE3ryBAm1OCcC7MrgGlI5I-gpdel1xf2Hx8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com#<!DOCTYPE html>
 vless://33a69ad0-4d00-47b8-a200-69d37578eb9c@m11a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#DE_1807_@Surfboardv2ray
 vless://33a69ad0-4d00-47b8-a200-69d37578eb9c@m11a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#DE_1808_@Surfboardv2ray
@@ -494,7 +498,3 @@ vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.167:23576?security=realit
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.168:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#US_2305_@Surfboardv2ray
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.168:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#US_2306_@Surfboardv2ray
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.168:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#US_2307_@Surfboardv2ray
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.168:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#US_2308_@Surfboardv2ray
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.169:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#US_2309_@Surfboardv2ray
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.169:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#US_2310_@Surfboardv2ray
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.172:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#US_2311_@Surfboardv2ray

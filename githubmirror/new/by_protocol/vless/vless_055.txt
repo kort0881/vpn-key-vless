@@ -1,3 +1,7 @@
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@151.80.52.29:587?security=tls&sni=vless.ifx.us.kg&type=ws&host=vless.ifx.us.kg&path=%2F%3Fed%3D2560fp%3Dchrome# VL-WS-TLS  FR-151.80.52.29:587
+vless://cc3a15eb-0a63-486c-8e12-c7be717ebcd4@107.174.39.112:443?security=tls&sni=bpB005.paGeS.DEv&type=ws&host=bpB005.paGeS.DEv&path=%2F1bd7yey9071nu9bu%2Fmtuyljy3ljiznc40oq%3D%3D%3Fed%3D2560# VL-WS-TLS  US-107.174.39.112:443
+vless://7b812fc6-3ce6-4af4-9140-2ec4f0bc7b2e@104.21.54.192:8080?security=none&type=ws&host=lc71.lebasnoo.ir.&path=%2Fservernett# VL-WS-NONE  NA-104.21.54.192:8080
+vless://50e75c0f-801a-4291-9d98-80e77b787fd5@104.21.51.208:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2# VL-WS-TLS  NA-104.21.51.208:443
 vless://833410a8-4dcf-4f2b-8e5b-a2cb6179b8ef@92.223.84.79:443?security=tls&sni=gcore.com&type=ws&host=ipcfusa.dev&path=%2F%40iP_CF----%40iP_CF----%40iP_CF----%40iP_CF----%40iP_CF----%40iP_CF----%40iP_CF----%40iP_CF----%40iP_CF----%40iP_CF----%40iP_CF----%40iP_CF%2Fwild%2F%3Fed%3D2048&fp=firefox&alpn=h2%2Chttp%2F1.1# VL-WS-TLS  LU-92.223.84.79:443
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.3.10:80?security=none&type=ws&host=uni.fi&path=%2F%3Fed%3D2048# VL-WS-NONE  US-151.101.3.10:80
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@198.41.217.161:443?security=tls&sni=al.ylks.xyz&type=ws&host=al.ylks.xyz&path=%2F%3Fed%3D2048# VL-WS-TLS  NA-198.41.217.161:443
@@ -494,7 +498,3 @@ vless://0e9b2690-e6ef-406c-acb9-d163c478d977@104.19.58.3:8443?security=tls&sni=J
 vless://51c3d458-b5d4-4542-a725-e24c2c783b76@192.0.63.43:8443?security=tls&sni=f41.maryam1500.top&type=splithttp&host=f41.maryam1500.top&path=%2Fv2nex%C2%B9box&fp=chrome&alpn=h2# VL-SPLITHTTP-TLS  US-192.0.63.43:8443
 vless://6babb657-1524-43bb-b421-11bda27bc9de@185.170.166.51:2087?security=tls&sni=smart.titimoji-f6.fun&type=grpc# VL-GRPC-TLS  GB-185.170.166.51:2087
 vless://fca01448-d84a-436e-9aec-3be1ebdfb350@45.194.53.13:2053?security=tls&sni=SB-1U6.PAgEs.dev&type=ws&path=%2Ffltcxoo6grqvat6v%2Fmtu4ljewms4ymdmumti3%3Fed%3D2560# VL-WS-TLS  US-45.194.53.13:2053
-vless://e6aacb88-39e7-4c11-969a-111d343c3e71@104.31.16.185:8080?type=ws&host=vwvwvwvwvwvwvwvwv.it.irvwvwvwvwwwvwvwvwvwvwvwvwvwv.vvwvw.ataribaran.ir&path=%2F%3Fed%3D8080# VL-WS-NA  NA-104.31.16.185:8080
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@108.162.195.21:443?security=tls&sni=ly.kpcloud.eu.org&type=ws&path=%2F%3Fed%3D2048# VL-WS-TLS  NA-108.162.195.21:443
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.5.116:443?security=tls&sni=mefa.ir&encryption=none@ShadowsocksM20&type=ws&host=mefa.ir&path=/H?ed%3D2560&fp=randomized&alpn=h2,http/1.1# VL-WS-TLS  US-199.232.5.116:443
-vless://29419d2e-5475-42a9-a615-996608ce0a46@172.67.145.239:443?security=tls&sni=parsairon.ironnettt.workers.dev&type=ws&host=parsairon.ironnettt.workers.dev&path=%2F%3Fed%3D2048&fp=randomized# VL-WS-TLS  NA-172.67.145.239:443
