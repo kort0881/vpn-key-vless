@@ -1,9 +1,3 @@
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@ignacio.ns.cloudflare.com:443/?type=ws&encryption=none&host=edmk.ambercc.filegear-sg.me&path=🔒
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@ignacio.ns.cloudflare.com:443?encryption=none&security=tls&sni=🔒
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@kip.ns.cloudflare.com:443/?type=ws&encryption=none&host=edmk.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&sni=edmk.ambercc.filegear-sg.me#%F0%9F%AB%9277%40oneclickvpnkeys
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@kip.ns.cloudflare.com:443/?type=ws&encryption=none&host=edmk.ambercc.filegear-sg.me&path=🔒
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@kip.ns.cloudflare.com:443?encryption=none&security=tls&sni=🔒
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@lynn.ns.cloudflare.com:443/?type=ws&encryption=none&host=edmk.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&sni=edmk.ambercc.filegear-sg.me#%F0%9F%AB%9284%40oneclickvpnkeys
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@lynn.ns.cloudflare.com:443/?type=ws&encryption=none&host=edmk.ambercc.filegear-sg.me&path=🔒
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@lynn.ns.cloudflare.com:443?encryption=none&security=tls&sni=🔒
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@pranab.ns.cloudflare.com:443/?type=ws&encryption=none&host=edmk.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&sni=edmk.ambercc.filegear-sg.me#%F0%9F%AB%9293%40oneclickvpnkeys
@@ -94,7 +88,7 @@ vless://ef246c6f-6e7d-4286-af33-5485544b0ba8@45.88.183.164:49355?security=&encry
 vless://ef246c6f-6e7d-4286-af33-5485544b0ba8@45.88.183.164:49355?security=&encryption=none=/@Mcv2rayNG--@Mcv2raNG--@Mcv2rayNG--@Mcv2rayNG--@Mcv2rayNG--@Mcv2rayNG--@Mcv2rayNG--@Mcv2rayNG&headerType=none&type=tcp
 vless://ef246c6f-6e7d-4286-af33-5485544b0ba8@45.88.183.164:49355?security=none&encryption=none&headerType=none&type=tcp
 vless://ef246c6f-6e7d-4286-af33-5485544b0ba8@45.88.183.164:49355?type=tcp&headerType=none&security=none
-vless://ef24a915-6af9-4637-b2ce-d2a8de9a2646@ramtin.avairan.online:8080?type=ws&path=%2F&host=&security=none#%E2%9D%94%20XX%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40mdvpn184%20%5B2%5D
+vless://ef24a915-6af9-4637-b2ce-d2a8de9a2646@ramtin.avairan.online:8080?type=ws&path=%2F&host=&security=none#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40mdvpn184%20%5B2%5D
 vless://ef24a915-6af9-4637-b2ce-d2a8de9a2646@ramtin.avairan.online:8080?type=ws&path=🔒
 vless://ef27e62d-91bd-4676-b9ce-8743a73eda07@172.233.162.251:80/?type=tcp&encryption=none
 vless://ef27e62d-91bd-4676-b9ce-8743a73eda07@172.233.162.95:80?security=reality&encryption=none&pbk=BVimgXtKkQ2Q6EpG8uKYTpySrNxEeIqVhdsxi5U5qRU&headerType=none&fp=chrome&type=tcp&sni=🔒
@@ -182,11 +176,10 @@ vless://efe56d18-ea0c-4ff5-b8a5-9baa93fe70f2@91.107.130.202:2006?security=realit
 vless://efed37ed-37e5-4100-a540-049dc7929984@172.66.44.253:8443/?type=ws&encryption=none&host=net-aCcOUNt02.Pages.DEv&path=%2Fdy26vBaDi5RTblzP%3Fed%3D2560&security=tls&sni=net-aCcOUNt02.Pages.DEv&fp=randomized#%F0%9F%8F%96%EF%B8%8F89%40oneclickvpnkeys
 vless://efed37ed-37e5-4100-a540-049dc7929984@172.66.44.253:8443/?type=ws&encryption=none&host=net-aCcOUNt02.Pages.DEv&path=🔒
 vless://efed37ed-37e5-4100-a540-049dc7929984@172.66.44.253:8443?path=🔒
-vless://efedc1df-739e-4869-b41c-558f3b9fc53f@172.66.156.81:80?encryption=none&type=ws&host=websocket.network.www.speedtest.net.flutter.dev.russia.pyt.digitalcity5.xyz.skylinkserver.site.&path=/%40%53%68%68%5F%50%72%6F%78%79%2D%2D%2D%2D%40%53%68%68%5F%50%72%6F%78%79%2D%2D%2D%2D%40%53%68%68%5F%50%72%6F%78%79%2D%2D%2D%2D%40%53%68%68%5F%50%72%6F%78%79%2D%2D%2D%2D%40%53%68%68%5F%50%72%6F%78%79%2D%2D%2D%2D%40%53%68%68%5F%50%72%6F%78%79%2D%2D%2D%2D%40%53%68%68%5F%50%72%6F%78%79%2D%2D%2D%2D%40%53%68%68%5F%50%72%6F%78%79%2D%2D%2D%2D%40%53%68%68%5F%50%72%6F%78%79%2D%2D%2D%2D%40%53%68%68%5F%50%72%6F%78%79%2D%2D%2D%2D%40%53%68%68%5F%50%72%6F%78%79%2D%2D%2D%2D%40%53%68%68%5F%50%72%6F%78%79#🌐سرور
+vless://efedc1df-739e-4869-b41c-558f3b9fc53f@172.66.156.81:80?encryption=none&type=ws&host=websocket.network.www.speedtest.net.flutter.dev.russia.pyt.digitalcity5.xyz.skylinkserver.site.&path=/%40%53%68%68%5F%50%72%6F%78%79%2D%2D%2D%2D%40%53%68%68%5F%50%72%6F%78%79%2D%2D%2D%2D%40%53%68%68%5F%50%72%6F%78%79%2D%2D%2D%2D%40%53%68%68%5F%50%72%6F%78%79%2D%2D%2D%2D%40%53%68%68%5F%50%72%6F%78%79%2D%2D%2D%2D%40%53%68%68%5F%50%72%6F%78%79%2D%2D%2D%2D%40%53%68%68%5F%50%72%6F%78%79%2D%2D%2D%2D%40%53%68%68%5F%50%72%6F%78%79%2D%2D%2D%2D%40%53%68%68%5F%50%72%6F%78%79%2D%2D%2D%2D%40%53%68%68%5F%50%72%6F%78%79%2D%2D%2D%2D%40%53%68%68%5F%50%72%6F%78%79%2D%2D%2D%2D%40%53%68%68%5F%50%72%6F%78%79#🌐
 vless://efedc1df-739e-4869-b41c-558f3b9fc53f@172.66.156.81:80?encryption=none&type=ws&host=websocket.network.www.speedtest.net.flutter.dev.russia.pyt.digitalcity5.xyz.skylinkserver.site.&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy#🇺🇸
 vless://efedc1df-739e-4869-b41c-558f3b9fc53f@172.66.156.81:80?encryption=none&type=ws&host=websocket.network.www.speedtest.net.flutter.dev.russia.pyt.digitalcity5.xyz.skylinkserver.site.&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy&security=none#🇺🇸@Shh_Proxy
 vless://efedc1df-739e-4869-b41c-558f3b9fc53f@172.66.156.81:80?encryption=none&type=ws&host=websocket.network.www.speedtest.net.flutter.dev.russia.pyt.digitalcity5.xyz.skylinkserver.site.&path=🔒
-vless://efedc1df-739e-4869-b41c-558f3b9fc53f@172.66.156.81:80?path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy&security=&encryption=none%3D-%40ghalagyann---%40ghalagyann---%40ghalagyann---%40ghalagyann---%40ghalagyann---%40ghalagyann---%40ghalagyann---%40ghalagyann---%40ghalagyann---%40ghalagyann---%40ghalagyann---%40ghalagyann---%40ghalagyann---%40ghalagyann---%40ghalagyann---%40ghalagyann&host=websocket.network.www.speedtest.net.flutter.dev.russia.pyt.digitalcity5.xyz.skylinkserver.site.&type=ws#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40ghalagyann%20%5B19%5D
 vless://efedc1df-739e-4869-b41c-558f3b9fc53f@172.66.156.81:80?path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy&security=&encryption=none=-@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann&host=websocket.network.www.speedtest.net.flutter.dev.russia.pyt.digitalcity5.xyz.skylinkserver.site.&type=ws#🇺🇸@ghalagyann
 vless://efedc1df-739e-4869-b41c-558f3b9fc53f@172.66.156.81:80?path=🔒
 vless://eff2bd9b-d1a3-4564-997a-d08d8e3ac32a@45.156.24.151:443?security=reality&sni=🔒
@@ -498,3 +491,10 @@ vless://f282b878-8711-45a1-8c69-5564172123c1@aio.loophole.biz.id:80?path=/aiopro
 vless://f282b878-8711-45a1-8c69-5564172123c1@aio.loophole.biz.id:80?path=🔒
 vless://f282b878-8711-45a1-8c69-5564172123c1@aio.xtradata.dpdns.org:443/?type=ws&encryption=none&host=aio.xtradata.dpdns.org&path=🔒
 vless://f2a3f500-2690-466f-9133-b73e7f24d10b@svnteam.misvn.ir:2082?type=ws&path=🔒
+vless://f2a59636-7a71-477b-87fa-3d8d3d0e32ee@138.68.141.171:443?path=%2Fvkdfadws&security=tls&encryption=none&type=ws&sni=github.com#🇬🇧[openproxylist.com]
+vless://f2a59636-7a71-477b-87fa-3d8d3d0e32ee@138.68.141.171:443?path=🔒
+vless://f2a72ad0-d23f-4eed-96cb-7d970b1e784d@141.101.121.110:80/?type=ws&encryption=none&host=ov-germany1.09vpn.com&path=%2Fvless%2F%3FVless_txt#%40V2rayNGVPN
+vless://f2a72ad0-d23f-4eed-96cb-7d970b1e784d@141.101.121.110:80/?type=ws&encryption=none&host=ov-germany1.09vpn.com&path=🔒
+vless://f2a72ad0-d23f-4eed-96cb-7d970b1e784d@141.101.121.110:80?security=none&type=ws&sni=🔒
+vless://f2a72ad0-d23f-4eed-96cb-7d970b1e784d@194.76.18.10:80?path=%2Fvless%2F&security=none&encryption=none&host=ov-germany1.09vpn.com&type=ws#DE🇩🇪
+vless://f2a72ad0-d23f-4eed-96cb-7d970b1e784d@194.76.18.30:80/?type=ws&encryption=none&host=ov-germany1.09vpn.com&path=%2Fvless%2F%23telegram_...

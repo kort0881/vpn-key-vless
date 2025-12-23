@@ -1,3 +1,7 @@
+vless://80c19783-5c4f-4794-ae0b-6efd11fd27ab@157.180.120.194:40200?security=none&encryption=none&headerType=none&type=tcp#WiFi-%40V2rayAlpha--20
+vless://8efcae96-9dc7-4612-b17c-9a372ed84ddd@151.101.205.194:80?mode=auto&path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&security=none&encryption=none&extra=%7B%22xPaddingBytes%22%3A%2210-100%22%2C%20%22noSSEHeader%22%3Atrue%7D&host=e1.ir&type=xhttp#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3
+vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@162.159.152.53:443?security=tls&alpn=h3&encryption=none&fp=random&type=ws&sni=vless.hubp.de#%F0%9F%8C%8D%20%7C%20Alpha%20Creator%3A%20%40tik7net_vpn
+vless://d1922398-868b-4f49-87e8-3253d29e81ba@51.75.90.246:443?mode=auto&path=%2F%40MaxFree---%40MaxFree---%40MaxFree---%40MaxFree---%40MaxFree&security=none&encryption=none&host=51.75.90.246&type=xhttp#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%F0%9D%90%93%F0%9D%90%9E%F0%9D%90%A5%F0%9D%90%9E%F0%9D%90%A0%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%A6%3A%20%40V2Gatee
 vless://309fa273-6579-4cb2-9143-7cad50401eba@45.67.228.11:443?security=reality&type=tcp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=7cad5040&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&encryption=none#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3
 vless://fd4b0117-d752-46fd-9a94-21a21e360fdb@84.201.141.227:443?security=reality&encryption=none&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&headerType=none&fp=chrome&spx=%2F---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=65c7748be8#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3
 vless://c7f37690-231f-4d50-ad0c-e2b9e365cd01@130.193.59.3:443?security=reality&type=tcp&sni=tradingview.com&fp=chrome&flow=xtls-rprx-vision&sid=f4b4a6365558ea2e&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&encryption=none#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3
@@ -188,7 +192,7 @@ vless://309fa273-6579-4cb2-9143-7cad50401eba@46.62.128.207:443/?type=tcp&encrypt
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.123.113.183:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3
 vless://67eef5b1-27ee-4ea2-bcf3-1d736711720c@trt.fastlynew.hosting-ip.com:80?mode=auto&path=%2F%3Fed%3D2560&security=none&encryption=none&host=maxfr219.global.ssl.fastly.net&type=xhttp#All_20--%40V2rayAlpha
 vless://%40iSeqaro@127.0.0.1:443?security=none&encryption=none&headerType=none&type=tcp
-vless://%40narcod_ping@85.133.228.198:41546?type=tcp&path=%2F&host=varzesh3.com&headerType=http&security=none#%E2%9D%94%20XX%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40narcod_ping%20%5B15%5D
+vless://%40narcod_ping@85.133.228.198:41546?type=tcp&path=%2F&host=varzesh3.com&headerType=http&security=none#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40narcod_ping%20%5B15%5D
 vless://%40narcod_ping@85.133.228.198:41546?type=tcp&path=🔒
 vless://%50%61%72%73%61%73%68%6F%6E%61%6D-299@185.146.173.39:8880?path=🔒
 vless://%50%61%72%73%61%73%68%6F%6E%61%6D-299@185.146.173.39:8880?type=httpupgrade&path=🔒
@@ -276,7 +280,7 @@ vless://00134d22-e7bc-4690-860a-05d2be0f6f06@91.99.221.2:443?mode=stream-one&pat
 vless://00134d22-e7bc-4690-860a-05d2be0f6f06@91.99.221.2:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#@Maznet-46190-1
 vless://00134d22-e7bc-4690-860a-05d2be0f6f06@91.99.221.2:443?mode=stream-one&path=🔒
 vless://00134d22-e7bc-4690-860a-05d2be0f6f06@91.99.91.136:443/?type=xhttp&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40manstervpn%20%5B65%5D
-vless://00134d22-e7bc-4690-860a-05d2be0f6f06@91.99.91.136:443?mode=stream-one&path=%2Fxhttp&security=none&encryption=none&type=xhttp#%E2%9D%94%20XX%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40manstervpn%20%5B65%5D
+vless://00134d22-e7bc-4690-860a-05d2be0f6f06@91.99.91.136:443?mode=stream-one&path=%2Fxhttp&security=none&encryption=none&type=xhttp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40manstervpn%20%5B65%5D
 vless://00134d22-e7bc-4690-860a-05d2be0f6f06@91.99.91.136:443?mode=stream-one&path=/xhttp&security=none&encryption=none&host=Join---PLANB-PROXY&type=xhttp#✅سرورهایبیشتردرکانال:prrofile_purple@✅
 vless://00134d22-e7bc-4690-860a-05d2be0f6f06@91.99.91.136:443?mode=stream-one&path=/xhttp&security=none&encryption=none&host=Join---PLANB-PROXY&type=xhttp#💎کانفیگ
 vless://00134d22-e7bc-4690-860a-05d2be0f6f06@91.99.91.136:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#@vmesskhodam
@@ -494,7 +498,3 @@ vless://0132166f-e702-48ed-a9e7-b07af768faf8@45.149.12.251:8880/?type=ws&encrypt
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@45.149.12.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=🔒
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@45.159.219.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=🔒
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@45.205.0.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=🔒
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@45.85.119.251:8880?allowInsecure=0&sni=🔒
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@46.254.92.11:8880/?type=ws&encryption=none&host=cf.d3z.net&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560#%F0%9F%8D%A937%40oneclickvpnkeys
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@46.254.92.11:8880/?type=ws&encryption=none&host=cf.d3z.net&path=🔒
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@46.254.92.11:8880?allowInsecure=0&sni=🔒

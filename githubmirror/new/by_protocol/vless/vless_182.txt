@@ -1,6 +1,3 @@
-vless://977e8086-fd41-4362-a51a-8b0c95dfa0df@174.138.101.107:45500?security=none&encryption=none&headerType=none&type=tcp
-vless://9788a8af-ed11-4204-a003-84fe71c95f2f@151.101.3.8:80?mode=auto&path=/@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam&security=none&encryption=none&host=Mahsazxshop.org&type=xhttp#@bored_vpn
-vless://9788a8af-ed11-4204-a003-84fe71c95f2f@151.101.3.8:80?mode=auto&path=🔒
 vless://9789674e-6903-415a-ba07-1db4d207607c@116.203.126.111:6006?security=reality&sni=🔒
 vless://97899a35-53a2-42b0-bc47-587d220772a1@91.107.179.99:443?mode=gun&security=reality&encryption=none&pbk=R3MMDRlsQpis_5qP60bKS7NKBmheziLeqSboauBbKnU&fp=firefox&spx=%2F&type=grpc&serviceName=&sni=🔒
 vless://97909ffd-6da0-4893-9d63-00e72ad55256@zula.ir:2096?path=%2F&security=tls&encryption=none&host=frAgteSt.JaHANGiRKh.eU.orG&fp=chrome&type=ws&sni=frAgteSt.JaHANGiRKh.eU.orG#RELAY🚩
@@ -55,7 +52,7 @@ vless://985acae9-b627-417c-95a8-36b3e3677be2@185.143.233.120:2086/?type=ws&encry
 vless://985acae9-b627-417c-95a8-36b3e3677be2@185.143.233.120:2086/?type=ws&encryption=none&host=getasa.ir&path=🔒
 vless://98635c25-7ce5-416e-9a45-3fcadc878f93@46.62.139.178:1111/?type=grpc&encryption=none#%F0%9F%87%AB%F0%9F%87%AE%20FI%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40tobevasl%20%5B15%5D
 vless://98635c25-7ce5-416e-9a45-3fcadc878f93@46.62.139.178:1111?mode=gun&security=&encryption=none&type=grpc
-vless://98635c25-7ce5-416e-9a45-3fcadc878f93@46.62.139.178:1111?mode=gun&security=&encryption=none&type=grpc#%E2%9D%94%20XX%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40tobevasl%20%5B15%5D
+vless://98635c25-7ce5-416e-9a45-3fcadc878f93@46.62.139.178:1111?mode=gun&security=&encryption=none&type=grpc#%F0%9F%87%AB%F0%9F%87%AE%20FI%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40tobevasl%20%5B15%5D
 vless://98635c25-7ce5-416e-9a45-3fcadc878f93@62739db65dd1d340.jjavaher.ir:11001/?type=tcp&encryption=none
 vless://9866995e-7225-4919-8de8-19a3f941c4d4@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2F%40custom_config%3Fed%3D2560&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&host=downloadlynet.ir.&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu#US🇺🇸
 vless://986783c3-0225-4f4d-9c29-e7c75c8b8c80@static-edge-front.deepcloudview.com:443?security=reality&encryption=none&pbk=b-jISQAdIIxv6MeoirMHu_MSRdUCriKY5v8vvszN6BA&headerType=none&fp=chrome&type=tcp&sni=🔒
@@ -498,3 +495,6 @@ vless://9d847ad3-1896-48f9-b89c-13fe345e2bff@wangcai165.cloudflare.182682.xyz:44
 vless://9d847ad3-1896-48f9-b89c-13fe345e2bff@wangcai17.cloudflare.182682.xyz:443/?type=xhttp&encryption=none&flow=&security=tls&sni=🔒
 vless://9d847ad3-1896-48f9-b89c-13fe345e2bff@wangcai171.cloudflare.182682.xyz:443/?type=xhttp&encryption=none&flow=&security=tls&sni=🔒
 vless://9d847ad3-1896-48f9-b89c-13fe345e2bff@wangcai181.cloudflare.182682.xyz:443/?type=xhttp&encryption=none&flow=&security=tls&sni=🔒
+vless://9d847ad3-1896-48f9-b89c-13fe345e2bff@wangcai187.cloudflare.182682.xyz:443/?type=xhttp&encryption=none&flow=&security=tls&sni=🔒
+vless://9d847ad3-1896-48f9-b89c-13fe345e2bff@wangcai199.cloudflare.182682.xyz:443/?type=xhttp&encryption=none&flow=&security=tls&sni=🔒
+vless://9d847ad3-1896-48f9-b89c-13fe345e2bff@wangcai201.cloudflare.182682.xyz:443/?type=xhttp&encryption=none&flow=&security=tls&sni=🔒

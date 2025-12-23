@@ -1,9 +1,3 @@
-vless://eb9c11d0-50ce-4b76-8760-74e10f81634b@monitor.tgju.org:443?encryption=none&security=tls&sni=🔒
-vless://eb9c11d0-50ce-4b76-8760-74e10f81634b@pages.dev:443?encryption=none&security=tls&sni=🔒
-vless://ebab8eed-707e-4f0b-91ed-e83259d7167d@104.18.26.90:80?path=🔒
-vless://ebab8eed-707e-4f0b-91ed-e83259d7167d@mtn.venzo.com.tr:80?path=🔒
-vless://ebac2049-8367-4eab-a1a5-8b742b2fd3b6@87.120.205.207:2025/?type=grpc&encryption=none&flow=&serviceName=das12327gsgsyu&sni=🔒
-vless://ebac2049-8367-4eab-a1a5-8b742b2fd3b6@87.120.205.207:2025?mode=gun&security=reality&encryption=none&pbk=Cnuh4bNEBvRIjrYBEWSVhX8nr5j46lHuyen_IU2rbSk&fp=chrome&type=grpc&serviceName=das12327gsgsyu&sni=🔒
 vless://ebac2049-8367-4eab-a1a5-8b742b2fd3b6@87.120.205.207:2025?mode=gun&security=reality&encryption=none&pbk=Cnuh4bNEBvRIjrYBEWSVhX8nr5j46lHuyen_IU2rbSk&fp=chrome&type=grpc&serviceName=t.me/entryNET&sni=🔒
 vless://ebac2049-8367-4eab-a1a5-8b742b2fd3b6@russiatest-tap2.servers807.ir:2025?mode=gun&security=reality&encryption=none&authority=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&pbk=Cnuh4bNEBvRIjrYBEWSVhX8nr5j46lHuyen_IU2rbSk&fp=chrome&spx=/&type=grpc&serviceName=das12327gsgsyu&sni=🔒
 vless://ebac2049-8367-4eab-a1a5-8b742b2fd3b6@russiatest-tap2.servers807.ir:2025?mode=gun&security=reality&encryption=none&pbk=Cnuh4bNEBvRIjrYBEWSVhX8nr5j46lHuyen_IU2rbSk&fp=chrome&spx=%2F&type=grpc&serviceName=das12327gsgsyu&sni=🔒
@@ -498,3 +492,9 @@ vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@185.148.104.170:2053?path=🔒
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@185.148.105.190:2053/?type=ws&encryption=none&host=dl1-pl-cdn.easy-upload.org&path=%2F&security=tls&sni=dl1-pl-cdn.easy-upload.org&alpn=h2%2Chttp%2F1.1&fp=random#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B5%F0%9F%87%B1
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@185.148.105.190:2053?path=🔒
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@185.148.106.114:2053/?type=ws&encryption=none&host=dl1-fr-cdn.easy-upload.org&path=%2F&security=tls&sni=dl1-fr-cdn.easy-upload.org#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AB%F0%9F%87%B7
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@185.148.106.114:2053?path=🔒
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@185.148.106.160:2053/?type=ws&encryption=none&host=dl1-uk-cdn.easy-upload.org&path=%2F&security=tls&sni=dl1-uk-cdn.easy-upload.org#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AC%F0%9F%87%A7
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@185.148.106.160:2053?path=🔒
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@185.148.106.161:2053/?type=ws&encryption=none&host=dl1-fr-cdn.easy-upload.org&path=%2F&security=tls&sni=dl1-fr-cdn.easy-upload.org#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AB%F0%9F%87%B7
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@185.148.106.161:2053?path=🔒
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@185.148.106.31:2053/?type=ws&encryption=none&host=dl1-fr-cdn.easy-upload.org&path=%2F&security=tls&sni=dl1-fr-cdn.easy-upload.org#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AB%F0%9F%87%B7

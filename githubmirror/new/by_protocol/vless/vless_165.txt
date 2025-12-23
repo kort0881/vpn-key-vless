@@ -1,4 +1,3 @@
-vless://505b8611-2946-475d-828b-0a07575c8451@93.115.240.88:10000/?type=ws&encryption=none
 vless://505f7f73-088d-4b88-815f-b62b2d9fb48b@188.114.97.177:443/?type=ws&encryption=none&security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev
 vless://50626ca4-ecd4-491e-b8b1-6f92420e67cc@45.94.215.252:1001?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp
 vless://5077c281-8431-4943-d8cc-6f67d8bb75c6@test2.amin8263.ir:2095?type=ws&encryption=none&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&host=test3.amin8263.ir&security=none#🇩🇪
@@ -102,7 +101,7 @@ vless://50ee9674-b7bd-4ea5-a677-80b93901486f@invoker.fonixapp.org:44107?security
 vless://50f9e963-e75c-428f-9fab-62282c966841@159.65.28.74:443?path=%2Fypgpabws&security=tls&encryption=none&type=ws&sni=github.com#🇬🇧[openproxylist.com]
 vless://50f9e963-e75c-428f-9fab-62282c966841@159.65.28.74:443?path=🔒
 vless://510d82c4-20c6-4605-9e92-cf49c1e9f900@188.245.61.146:8001/?type=tcp&encryption=none&sni=oMIdmAHBouBI.ir&fp=chrome&security=reality&pbk=W0BYEeLEqNRk8Bn2G27x5G9ALICJxePV6hxZG2A4Jmg&sid=#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40merdesert%20%5B4%5D
-vless://510d82c4-20c6-4605-9e92-cf49c1e9f900@188.245.61.146:8001?security=reality&encryption=none&pbk=W0BYEeLEqNRk8Bn2G27x5G9ALICJxePV6hxZG2A4Jmg&headerType=none&fp=chrome&type=tcp&sni=oMIdmAHBouBI.ir#%E2%9D%94%20XX%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40merdesert%20%5B4%5D
+vless://510d82c4-20c6-4605-9e92-cf49c1e9f900@188.245.61.146:8001?security=reality&encryption=none&pbk=W0BYEeLEqNRk8Bn2G27x5G9ALICJxePV6hxZG2A4Jmg&headerType=none&fp=chrome&type=tcp&sni=oMIdmAHBouBI.ir#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40merdesert%20%5B4%5D
 vless://510d82c4-20c6-4605-9e92-cf49c1e9f900@188.245.61.146:8001?security=reality&encryption=none&pbk=W0BYEeLEqNRk8Bn2G27x5G9ALICJxePV6hxZG2A4Jmg&headerType=none&fp=chrome&type=tcp&sni=🔒
 vless://51191f5d-7561-4dcf-d600-e2066a1de6e1@104.21.65.149:2095?path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048@XpnTeam?ed=2048@XpnTeam?ed=2048&security=none&encryption=none&host=test3.amin8263.ir&type=ws#@bored_vpn
 vless://51191f5d-7561-4dcf-d600-e2066a1de6e1@104.21.65.149:2095?path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048@XpnTeam?ed=2048@XpnTeam?ed=2048&security=none&encryption=none&host=test3.amin8263.ir&type=ws#@mehrosaboran
@@ -498,3 +497,4 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@162.159.248.20:8880?path=🔒
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@162.159.252.20:8880?path=🔒
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@162.159.4.20:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%F0%9F%A5%B5
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@167.68.11.20:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=%2F#%E2%9C%88%EF%B8%8F64%40oneclickvpnkeys
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@167.68.11.20:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=🔒

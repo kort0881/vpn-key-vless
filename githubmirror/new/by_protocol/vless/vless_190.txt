@@ -1,6 +1,3 @@
-vless://ae33a896-6374-41d3-88c5-b2941e0d038c@152.53.228.15:22231?security=reality&encryption=none&pbk=gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng&headerType=none&fp=chrome&spx=/sinavm-sinavm&type=tcp&flow=xtls-rprx-vision&sni=🔒
-vless://ae33a896-6374-41d3-88c5-b2941e0d038c@159.195.63.172:22231?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=nl.ultima.foundation&pbk=gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng&sid=/sinavm#@meli_proxyy
-vless://ae33a896-6374-41d3-88c5-b2941e0d038c@37.9.13.82:22231?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=edge&sni=ru.ultima.foundation&pbk=gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng&sid=/sinavm#@meli_proxyy
 vless://ae33a896-6374-41d3-88c5-b2941e0d038c@95.163.213.208:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=m.vk.ru&pbk=FcZ6-LZS5HHqAJ8YwFV_Gu_WxrMuylqxYjBu-1CLVRI&sid=/sinavm#@meli_proxyy
 vless://ae37ee3b-2109-7934-7f46-30f712b2580f@146.19.90.2:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=speed.cloudflare.com&fp=chrome&security=reality&pbk=oE7ZEghzkaOUiw1q3PqBtpllP1NlPHLY8ydJRuICtko&sid=#%F0%9F%8C%B537%40oneclickvpnkeys
 vless://ae37ee3b-2109-7934-7f46-30f712b2580f@146.19.90.2:443?security=reality&encryption=none&pbk=oE7ZEghzkaOUiw1q3PqBtpllP1NlPHLY8ydJRuICtko&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#💎کانفیگ
@@ -25,7 +22,7 @@ vless://ae9539b5-70dd-41b5-9666-11a29559a840@84.47.233.110:59761?security=none&e
 vless://ae96b87b-bc2c-4133-90a3-1366b1c57d2e@5.223.41.62:48851?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp
 vless://ae9e7dbb-607c-40f1-b84e-479b8658fb92@ir2.servertopia.top:4555?type=tcp&security=none
 vless://ae9f99cf-bfbf-4ed0-9504-64da0f724669@185.113.10.132:8650/?type=xhttp&encryption=none&sni=cloudflare.com&fp=chrome&security=reality&pbk=YWbuHeDHnHpfJMPsAOIJOIeQgzfCK_47CjY7TbWA5hI&sid=354b9cbe48#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40grizzlyvpn%20%5B10%5D
-vless://ae9f99cf-bfbf-4ed0-9504-64da0f724669@185.113.10.132:8650?encryption=none&security=reality&sni=cloudflare.com&fp=chrome&pbk=YWbuHeDHnHpfJMPsAOIJOIeQgzfCK_47CjY7TbWA5hI&sid=354b9cbe48&spx=%2F&type=xhttp&path=%2F&mode=auto#%E2%9D%94%20XX%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40grizzlyvpn%20%5B8%5D
+vless://ae9f99cf-bfbf-4ed0-9504-64da0f724669@185.113.10.132:8650?encryption=none&security=reality&sni=cloudflare.com&fp=chrome&pbk=YWbuHeDHnHpfJMPsAOIJOIeQgzfCK_47CjY7TbWA5hI&sid=354b9cbe48&spx=%2F&type=xhttp&path=%2F&mode=auto#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40grizzlyvpn%20%5B8%5D
 vless://ae9f99cf-bfbf-4ed0-9504-64da0f724669@185.113.10.132:8650?encryption=none&security=reality&sni=🔒
 vless://ae9f99cf-bfbf-4ed0-9504-64da0f724669@185.113.10.132:8650?mode=auto&path=/&security=reality&encryption=none&pbk=YWbuHeDHnHpfJMPsAOIJOIeQgzfCK_47CjY7TbWA5hI&fp=chrome&spx=/&type=xhttp&sni=cloudflare.com&sid=354b9cbe48#🇩🇪
 vless://ae9f99cf-bfbf-4ed0-9504-64da0f724669@185.113.10.132:8650?mode=auto&path=🔒
@@ -498,3 +495,6 @@ vless://b5320df1-e510-4048-ba79-bd7500e745ff@172.67.133.67:443/?type=ws&encrypti
 vless://b5320df1-e510-4048-ba79-bd7500e745ff@172.67.133.67:443/?type=ws&encryption=none&host=13.dnss-mobile.ir&security=tls&sni=🔒
 vless://b53247b8-b0dc-4603-b756-0720edd92dee@104.21.69.44:8443?path=%2F%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7&security=tls&encryption=none&host=vip.donghi.ir&fp=chrome&type=ws&sni=vip.donghi.ir#%40v2raying
 vless://b5363ae9-9ed8-47d7-bd95-b2c83acc1f8f@95.111.208.215:24401/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒
+vless://b5363ae9-9ed8-47d7-bd95-b2c83acc1f8f@abaddon.fonixapp.org:24401/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒
+vless://b5363ae9-9ed8-47d7-bd95-b2c83acc1f8f@abaddon.fonixapp.org:24401?security=reality&encryption=none&pbk=6Tayhy99MQpr2AvgmdiqHAzd7Z0F9F6Qj-eZN2FRsjU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=steampowered.com&sid=6d3e7476fd#@AZARBAYJAB1🇦🇹
+vless://b5363ae9-9ed8-47d7-bd95-b2c83acc1f8f@abaddon.fonixapp.org:24401?security=reality&encryption=none&pbk=6Tayhy99MQpr2AvgmdiqHAzd7Z0F9F6Qj-eZN2FRsjU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒
