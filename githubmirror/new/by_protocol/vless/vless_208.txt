@@ -1,3 +1,4 @@
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.142.120.226:2053/?type=ws&encryption=none&host=dl1-tr-cdn.easy-upload.org&path=%2F&security=tls&sni=dl1-tr-cdn.easy-upload.org#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B9%F0%9F%87%B7
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.142.120.226:2053?path=🔒
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.142.120.229:2053/?type=ws&encryption=none&host=dl1-uk-cdn.easy-upload.org&path=%2F&security=tls&sni=dl1-uk-cdn.easy-upload.org#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AC%F0%9F%87%A7
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.142.120.229:2053?path=🔒
@@ -497,4 +498,3 @@ vless://f0050c31-06b1-4ebd-a10c-fe1e73632067@v05.vxlimir.com:1370?security=reali
 vless://f00711e4-7f4c-4bf5-9f13-f7aceca13df3@104.17.147.22:2095?path=🔒
 vless://f00711e4-7f4c-4bf5-9f13-f7aceca13df3@Www.speedtest.net:2095?path=🔒
 vless://f00711e4-7f4c-4bf5-9f13-f7aceca13df3@Www.speedtest.net:2095?type=httpupgrade&path=🔒
-vless://f0075296-2b03-42ef-a4cd-491804eb9da1@m3a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp

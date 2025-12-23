@@ -1,3 +1,4 @@
+vless://7b9a9505-ec90-47b5-951e-fc47049485da@b.confignor.site:35493?type=grpc&encryption=none&serviceName=چنل+سازنده+اصلی+کانفیگ+@ConfigFree&authority=&security=reality&pbk=qeWt8jJZTwf6vmiTvDfaalPaSZDkX7a3XkKrBxf2YVA&fp=chrome&sni=🔒
 vless://7ba08646-09b3-4295-ac25-fff7f27b07da@NOADS.TORPROSPEED.IR:223?security=reality&encryption=none&pbk=JOKX-kH_SOPrdPG26TdJzO6YSDItrRGXKhtv70Bn81o&headerType=none&fp=chrome&spx=/&type=tcp&sni=cloudflare.com&sid=c7f175a94bd79f8d#🇸🇪
 vless://7ba08646-09b3-4295-ac25-fff7f27b07da@NOADS.TORPROSPEED.IR:223?security=reality&encryption=none&pbk=JOKX-kH_SOPrdPG26TdJzO6YSDItrRGXKhtv70Bn81o&headerType=none&fp=chrome&spx=/&type=tcp&sni=🔒
 vless://7babd487-be4a-4392-b28e-0bbed53c82cd@188.121.121.89:8080?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp
@@ -497,4 +498,3 @@ vless://7ff264b2-bccb-4ed5-8c8b-d3e95ce0f8aa@uuk3v.tok8888.com:8443?encryption=n
 vless://7ff264b2-bccb-4ed5-8c8b-d3e95ce0f8aa@uuk4v.tok8888.com:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=🔒
 vless://7ff264b2-bccb-4ed5-8c8b-d3e95ce0f8aa@uuk5v.tok8888.com:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=🔒
 vless://7ff264b2-bccb-4ed5-8c8b-d3e95ce0f8aa@uuk6v.tok8888.com:45445?encryption=none&flow=xtls-rprx-vision&security=reality&sni=🔒
-vless://7ff8a0c0-f106-4b33-b4cb-b5ca613b0874@78.46.140.183:39411?security=reality&encryption=none&pbk=nXgUEoaBeYXNre6foY-3IEIy9cPSCLJzOSCEnlvJ0lE&headerType=none&fp=chrome&spx=/&type=tcp&sni=google.com&sid=e3e4740b584aeb#@NT_SAFE

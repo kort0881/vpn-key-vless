@@ -1,3 +1,4 @@
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@194.76.18.243:443/?type=ws&encryption=none&path=🔒
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@194.76.18.243:443?encryption=none&security=tls&sni=🔒
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@194.76.18.50:443/?type=ws&encryption=none&host=lu.ylks.us.kg&path=%2F%3Fed%25...&security=tls&sni=lu.ylks.us.kg
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@194.76.18.62:443/?type=ws&encryption=none&flow=&host=cj.ylks.xyz&path=🔒
@@ -497,4 +498,3 @@ vless://a2af50d9-09c7-4a44-90d0-42da35923e9e@communal-loss.oneeat.co:80?path=/&s
 vless://a2af50d9-09c7-4a44-90d0-42da35923e9e@communal-loss.oneeat.co:80?path=🔒
 vless://a2af6e7c-a792-4e51-9460-fff4bd74fbfc@www.visa.com:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=vahidqaz-ft33vt-1.vahidqaz.workers.dev&fp=randomized&type=ws#RELAY🚩
 vless://a2b53ed9-c432-40b0-dd37-4feba242bc83@s10.digitalcity9.sbs:10954?security=none&encryption=none&host=alibaba.ir&headerType=http&type=tcp
-vless://a2c09a3a-a19c-43e2-a787-8b5dabb7b98c@172.66.40.99:80?path=🔒

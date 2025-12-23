@@ -1,3 +1,4 @@
+vless://30302ff3-ea0a-460e-b056-ef4117216d55@104.16.122.175:8443?security=tls&sni=🔒
 vless://30302ff3-ea0a-460e-b056-ef4117216d55@104.16.124.175:8443?security=tls&sni=🔒
 vless://303050c3-cd8a-408b-a438-e6a3cfaa0b48@95.164.68.37:443?mode=gun&security=tls&encryption=none&authority=&fp=chrome&type=grpc&serviceName=grpc&sni=sourceforge.net#RELAY🚩
 vless://303050c3-cd8a-408b-a438-e6a3cfaa0b48@95.164.68.37:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sourceforge.net#RELAY🚩
@@ -497,4 +498,3 @@ vless://31cd85f4-bd12-4866-da94-d48aa8c7d7d5@199.232.190.228:443/?type=ws&encryp
 vless://31cd85f4-bd12-4866-da94-d48aa8c7d7d5@199.232.190.228:443/?type=ws&encryption=none&host=fonmelo.com&path=🔒
 vless://31cebb90-917e-4bf4-9f2c-8ec4e35b286d@5.223.51.186:80?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp
 vless://31cebb90-917e-4bf4-9f2c-8ec4e35b286d@5.223.51.186:80?security=none&encryption=none&type=tcp&host=zula.ir&path=🔒
-vless://31cebb90-917e-4bf4-9f2c-8ec4e35b286d@5.223.56.230:80?security=&encryption=none&host=zula.ir&headerType=http&type=tcp

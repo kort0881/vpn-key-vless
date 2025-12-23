@@ -1,3 +1,4 @@
+vless://66350a41-8947-48b5-dc48-0f0682b4e23a@128.140.125.228:2053?security=reality&sni=🔒
 vless://6639c4b9-a776-4f89-b402-7ebfe14fa388@46.62.168.178:39411?security=reality&encryption=none&pbk=nXgUEoaBeYXNre6foY-3IEIy9cPSCLJzOSCEnlvJ0lE&headerType=none&fp=chrome&type=tcp&sni=google.com&sid=e3e4740b584aeb#@Daily_Configs
 vless://6639c4b9-a776-4f89-b402-7ebfe14fa388@46.62.168.178:39411?security=reality&encryption=none&pbk=nXgUEoaBeYXNre6foY-3IEIy9cPSCLJzOSCEnlvJ0lE&headerType=none&fp=chrome&type=tcp&sni=🔒
 vless://665db431-79ed-4309-ede4-9df37be3eb6e@yahoo.wlftest.xyz:8443?type=tcp&security=reality&pbk=bFsT16Fz21W8PqzAjwn1oK0yTemMEqRITAW1AyD1uyo&fp=ios&sni=🔒
@@ -497,4 +498,3 @@ vless://6a31cf5d-0709-49a6-894b-65e91bb7c1be@151.101.3.8:80?security=none&type=x
 vless://6a31cf5d-0709-49a6-894b-65e91bb7c1be@test.fast.hosting-ip.com:80?security=none&type=xhttp&headerType=&path=/Join----EXPRESSVPN_420---Join----EXPRESSVPN_420---Join----EXPRESSVPN_420---Join----EXPRESSVPN_420---Join----EXPRESSVPN_420---Join----EXPRESSVPN_420---Join----EXPRESSVPN_420&host=starboy.ir&mode=auto&extra={
 vless://6a31cf5d-0709-49a6-894b-65e91bb7c1be@test.fast.hosting-ip.com:80?security=none&type=xhttp&headerType=&path=🔒
 vless://6a35ac5c-12cb-4719-86f8-3334cb5970e4@77.42.16.205:443?mode=auto&path=/farasati1&security=reality&encryption=none&pbk=as04WkYoj-P4vEjJFXB3LeA_Rkt7Ud4pV2oTZ3bZwQg&fp=chrome&spx=/&type=xhttp&sni=www.wikipedia.org&sid=1c213fd68e13#@Broz_time
-vless://6a35ac5c-12cb-4719-86f8-3334cb5970e4@77.42.16.205:443?mode=auto&path=/farasati1&security=reality&encryption=none&pbk=as04WkYoj-P4vEjJFXB3LeA_Rkt7Ud4pV2oTZ3bZwQg&fp=chrome&spx=/&type=xhttp&sni=www.wikipedia.org&sid=1c213fd68e13#✅سرورهایبیشتردرکانال:prrofile_purple@✅
