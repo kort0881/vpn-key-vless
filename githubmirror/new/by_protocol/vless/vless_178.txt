@@ -72,6 +72,7 @@ vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@162.159.255.149:2087/?type=ws&encry
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@162.159.255.149:2087/?type=ws&encryption=none&host=jaegBSEM36.CFD&path=🔒
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@162.159.255.149:2087?encryption=none&security=tls&sni=🔒
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@WWw.speedtest.net:443?path=🔒
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@wangcai254.000444.cn:8880?security=none&type=ws&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560&host=kazuhikosvpn.kazuhikolzk.workers.dev&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%A9%F0%9F%87%AADE_2%20%F0%9F%A7%AD%204.3MB%2Fs`
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@wangcai254.000444.cn:8880?security=none&type=ws&path=🔒
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.speedtest.net:443?security=tls&sni=🔒
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.speedtest.net:8443?path=🔒
@@ -497,4 +498,3 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.235.239:2053/?type=ws&encryp
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.235.239:2053/?type=ws&encryption=none&host=MaHDisErvER-f4v.pAgES.DeV&path=%2FKFhgqe0tA6FG1ey1%3Fed%3D2560&security=tls&sni=MAhdiseRVer-f4v.paGEs.dEv&alpn=h2%2Chttp%2F1.1&fp=randomized#%40Hope_Net-join-us-on-Telegram
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.25.138:443?encryption=none&security=tls&sni=🔒
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.3.52:2096/?type=ws&encryption=none&host=JOInv2ngFaSt-2mM.pAges.DeV&path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&sni=JoinV2nGFaSt-2MM.pAges.DEV#%40Hope_Net-join-us-on-Telegram
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.3.52:8443/?type=ws&encryption=none&flow=&host=JoInmaHDiseRveR-Az7.paGES.dEv&path=🔒
