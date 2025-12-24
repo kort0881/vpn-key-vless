@@ -1,4 +1,3 @@
-vless://e6b6f680-797c-4354-b2d8-bad9adbe89ae@us02.528965.xyz:31158?security=reality&encryption=none&pbk=m2_mTpJOzyR-Cy3r8Ryf-3lYPZ_zYheZz7twWq9fXX8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒
 vless://e6b6f680-797c-4354-b2d8-bad9adbe89ae@us02.528965.xyz:31158?security=reality&encryption=none&pbk=m2_mTpJOzyR-Cy3r8Ryf-3lYPZ_zYheZz7twWq9fXX8&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒
 vless://e6d01fda-e989-42c6-8831-d92b01f85a3e@public.alpanel.top:1380?mode=gun&security=reality&encryption=none&pbk=u2Xf8Og6H4iPcoYIZC8Cm8ziH2LA4ifvpHxEpp8bfUw&fp=chrome&spx=%2F&type=grpc&serviceName=@vmesskhodam,@vmesskhodam,@vmesskhodam,@vmesskhodam,@vmesskhodam,@vmesskhodam,@vmesskhodam,@vmesskhodam,@vmesskhodam&sni=🔒
 vless://e6e28ce0-428a-432b-800d-b8dedcd3ce84@151.101.205.194:80?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=&encryption=none&extra={
@@ -498,3 +497,4 @@ vless://ea286109-d20f-415e-849e-4af20ab04b65@135.148.182.1:443?security=tls&encr
 vless://ea286109-d20f-415e-849e-4af20ab04b65@147.135.1.195:443/?type=tcp&encryption=none&security=tls&sni=147135001195.sec22org.com&alpn=h2%2Chttp%2F1.1
 vless://ea286109-d20f-415e-849e-4af20ab04b65@147.135.1.195:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=147135001195.sec22org.com#@meli_proxyy
 vless://ea286109-d20f-415e-849e-4af20ab04b65@147.135.1.195:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&sni=🔒
+vless://ea286109-d20f-415e-849e-4af20ab04b65@147.135.1.195:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135001195.sec22org.com#[

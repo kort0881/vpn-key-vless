@@ -1,4 +1,3 @@
-vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh29v4.vetmainconf.shop:8880?security=&encryption=none&type=grpc#telegram
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh30v2.vetmainconf.shop:8880?security=&encryption=none&type=grpc
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh30v2.vetmainconf.shop:8880?security=&encryption=none&type=grpc#JOIN
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh30v8.waipdirect.shop:8880/?type=grpc&encryption=none
@@ -498,3 +497,4 @@ vless://e6b6d832-5993-4348-84d2-8a5645ea04c7@185.226.119.16:8080?security=none&e
 vless://e6b6d832-5993-4348-84d2-8a5645ea04c7@188.121.121.89:8080?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp
 vless://e6b6d832-5993-4348-84d2-8a5645ea04c7@37.152.189.81:8080?security=none&encryption=none&host=fast.com&headerType=http&type=tcp
 vless://e6b6f680-797c-4354-b2d8-bad9adbe89ae@us02.528965.xyz:31158?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=🔒
+vless://e6b6f680-797c-4354-b2d8-bad9adbe89ae@us02.528965.xyz:31158?security=reality&encryption=none&pbk=m2_mTpJOzyR-Cy3r8Ryf-3lYPZ_zYheZz7twWq9fXX8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒
