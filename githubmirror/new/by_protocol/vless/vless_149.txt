@@ -1,7 +1,3 @@
-vless://0d0782a3-2c62-4936-b893-5790188778ea@5.252.22.113:443?path=/&security=tls&encryption=none&type=ws#All_18--@V2rayAlpha
-vless://0d0782a3-2c62-4936-b893-5790188778ea@5.252.22.113:443?path=/&security=tls&encryption=none=/@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@TEHRANARGO&type=ws#برای
-vless://0d0782a3-2c62-4936-b893-5790188778ea@5.252.22.113:443?path=🔒
-vless://0d0782a3-2c62-4936-b893-5790188778ea@74.119.192.71:443?encryption=none&security=tls&insecure=1&allowInsecure=1&type=ws&path=/#@Daily_Configs
 vless://0d0782a3-2c62-4936-b893-5790188778ea@74.119.192.71:443?encryption=none&security=tls&insecure=1&allowInsecure=1&type=ws&path=🔒
 vless://0d0782a3-2c62-4936-b893-5790188778ea@74.119.192.71:443?path=%2F&security=tls&encryption=none&type=ws#All_32--%40V2rayAlpha
 vless://0d0782a3-2c62-4936-b893-5790188778ea@74.119.192.71:443?path=%2F&security=tls&encryption=none&type=ws#WiFi_23--%40V2rayAlpha
@@ -498,3 +494,7 @@ vless://10f3650d-32f6-470a-b100-e29471cf3380@78.159.131.107:443?security=reality
 vless://10f54687-bc56-478c-9fdc-dc1f8cc82612@masterserver1.huqpmfood.ir:1331?mode=auto&path=/@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1&security=reality&encryption=none&extra={
 vless://10f54687-bc56-478c-9fdc-dc1f8cc82612@masterserver1.huqpmfood.ir:1331?mode=auto&path=🔒
 vless://110ac6e9-f62b-5bd3-9d74-adbb4ec62f65@95.215.8.25:443/?type=ws&encryption=none&host=95.215.8.25&path=🔒
+vless://110ac6e9-f62b-5bd3-9d74-adbb4ec62f65@95.215.8.25:443?path=/vless&security=tls&encryption=none&host=95.215.8.25&fp=chrome&type=ws&sni=zula.ir#💎کانفیگ
+vless://110ac6e9-f62b-5bd3-9d74-adbb4ec62f65@95.215.8.25:443?path=🔒
+vless://1110a364-4c94-42b7-84d9-085a34eabee4@87.120.187.17:8443?security=reality&encryption=none&pbk=mfBIs4jfBLzL_gqBO0QmbzwhSqamg2heEb_uNpGu3Rc&headerType=none&fp=chrome&spx=/---v2rayNplus---v2rayNplus---v2rayNplus---v2rayNplus---&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=ffb82d9a35846463#https://t.me/v2rayNplus
+vless://1110a364-4c94-42b7-84d9-085a34eabee4@87.120.187.17:8443?security=reality&encryption=none&pbk=mfBIs4jfBLzL_gqBO0QmbzwhSqamg2heEb_uNpGu3Rc&headerType=none&fp=chrome&spx=/---v2rayNplus---v2rayNplus---v2rayNplus---v2rayNplus---&type=tcp&flow=xtls-rprx-vision&sni=🔒

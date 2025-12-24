@@ -51,9 +51,7 @@ vless://78d0ab33-a8e4-435f-9b24-1850a8659ba8@103.71.22.160:42988?security=none&e
 vless://78d743e4-1519-4770-aa84-ca0d6de0cc80@[2a12:5940:1527::2]:443?type=tcp&path=🔒
 vless://78dac989-ca9d-418b-9f59-27ed7e7d94e8@zula.ir:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&fp=chrome&type=grpc&serviceName=Freehomesvpn&sni=fragment.mzolfaghari.homes#%D8%AD%D8%AA%D9%85%D8%A7+%D9%81%D8%B1%DA%AF%D9%85%D9%86%D8%AA+%D8%B1%D9%88%D8%B4%D9%86+%D8%B4%D9%88%D8%AF+25
 vless://78dbbe22-96ef-4902-89d0-4cce76fc11a2@axe.soyet2j.ir:443?encryption=none&security=tls&sni=menu.gejeh683bm.ir&alpn=h2&fp=chrome&type=ws&host=menu.gejeh683bm.ir&path=%2F77d76f3d-5da8-4198-b5d2-9634d3059ad0#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:45ms
-vless://78dbbe22-96ef-4902-89d0-4cce76fc11a2@axe.soyet2j.ir:443?security=tls&type=ws&path=%2F77d76f3d-5da8-4198-b5d2-9634d3059ad0&host=menu.gejeh683bm.ir&alpn=h2&sni=menu.gejeh683bm.ir&fp=chrome&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%AB%F0%9F%87%AEFI_2%20%F0%9F%A7%AD%204.0MB%2Fs`
 vless://78dbbe22-96ef-4902-89d0-4cce76fc11a2@axe.soyet2j.ir:443?security=tls&type=ws&path=%2F77d76f3d-5da8-4198-b5d2-9634d3059ad0&host=menu.gejeh683bm.ir&alpn=h2&sni=menu.gejeh683bm.ir&fp=chrome&encryption=none#[🇨🇦]t.me/ConfigsHub
-vless://78dbbe22-96ef-4902-89d0-4cce76fc11a2@axe.soyet2j.ir:443?security=tls&type=ws&path=🔒
 vless://78dd3bc3-e435-44fc-926d-bf0c8c0ebdb7@www.speedtest.net:443?alpn=h3&encryption=none&fp=randomized&host=ellisweissellisweissellisweissellisweissellisweisselliswei.pages.dev&path=🔒
 vless://78e3cff7-75e1-4418-9db0-b3a00aece703@www.speedtest.net:2052?flow=&type=ws&host=Vmessorg.paradoxone.ir&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480&security=none#JOIN
 vless://78e3cff7-75e1-4418-9db0-b3a00aece703@www.speedtest.net:2052?flow=&type=ws&host=Vmessorg.paradoxone.ir&path=🔒
@@ -498,3 +496,5 @@ vless://7d283c1a-3a5b-4b2a-a924-0bd256e89726@1conf.top:3333/?type=tcp&encryption
 vless://7d283c1a-3a5b-4b2a-a924-0bd256e89726@1conf.top:3333?security=&encryption=none&headerType=http&type=tcp
 vless://7d283c1a-3a5b-4b2a-a924-0bd256e89726@1conf.top:3333?security=&encryption=none&headerType=http&type=tcp#%E2%9D%94%20XX%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40tobevasl%20%5B16%5D
 vless://7d283c1a-3a5b-4b2a-a924-0bd256e89726@62.60.163.77:3333/?encryption=none&host=bmw.com&type=tcp&headerType=http
+vless://7d283c1a-3a5b-4b2a-a924-0bd256e89726@62.60.163.77:3333?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp
+vless://7d283c1a-3a5b-4b2a-a924-0bd256e89726@62.60.163.77:3333?security=none&encryption=none&host=bmw.com/@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-?ed=2560&headerType=http&type=tcp

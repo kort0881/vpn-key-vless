@@ -1,6 +1,3 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.13.207:8880?mode=gun&security=none&encryption=none&type=grpc#@Maznet-46197-3
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.193:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.193:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#@Hddify
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.193:8880?mode=gun&security=none&encryption=none&type=grpc
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.193:8880?mode=gun&security=none&encryption=none&type=grpc#%40V2rayNG3
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.193:8880?mode=gun&security=none&encryption=none&type=grpc#𝗝𝗼𝗶𝗻
@@ -498,3 +495,6 @@ vless://e258977b-e413-4718-a3af-02d75492c349@172.64.147.98:2087/?type=ws&encrypt
 vless://e258977b-e413-4718-a3af-02d75492c349@172.64.147.98:2087/?type=ws&encryption=none&flow=&host=www.xaniujp.qzz.io&path=🔒
 vless://e258977b-e413-4718-a3af-02d75492c349@172.64.151.220:2096/?type=ws&encryption=none&flow=&host=www.xaniuhk.qzz.io&path=/?ed=2560&security=tls&sni=www.xaniuhk.qzz.io&allowInsecure=1#[🇨🇦]t.me/ConfigsHub
 vless://e258977b-e413-4718-a3af-02d75492c349@172.64.151.220:2096/?type=ws&encryption=none&flow=&host=www.xaniuhk.qzz.io&path=🔒
+vless://e258977b-e413-4718-a3af-02d75492c349@172.64.153.193:2083?&security=tls&fp=chrome&sni=www.xaniutw.qzz.io&type=ws&headerType=none&host=www.xaniutw.qzz.io&path=%2F#_%E7%BE%8E%E5%9B%BD%205
+vless://e258977b-e413-4718-a3af-02d75492c349@172.64.154.113:8443?&security=tls&fp=chrome&sni=www.xaniuhk.qzz.io&type=ws&headerType=none&host=www.xaniuhk.qzz.io&path=%2F#_%E7%BE%8E%E5%9B%BD%2022
+vless://e258977b-e413-4718-a3af-02d75492c349@172.64.154.30:2087?&security=tls&fp=chrome&sni=www.xaniusg1.qzz.io&type=ws&headerType=none&host=www.xaniusg1.qzz.io&path=%2F#_%E7%BE%8E%E5%9B%BD%2018

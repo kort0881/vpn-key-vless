@@ -1,5 +1,3 @@
-vless://7d283c1a-3a5b-4b2a-a924-0bd256e89726@62.60.163.77:3333?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp
-vless://7d283c1a-3a5b-4b2a-a924-0bd256e89726@62.60.163.77:3333?security=none&encryption=none&host=bmw.com/@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-?ed=2560&headerType=http&type=tcp
 vless://7d283c1a-3a5b-4b2a-a924-0bd256e89726@85.133.194.83:3333?security=none&encryption=none&headerType=http&type=tcp
 vless://7d283c1a-3a5b-4b2a-a924-0bd256e89726@85.133.194.83:3333?security=none&encryption=none&headerType=http&type=tcp#@CaV2ray
 vless://7d29daed-b57f-4855-818b-3b4b4839b2f6@198.62.62.4:2096/?type=ws&encryption=none&host=638878462229496017.ahvaz-prx-dnraaad.info&path=%2Fsfbjbgws&security=tls&sni=638878462229496017.ahvaz-prx-dnraaad.info#%F0%9F%9B%B890%40oneclickvpnkeys
@@ -498,3 +496,5 @@ vless://8099cb0f-d19d-4252-af27-1527c00b64c5@sk.abadanvpn.host:443?encryption=no
 vless://8099cb0f-d19d-4252-af27-1527c00b64c5@sk.abadanvpn.host:443?encryption=none&flow=xtls-rprx-direct&security=xtls&type=tcp&headerType=none#%40V2ray_Custom😉
 vless://809c908f-2219-11f0-9970-45e1d80c4039@62.60.233.250:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒
 vless://809c908f-2219-11f0-9970-45e1d80c4039@62.60.233.250:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=🔒
+vless://809c908f-2219-11f0-9970-45e1d80c4039@62.60.233.250:443?security=reality&encryption=none&pbk=MFsbnsNQsSpZwP-_Ohzako6aHpfK4-rbssxhr3eywWw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒
+vless://80a02d29-a5bd-4eb1-a478-fa556b2824b3@141.98.169.111:443/?type=ws&encryption=none&flow=&path=%2Fbspuwfws&security=tls&sni=web.max.ru&allowInsecure=1&fp=chrome#%E2%9B%8434%40oneclickvpnkeys

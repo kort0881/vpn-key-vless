@@ -1,8 +1,3 @@
-vless://19ae54a4-716b-4b08-914f-c9c1556c4380@94.131.100.163:443?path=%2Fpyzrgqws&security=tls&encryption=none&type=ws&sni=api.avito.ru#@V2rayNG3
-vless://19ae54a4-716b-4b08-914f-c9c1556c4380@94.131.100.163:443?path=%2Fpyzrgqws&security=tls&encryption=none&type=ws&sni=api.avito.ru#All-%40V2rayAlpha--40
-vless://19ae54a4-716b-4b08-914f-c9c1556c4380@94.131.100.163:443?path=%2Fpyzrgqws&security=tls&encryption=none&type=ws&sni=api.avito.ru#All_29--%40V2rayAlpha
-vless://19ae54a4-716b-4b08-914f-c9c1556c4380@94.131.100.163:443?path=%2Fpyzrgqws&security=tls&encryption=none&type=ws&sni=api.avito.ru#RU🇷🇺
-vless://19ae54a4-716b-4b08-914f-c9c1556c4380@94.131.100.163:443?path=%2Fpyzrgqws&security=tls&encryption=none&type=ws&sni=api.avito.ru#S7
 vless://19ae54a4-716b-4b08-914f-c9c1556c4380@94.131.100.163:443?path=%2Fpyzrgqws&security=tls&encryption=none&type=ws&sni=api.avito.ru#WiFi-%40V2rayAlpha--15
 vless://19ae54a4-716b-4b08-914f-c9c1556c4380@94.131.100.163:443?path=/pyzrgqws&security=tls&encryption=none&type=ws&sni=api.avito.ru#@FarazV2ray
 vless://19ae54a4-716b-4b08-914f-c9c1556c4380@94.131.100.163:443?path=/pyzrgqws&security=tls&encryption=none&type=ws&sni=api.avito.ru#All-@V2rayAlpha--40
@@ -498,3 +493,8 @@ vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.153.154:443/?type=ws&encryp
 vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.153.154:443/?type=ws&encryption=none&host=pages.teasalo.cloudns.org&security=tls&sni=pages.teasalo.cloudns.org&alpn=h3&fp=random#%40Hope_Net-join-us-on-Telegram
 vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.153.194:443/?type=ws&encryption=none&host=pages.teasalo.cloudns.org&path=%2F%3Fed%3D2560&security=tls&sni=pages.teasalo.cloudns.org&alpn=h3&fp=random#%40Hope_Net-join-us-on-Telegram
 vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.153.224:443/?type=ws&encryption=none&flow=&host=pages.teasalo.cloudns.org&security=tls&sni=🔒
+vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.153.224:443/?type=ws&encryption=none&host=pages.teasalo.cloudns.org&security=tls&sni=pages.teasalo.cloudns.org&alpn=h3&fp=random#%40Hope_Net-join-us-on-Telegram
+vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.153.247:443/?type=ws&encryption=none&flow=&host=pages.teasalo.cloudns.org&path=🔒
+vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.153.247:443/?type=ws&encryption=none&host=pages.teasalo.cloudns.org&path=%2F%3Fed%3D2560&security=tls&sni=pages.teasalo.cloudns.org&alpn=h3&fp=random#%40Hope_Net-join-us-on-Telegram
+vless://1d3b3c81-946a-4f64-8889-a16eb06f7690@Sd.mciickoir.ir:9620?security=none&encryption=none&headerType=http&type=tcp
+vless://1d3b3c81-946a-4f64-8889-a16eb06f7690@Sd.mciickoir.ir:9620?security=none&encryption=none&headerType=http&type=tcp#@vmesskhodam

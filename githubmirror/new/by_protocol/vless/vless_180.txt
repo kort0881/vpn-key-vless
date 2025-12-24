@@ -1,5 +1,3 @@
-vless://809c908f-2219-11f0-9970-45e1d80c4039@62.60.233.250:443?security=reality&encryption=none&pbk=MFsbnsNQsSpZwP-_Ohzako6aHpfK4-rbssxhr3eywWw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒
-vless://80a02d29-a5bd-4eb1-a478-fa556b2824b3@141.98.169.111:443/?type=ws&encryption=none&flow=&path=%2Fbspuwfws&security=tls&sni=web.max.ru&allowInsecure=1&fp=chrome#%E2%9B%8434%40oneclickvpnkeys
 vless://80a02d29-a5bd-4eb1-a478-fa556b2824b3@141.98.169.111:443/?type=ws&encryption=none&flow=&path=/bspuwfws&security=tls&sni=web.max.ru&allowInsecure=1&fp=chrome#⛄34@oneclickvpnkeys
 vless://80a02d29-a5bd-4eb1-a478-fa556b2824b3@141.98.169.111:443/?type=ws&encryption=none&flow=&path=🔒
 vless://80a02d29-a5bd-4eb1-a478-fa556b2824b3@141.98.169.111:443?path=%2Fbspuwfws&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1#RU🇷🇺
@@ -498,3 +496,5 @@ vless://86825b06-ee56-4dc9-9128-b3abda5c31e8@www.speedtest.net:443?path=/&securi
 vless://86825b06-ee56-4dc9-9128-b3abda5c31e8@www.speedtest.net:443?path=🔒
 vless://86883d84-162c-42c4-af65-11dd80eb2ffa@172.67.141.40:2086?encryption=none&security=none&type=ws&host=tg20.dnopxqcx.workers.dev&path=🔒
 vless://86892e3f-83ed-49c1-ade2-c12f8ace1487@84.32.190.1:2200?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp
+vless://868c70bb-3560-4aab-b00c-6b64ffb96c8e@salar.mohad.sbs:80?path=🔒
+vless://869e5879-c27b-465d-d708-f496bfb39fc5@91.99.27.55:2096?security=none&encryption=none&headerType=http&type=tcp
