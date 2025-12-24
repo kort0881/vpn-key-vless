@@ -1,3 +1,4 @@
+vless://1de81780-e871-4c6b-b1f7-e1f120fd86f2@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v13.bEsTdRlImIt.NeT#🇨🇦 CA | 151.101.2.228
 vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@81.27.108.239:4657?security=none&type=tcp&encryption=none#🇫🇮 FI | 81.27.108.239
 vless://55556b1f-7b61-49ee-bfcc-10ed900f1b61@91.219.227.22:443?security=reality&encryption=none&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=43dcff53849b81e6#🇷🇺 RU | 91.219.227.22
 vless://aec7d79a-8b42-43ad-ab44-23062a1a430b@185.146.173.39:2052?path=/wsmmad&security=none&encryption=none&host=De.lemoex.ir.&type=ws#🇸🇪 SE | 185.146.173.39
@@ -497,4 +498,3 @@ vless://a7e04b44-855e-4fe7-8fa0-31894e928bce@142.93.51.53:443/?type=tcp&encrypti
 vless://56104b8a-ab6e-4c38-c443-eb538a5ed762@104.248.44.198:443/?type=grpc&encryption=none&flow=#Germany
 vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@77.37.33.39:443/?type=ws&encryption=none&flow=&host=gb-8981.shenzogmbh.com&path=%2Fapi%2Fv1&security=tls&sni=gb-8981.shenzogmbh.com&fp=chrome#CY%F0%9F%87%A8%F0%9F%87%BE
 vless://70162051-6706-4972-ae6f-202742f8e32c@eng30.digitunnel.org:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.abingdon.org.uk&fp=chrome&security=reality&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&sid=#v2rayng_021
-vless://55fdba7f-8ae4-47f3-ad23-86b25c049b0d@172.67.136.244:2053/?type=ws&encryption=none&flow=&host=full.app-browser.org&path=%2FR8aKBOK1R7OBYYMZ&ed=8787&eh=Sec-WebSocket-Protocol&security=tls&sni=full.app-browser.org&allowInsecure=1#NL
