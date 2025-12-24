@@ -265,14 +265,12 @@ trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@k
 trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.228:10889?security=tls&amp;sni=web.max&amp;allowInsecure=1&amp;type=tcp&amp;headerType=none#t.me/v2Line
 trojan://telegram-id-directvpn@52.59.43.9:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#OurChannel
 trojan://telegram-id-privatevpns@52.47.92.82:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#T.me%2FSafeNet_Server+%F0%9F%92%9A%F0%9F%A4%8D%E2%9D%A4
-trojan://.ie4rghJuMkcf0oF@38.96.254.102:18509?type=raw&headerType=none&security=tls&sni=shoppingmall.electricbanana.click#[🇨🇦] [tr-tl-ra] [251224-191543.133]
-trojan://cfdf8794-5365-41ac-9e59-573aab964b3e@green2.cdntencentmusic.com:31103?type=raw&headerType=none&security=tls&sni=green2.cdntencentmusic.com#[🇭🇰] [tr-tl-ra] [251224-191550.587]
-trojan://44e660b0ee21cf3ac66aee2c08af85d2@153.121.67.215:3093?type=raw&headerType=none&security=tls&sni=www.nintendogames.net#[🇯🇵] [tr-tl-ra] [251224-191544.657]
-trojan://87d1bfd4-574e-4c96-ad42-0426f27461ff@cf.zhetengsha.eu.org:443?type=ws&host=_acme-challenge.2go.cloudns.be&path=%2F&security=tls&sni=_acme-challenge.2go.cloudns.be#[🇰🇷] [tr-tl-ws] [251224-191546.108]
-trojan://POORIARED@172.67.134.185:443?type=ws&path=%2FeyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed&security=tls&fp=chrome&sni=reDfRee8.REDFree8.ir#[🇳🇱] [tr-tl-ws] [251224-191548.409]
-trojan://BaeSzHdfJIR13l67@70.34.218.149:11930?type=raw&headerType=none&security=tls&sni=softpillow.silentrocket.click#[🇸🇪] [tr-tl-ra] [251224-191546.886]
-trojan://22367c45-f6c4-4ca8-8d52-d9787d7bbe91@www.shopify.com:2053?type=ws&host=cm2-bpg.filegear-sg.me&path=%2Fproxyip%3D210.61.97.241%3A81&security=tls&sni=cm2-bpg.filegear-sg.me#[🇹🇼] [tr-tl-ws] [251224-191543.724]
-trojan://e86364fb-a5e3-42c3-b7fa-6ce8097fe19f@bisque.qzz.io:443?type=ws&host=bisque.qzz.io&path=%2F66.135.4.222%3A8443&security=tls&sni=bisque.qzz.io#[🇺🇸] [tr-tl-ws] [251224-191551.107]
+trojan://.ie4rghJuMkcf0oF@38.96.254.102:18509?type=raw&headerType=none&security=tls&sni=shoppingmall.electricbanana.click#[🇨🇦] [tr-tl-ra] [251224-222338.876]
+trojan://POORIARED@172.67.134.185:443?type=ws&path=%2FeyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed&security=tls&fp=chrome&sni=reDfRee8.REDFree8.ir#[🇩🇪] [tr-tl-ws] [251224-222343.758]
+trojan://cfdf8794-5365-41ac-9e59-573aab964b3e@green2.cdntencentmusic.com:31103?type=raw&headerType=none&security=tls&sni=green2.cdntencentmusic.com#[🇭🇰] [tr-tl-ra] [251224-222345.833]
+trojan://44e660b0ee21cf3ac66aee2c08af85d2@153.121.67.215:3093?type=raw&headerType=none&security=tls&sni=www.nintendogames.net#[🇯🇵] [tr-tl-ra] [251224-222340.252]
+trojan://BaeSzHdfJIR13l67@70.34.218.149:11930?type=raw&headerType=none&security=tls&sni=softpillow.silentrocket.click#[🇸🇪] [tr-tl-ra] [251224-222342.305]
+trojan://e86364fb-a5e3-42c3-b7fa-6ce8097fe19f@bisque.qzz.io:443?type=ws&host=bisque.qzz.io&path=%2F66.135.4.222%3A8443&security=tls&sni=bisque.qzz.io#[🇺🇸] [tr-tl-ws] [251224-222346.338]
 trojan://trojan@172.67.75.172:8443?security=tls&sni=fofang.pages.dev&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=fofang.pages.dev#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20TR-WS-TLS%204%E2%83%A3
 trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&fp=chrome&type=ws&path=/&host=store.timimi.dpdns.org#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20-%20NA%20%F0%9F%8C%8D%20TR-WS-TLS%204%E2%83%A3
 trojan://trojan@104.18.13.229:8443?security=tls&sni=pangpi.pages.dev&fp=chrome&type=ws&path=/&host=pangpi.pages.dev#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20TR-WS-TLS%204%E2%83%A3
