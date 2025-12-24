@@ -1,3 +1,4 @@
+vless://f6f442e3-69d1-4a83-bb78-241152eed859@15.204.77.190:443?type=xhttp&path=🔒
 vless://f6f442e3-69d1-4a83-bb78-241152eed859@15.204.79.186:443?mode=stream-one&path=🔒
 vless://f6f442e3-69d1-4a83-bb78-241152eed859@40.160.10.124:443?mode=stream-one&path=🔒
 vless://f6f442e3-69d1-4a83-bb78-241152eed859@40.160.10.251:443?mode=stream-one&path=🔒
@@ -497,4 +498,3 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@155.46.213.63:8880?allowInsecure=0&
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.100:8880/?type=ws&encryption=none&host=jp.laoyoutiao.link&path=🔒
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.104:8880/?type=ws&encryption=none&host=sg.laoyoutiao.link&path=🔒
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.106:8880/?type=ws&encryption=none&host=yd.laoyoutiao.link&path=🔒
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.106:8880?allowInsecure=0&sni=🔒

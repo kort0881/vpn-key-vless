@@ -1,3 +1,4 @@
+vless://26f80b9a-3133-4b6f-d685-425800026430@host1.nikasons.ir:443/?type=tcp&encryption=none
 vless://26f80b9a-3133-4b6f-d685-425800026430@host1.nikasons.ir:443/?type=tcp&encryption=none#%E2%87%9D%40Gp_Config%20%F0%9F%9F%A1%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%D9%82%D8%B7%D8%B9%20%D9%86%D8%B4%DB%8C
 vless://26f80b9a-3133-4b6f-d685-425800026430@host1.nikasons.ir:443?security=none&encryption=none&headerType=none&type=tcp
 vless://26fc1d92-2188-42fa-b36e-91caa13df437@151.101.186.133:443/?type=ws&encryption=none&host=mashti.com&path=🔒
@@ -497,4 +498,3 @@ vless://2a509678-3795-4b13-b425-70741c3f5ca3@151.101.25.242:80?mode=auto&path=/&
 vless://2a509678-3795-4b13-b425-70741c3f5ca3@151.101.25.242:80?mode=auto&path=/&security=none&encryption=none&host=jetuk43.global.ssl.fastly.net&type=xhttp#@Daily_Configs
 vless://2a509678-3795-4b13-b425-70741c3f5ca3@151.101.25.242:80?mode=auto&path=/&security=none&encryption=none&host=jetuk43.global.ssl.fastly.net&type=xhttp#@V2rayNGVPN
 vless://2a509678-3795-4b13-b425-70741c3f5ca3@151.101.25.242:80?mode=auto&path=/&security=none&encryption=none&host=jetuk43.global.ssl.fastly.net&type=xhttp#Channel
-vless://2a509678-3795-4b13-b425-70741c3f5ca3@151.101.25.242:80?mode=auto&path=/&security=none&encryption=none&host=jetuk43.global.ssl.fastly.net&type=xhttp#[🇺🇸]t.me/ConfigsHub

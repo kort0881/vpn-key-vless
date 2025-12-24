@@ -1,3 +1,4 @@
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@45.89.111.198:443?security=tls&sni=🔒
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@45.89.111.198:8443?security=tls&sni=🔒
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@91.225.219.114:2082?security=&fp=chrome&type=ws&path=🔒
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@94.232.244.5:2198?security=none&encryption=none&headerType=none&type=tcp
@@ -497,4 +498,3 @@ vless://8953f5bd-6ac8-4a67-b23e-ad01770ae331@162.159.129.67:2087/?type=ws&encryp
 vless://895552fa-6284-4c1d-ba00-3944e0c7c626@104.21.88.226:443/?type=ws&encryption=none&host=5er.www890604.dpdns.org&path=%2FC1SukvGdr58yeduy9AOG&security=tls&sni=5eR.WWW890604.dPDNS.OrG&alpn=http%2F1.1&fp=chrome#%F0%9F%AA%9999%40oneclickvpnkeys
 vless://895552fa-6284-4c1d-ba00-3944e0c7c626@104.21.88.226:443/?type=ws&encryption=none&host=5er.www890604.dpdns.org&path=🔒
 vless://895a39fb-6c32-49af-b04d-efecc1f6c5fb@206.189.135.13:41856?security=none&encryption=none&headerType=none&type=tcp
-vless://895a39fb-6c32-49af-b04d-efecc1f6c5fb@206.189.135.13:41856?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B3%20ProxyCloud%20DO

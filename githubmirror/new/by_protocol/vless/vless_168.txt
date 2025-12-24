@@ -1,3 +1,4 @@
+vless://4c4a4ea9-a9ec-4d7d-d6f6-e9b21de3a8fe@45.82.161.120:19011?security=none&encryption=none&headerType=none&type=tcp
 vless://4c4d5d6c-4d88-4df1-9a95-048885f7415f@213.176.121.88:44032?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp
 vless://4c4d5d6c-4d88-4df1-9a95-048885f7415f@85.133.204.55:44032?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp
 vless://4c4d9e6f-9faa-414c-b9d3-4bacf1c0c49e@151.101.64.155:80?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&security=none&encryption=none&host=irancell.net.&type=ws#%40v2raying
@@ -497,4 +498,3 @@ vless://505953c2-071a-47a1-950d-4c8e7609992e@gr.liteingshop.com:2082?security=no
 vless://505953c2-071a-47a1-950d-4c8e7609992e@gr.liteingshop.com:2082?security=none&encryption=none&headerType=none&type=tcp#%E2%9D%94%20XX%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2ray_vmes%20%5B14%5D
 vless://505b8611-2946-475d-828b-0a07575c8451@93.115.240.88:10000/?type=ws&encryption=none
 vless://505f7f73-088d-4b88-815f-b62b2d9fb48b@188.114.97.177:443/?type=ws&encryption=none&security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev
-vless://50626ca4-ecd4-491e-b8b1-6f92420e67cc@45.94.215.252:1001?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp

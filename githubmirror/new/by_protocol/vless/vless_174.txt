@@ -1,3 +1,4 @@
+vless://60bc841c-cfbd-408f-889b-473f90bb4a26@micro.slumbo.com:443?security=reality&encryption=none&pbk=jH08UU9id-Q8i17ltvHPO3sfGL6YTJIFveAJGgNjNl8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒
 vless://60bf43be-e37a-4bcc-9350-e1f228c524f2@64.226.122.88:31677?encryption=none&type=grpc&packetEncoding=xudp#https://t.me/ShadowsocksM26
 vless://60bf43be-e37a-4bcc-9350-e1f228c524f2@64.226.122.88:31677?mode=gun&security=none&encryption=none&type=grpc
 vless://60bf43be-e37a-4bcc-9350-e1f228c524f2@64.226.122.88:31677?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
@@ -497,4 +498,3 @@ vless://667b5dfa-7ec4-45d7-ba9c-6957eed8cfbb@157.173.127.239:443/?type=tcp&encry
 vless://6683e519-99b1-4df8-9d20-f39a2a7ed1b0@217.60.236.41:3134/?type=ws&encryption=none&path=🔒
 vless://668e148e-de6f-433a-93e0-78f55ef0702c@172.64.155.209:443/?type=ws&encryption=none&host=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&path=🔒
 vless://669be00c-67b4-4b87-b08f-311c45abced2@fr.atlanta-internet.ru:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒
-vless://669be00c-67b4-4b87-b08f-311c45abced2@fr.atlanta-internet.ru:8443?security=reality&encryption=none&pbk=FscaEWx0paNBzL7GWHj4Fll7Xc-KxdhKgTthBAnByWI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pingless.com#✅سرورهایبیشتردرکانال:prrofile_purple@✅

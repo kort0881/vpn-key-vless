@@ -1,3 +1,4 @@
+vless://f2a72ad0-d23f-4eed-96cb-7d970b1e784d@141.101.121.110:80?security=none&type=ws&sni=🔒
 vless://f2a72ad0-d23f-4eed-96cb-7d970b1e784d@194.76.18.30:80/?type=ws&encryption=none&host=ov-germany1.09vpn.com&path=%2Fvless%2F%23telegram_...
 vless://f2a72ad0-d23f-4eed-96cb-7d970b1e784d@194.76.18.60:80?security=none&type=ws&host=ov-germany1.09vpn.com&path=%2Fvless%2F#DE🇩🇪
 vless://f2a73750-3087-48ff-a763-1348c15dce68@medium.com:443?security=tls&sni=rAyAn-007.mAxImA.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rAyAn-007.mAxImA.DpDnS.OrG&encryption=none#Fast%20Deploy%20Your%20Own%20Worker%20For%20Creation%20Of%20Configs%20:%20https://telegraph.rayan-config.workers.dev/translate
@@ -497,4 +498,3 @@ vless://f6f442e3-69d1-4a83-bb78-241152eed859@15.204.75.62:443?type=xhttp&path=�
 vless://f6f442e3-69d1-4a83-bb78-241152eed859@15.204.75.97:443?mode=stream-one&path=🔒
 vless://f6f442e3-69d1-4a83-bb78-241152eed859@15.204.76.177:443?mode=stream-one&path=🔒
 vless://f6f442e3-69d1-4a83-bb78-241152eed859@15.204.77.190:443?type=xhttp&path=/sef&host=&mode=stream-one&security=none#telegram
-vless://f6f442e3-69d1-4a83-bb78-241152eed859@15.204.77.190:443?type=xhttp&path=🔒

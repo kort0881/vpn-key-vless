@@ -1,3 +1,4 @@
+vless://170ba974-6ae5-44ae-dfdc-4675b5643f34@79.137.33.139:16390?security=&encryption=none&headerType=none&type=tcp
 vless://170ba974-6ae5-44ae-dfdc-4675b5643f34@79.137.33.139:16390?security=none&encryption=none&headerType=none&type=tcp
 vless://170ba974-6ae5-44ae-dfdc-4675b5643f34@79.137.33.139:16390?security=none&encryption=none&headerType=none&type=tcp#@v2ray_configs_pools
 vless://17272b75-51c8-4999-a4ce-b3bd8679e04e@190.93.246.124:443/?type=ws&encryption=none&host=liu133.us.kg&security=tls&sni=liu133.us.kg#%40Hope_Net-join-us-on-Telegram
@@ -497,4 +498,3 @@ vless://1ab44c12-1462-422e-aeab-aaa025636f61@103.249.133.69:443?security=reality
 vless://1ab44c12-1462-422e-aeab-aaa025636f61@103.249.133.69:443?security=reality&encryption=none&pbk=eAKw1k-H2cuw0AsjNH-3RG2RBHOZCPz8qQp-i5W-Zkk&headerType=none&fp=chrome&spx=/BjbMH0KJ2gNtut1&type=tcp&flow=xtls-rprx-vision&sni=🔒
 vless://1ab44c12-1462-422e-aeab-aaa025636f61@217.198.12.224:443?security=reality&encryption=none&pbk=cBJsDdArckzyAvjzcqF_cK9Rpts2Lxq1oqj-b9_HeQ8&headerType=none&fp=chrome&spx=/y3vtypp2mJH2n5t&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=46fe77b51a66#✅سرورهایبیشتردرکانال:prrofile_purple@✅
 vless://1ab44c12-1462-422e-aeab-aaa025636f61@217.198.12.224:443?security=reality&encryption=none&pbk=cBJsDdArckzyAvjzcqF_cK9Rpts2Lxq1oqj-b9_HeQ8&headerType=none&fp=chrome&spx=/y3vtypp2mJH2n5t&type=tcp&flow=xtls-rprx-vision&sni=🔒
-vless://1abaa2b6-ab8c-4525-8c91-b73bc2ab2b37@185.174.136.244:8080?security=reality&encryption=none&pbk=iPjWLvXWt7ABJaSRRwzjgLrvlJlwoYQZN8zF-G3D-Qs&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&type=tcp&sni=yandex.com&sid=27cfa05000c23cc4#🇷🇺

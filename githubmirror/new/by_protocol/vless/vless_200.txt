@@ -1,3 +1,4 @@
+vless://c8898cfd-9927-4f36-b7bc-40de76076b80@45.150.174.80:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=maviks.eu&fp=chrome&security=reality&pbk=lyLhdojpACv6B3tHViJvPjNGATedXYRMnpAt4n4Siyo&sid=f203719d3ff9a5f5#%40Hope_Net-join-us-on-Telegram
 vless://c8898cfd-9927-4f36-b7bc-40de76076b80@45.150.174.80:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒
 vless://c8898cfd-9927-4f36-b7bc-40de76076b80@45.150.174.81:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=maviks.eu&fp=chrome#%40Hope_Net...
 vless://c8898cfd-9927-4f36-b7bc-40de76076b80@45.150.174.81:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=🔒
@@ -497,4 +498,3 @@ vless://cc6b985d-0362-4129-8763-38564174fb3e@45.153.7.224:443/?type=grpc&encrypt
 vless://cc6b985d-0362-4129-8763-38564174fb3e@45.153.7.31:443/?type=grpc&encryption=none&serviceName=michi&security=tls&sni=iryiccyne.wwtraveler.com&alpn=http%2F1.1%2Ch2&fp=chrome#%40Hope_Net-join-us-on-Telegram
 vless://cc6b985d-0362-4129-8763-38564174fb3e@45.153.7.31:443/?type=grpc&encryption=none&serviceName=michi&security=tls&sni=🔒
 vless://cc6b985d-0362-4129-8763-38564174fb3e@45.194.53.212:443/?type=grpc&encryption=none&serviceName=michi&security=tls&sni=iryiccyne.wwtraveler.com&alpn=http%2F1.1%2Ch2&fp=chrome#%40Hope_Net-join-us-on-Telegram
-vless://cc6b985d-0362-4129-8763-38564174fb3e@45.194.53.212:443/?type=grpc&encryption=none&serviceName=michi&security=tls&sni=🔒

@@ -1,3 +1,4 @@
+vless://a60463c9-1559-45db-9a1d-ca315bb869d7@re.iraniandesinger.com:3333?type=tcp&security=none&encryption=none&host=meet.google.com&headerType=http
 vless://a6051151-0239-4d60-f60c-5b92fbc90f02@212.64.199.79:2053?security=reality&sni=🔒
 vless://a6051151-0239-4d60-f60c-5b92fbc90f02@T.irimcs.org:2053?type=grpc&serviceName=@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns&security=reality&pbk=-VRZmnWBoMG-v3la_SZ2V6OAuPzIUBzk7zlyVw0fKSQ&fp=chrome&sni=greenpepper.ir&sid=750abe&spx=/#@Catvpns-🇹🇷--Channel
 vless://a6051151-0239-4d60-f60c-5b92fbc90f02@T.irimcs.org:2053?type=grpc&serviceName=@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns&security=reality&pbk=-VRZmnWBoMG-v3la_SZ2V6OAuPzIUBzk7zlyVw0fKSQ&fp=chrome&sni=🔒
@@ -497,4 +498,3 @@ vless://aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1@freevpn.xhamster.biz.id:443?encrypt
 vless://aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1@freevpn.xhamster.biz.id:443?path=🔒
 vless://aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1@freexxx.ndeso.web.id:443/?type=ws&encryption=none&flow=&host=freexxx.ndeso.web.id&path=🔒
 vless://aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1@freexxx.ndeso.web.id:443/?type=ws&encryption=none&host=freexxx.ndeso.web.id&path=🔒
-vless://aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1@freexxx.ndeso.web.id:443?encryption=none&security=tls&sni=🔒

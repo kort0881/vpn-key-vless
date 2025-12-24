@@ -1,3 +1,4 @@
+vless://a207569d-bf8f-43dd-81fd-2c847c7870c4@89.187.174.121:8443/?type=tcp&encryption=none&flow=&security=tls&sni=🔒
 vless://a207569d-bf8f-43dd-81fd-2c847c7870c4@89.187.174.121:8443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#🇳🇱[Telegram:NetifyVPN]
 vless://a207569d-bf8f-43dd-81fd-2c847c7870c4@89.187.174.121:8443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=🔒
 vless://a207569d-bf8f-43dd-81fd-2c847c7870c4@89.187.174.121:8443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=&fp=chrome&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇳🇱]t.me/Raiv2mmr
@@ -497,4 +498,3 @@ vless://a5fd0c47-f3f6-48c8-becb-cc766edf3e1a@172.67.220.32:443/?type=ws&encrypti
 vless://a5fd0c47-f3f6-48c8-becb-cc766edf3e1a@172.67.220.32:443/?type=ws&encryption=none&host=m5rtnm.999836.xyz&path=🔒
 vless://a60463c9-1559-45db-9a1d-ca315bb869d7@re.iraniandesinger.com:3333/?encryption=none&host=meet.google.com&type=tcp&headerType=http
 vless://a60463c9-1559-45db-9a1d-ca315bb869d7@re.iraniandesinger.com:3333?security=none&encryption=none&host=meet.google.com&headerType=http&type=tcp
-vless://a60463c9-1559-45db-9a1d-ca315bb869d7@re.iraniandesinger.com:3333?type=tcp&security=none&encryption=none&host=meet.google.com&headerType=http

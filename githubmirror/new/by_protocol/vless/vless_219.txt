@@ -1,3 +1,4 @@
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?security=none&encryption=none&type=ws&path=%2fhttp#%f0%9f%87%a9%f0%9f%87%aa%20DE%203
 vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@85.9.205.54:4655?type=tcp&path=%2f#%f0%9f%87%a9%f0%9f%87%aa%20DE%204
 vless://e50fa46f-20c6-4c0d-fa0e-d9ffd92df36f@91.107.130.214:41647?type=grpc&path=%2f#%f0%9f%87%a9%f0%9f%87%aa%20DE%205
 vless://2ee2a715-d541-416a-8713-d66567448c2e@91.98.193.27:443?type=grpc&path=%2f#%f0%9f%87%a9%f0%9f%87%aa%20DE%206
@@ -497,4 +498,3 @@ vless://a8b6a5a4-7fa3-4ff7-b5f7-37a0a880cf31@91.99.73.21:31549?security=none&typ
 vless://fa-8488088495-1766513922045174@62.3.12.221:443?security=reality&type=tcp&sni=steampowered.com&fp=chrome&flow=xtls-rprx-vision&sid=d1d42381ba35&pbk=2rjzbqQ49m-jpfzhiuBNb8Izwwjw0dIg5JAKdv-B2kE&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%B2%F0%9F%87%A9MD_2%20%F0%9F%A7%AD%205.7MB%2Fs`
 vless://abff54b1-a5a6-46a6-a202-08452fd07ae7@51.250.65.209:443?security=reality&type=tcp&sni=api-maps.yandex.ru&fp=chrome&flow=xtls-rprx-vision&sid=6354585c37827955&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%B7%F0%9F%87%BARU_2%20%F0%9F%A7%AD%205.7MB%2Fs`
 vless://abff54b1-a5a6-46a6-a202-08452fd07ae7@51.250.75.158:443?security=reality&type=tcp&sni=ads.x5.ru&fp=chrome&flow=xtls-rprx-vision&sid=e55fd8f9c9a9a0ca&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%B7%F0%9F%87%BARU_3%20%F0%9F%A7%AD%206.2MB%2Fs`
-vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@81.27.108.239:4657?security=none&type=tcp&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%AB%F0%9F%87%AEFI_2%20%F0%9F%A7%AD%204.8MB%2Fs`
