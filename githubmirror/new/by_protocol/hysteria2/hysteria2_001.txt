@@ -345,6 +345,7 @@ hysteria2://1b9c460e-f026-11ef-b737-f23c91cfbbc9@9b13ea8f-t70f40-t7t5pe-1s0a7.hk
 hysteria2://1b9c460e-f026-11ef-b737-f23c91cfbbc9@9b13ea8f-t70f40-t7t5pe-1s0a7.hk1.hyhuawei.com:443?security=tls&insecure=1&mport=30000-60000#All--@V2rayAlpha--26
 hysteria2://2408982813-20241210:409046c1-c229-4b54-986c-f110d96278e1@genshin-v4-oracle-amd.damaoooo.com:40000?security=tls&insecure=0#All-@V2rayAlpha--2
 hysteria2://2408982813-20241210@genshin-v4-oracle-amd.damaoooo.com:443?insecure=0#All-%40V2rayAlpha--2
+hysteria2://2408982813-20241210@genshin-v4-oracle-amd.damaoooo.com:443?insecure=0#🌐سرور
 hysteria2://254551f6-ec28-4938-ad0e-0aa4aa1965ec@5.83.150.108:49187/?sni=imafake.locker&fp=chrome#D%C3%BCsseldorf-GetAFreeNode
 hysteria2://254551f6-ec28-4938-ad0e-0aa4aa1965ec@74.117.196.232:46203/?sni=imafake.locker&fp=chrome#%E2%9D%8CFremont-GetAFreeNode
 hysteria2://27104fae-f047-4993-902a-9368d8a3e9bc@5.83.150.108:49187/?sni=imafake.locker&fp=chrome#D%C3%BCsseldorf-GetAFreeNode
@@ -497,4 +498,3 @@ hysteria2://SAOLvYVTTu@91.99.225.11:443?insecure=1&sni=refersion.com&obfs=salama
 hysteria2://SAOLvYVTTu@91.99.225.11:443?security=tls&obfs=salamander&obfs-password=Jsbdksj@V2RayyNGvpn$Miracle&insecure=1&sni=refersion.com#🇩🇪@V2RayyNGvpn🇩🇪همه
 hysteria2://SNItest@37.18.14.169:443?insecure=1&sni=megafon.ru#%F0%9F%94%B8%40IRAN_V2RAY1%F0%9F%92%98%20%233
 hysteria2://SNItest@37.18.14.169:443?security=tls&insecure=1&sni=megafon.ru#@FarazV2ray
-hysteria2://SNItest@37.18.14.169:443?security=tls&insecure=1&sni=megafon.ru#AZARBAYJAB12RAY
