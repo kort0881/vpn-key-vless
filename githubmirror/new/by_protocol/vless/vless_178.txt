@@ -1,3 +1,7 @@
+vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.15:443/?type=ws&encryption=none&flow=&path=🔒
+vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.15:443?path=🔒
+vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.16:443/?type=ws&encryption=none&flow=&path=🔒
+vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.16:443?encryption=none&security=tls&allowInsecure=1&type=ws&path=🔒
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.16:443?path=/?ed=2048@v2ray_configs_pools&security=tls&encryption=none&type=ws#@v2ray_configs_pools👈⚡❤️‍🔥
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.16:443?path=🔒
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.17:443/?type=ws&encryption=none&flow=&path=🔒
@@ -494,7 +498,3 @@ vless://7c951907-d4a8-49f3-86c8-0a6fc00e3f81@104.21.23.63:2095/?type=httpupgrade
 vless://7c951907-d4a8-49f3-86c8-0a6fc00e3f81@104.21.23.63:2095/?type=httpupgrade&encryption=none&host=vIhYpErClOuD.aCaDeMiGrOuP.iR.&path=🔒
 vless://7c95e3b5-9c45-4795-f954-b0ca84e648a9@172.67.169.94:443/?type=ws&encryption=none&host=tabnak.twn24.ir&path=%2F4...&security=tls&sni=tabnak.twn24.ir
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@104.16.53.11:8080/?type=ws&encryption=none&host=my.ski1plag.ir&path=/download&packetEncoding=xudp#@Geek_Spot
-vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@104.16.53.11:8080/?type=ws&encryption=none&host=my.ski1plag.ir&path=🔒
-vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@104.16.53.11:80?path=🔒
-vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@104.16.53.11:8443/?type=ws&encryption=none&host=my.ski1plag.ir&path=%2FTelegram%40V2ray_Alpha&security=tls&sni=my.ski1plag.ir&alpn=h2%2Chttp%2F1.1&fp=random#%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84%20%20%7C%20%F0%9F%9A%80%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%3A%20injastvpn%40
-vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@104.16.53.11:8443/?type=ws&encryption=none&host=my.ski1plag.ir&path=🔒
