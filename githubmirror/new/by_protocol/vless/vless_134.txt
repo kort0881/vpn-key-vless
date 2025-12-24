@@ -1,3 +1,4 @@
+vless://26f80b9a-3133-4b6f-d685-425800026430@host1.nikasons.ir:443/?type=tcp&encryption=none#%E2%87%9D%40Gp_Config%20%F0%9F%9F%A1%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%D9%82%D8%B7%D8%B9%20%D9%86%D8%B4%DB%8C
 vless://60978be7-0ab8-4167-9883-db983114d4d1@nl.ir.tekcloud.site:45431/?encryption=none&host=taaghche.com&type=tcp&headerType=http#%E2%87%9D%40Gp_Config%20%F0%9F%9F%A1%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%D9%82%D8%B7%D8%B9%20%D9%86%D8%B4%DB%8C
 vless://0cb5df67-bd29-4d1b-a311-1c7e92f7d2c8@amirt1.amirmh.shop:2083/?encryption=none&host=fast.com&type=tcp&headerType=http#%E2%87%9D%40Gp_Config%20%F0%9F%9F%A1%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%D9%82%D8%B7%D8%B9%20%D9%86%D8%B4%DB%8C
 vless://afa8a631-b043-4e40-865c-e2bf3a46ea5c@104.16.198.192:80/?type=ws&encryption=none&host=juBIlanT-CONSIDeRaTiOn.ONEeaT.CO.&path=%2F%3Fed%3D2048#%40hibyevpnn
@@ -497,4 +498,3 @@ vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.208.40:2053/?type=ws&encrypt
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@185.148.106.31:2053/?type=ws&encryption=none&host=dl1-fr-cdn.easy-upload.org&path=%2F&security=tls&sni=dl1-fr-cdn.easy-upload.org#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AB%F0%9F%87%B7
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.211.16:2053/?type=ws&encryption=none&host=dl1-fr-cdn.easy-upload.org&path=%2F&security=tls&sni=dl1-fr-cdn.easy-upload.org#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AB%F0%9F%87%B7
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.80.111.180:2053/?type=ws&encryption=none&host=dl1-fr-cdn.easy-upload.org&path=%2F&security=tls&sni=dl1-fr-cdn.easy-upload.org#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AB%F0%9F%87%B7
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@193.227.99.124:2053/?type=ws&encryption=none&host=dl1-pl-cdn.easy-upload.org&path=%2F&security=tls&sni=dl1-pl-cdn.easy-upload.org&alpn=h2%2Chttp%2F1.1&fp=random#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B5%F0%9F%87%B1
