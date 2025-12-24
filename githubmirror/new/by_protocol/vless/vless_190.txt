@@ -1,3 +1,9 @@
+vless://TELEGRAM-v2ray_configs_pools@172.66.40.99:80?path=/telegram-v2ray_configs_pools-v2ray_configs_pools,telegram-v2ray_configs_pools?ed=80&security=none&encryption=none&host=narenji.motorphrotan.ir.&type=httpupgrade#[🇺🇸]@v2ray_configs_pools
+vless://TELEGRAM-v2ray_configs_pools@172.66.40.99:80?path=🔒
+vless://TELEGRAM_JKVPN______JKVPN@www.zula.ir:80?type=ws&path=🔒
+vless://TELEGRAM____JKVPN@www.speedtest.net:80?type=ws&path=🔒
+vless://TGM_33534168518@147.45.178.124:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒
+vless://TGM_33534168518@147.45.178.124:443?security=reality&encryption=none&pbk=ClKe8P35ovCPaw8zWCoslc7Js9lYSNi6fNL67twY-zU&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=🔒
 vless://TMG_119293995@89.23.107.188:443?mode=auto&path=%2FhGg1lC42IGRTGob&security=reality&encryption=none&pbk=_fLNb14FxS25F7oKOOeLGi4W0VV7FZoJyAPAOw2mqQc&host=amazon.com&fp=chrome&allowinsecure=0&type=xhttp&sni=www.amazon.com&sid=c7196c06b2#%40meli_proxyy
 vless://TMG_119293995@89.23.107.188:443?mode=auto&path=/hGg1lC42IGRTGob&security=reality&encryption=none&pbk=_fLNb14FxS25F7oKOOeLGi4W0VV7FZoJyAPAOw2mqQc&host=amazon.com&fp=chrome&type=xhttp&sni=www.amazon.com&sid=c7196c06b2#[🇳🇱]t.me/ConfigsHub
 vless://TMG_119293995@89.23.107.188:443?mode=auto&path=/hGg1lC42IGRTGob&security=reality&encryption=none&pbk=_fLNb14FxS25F7oKOOeLGi4W0VV7FZoJyAPAOw2mqQc&host=amazon.com&fp=chrome&type=xhttp&sni=www.amazon.com&sid=c7196c06b2#t.me/entryNET/config=1852409760574208
@@ -492,9 +498,3 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@141.101.120.199:443/?type=ws&encryp
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@141.101.121.44:443/?type=ws&encryption=none&host=lj.kpcloud.eu.org&path=%2F%3Fed%3D2048&security=tls&sni=lj.kpcloud.eu.org#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%B5%F0%9F%87%B1Poland
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@141.101.121.44:443/?type=ws&encryption=none&host=lj.kpcloud.eu.org&path=🔒
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@141.101.121.65:443/?type=tcp&encryption=none
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@141.101.122.118:443/?type=ws&encryption=none&host=lg.kpcloud.eu.org&path=%2F%3Fed%3D2048&security=tls&sni=lg.kpcloud.eu.org#%40Hope_Net-join-us-on-Telegram
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@141.101.122.188:443/?type=ws&encryption=none&host=lu.kpcloud.eu.org&path=%2F%3Fed%3D2048&security=tls&sni=lu.kpcloud.eu.org#%40Hope_Net-join-us-on-Telegram
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@141.101.122.230:443/?type=ws&encryption=none&flow=&host=lc.kpcloud.eu.org&path=🔒
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@141.101.122.230:443/?type=ws&encryption=none&host=lc.kpcloud.eu.org&path=%2F%3Fed%3D2048&security=tls&sni=lc.kpcloud.eu.org#%40Hope_Net-join-us-on-Telegram
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@141.101.122.2:443/?type=ws&encryption=none&flow=&host=ll.ylks01.eu.org&path=🔒
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@141.101.122.2:443/?type=ws&encryption=none&host=ll.ylks01.eu.org&path=%2Fblue&security=tls&sni=ll.ylks01.eu.org#%40Hope_Net-join-us-on-Telegram

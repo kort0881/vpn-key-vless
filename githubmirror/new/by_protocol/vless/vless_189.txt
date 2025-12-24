@@ -1,3 +1,9 @@
+vless://Parsashonam-294@185.146.173.39:8880?type=httpupgrade&path=🔒
+vless://Parsashonam-294@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp
+vless://Parsashonam-294@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&host=TELEGRAM--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY&headerType=none&type=tcp
+vless://Parsashonam-295@185.146.173.39:8880?path=🔒
+vless://Parsashonam-295@185.146.173.39:8880?type=httpupgrade&host=De.Parsashonam.CfD.&path=🔒
+vless://Parsashonam-295@185.146.173.39:8880?type=httpupgrade&path=🔒
 vless://Parsashonam-295@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp
 vless://Parsashonam-295@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&host=TELEGRAM--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY&headerType=none&type=tcp
 vless://Parsashonam-296-Bot@91.99.16.244:443?mode=auto&path=🔒
@@ -492,9 +498,3 @@ vless://TELEGRAM-NUFiLTER@speedtest.net:443?alpn=h2%2Chttp%2F1.1&encryption=none
 vless://TELEGRAM-NUFiLTER@test.fast.hosting-ip.com:80?mode=auto&path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=80&security=none&encryption=none&host=Aame.global.ssl.fastly.net&type=xhttp#@CaV2ray
 vless://TELEGRAM-NUFiLTER@test.fast.hosting-ip.com:80?mode=auto&path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=80&security=none&encryption=none&host=asebemee.global.ssl.fastly.net&type=xhttp#@CaV2ray
 vless://TELEGRAM-NUFiLTER@test.fast.hosting-ip.com:80?mode=auto&path=🔒
-vless://TELEGRAM-v2ray_configs_pools@172.66.40.99:80?path=/telegram-v2ray_configs_pools-v2ray_configs_pools,telegram-v2ray_configs_pools?ed=80&security=none&encryption=none&host=narenji.motorphrotan.ir.&type=httpupgrade#[🇺🇸]@v2ray_configs_pools
-vless://TELEGRAM-v2ray_configs_pools@172.66.40.99:80?path=🔒
-vless://TELEGRAM_JKVPN______JKVPN@www.zula.ir:80?type=ws&path=🔒
-vless://TELEGRAM____JKVPN@www.speedtest.net:80?type=ws&path=🔒
-vless://TGM_33534168518@147.45.178.124:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒
-vless://TGM_33534168518@147.45.178.124:443?security=reality&encryption=none&pbk=ClKe8P35ovCPaw8zWCoslc7Js9lYSNi6fNL67twY-zU&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=🔒

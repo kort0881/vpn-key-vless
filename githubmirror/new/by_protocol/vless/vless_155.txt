@@ -1,3 +1,4 @@
+vless://1f2c36a3-bfd0-4491-8fd7-cdff97bb4f9d@109.122.249.131:3232/?encryption=none&host=zula.ir&type=tcp&headerType=http
 vless://1f38b094-7a91-f29c-3ed8-4ede1dc23639@45.88.8.147:80?path=🔒
 vless://1f431db3-1918-4e7b-a855-c93485e11694@104.16.103.250:80/?type=ws&encryption=none&host=pari.parinazz.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-104.16.103.250%3A80
 vless://1f431db3-1918-4e7b-a855-c93485e11694@104.16.103.250:80/?type=ws&encryption=none&host=pari.parinazz.dpdns.org&path=🔒
@@ -497,4 +498,3 @@ vless://240026c6-3e97-4050-926d-8c2d06bd75c9@151.101.25.242:80?encryption=none&s
 vless://240026c6-3e97-4050-926d-8c2d06bd75c9@151.101.25.242:80?encryption=none&security=none&type=xhttp&host=jetfr228.global.ssl.fastly.net&path=🔒
 vless://240026c6-3e97-4050-926d-8c2d06bd75c9@151.101.25.242:80?mode=auto&path=%2F&security=none&encryption=none&host=jetfr228.global.ssl.fastly.net&type=xhttp#US🇺🇸
 vless://240026c6-3e97-4050-926d-8c2d06bd75c9@151.101.25.242:80?mode=auto&path=/&security=&encryption=none&host=jetfr228.global.ssl.fastly.net&type=xhttp#Channel
-vless://240026c6-3e97-4050-926d-8c2d06bd75c9@151.101.25.242:80?mode=auto&path=/&security=&encryption=none&host=jetfr228.global.ssl.fastly.net&type=xhttp#telegram
