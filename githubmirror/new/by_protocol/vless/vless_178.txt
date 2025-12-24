@@ -1,4 +1,3 @@
-vless://7843d0a1-be6f-4b7f-92e2-8040711b434c@89.39.70.58:29300?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=🔒
 vless://78448db7-5a7b-4e5e-ab17-44eacc0ac976@pishgam.sdcards.ir:8080?type=ws&path=🔒
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.10:443/?type=ws&encryption=none&flow=&path=🔒
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.10:443?encryption=none&security=tls&allowInsecure=1&type=ws&path=🔒
@@ -498,3 +497,4 @@ vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@statue.lnmarketplace.net:443?mode=s
 vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@statue.lnmarketplace.net:443?mode=stream-one&path=/statue&security=tls&alpn=h2&encryption=none&host=statue.lnmarketplace.net&type=xhttp&sni=statue.lnmarketplace.net#🇳🇱
 vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@statue.lnmarketplace.net:443?mode=stream-one&path=/statue&security=tls&alpn=h2&encryption=none&insecure=0&host=statue.lnmarketplace.net&type=xhttp&allowInsecure=0&sni=statue.lnmarketplace.net#@Daily_Configs
 vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@statue.lnmarketplace.net:443?mode=stream-one&path=/statue?ed=2048HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN&security=tls&alpn=h2&encryption=none&host=statue.lnmarketplace.net&type=xhttp&sni=statue.lnmarketplace.net#@HiByeVPNN❤️‍🔥⚡☘️
+vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@statue.lnmarketplace.net:443?mode=stream-one&path=/statue?ed=2048HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN&security=tls&alpn=h2&encryption=none&extra={

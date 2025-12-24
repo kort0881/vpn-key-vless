@@ -1,4 +1,3 @@
-vless://4825edb4-0fde-4d48-892d-ddac2e1e13bb@www.parspack.com:8880?host=SHHproxy--shhPROXY--SHHproxy.PlusFood.org.&path=🔒
 vless://482d80be-8538-7868-29ee-b4f70f4ad581@45.88.8.147:80?path=🔒
 vless://48300e8d-4f24-483b-a817-f5e894f06b68@172.67.204.84:443?path=%2F&security=tls&encryption=none&type=ws&sni=companypdf9.pages.dev#RELAY🚩
 vless://48300e8d-4f24-483b-a817-f5e894f06b68@172.67.204.84:443?path=/&security=tls&encryption=none&type=ws&sni=companypdf9.pages.dev#✅سرورهایبیشتردرکانال:prrofile_purple@✅
@@ -498,3 +497,4 @@ vless://4a640781-f5c8-4d17-80db-a6b0a091ba05@nl01-vlr01.tcp-reset-club.net:443/?
 vless://4a640781-f5c8-4d17-80db-a6b0a091ba05@nl01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒
 vless://4a640781-f5c8-4d17-80db-a6b0a091ba05@nl01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=🔒
 vless://4a640781-f5c8-4d17-80db-a6b0a091ba05@tr01-vlr01.tcp-reset-club.net:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=🔒
+vless://4a640781-f5c8-4d17-80db-a6b0a091ba05@tr01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒

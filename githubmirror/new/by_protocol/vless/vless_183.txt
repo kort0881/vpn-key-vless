@@ -1,4 +1,3 @@
-vless://8ba3c494-c5b9-46b0-9bb9-306b8fdeb9d7@91.107.169.188:25103?security=&encryption=none&headerType=none&type=tcp
 vless://8ba3c494-c5b9-46b0-9bb9-306b8fdeb9d7@91.107.169.188:25103?security=none&encryption=none&headerType=none&type=tcp
 vless://8ba3c494-c5b9-46b0-9bb9-306b8fdeb9d7@91.107.169.188:25103?security=none&encryption=none&host=/?BIA_TELEGRAM@i10VPN&headerType=none&type=tcp
 vless://8bba871f-fb54-4508-a475-06328888d89d@104.26.14.85:8080?security=none&encryption=none&host=2r.YFxG2buH2B.zULaIr.orG.&type=ws#Free%2032%20%28%40Outline_Vpn%29
@@ -498,3 +497,4 @@ vless://912eacc1-42b4-4d0f-a8ba-abb825c1d468@64.227.47.120:443?path=%2Fulptgqws&
 vless://912eacc1-42b4-4d0f-a8ba-abb825c1d468@64.227.47.120:443?path=/ulptgqws#/@Azarbayjab1----@Azarbayjab1----@Azarbayjab1----@Azarbayjab1----@Azarbayjab1----@Azarbayjab1----@Azarbayjab1----@Azarbayjab1----@Azarbayjab1----@Azarbayjab1----@Azarbayjab1----@Azarbayjab1&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1&sni=api.avito.ru#🇬🇧TM
 vless://912eacc1-42b4-4d0f-a8ba-abb825c1d468@64.227.47.120:443?path=/ulptgqws&security=tls&encryption=none&type=ws&sni=api.avito.ru#@FarazV2ray
 vless://912eacc1-42b4-4d0f-a8ba-abb825c1d468@64.227.47.120:443?path=/ulptgqws&security=tls&encryption=none&type=ws&sni=api.avito.ru#All-@V2rayAlpha--38
+vless://912eacc1-42b4-4d0f-a8ba-abb825c1d468@64.227.47.120:443?path=🔒

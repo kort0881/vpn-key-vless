@@ -1,4 +1,3 @@
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.195.240:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.195.240:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#@CaV2ray
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.195.240:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.198.191:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp
@@ -498,3 +497,4 @@ vless://309fa273-6579-4cb2-9143-7cad50401eba@45.82.249.129:8443?type=tcp&securit
 vless://309fa273-6579-4cb2-9143-7cad50401eba@45.88.183.100:8443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#ConfigV2RayNG
 vless://309fa273-6579-4cb2-9143-7cad50401eba@45.88.183.100:8443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#REALITY|IN🇮🇳
 vless://309fa273-6579-4cb2-9143-7cad50401eba@45.88.183.100:8443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#🇮🇳@FreakConfig
+vless://309fa273-6579-4cb2-9143-7cad50401eba@45.88.183.100:8443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#🇮🇳[openproxylist.com]

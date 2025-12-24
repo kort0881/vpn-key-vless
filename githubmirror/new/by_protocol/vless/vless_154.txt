@@ -1,4 +1,3 @@
-vless://202ac83e-9012-4283-8acb-9af2c2a2dfeb@ac.storelit.ir:8880?path=🔒
 vless://20342ce8-3cd3-402c-8382-f3dee3c4d7fd@webshecan.webredirect.org:2087/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.16.53.11:80?path=/193.123.81.105=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#@v2ray_configs_pools
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.16.53.11:80?path=/193.123.81.105=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#Join
@@ -498,3 +497,4 @@ vless://2404f667-5969-4883-a71a-ea2e0db2d25b@whatismyipaddress.com:2096?security
 vless://2404f667-5969-4883-a71a-ea2e0db2d25b@whatismyipaddress.com:2096?security=tls&type=ws&headerType=&path=&host=wwwspeedtestnetwhiteberinsistomd6625996s25.afaghnegwork.ir&sni=wwwspeedtestnetwhiteberinsistomd6625996s25.afaghnegwork.ir&fp=#telegram
 vless://2404f667-5969-4883-a71a-ea2e0db2d25b@whatismyipaddress.com:2096?security=tls&type=ws&headerType=&path=&host=wwwspeedtestnetwhiteberinsistomd6625996s25.yozplhost.ir&sni=wwwspeedtestnetwhiteberinsistomd6625996s25.yozplhost.ir&fp=#telegram
 vless://2404f667-5969-4883-a71a-ea2e0db2d25b@whatismyipaddress.com:2096?security=tls&type=ws&headerType=&path=&host=wwwspeedtestnetwhiteberinsistomd6625996s26.afaghnegwork.ir&sni=wwwspeedtestnetwhiteberinsistomd6625996s26.afaghnegwork.ir&fp=#telegram
+vless://2404f667-5969-4883-a71a-ea2e0db2d25b@whatismyipaddress.com:2096?security=tls&type=ws&headerType=&path=&host=wwwspeedtestnetwhiteberinsistomd6625996s27.yozplhost.ir&sni=wwwspeedtestnetwhiteberinsistomd6625996s27.yozplhost.ir&fp=#telegram
