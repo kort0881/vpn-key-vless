@@ -76,6 +76,8 @@ vless://2053d74c-2a3b-453b-b665-8e25142a7569@172.67.171.106:443?security=tls&typ
 vless://2053d74c-2a3b-453b-b665-8e25142a7569@172.67.171.106:443?security=tls&type=ws&path=🔒
 vless://2053d74c-2a3b-453b-b665-8e25142a7569@172.67.72.241:443?security=tls&type=ws&path=%2Fassets&host=shiny.revilseptember.workers.dev&alpn=http%2F1.1&sni=Shiny.REvilSeptembEr.WorkErs.dEv&fp=chrome&encryption=none#%3E%3E%40v2ray_configs_pool%3A%3AUS
 vless://2053d74c-2a3b-453b-b665-8e25142a7569@172.67.72.241:443?security=tls&type=ws&path=🔒
+vless://2053d74c-2a3b-453b-b665-8e25142a7569@creativecommons.org:443?encryption=none&security=tls&sni=shiny.revilseptember.workers.dev&fp=chrome&type=ws&host=shiny.revilseptember.workers.dev&path=/socks5://8.222.249.27:1100#t.me/entryNET/config=1852399433273482
+vless://2053d74c-2a3b-453b-b665-8e25142a7569@creativecommons.org:443?encryption=none&security=tls&sni=🔒
 vless://2053d74c-2a3b-453b-b665-8e25142a7569@creativecommons.org:443?security=tls&type=ws&path=%2Fsocks5%3A%2F%2F8.222.249.27%3A1100&host=shiny.revilseptember.workers.dev&sni=shiny.revilseptember.workers.dev&fp=randomized&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%A9%F0%9F%87%AADE_17%20%F0%9F%A7%AD%205.2MB%2Fs`
 vless://2053d74c-2a3b-453b-b665-8e25142a7569@creativecommons.org:443?security=tls&type=ws&path=🔒
 vless://2053d74c-2a3b-453b-b665-8e25142a7569@zula.ir:443?security=tls&type=ws&path=%2Fassets&host=shiny.revilseptember.workers.dev&alpn=h3&sni=Shiny.REvilSeptembEr.WorkErs.dEv&fp=chrome&encryption=none#%3E%3E%40v2ray_configs_pool%3A%3AUS
@@ -180,7 +182,9 @@ vless://211bbb0b-70a7-4792-ad04-cb6e599d2b9e@43.133.70.168:8443/?type=ws&encrypt
 vless://211bdee3-b5dc-43d3-b2a5-3716359fc79c@194.182.79.250:52611?mode=gun&security=reality&encryption=none&authority=&pbk=d027uiA4v1a-8IWN8T1Tjgdw4aUVkxPhDX-2UpojtB8&fp=chrome&spx=/&type=grpc&serviceName=Join-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&sni=🔒
 vless://211bdee3-b5dc-43d3-b2a5-3716359fc79c@194.182.79.250:52611?mode=gun&security=reality&encryption=none&pbk=d027uiA4v1a-8IWN8T1Tjgdw4aUVkxPhDX-2UpojtB8&fp=chrome&spx=/&type=grpc&serviceName=Join-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&sni=🔒
 vless://211d48ad-952e-470b-a874-c70ca9207178@185.133.35.118:80/?type=tcp&encryption=none&security=non...
+vless://212456b7-a367-4a75-fbc9-2be616d39aee@104.16.1.106:8080?mode=auto&path=🔒
 vless://212456b7-a367-4a75-fbc9-2be616d39aee@DEADSEECtelegram.slimshopboyss.ir:8080?mode=auto&path=%2F&security=none&encryption=none&host=shop.slimshopboyss.ir&type=xhttp#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
+vless://212456b7-a367-4a75-fbc9-2be616d39aee@DEADSEECtelegram.slimshopboyss.ir:8080?mode=auto&path=🔒
 vless://2127d4c2-e5fb-4ab7-8405-32ed1618aaca@webshecan.webredirect.org:2087/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒
 vless://2131d0f4-7518-4619-a807-8d9a9e8cc6a8@hmrah.zedmodeon.lat:443?security=tls&sni=🔒
 vless://213b0839-9041-45e8-91f6-ca6f4a7caaf8@tr.iranvpnstore.site:777?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp
@@ -494,7 +498,3 @@ vless://2404f667-5969-4883-a71a-ea2e0db2d25b@whatismyipaddress.com:2096?security
 vless://2404f667-5969-4883-a71a-ea2e0db2d25b@whatismyipaddress.com:2096?security=tls&type=ws&headerType=&path=&host=wwwspeedtestnetwhiteberinsistomd6625996s15.yozpalangserver.ir&sni=wwwspeedtestnetwhiteberinsistomd6625996s15.yozpalangserver.ir&fp=#telegram
 vless://2404f667-5969-4883-a71a-ea2e0db2d25b@whatismyipaddress.com:2096?security=tls&type=ws&headerType=&path=&host=wwwspeedtestnetwhiteberinsistomd6625996s16.africacloud1.ir&sni=wwwspeedtestnetwhiteberinsistomd6625996s16.africacloud1.ir&fp=#telegram
 vless://2404f667-5969-4883-a71a-ea2e0db2d25b@whatismyipaddress.com:2096?security=tls&type=ws&headerType=&path=&host=wwwspeedtestnetwhiteberinsistomd6625996s16.drlimit.com&sni=wwwspeedtestnetwhiteberinsistomd6625996s16.drlimit.com&fp=#telegram
-vless://2404f667-5969-4883-a71a-ea2e0db2d25b@whatismyipaddress.com:2096?security=tls&type=ws&headerType=&path=&host=wwwspeedtestnetwhiteberinsistomd6625996s16.yozpalangserver.ir&sni=wwwspeedtestnetwhiteberinsistomd6625996s16.yozpalangserver.ir&fp=#telegram
-vless://2404f667-5969-4883-a71a-ea2e0db2d25b@whatismyipaddress.com:2096?security=tls&type=ws&headerType=&path=&host=wwwspeedtestnetwhiteberinsistomd6625996s17.africacloud1.ir&sni=wwwspeedtestnetwhiteberinsistomd6625996s17.africacloud1.ir&fp=#telegram
-vless://2404f667-5969-4883-a71a-ea2e0db2d25b@whatismyipaddress.com:2096?security=tls&type=ws&headerType=&path=&host=wwwspeedtestnetwhiteberinsistomd6625996s17.yozpalangserver.ir&sni=wwwspeedtestnetwhiteberinsistomd6625996s17.yozpalangserver.ir&fp=#telegram
-vless://2404f667-5969-4883-a71a-ea2e0db2d25b@whatismyipaddress.com:2096?security=tls&type=ws&headerType=&path=&host=wwwspeedtestnetwhiteberinsistomd6625996s18.africacloud1.ir&sni=wwwspeedtestnetwhiteberinsistomd6625996s18.africacloud1.ir&fp=#telegram
