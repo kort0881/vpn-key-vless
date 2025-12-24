@@ -1,6 +1,3 @@
-vless://80c19783-5c4f-4794-ae0b-6efd11fd27ab@157.180.120.194:40200?note=---Telegram---%40Argo_VPN1---Telegram---%40Argo_VPN1---Telegram---%40Argo_VPN1---Telegram---%40Argo_VPN1---&type=tcp&encryption=none&security=none
-vless://80c19783-5c4f-4794-ae0b-6efd11fd27ab@157.180.120.194:40200?note=---Telegram---%40Argo_VPN1---Telegram---%40Argo_VPN1---Telegram---%40Argo_VPN1---Telegram---%40Argo_VPN1---&type=tcp&encryption=none&security=none#%E2%9D%94%20XX%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2raytg%20%5B36%5D
-vless://80c19783-5c4f-4794-ae0b-6efd11fd27ab@157.180.120.194:40200?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&type=tcp&encryption=none&security=none
 vless://80c19783-5c4f-4794-ae0b-6efd11fd27ab@157.180.120.194:40200?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&type=tcp&encryption=none&security=none#🇫🇮[Telegram:NetifyVPN]
 vless://80c19783-5c4f-4794-ae0b-6efd11fd27ab@157.180.120.194:40200?security=&encryption=none&headerType=&type=tcp&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---
 vless://80c19783-5c4f-4794-ae0b-6efd11fd27ab@157.180.120.194:40200?security=&encryption=none&headerType=&type=tcp&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇫🇮]t.me/Raiv2mmr
@@ -498,3 +495,6 @@ vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.17.148.22:443?path=/?TELEGRAM-M
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.17.148.22:443?path=🔒
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.17.148.22:8443?encryption=none&security=tls&sni=🔒
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.12.229:8443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=azadnet-4nb.pages.dev&fp=chrome&type=ws&sni=azadnet-4nb.pages.dev#RELAY🚩
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.12.229:8443?path=/?ed=2560&security=tls&encryption=none&host=azadnet-4nb.pages.dev&fp=chrome&type=ws&sni=azadnet-4nb.pages.dev#✅سرورهایبیشتردرکانال:prrofile_purple@✅
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.12.229:8443?path=🔒
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.13.229:8443?security=tls&sni=azadnet-3dr.pages.dev&type=ws&host=azadnet-3dr.pages.dev&path=%2F%3Fed%3D2560&fp=random#RELAY🚩

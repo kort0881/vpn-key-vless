@@ -1,6 +1,3 @@
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@49.12.97.174:2020?type=tcp&headerType=none&security=none
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@49.13.216.199:2020?security=&encryption=none&headerType=none&type=tcp
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@49.13.216.199:2020?security=none&encryption=none&headerType=none&type=tcp
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@49.13.68.90:2020?security=none&encryption=none&headerType=none&type=tcp
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.46.152.225:2020?encryption=none&security=none&type=tcp&headerType=none
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.46.251.109:2020?security=&encryption=none&headerType=none&type=tcp
@@ -498,3 +495,6 @@ vless://2844ed48-493d-43ca-a13e-76df8e444de0@194.4.49.217:443?encryption=none&se
 vless://2844ed48-493d-43ca-a13e-76df8e444de0@194.4.49.217:443?path=🔒
 vless://28546fb0-5ce8-45a4-9f1f-57688836ac9c@huskar.fonixapp.org:36764?security=reality&encryption=none&pbk=Bk2ghdUIo2U2JdU9oVlTyUcVp2_pLbqhqe58F7hcJEw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=canva.com&sid=ac#All-@V2ray_Alpha--31
 vless://28546fb0-5ce8-45a4-9f1f-57688836ac9c@huskar.fonixapp.org:36764?security=reality&encryption=none&pbk=Bk2ghdUIo2U2JdU9oVlTyUcVp2_pLbqhqe58F7hcJEw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒
+vless://28581e6c-3131-4a05-89b6-5d9aab722cc9@188.114.96.229:443/?type=ws&encryption=none&host=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&path=%2F%3Fed%3D2048&security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&alpn=h3%2Ch2&fp=chrome#%40Hope_Net-join-us-on-Telegram
+vless://28581e6c-3131-4a05-89b6-5d9aab722cc9@188.114.96.229:443/?type=ws&encryption=none&host=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&path=🔒
+vless://28585055-e1e3-4edd-be4d-92c779981139@ALL-CUSTOMVPNSERVER.IPSTOREIRAN.COM:80?encryption=none&host=V2ray.digikala.com-mykit.ir.nobitex.com.IMhyW5477e.CUSTOMVPNSERVER.OnlInEdowNloadERfile.com.&path=🔒

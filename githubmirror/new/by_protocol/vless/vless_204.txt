@@ -1,6 +1,3 @@
-vless://d93d7da2-6c2c-4fc6-bc2a-1da9cef60793@104.18.26.90:2096?path=🔒
-vless://d93eed7f-64ae-4321-bbd2-dbc8fa45ce07@104.21.16.1:2083?encryption=none&security=tls&sni=🔒
-vless://d93eed7f-64ae-4321-bbd2-dbc8fa45ce07@104.21.64.1:2083?encryption=none&security=tls&sni=🔒
 vless://d93eed7f-64ae-4321-bbd2-dbc8fa45ce07@104.21.64.1:2087/?type=ws&encryption=none&host=bia-to-selinc--selinc--selinc--selinc.zdhejhkp.workers.dev&security=tls&sni=bia-to-selinc--selinc--selinc--selinc.zdhejhkp.workers.dev&alpn=http%2F1.1&fp=chrome#%40Hope_Net-join-us-on-Telegram
 vless://d93eed7f-64ae-4321-bbd2-dbc8fa45ce07@104.21.64.1:2087/?type=ws&encryption=none&host=bia-to-selinc--selinc--selinc--selinc.zdhejhkp.workers.dev&security=tls&sni=🔒
 vless://d93eed7f-64ae-4321-bbd2-dbc8fa45ce07@104.21.96.1:2087/?type=ws&encryption=none&host=bia-to-selinc--selinc--selinc--selinc.zdhejhkp.workers.dev&path=vless-ws%2F%3Fed%3D2048&security=tls&sni=bia-to-selinc--selinc--selinc--selinc.zdhejhkp.workers.dev&alpn=http%2F1.1&fp=chrome#%40Hope_Net-join-us-on-Telegram
@@ -498,3 +495,6 @@ vless://de99f561-8fa5-4195-b627-be4236e8b461@104.16.227.96:80?encryption=none&se
 vless://de9e93dc-9ce2-4c8f-839c-f6f3a58a10bb@99.199.73.47:6068?security=none&encryption=none&host=bmw.com&headerType=http&fp=chrome&type=tcp
 vless://de9e93dc-9ce2-4c8f-839c-f6f3a58a10bb@99.199.73.47:6068?security=none&encryption=none&host=bmw.com&headerType=http&fp=chrome&type=tcp#✅سرورهایبیشتردرکانال:prrofile_purple@✅
 vless://de9e93dc-9ce2-4c8f-839c-f6f3a58a10bb@99.199.73.47:6068?security=none&encryption=none&host=bmw.com&headerType=http&fp=chrome&type=tcp#💎کانفیگ
+vless://de9e93dc-9ce2-4c8f-839c-f6f3a58a10bb@99.199.73.47:6068?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp
+vless://de9e93dc-9ce2-4c8f-839c-f6f3a58a10bb@sport-shop-gw01.cyberscaler.net:6068?security=&encryption=none&host=v10.events.data.microsoft.com&headerType=http&type=tcp
+vless://de9e93dc-9ce2-4c8f-839c-f6f3a58a10bb@sport-shop-gw01.cyberscaler.net:6068?security=&fp=chrome&type=tcp&path=🔒
