@@ -1,5 +1,3 @@
-vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=/sghiyws&security=tls&encryption=none&insecure=0&host=terazhedi.info&type=ws&allowInsecure=0&sni=terazhedi.info#⚡
-vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=/sghiyws&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=terazhedi.info#@Daily_Configs
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=/sghiyws&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=terazhedi.info#@V2ray_confing33
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=/sghiyws&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=terazhedi.info#Channel
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=/sghiyws&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=terazhedi.info#⚡
@@ -453,7 +451,6 @@ vless://204a1b7c-cdef-4f12-ea2c-e52ddcbbaf2f@104.16.1.106:80?encryption=none&sec
 vless://204a1b7c-cdef-4f12-ea2c-e52ddcbbaf2f@104.16.1.106:80?path=🔒
 vless://204d108c-a677-4be0-8bed-bba90345f4f1@vless.cillnet.my.id:443?encryption=none&security=tls&sni=🔒
 vless://2053d74c-2a3b-453b-b665-8e25142a7569@104.21.217.48:443?security=tls&type=ws&path=%2Fassets&host=shiny.revilseptember.workers.dev&alpn=http%2F1.1&sni=Shiny.REvilSeptembEr.WorkErs.dEv&fp=chrome&encryption=none#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:21.67ms
-vless://2053d74c-2a3b-453b-b665-8e25142a7569@104.21.217.48:443?security=tls&type=ws&path=🔒
 vless://2053d74c-2a3b-453b-b665-8e25142a7569@104.21.233.177:443?security=tls&type=ws&path=%2Fassets&host=shiny.revilseptember.workers.dev&alpn=h3&sni=Shiny.REvilSeptembEr.WorkErs.dEv&fp=chrome&encryption=none#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:21.72ms
 vless://2053d74c-2a3b-453b-b665-8e25142a7569@162.159.138.90:443?security=tls&type=ws&path=%2Fassets&host=shiny.revilseptember.workers.dev&alpn=http%2F1.1&sni=Shiny.REvilSeptembEr.WorkErs.dEv&fp=chrome&encryption=none#%3E%3E%40v2ray_configs_pool%3A%3AUS
 vless://2053d74c-2a3b-453b-b665-8e25142a7569@162.159.138.90:443?security=tls&type=ws&path=%2Fassets&host=shiny.revilseptember.workers.dev&alpn=http%2F1.1&sni=Shiny.REvilSeptembEr.WorkErs.dEv&fp=chrome&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%A9%F0%9F%87%AADE%20%F0%9F%A7%AD%202.6MB%2Fs
@@ -498,3 +495,6 @@ vless://20ab7634-8cd2-4a00-9123-a53562ea9c83@91.107.157.157:443?mode=auto&path=%
 vless://20b0fff2-d44e-4198-9649-2194f4adfddf@104.17.26.182:2087?path=🔒
 vless://20b4cb22-6ddf-454d-aee2-d1003c844e0d@162.159.137.232:443/?type=ws&encryption=none&host=hello-world-falling-brook-d33c.celtklex0k.workers.dev&path=%2F%3Fed%3D2048&security=tls&sni=hello-world-falling-brook-d33c.celtklex0k.workers.dev#%40Hope_Net-join-us-on-Telegram
 vless://20b898ac-a156-41ee-be1c-34fa8fc88487@lifestealer.fonixapp.org:2083?security=reality&encryption=none&pbk=ILR40ZmA56RadPtGy0UJmrSPva5Viapz65j-hrS25D8&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=configuration.apple.com&sid=173c58#REALITY|AT🇦🇹
+vless://20b898ac-a156-41ee-be1c-34fa8fc88487@lifestealer.fonixapp.org:2083?security=reality&encryption=none&pbk=ILR40ZmA56RadPtGy0UJmrSPva5Viapz65j-hrS25D8&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=configuration.apple.com&sid=173c58#All--@V2rayAlpha-21
+vless://20b898ac-a156-41ee-be1c-34fa8fc88487@lifestealer.fonixapp.org:2083?security=reality&encryption=none&pbk=ILR40ZmA56RadPtGy0UJmrSPva5Viapz65j-hrS25D8&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=🔒
+vless://20bbb174-f7c3-417a-84b7-0a0a5ffa45c8@104.16.226.51:443/?type=ws&encryption=none&host=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&path=%2F%3Fed%3D2048&security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&alpn=h3%2Ch2&fp=chrome#%40Hope_Net-join-us-on-Telegram

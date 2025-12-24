@@ -1,5 +1,3 @@
-vless://592bac53-90ec-44b5-811b-01f6adf28f41@104.24.140.39:80/?type=ws&encryption=none&host=wild-glade-236b-ppal03.xawego3471.workers.dev
-vless://592bac53-90ec-44b5-811b-01f6adf28f41@104.24.140.39:80/?type=ws&encryption=none&host=wild-glade-236b-ppal03.xawego3471.workers.dev#%40Hope_N...
 vless://592bac53-90ec-44b5-811b-01f6adf28f41@104.24.140.39:80?encryption=none&security=none&type=ws&host=wild-glade-236b-ppal03.xawego3471.workers.dev&path=🔒
 vless://592cb0e6-80ab-49b3-a011-c1eca8f7e04f@freenet.mygoldiran.com:25079?mode=multi&security=reality&encryption=none&pbk=aCbr6BYHwoUfRL5fybv7525-DlOqRa7s3oUSsHal2ng&fp=chrome&spx=/&type=grpc&sni=🔒
 vless://594e62b9-bb88-4264-b3fe-57f66202a96d@148.135.195.96:44356/?type=grpc&encryption=none&flow=&sni=🔒
@@ -498,3 +496,5 @@ vless://5dda3a28-68e7-0afa-626d-d1d6f4ad4f71@cdn1.bazicore.ir:443?security=reali
 vless://5dda3a28-68e7-0afa-626d-d1d6f4ad4f71@cdn1.bazicore.ir:443?security=reality&encryption=none&pbk=AUg2h16X8xP5s7tnkcDuyfX5CBV7WvCoY48OKhbtQyw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒
 vless://5ddce383-048f-4fa1-fc0d-8571224251ed@5.161.22.31:17048?encryption=none&security=none&type=ws&path=🔒
 vless://5de15e2b-9995-43f3-aac9-72c85ffdcb12@2.ariyanln.com:1/?type=tcp&encryption=none
+vless://5de15e2b-9995-43f3-aac9-72c85ffdcb12@2.ariyanln.com:1?security=none&encryption=none&headerType=http&type=tcp
+vless://5de15e2b-9995-43f3-aac9-72c85ffdcb12@2.ariyanln.com:5051?mode=auto&path=🔒

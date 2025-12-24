@@ -1,10 +1,3 @@
-vless://ae5c3071-2f6f-48de-b9b6-858dbd1788b5@65.109.208.147:30652?type=tcp&path=🔒
-vless://ae5c6bbc-8fd7-4930-a972-50758d1da331@91.107.170.231:24070/?type=grpc&serviceName=@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--&authority=&security=reality&pbk=Wkuh9iexXuhWaaFt1saCWk8iGS0h1mEiMtDsmoJSgAk&fp=chrome&sni=🔒
-vless://ae658497-2809-4ecb-86d5-db73867bfa38@188.114.97.7:443?encryption=none&security=tls&sni=🔒
-vless://ae658497-2809-4ecb-86d5-db73867bfa38@188.114.97.7:443?security=tls&type=ws&path=%2FWxedDvrJwCt8Kd1r%3Fed%3D2560&host=9oPprODUcTINCHELloauS9678.rIDic35214.wORkERS.DEv&sni=9oPprODUcTINCHELloauS9678.rIDic35214.wORkERS.DEv&fp=chrome&encryption=none#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:21.86ms
-vless://ae7d51f2-fd15-45d2-a77c-590f23788a52@45.76.140.111:443?mode=auto&path=🔒
-vless://ae9539b5-70dd-41b5-9666-11a29559a840@84.47.233.110:59761?security=none&encryption=none&host=Fast.com&headerType=http&type=tcp
-vless://ae9539b5-70dd-41b5-9666-11a29559a840@84.47.233.110:59761?security=none&encryption=none&host=Fast.com&headerType=http&type=tcp#@CaV2ray
 vless://ae96b87b-bc2c-4133-90a3-1366b1c57d2e@5.223.41.62:48851?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp
 vless://ae9e7dbb-607c-40f1-b84e-479b8658fb92@ir2.servertopia.top:4555?type=tcp&security=none
 vless://ae9f99cf-bfbf-4ed0-9504-64da0f724669@185.113.10.132:8650/?type=xhttp&encryption=none&sni=cloudflare.com&fp=chrome&security=reality&pbk=YWbuHeDHnHpfJMPsAOIJOIeQgzfCK_47CjY7TbWA5hI&sid=354b9cbe48#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40grizzlyvpn%20%5B10%5D
@@ -498,3 +491,10 @@ vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@104.16.95.143:443/?type=ws&encrypti
 vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@104.16.95.143:443/?type=ws&encryption=none&host=bitget1.asdasd.click&path=🔒
 vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@104.24.244.235:2083/?type=ws&encryption=none&host=bitget1.asdasd.click
 vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@104.24.244.235:2083/?type=ws&encryption=none&host=bitget1.asdasd.click#%40Hope_Net-join-us-on-Telegram
+vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@104.24.40.146:8443/?type=ws&encryption=none&host=bitget1.asdasd.click&path=%2F%3Fed%3D2560&security=tls&sni=bitget1.asdasd.click&fp=chrome#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40outline_ir%20%5B19%5D
+vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@104.24.40.146:8443/?type=ws&encryption=none&host=bitget1.asdasd.click&path=🔒
+vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@104.24.40.146:8443?encryption=none&security=tls&sni=🔒
+vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@104.24.40.146:8443?path=🔒
+vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@104.24.79.131:2096/?type=ws&encryption=none&host=bitget1.asdasd.click
+vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@104.24.79.131:2096/?type=ws&encryption=none&host=bitget1.asdasd.click#%40Hope_Net-join-us-on-Telegram
+vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@108.162.198.3:8880/?type=ws&encryption=none&host=bitget1.asdasd.click&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#%E2%98%9477%40oneclickvpnkeys
