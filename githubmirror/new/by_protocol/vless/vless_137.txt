@@ -1,3 +1,7 @@
+vless://4981b98f-4943-4083-83aa-00b028f57a18@57.129.92.155:36626/?type=grpc&encryption=none&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40proxycrone%20%5B6%5D
+vless://f342dad4-457e-45dd-8acd-56441fc55fa5@217.60.244.234:8085/?encryption=none&host=telewebion.com&type=tcp&headerType=http#%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40pusyvpn%20%5B8%5D
+vless://65115d6d-7c5b-45e5-929f-f50a86138f51@gr1.asc-sam.ir:80/?type=ws&encryption=none&host=gr1.asc-sam.ir&path=%2Fswgsth#%E2%9D%94%20XX%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40pusyvpn%20%5B9%5D
+vless://80baf990-a5c9-4755-899b-f7ca88c2def2@5.202.12.211:8097/?type=tcp&encryption=none#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40pusyvpn%20%5B10%5D
 vless://6ddb0deb-2c1c-47ce-c2fe-85a30253093a@de.melobigg.site:2083/?type=grpc&encryption=none&security=tls&sni=de.melobigg.site&alpn=h2%2Chttp%2F1.1&fp=chrome#%E2%9D%94%20XX%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40red2ray%20%5B13%5D
 vless://56733cf9-f08d-43d9-8157-8e8ddbd0c06f@freeiranwebvip.ddns.net:80/?type=ws&encryption=none&host=v20.smartyticket.click&path=%2Fgraphql#%E2%9D%94%20XX%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40red2ray%20%5B14%5D
 vless://2917d821-9327-4c76-bf7f-1b7857b38811@dash.svgspeedtest.net:7852/?type=tcp&encryption=none&sni=www.speedtest.net&fp=random&security=reality&pbk=rBXjuQ9eGNAUtELw1KFOMH7Aq0Q2t3RqcbdPcddYyTk&sid=69#%E2%9D%94%20XX%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40savagenet%20%5B1%5D
@@ -494,7 +498,3 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.94:8880?mode=gun&securit
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.159:8880?mode=gun&security=none&encryption=none&type=grpc#@V2rayNG3
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.94:8880?mode=gun&security=none&encryption=none&type=grpc#@V2rayNG3
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.105:8880?mode=gun&security=none&encryption=none&type=grpc#@V2rayNG3
-vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.94:80?mode=gun&security=none&encryption=none&type=grpc#@V2rayNG3
-vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.20:80?mode=gun&security=none&encryption=none&type=grpc#@V2rayNG3
-vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.100:80?mode=gun&security=none&encryption=none&type=grpc#@V2rayNG3
-vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.98:80?mode=gun&security=none&encryption=none&type=grpc#@V2rayNG3
