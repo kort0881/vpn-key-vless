@@ -1,3 +1,4 @@
+vless://7390a77d-455c-42f2-8ce8-cd18a44814e5@tnl36.radvinmax.ir:8764?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tnl36-777
 vless://75414c7e-4629-4d50-b61d-d4a4e54cff9a@tnl36.radvinmax.ir:8764?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tnl36-778
 vless://25e63b32-d430-4787-b8b0-41b16b4abae5@tnl36.radvinmax.ir:8764?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tnl36-779
 vless://1b8326fc-5624-4b65-9e5a-892d1af8278e@tnl36.radvinmax.ir:8764?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tnl36-780
@@ -497,4 +498,3 @@ vless://c74994ef-b0f6-4a09-a923-a34a295c5b4b@tnl39.vipradvin.ir:8220?encryption=
 vless://4ca5583d-c326-4047-8465-5d30fd7c978b@tnl39.vipradvin.ir:8220?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tnl39-1274
 vless://fdba6fcb-439b-4a31-9341-c585d7d11991@tnl39.vipradvin.ir:8220?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tnl39-1275
 vless://23198251-6acb-4c52-8144-7259c9a07507@tnl39.vipradvin.ir:8220?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tnl39-1276
-vless://695dd599-041a-4f89-9f3a-df4c2af94b92@tnl39.vipradvin.ir:8220?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tnl39-1277
