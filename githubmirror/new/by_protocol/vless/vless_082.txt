@@ -1,8 +1,3 @@
-vless://564111c5-1ab5-4707-9a46-5f8203f2cd23@tnl37.radvinmax.ir:8765?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tnl37-985
-vless://f7d1785b-0501-4a07-8f5f-349054d5a4ae@tnl37.radvinmax.ir:8765?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tnl37-986
-vless://d5d1517e-11bb-4681-ad81-36eb733e1b55@tnl37.radvinmax.ir:8765?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tnl37-987
-vless://bd79bf14-ee5a-4dce-b05f-825119b6a3ab@tnl37.radvinmax.ir:8765?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tnl37-988
-vless://34d65c40-8a47-4a6a-a515-a05bd3941258@tnl37.radvinmax.ir:8765?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tnl37-989
 vless://66769bd7-fd0e-4606-9c63-ef45e6ae4e54@tnl37.radvinmax.ir:8765?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tnl37-990
 vless://2712707c-0246-407f-b3a6-150fe625cbd9@tnl37.radvinmax.ir:8765?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tnl37-991
 vless://b459d2e6-6a38-4f7f-909c-5adbe0723999@tnl37.radvinmax.ir:8765?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tnl37-992
@@ -498,3 +493,8 @@ vless://bfb7355f-da10-470c-99d2-16c5061c403a@152.42.185.230:23675?encryption=non
 vless://bfb7355f-da10-470c-99d2-16c5061c403a@152.42.185.230:23675?encryption=none&type=ws&host=m.zoom.us&path=%2fFREE+By+Tharuwa+(0767597317)#%f0%9f%87%b8%f0%9f%87%ac%20SG%202
 vless://e80f6880-f525-48a2-9d3f-faea2cd7c967@81.200.146.76:41770?encryption=none&path=%2f#%f0%9f%87%b7%f0%9f%87%ba%20RU%202
 vless://e80f6880-f525-48a2-9d3f-faea2cd7c967@81.200.146.76:41770?path=%2f#%f0%9f%87%b7%f0%9f%87%ba%20RU%203
+vless://7b148add-4438-426e-a583-50f11e7bd0e4@91.107.244.15:443?encryption=none&security=none&type=grpc&mode=gun#[openproxylist.com] vless-DE
+vless://fa-8488088495-1766513922045174@62.3.12.221:443?security=reality&encryption=none&pbk=2rjzbqQ49m-jpfzhiuBNb8Izwwjw0dIg5JAKdv-B2kE&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=steampowered.com&sid=d1d42381ba35#[openproxylist.com] vless-TR
+vless://f228db24-3602-4dd2-bdec-2d7faa61e70b@72.56.92.27:4443?security=reality&encryption=none&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=github.com&sid=aa7e96542880027a#[openproxylist.com] vless-NL
+vless://f228db24-3602-4dd2-bdec-2d7faa61e70b@195.78.49.158:4443?security=reality&encryption=none&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=github.com&sid=aa7e96542880027a#[openproxylist.com] vless-JP
+vless://98cb33a8-d6f7-41f0-8796-e4b471d65df8@144.31.5.179:443?path=%2F&security=none&encryption=none&type=ws#[openproxylist.com] vless-PL
