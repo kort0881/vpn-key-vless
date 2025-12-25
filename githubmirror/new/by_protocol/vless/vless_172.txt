@@ -1,4 +1,3 @@
-vless://22f453f0-1e05-4ba0-a0a8-1dad457b7c37@85.9.207.84:39352?security=reality&encryption=none&pbk=bqBZxwknIQGVNxvW6agjANLI6jdKG8jgIJ6cLKBbjns&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒
 vless://22f453f0-1e05-4ba0-a0a8-1dad457b7c37@traxex.fonixapp.org:39352/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒
 vless://22f453f0-1e05-4ba0-a0a8-1dad457b7c37@traxex.fonixapp.org:39352?security=reality&encryption=none&pbk=bqBZxwknIQGVNxvW6agjANLI6jdKG8jgIJ6cLKBbjns&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒
 vless://22facc17-dda1-4000-9b45-b56fee01ae6d@91.107.144.71:54250?security=reality&encryption=none&pbk=hqFjJmgoV9E8zs3YIpiOFOljQjYuskuJuWF3mzkBzh0&headerType=none&fp=chrome&spx=/&type=tcp&sni=refersion.com&sid=ce8a4a0afd73a293#@CaV2ray
@@ -498,3 +497,4 @@ vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@180.149.44.70:4655?encryption=none&
 vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@180.149.44.70:4655?encryption=none&security=none&type=tcp&headerType=none&note=@freeOnlineVPN
 vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@180.149.44.70:4655?encryption=none&security=none&type=tcp&headerType=none&note=@freeOnlineVPN#🇦🇿
 vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@180.149.44.70:4655?security=&encryption=none&headerType=none&type=tcp#%F0%9F%A7%91%E2%80%8D%F0%9F%8E%8479%40ConfigV2RayNG
+vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@180.149.44.70:4655?security=none&encryption=none&headerType=none&type=tcp

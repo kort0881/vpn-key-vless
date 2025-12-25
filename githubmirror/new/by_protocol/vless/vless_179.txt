@@ -1,4 +1,3 @@
-vless://3b49818a-b6f2-499d-9a22-5742bead0e00@f.paliss.ir:2525?security=none&encryption=none&host=f.paliss.ir&headerType=none&type=tcp
 vless://3b4d1c7f-4fd7-45bb-9251-79cd53a3e006@185.234.59.74:8443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&spx=/telegram
 vless://3b4d1c7f-4fd7-45bb-9251-79cd53a3e006@185.234.59.89:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒
 vless://3b4d1c7f-4fd7-45bb-9251-79cd53a3e006@95.154.237.116:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&fp=chrome&security=reality&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=8453e5fd9af927#REALITY|GB🇬🇧
@@ -498,3 +497,4 @@ vless://401374e6-df77-41fb-f638-dad8184f175b@141.193.213.214:443/?type=grpc&encr
 vless://401374e6-df77-41fb-f638-dad8184f175b@141.193.213.214:443/?type=grpc&encryption=none&security=tls&sni=🔒
 vless://401374e6-df77-41fb-f638-dad8184f175b@141.193.213.214:443?security=tls&sni=🔒
 vless://401374e6-df77-41fb-f638-dad8184f175b@154.197.64.43:443?security=tls&sni=pqh24v3.hiddendom.shop&type=grpc&host=pqh24v3.hiddendom.shop&alpn=h2#RELAY🚩
+vless://401374e6-df77-41fb-f638-dad8184f175b@154.211.8.100:443/?type=grpc&encryption=none&security=tls&sni=pqh44v2.hiddendom.shop&alpn=h2#%F0%9F%8C%8D41%40oneclickvpnkeys

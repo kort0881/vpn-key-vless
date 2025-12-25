@@ -1,4 +1,3 @@
-vless://70223017-0be8-4009-900a-0c44b58f1908@104.18.26.90:80?path=🔒
 vless://7028cb85-9611-4876-bb19-e15fa050b253@172.234.31.253:2321?security=none&encryption=none&headerType=none&type=tcp
 vless://7031e57a-80e6-404e-b723-7c8bd4788030@ecobrg.drinfoo.com:4443?security=tls&sni=🔒
 vless://704198c4-37b9-473d-a5de-0333276f2f6c@104.17.147.22:2053?path=/Telegram@V2ray_Alpha/?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=mahsa2.cfform.site&fp=chrome&type=ws&sni=maHsA2.cFFoRM.sIte#@CaV2ray
@@ -498,3 +497,4 @@ vless://742079d9-e7aa-4205-ae0f-bd3a94ecac18@bmi.raheaiande.ir:1001?security=rea
 vless://7421d7d3-b903-4c06-970b-879cc81dd212@172.66.40.99:8080?path=🔒
 vless://74276b6a-b5bb-47a1-ab5e-c67ae7866bb4@speedtest.net:80?type=xhttp&host=kiosyour-name.global.ssl.fastly.net&path=🔒
 vless://743ef7fc-576a-4a74-857f-ba4a841e6836@104.16.142.237:443/?type=ws&encryption=none&host=App.einetwork.news&path=Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray&security=tls&sni=App.einetwork.news&alpn=h3%2Ch2%2Chttp%2F1.1&fp=random#%40Hope_Net-join-us-on-Telegram
+vless://743ef7fc-576a-4a74-857f-ba4a841e6836@104.16.142.237:443/?type=ws&encryption=none&host=App.einetwork.news&path=🔒

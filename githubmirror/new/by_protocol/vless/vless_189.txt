@@ -1,4 +1,3 @@
-vless://583ceab3-4022-4553-9158-9bedc625ad4e@89.116.180.186:8880?allowInsecure=0&sni=🔒
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@89.116.180.186:8880?encryption=none&security=none&sni=🔒
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@89.117.112.186:8880?allowInsecure=0&sni=🔒
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@92.243.75.186:8880?allowInsecure=0&sni=🔒
@@ -498,3 +497,4 @@ vless://5c929ec5-5b1e-447a-950c-354c5d1ba1de@informed-location.seotoolsforyou.co
 vless://5c929ec5-5b1e-447a-950c-354c5d1ba1de@informed-location.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#💎کانفیگ
 vless://5c929ec5-5b1e-447a-950c-354c5d1ba1de@informed-location.seotoolsforyou.co.uk:80?path=🔒
 vless://5c929ec5-5b1e-447a-950c-354c5d1ba1de@informed-location.seotoolsforyou.co.uk:80?security=none&type=ws&path=🔒
+vless://5c9b6087-f955-4506-9c1d-67a5aae44bc9@fr-raiv2mmr-telegram.koyeb.app:443?mode=gun&security=tls&alpn=h3&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=Join-bede-Raiv2mmr&allowInsecure=0

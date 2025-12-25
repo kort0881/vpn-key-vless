@@ -1,4 +1,3 @@
-vless://7ff23c33-a3b7-4a24-93fd-2d3dcbfa62b1@104.16.1.106:80?type=ws&path=🔒
 vless://7ff264b2-bccb-4ed5-8c8b-d3e95ce0f8aa@uuk1v.tok8888.com:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=🔒
 vless://7ff264b2-bccb-4ed5-8c8b-d3e95ce0f8aa@uuk2v.tok8888.com:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=🔒
 vless://7ff264b2-bccb-4ed5-8c8b-d3e95ce0f8aa@uuk3v.tok8888.com:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=🔒
@@ -498,3 +497,4 @@ vless://83e111a3-ab2f-48f0-8bcc-93772bd3cafe@209.38.206.8:52711?mode=gun&securit
 vless://83e111a3-ab2f-48f0-8bcc-93772bd3cafe@209.38.206.8:52711?mode=gun&security=&encryption=none&type=grpc&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇩🇪]t.me/Raiv2mmr
 vless://83e1425c-7bf0-4d10-9296-40901f29f35d@gr.dnszone.top:45500?security=&encryption=none&headerType=none&type=tcp
 vless://83e1425c-7bf0-4d10-9296-40901f29f35d@gr.dnszone.top:45500?security=none&encryption=none&type=tcp&headerType=none
+vless://83e1425c-7bf0-4d10-9296-40901f29f35d@nl.dnszone.top:45500?security=&encryption=none&headerType=none&type=tcp
