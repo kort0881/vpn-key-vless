@@ -1,3 +1,11 @@
+vless://11402c34-7f90-485f-a218-ade69f314f49@store-static-portal.cyberscaler.net:10082?encryption=none&security=none&type=tcp&headerType=http&host=cdnjs.cloudflare.com
+vless://11402c34-7f90-485f-a218-ade69f314f49@store-static-portal.cyberscaler.net:10082?security=none&encryption=none&host=cdnjs.cloudflare.com&headerType=http&fp=chrome&type=tcp
+vless://11402c34-7f90-485f-a218-ade69f314f49@store-static-portal.cyberscaler.net:10082?security=none&encryption=none&host=cdnjs.cloudflare.com&headerType=http&type=tcp
+vless://11402e88-8bd9-4411-b4f1-a15cd038cb4a@87.107.10.58:2082?path=🔒
+vless://11477d69-3d17-427d-b36c-166443952090@151.101.205.194:80?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=&encryption=none&extra={
+vless://11477d69-3d17-427d-b36c-166443952090@151.101.205.194:80?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=none&encryption=none&host=fotofactory.pk&extra={
+vless://11477d69-3d17-427d-b36c-166443952090@151.101.205.194:80?path=🔒
+vless://114ad614-fe6c-4422-b0af-be6161190d7a@104.21.61.154:443/?type=ws&encryption=none&host=ddfr.191266.xyz&path=%2FC1SukvGdr58yeduy9AOG&security=tls&sni=ddFR.191266.XYZ&alpn=http%2F1.1&fp=chrome#%40Hope_Net-join-us-on-Telegram
 vless://114ad614-fe6c-4422-b0af-be6161190d7a@104.21.61.154:443/?type=ws&encryption=none&host=ddfr.191266.xyz&path=🔒
 vless://115910dc-ca39-466c-df5c-6b78b68d37d0@www.speedtest.net:2086?path=🔒
 vless://115e0e05-2820-4ae9-bf62-4142ce058574@m63a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp
@@ -490,11 +498,3 @@ vless://15fad364-7af6-4403-9a7c-24c7201646ff@172.67.207.27:443/?type=ws&encrypti
 vless://15fad364-7af6-4403-9a7c-24c7201646ff@dddddddddddddddfff.taipei108.dpdns.org:443/?type=ws&encryption=none&host=dddddddddddddddfff.taipei108.dpdns.org&path=%2FISk6mbFfXf0Pa9zB9hTi5E8d&security=tls&sni=ddDDDdDDDddddDDFfF.taipEi108.DPDNS.Org&alpn=http%2F1.1&fp=chrome#22%E2%8F%B0%40oneclickvpnkeys
 vless://160a7b5d-fd67-4e83-8d8e-73dcfb6d91c2@109.107.159.189:11133?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=cloudtalk.io&pbk=y3umRzGnap4t5V4C_rlt870Rku-TG4F8ttsq-_5gKTY&sid=d3e9&spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#🇬🇧
 vless://160a7b5d-fd67-4e83-8d8e-73dcfb6d91c2@109.107.159.189:11133?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=🔒
-vless://160cc7e4-1e01-44e8-78fd-b162fbb1c83e@record.persianmizban.com:443?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=1&host=lgoin.persianmizban.com&fp=chrome&type=ws&allowInsecure=1&sni=lgoin.persianmizban.com#🇫🇷AZARBAYJAB1
-vless://160cc7e4-1e01-44e8-78fd-b162fbb1c83e@record.persianmizban.com:443?path=🔒
-vless://160e8ffb-1f51-4a9f-a5d8-fd89c7ab1e6f@151.101.3.8:80?type=ws&host=befreewithus.net&path=🔒
-vless://161759ca-b233-4a42-a8ff-39a61376ecea@162.159.62.69:443/?type=ws&encryption=none&host=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&path=%2F%3Fed%3D2048&security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&alpn=h3%2Ch2&fp=chrome#%40Hope_Net-join-us-on-Telegram
-vless://161759ca-b233-4a42-a8ff-39a61376ecea@162.159.62.69:443/?type=ws&encryption=none&host=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&path=🔒
-vless://1618024f-7ee0-4355-bdfc-ac49f7ae66a8@172.67.65.158:2087?path=🔒
-vless://1618024f-7ee0-4355-bdfc-ac49f7ae66a8@zula.ir:2087?path=🔒
-vless://161f6b0b-47c3-487e-bffd-90b74fb67539@104.21.48.84:8443?security=tls&sni=🔒

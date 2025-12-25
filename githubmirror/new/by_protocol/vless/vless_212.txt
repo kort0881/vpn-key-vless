@@ -1,3 +1,9 @@
+vless://ae9f99cf-bfbf-4ed0-9504-64da0f724669@185.113.10.132:8650/?type=xhttp&encryption=none&sni=cloudflare.com&fp=chrome&security=reality&pbk=YWbuHeDHnHpfJMPsAOIJOIeQgzfCK_47CjY7TbWA5hI&sid=354b9cbe48#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40grizzlyvpn%20%5B10%5D
+vless://ae9f99cf-bfbf-4ed0-9504-64da0f724669@185.113.10.132:8650?encryption=none&security=reality&sni=cloudflare.com&fp=chrome&pbk=YWbuHeDHnHpfJMPsAOIJOIeQgzfCK_47CjY7TbWA5hI&sid=354b9cbe48&spx=%2F&type=xhttp&path=%2F&mode=auto#%40grizzlyVPn
+vless://ae9f99cf-bfbf-4ed0-9504-64da0f724669@185.113.10.132:8650?encryption=none&security=reality&sni=cloudflare.com&fp=chrome&pbk=YWbuHeDHnHpfJMPsAOIJOIeQgzfCK_47CjY7TbWA5hI&sid=354b9cbe48&spx=%2F&type=xhttp&path=%2F&mode=auto#%E2%9D%94%20XX%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40grizzlyvpn%20%5B8%5D
+vless://ae9f99cf-bfbf-4ed0-9504-64da0f724669@185.113.10.132:8650?encryption=none&security=reality&sni=🔒
+vless://ae9f99cf-bfbf-4ed0-9504-64da0f724669@185.113.10.132:8650?mode=auto&path=/&security=reality&encryption=none&pbk=YWbuHeDHnHpfJMPsAOIJOIeQgzfCK_47CjY7TbWA5hI&fp=chrome&spx=/&type=xhttp&sni=cloudflare.com&sid=354b9cbe48#🇩🇪
+vless://ae9f99cf-bfbf-4ed0-9504-64da0f724669@185.113.10.132:8650?mode=auto&path=🔒
 vless://aea17401-0505-4cac-b330-d7fcecfa63b7@46.226.162.144:443?mode=gun&security=reality&encryption=none&pbk=yCVJx0wmxNCquTou_VefSTUXBJ1gMBJyOcNViF1BVXw&fp=chrome&spx=/&type=grpc&serviceName=Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs&sni=🔒
 vless://aea2c185-aca0-4259-b6d8-4840f7aff9a3@213.142.156.56:4444?security=reality&encryption=none&pbk=5if9NWaLaNEfwV9GuafHuas8q3wrxtsgf_-eInEOaSA&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&type=tcp&sni=store.steampowered.com&sid=7cb7ad2e83f550a0#🇹🇷
 vless://aea2c185-aca0-4259-b6d8-4840f7aff9a3@213.142.156.56:4444?security=reality&encryption=none&pbk=5if9NWaLaNEfwV9GuafHuas8q3wrxtsgf_-eInEOaSA&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&type=tcp&sni=🔒
@@ -492,9 +498,3 @@ vless://b5363ae9-9ed8-47d7-bd95-b2c83acc1f8f@95.111.208.215:24401/?type=tcp&encr
 vless://b5363ae9-9ed8-47d7-bd95-b2c83acc1f8f@abaddon.fonixapp.org:24401/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒
 vless://b5363ae9-9ed8-47d7-bd95-b2c83acc1f8f@abaddon.fonixapp.org:24401?security=reality&encryption=none&pbk=6Tayhy99MQpr2AvgmdiqHAzd7Z0F9F6Qj-eZN2FRsjU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=steampowered.com&sid=6d3e7476fd#@AZARBAYJAB1🇦🇹
 vless://b5363ae9-9ed8-47d7-bd95-b2c83acc1f8f@abaddon.fonixapp.org:24401?security=reality&encryption=none&pbk=6Tayhy99MQpr2AvgmdiqHAzd7Z0F9F6Qj-eZN2FRsjU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒
-vless://b53db615-5eb7-4d77-84dd-6c401b1a61a8@www.speedtest.net:2095?path=🔒
-vless://b53db615-5eb7-4d77-84dd-6c401b1a61a8@www.speedtest.net:2095?type=httpupgrade&path=🔒
-vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@103.116.7.3:8880/?type=ws&encryption=none&host=bitget1.asdasd.click&path=%2FTelegramU0001F1E8U0001F1F3#13%F0%9F%8D%AA%40oneclickvpnkeys
-vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@103.116.7.3:8880/?type=ws&encryption=none&host=bitget1.asdasd.click&path=🔒
-vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@104.16.26.37:2083/?type=ws&encryption=none&host=bitget1.asdasd.click
-vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@104.16.26.37:2083/?type=ws&encryption=none&host=bitget1.asdasd.click#%40Hope_Net-join-us-on...

@@ -1,3 +1,10 @@
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@77.91.101.201:443?path=🔒
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@77.91.101.228:443?path=🔒
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@77.91.103.216:2082?security=none&encryption=none&type=ws
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@77.91.103.216:8443?path=/&security=tls&encryption=none&type=ws#@v2ray_configs_pools👈⚡❤️‍🔥
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@77.91.103.216:8443?path=🔒
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@91.228.10.202:2052?path=🔒
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@91.228.10.202:2096?encryption=none&security=tls&allowInsecure=1&type=ws&path=🔒
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@91.228.10.202:2096?path=/&security=tls&encryption=none&type=ws#➪+@FILTERK0SH++منبع+کانفیگ+رایگان
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@91.228.10.202:2096?path=🔒
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@91.228.10.202:443?path=🔒
@@ -491,10 +498,3 @@ vless://Parsashonam-295@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=no
 vless://Parsashonam-296-Bot@91.99.16.244:443?mode=auto&path=🔒
 vless://Parsashonam-296-Bot@91.99.16.244:443?type=xhttp&mode=auto&path=🔒
 vless://Parsashonam-296@185.146.173.39:8880?path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056&security=none&encryption=none&host=De.Parsashonam.CfD.&type=httpupgrade#💎کانفیگ
-vless://Parsashonam-296@185.146.173.39:8880?path=🔒
-vless://Parsashonam-296@185.146.173.39:8880?type=httpupgrade&host=De.Parsashonam.CfD.&path=🔒
-vless://Parsashonam-296@185.146.173.39:8880?type=httpupgrade&path=🔒
-vless://Parsashonam-296@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp
-vless://Parsashonam-296@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&host=TELEGRA&headerType=none&type=tcp
-vless://Parsashonam-297@91.99.16.244:443?mode=auto&path=🔒
-vless://Parsashonam-297@91.99.16.244:443?type=xhttp&mode=auto&path=🔒
