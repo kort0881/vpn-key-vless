@@ -1,3 +1,4 @@
+vless://287c86b0-600f-4bcd-83b0-04f988de89fd@test.fast.hosting-ip.com:80?mode=auto&path=🔒
 vless://288124da-0d68-42f4-9f48-70dc4dcc55a6@104.21.21.190:443?security=tls&sni=XCVFgT6.890606.XYz&type=ws&host=xcvfgt6.890606.xyz&path=%2Fe49RZLgIb0TdfgF5HdHEIupMZeK&fp=chrome&alpn=http%2F1.1#RELAY🚩
 vless://288124da-0d68-42f4-9f48-70dc4dcc55a6@104.21.77.79:443/?type=grpc&encryption=none&serviceName=e49RZLgIb0TdfgFO6JLn303d&security=tls&sni=xcdvfGT67.986986.SHop&alpn=h2&fp=chrome&packetEncoding=xudp#%F0%9F%A9%B422%40oneclickvpnkeys
 vless://288124da-0d68-42f4-9f48-70dc4dcc55a6@104.21.77.79:443/?type=grpc&encryption=none&serviceName=e49RZLgIb0TdfgFO6JLn303d&security=tls&sni=🔒
@@ -497,4 +498,3 @@ vless://2b7ff221-0ea2-4474-ab4e-686e6a11dc65@fra.germany-14.com:2087?encryption=
 vless://2b7ff221-0ea2-4474-ab4e-686e6a11dc65@fra.germany-14.com:2087?encryption=none&type=tcp&headerType=none&security=reality&fp=firefox&sni=tgju.org&pbk=p8D0V1jYr98lK4kU8FlBYfQ1kMO6zgIx5qI_p5dr_Bc&sid=6ba85179e30d4fc2#REALITY|FR🇫🇷
 vless://2b7ff221-0ea2-4474-ab4e-686e6a11dc65@fra.germany-14.com:2087?security=reality&encryption=none&pbk=p8D0V1jYr98lK4kU8FlBYfQ1kMO6zgIx5qI_p5dr_Bc&headerType=none&fp=firefox&type=tcp&sni=tgju.org&sid=6ba85179e30d4fc2
 vless://2b7ff221-0ea2-4474-ab4e-686e6a11dc65@fra.germany-14.com:2087?security=reality&encryption=none&pbk=p8D0V1jYr98lK4kU8FlBYfQ1kMO6zgIx5qI_p5dr_Bc&headerType=none&fp=firefox&type=tcp&sni=tgju.org&sid=6ba85179e30d4fc2#REALITY|FR🇫🇷
-vless://2b7ff221-0ea2-4474-ab4e-686e6a11dc65@fra.germany-14.com:2087?security=reality&encryption=none&pbk=p8D0V1jYr98lK4kU8FlBYfQ1kMO6zgIx5qI_p5dr_Bc&headerType=none&fp=firefox&type=tcp&sni=tgju.org&sid=6ba85179e30d4fc2#S1

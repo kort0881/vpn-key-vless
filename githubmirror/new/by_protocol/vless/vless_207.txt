@@ -1,5 +1,3 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.111.80:8880?mode=gun&security=none&encryption=none&authority=B_&type=grpc#𝗝𝗼𝗶𝗻
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.111.80:8880?mode=gun&security=none&encryption=none&authority=telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray&type=grpc
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.111.80:8880?mode=gun&security=none&encryption=none&authority=telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray&type=grpc#telegram
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@5.199.169.208:8880?mode=gun&security=none&encryption=none&type=grpc#%40v2raying
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@5.199.169.208:8880?mode=gun&security=none&encryption=none&type=grpc#%D8%AE%D8%B1%DB%8C%D8%AF%20%40Orange_support
@@ -498,3 +496,5 @@ vless://df5fc3f7-6b01-489a-a73c-e1297b14a3dd@at.monkeyisland.life:443?security=r
 vless://df5fc3f7-6b01-489a-a73c-e1297b14a3dd@de.monkeyisland.life:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒
 vless://df649309-e4bd-4285-a211-8220b946f413@45.142.189.71:443?security=none&encryption=none&headerType=none&type=tcp
 vless://df73212d-0481-4528-89eb-6aa322d05e50@panel-feri2.todecentral.info:38495?security=none&encryption=none&headerType=none&type=tcp
+vless://df73212d-0481-4528-89eb-6aa322d05e50@panel-feri2.todecentral.info:38495?security=none&encryption=none&headerType=none&type=tcp#@CaV2ray
+vless://df76895d-bc38-4465-b7ce-64f5cd4ede3f@lii.bliscorp.org:30849?encryption=none&type=tcp&headerType=http&host=JouRNaloFbIgdATA.SpRinGeropEn.coM.&security=none

@@ -431,6 +431,8 @@ vless://ff960237-57c7-4f59-a8ef-b48e4beaca45@141.101.113.76:443/?type=ws&encrypt
 vless://ff960237-57c7-4f59-a8ef-b48e4beaca45@141.101.113.76:443/?type=ws&encryption=none&host=MtnIrancellNamavaAparatir.kooH75.Ir&path=🔒
 vless://ffa91a11-a58a-4d7d-a8a1-9692efeeddd2@104.19.122.202:80?path=/@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast?ed=2048&security=&encryption=none&host=ma.nanvrfood.ir&type=httpupgrade#telegram
 vless://ffa91a11-a58a-4d7d-a8a1-9692efeeddd2@104.19.122.202:80?path=🔒
+vless://ffaab2f1-8d78-441a-b910-e8127dd3edb2@51.250.28.71:443?security=&encryption=none&headerType=none&type=tcp
+vless://ffaab2f1-8d78-441a-b910-e8127dd3edb2@51.250.28.71:443?security=&encryption=none&headerType=none&type=tcp#🇷🇺[openproxylist.com]
 vless://ffaab2f1-8d78-441a-b910-e8127dd3edb2@51.250.28.71:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB%20%DA%A9
 vless://ffaab2f1-8d78-441a-b910-e8127dd3edb2@51.250.28.71:443?security=none&encryption=none&headerType=none&type=tcp#👉🆔@v2ray_configs_pool📡🇷🇺®️Russia©️Moscow🅿️ping:48.71ms
 vless://ffb33365-b1e1-4e9d-bd2b-e8a726d89f40@Www.speedtest.net:2095?type=httpupgrade&host=Fi1.vipmehspd.ir.&path=🔒
@@ -496,5 +498,3 @@ vless://id7396444759@103.231.75.115:443/?type=tcp&encryption=none&flow=xtls-rprx
 vless://id7890941744@s1.nodu10.ru:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=🔒
 vless://id7890941744@s1.nodu10.ru:443?security=reality&encryption=none&pbk=wOSxr467-m4ivlNk1m10wf6k4LDqO2bAkN0SEoC0tCA&headerType=none&fp=chrome&spx=/fkyL1Kbt3DKCrFw&type=tcp&flow=xtls-rprx-vision&sni=🔒
 vless://id7890941744@s4.nodu8.ru:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=🔒
-vless://id7890941744@s5.nodu10.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=trendyol.com&fp=chrome&security=reality&pbk=oncHA5R446UW_VbO6t2jRllAI4iLFbpvOvi1ndZ-Mys&sid=d7f1beae#%F0%9F%9A%9C95%40oneclickvpnkeys
-vless://id7890941744@s5.nodu10.ru:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=🔒

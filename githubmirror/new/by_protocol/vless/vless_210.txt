@@ -1,5 +1,3 @@
-vless://e5a6e242-6434-4d9b-fed1-03da3ffcf134@clyde.ns.cloudflare.com:8080?mode=auto&path=🔒
-vless://e5af0826-5957-4a53-9d3f-20e6ddc12710@151.101.3.8:80?type=ws&host=befreewithus.net&path=🔒
 vless://e5b7d16e-fa74-400a-9a7f-d8e051670508@91.107.130.44:24070/?type=grpc&serviceName=@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--&authority=&security=reality&pbk=Wkuh9iexXuhWaaFt1saCWk8iGS0h1mEiMtDsmoJSgAk&fp=chrome&sni=🔒
 vless://e5badc02-f58f-46dd-8955-0fad475c82bb@Evay-vpn.octacityroleplay.ir:1122?encryption=none&type=xhttp&host=join-bede-evay_vpn.org&path=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=reality&fp=chrome&sni=www.slideshare.net&pbk=4iCkO1B_tdvJY7x_v9izvkoNDfdGIFiL2LQX2Nqv5RI&sid=4c7b0ea36fc7f0c4#🇩🇪
 vless://e5badc02-f58f-46dd-8955-0fad475c82bb@Evay-vpn.octacityroleplay.ir:1122?encryption=none&type=xhttp&host=join-bede-evay_vpn.org&path=🔒
@@ -47,15 +45,17 @@ vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.218.3.9:443?path=/hormoz&securi
 vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.218.3.9:443?path=🔒
 vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.235.241.117:443/?type=ws&encryption=none&flow=&path=/hormoz&security=tls&sni=m.vk.com&allowInsecure=1#🎲62@oneclickvpnkeys
 vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.235.241.117:443/?type=ws&encryption=none&flow=&path=🔒
+vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.235.241.117:443?path=%2Fhormoz&security=tls&encryption=none&insecure=1&host=&type=ws&allowInsecure=1#🇩🇪[openproxylist.com]
 vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.235.241.117:443?path=/hormoz&security=tls&encryption=none&insecure=1&host=&type=ws&allowInsecure=1#[🇩🇪]t.me/ConfigsHub
 vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.235.241.117:443?path=/hormoz&security=tls&encryption=none&type=ws#𝗝𝗼𝗶𝗻
 vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.235.241.117:443?path=🔒
 vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.235.241.122:443?encryption=none&security=tls&allowInsecure=true&type=ws&path=%2Fhormoz&packetEncoding=xudp#MD🇲🇩
 vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.235.241.122:443?encryption=none&security=tls&allowInsecure=true&type=ws&path=/hormoz&packetEncoding=xudp#https://t.me/ShadowsocksM33
+vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.235.241.122:443?encryption=none&security=tls&allowInsecure=true&type=ws&path=/hormoz&packetEncoding=xudp#🇩🇪[openproxylist.com]
+vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.235.241.122:443?encryption=none&security=tls&allowInsecure=true&type=ws&path=🔒
 vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.235.241.122:443?path=%2Fhormoz&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1#MD🇲🇩
 vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.235.241.122:443?path=%2Fhormoz&security=tls&encryption=none&type=ws#%40V2RAY_VMESS_free
 vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.235.241.122:443?path=%2Fhormoz&security=tls&encryption=none&type=ws#MD🇲🇩
-vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.235.241.122:443?path=%2Fhormoz&security=tls&encryption=none&type=ws#🇩🇪[openproxylist.com]
 vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.235.241.122:443?path=/hormoz&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1#@Daily_Configs
 vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.235.241.122:443?path=/hormoz&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1#Channel
 vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.235.241.122:443?path=🔒

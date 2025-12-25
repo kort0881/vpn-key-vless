@@ -1,5 +1,3 @@
-vless://d5fed423-6123-42eb-b54f-444cda69fdfb@213.176.0.80:222?security=none&encryption=none&host=telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray&headerType=http&type=tcp
-vless://d5fed423-6123-42eb-b54f-444cda69fdfb@213.176.0.80:222?security=none&encryption=none&host=telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray&headerType=http&type=tcp#telegram
 vless://d603cba7-4ec4-4744-a1df-1fcbec323066@104.26.12.54:2083/?type=ws&encryption=none&host=germanhp.pages.dev&path=%2FqqNNQTl6DJ5lIGLb%2FMy4xMjYuMTU5LjEy&security=tls&sni=GERmAnHp.PAgES.dEv&alpn=http%2F1.1&fp=randomized#%40Hope_Net-join-us-on-Telegram
 vless://d603cba7-4ec4-4744-a1df-1fcbec323066@104.26.12.54:2083/?type=ws&encryption=none&host=germanhp.pages.dev&path=🔒
 vless://d607e279-d655-48ca-81a8-127a8a36e4cf@Sd.mciickoir.ir:9620?security=none&encryption=none&headerType=http&type=tcp
@@ -498,3 +496,5 @@ vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@89.42.142.247:34045?security=realit
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@91.107.164.161:34045/?type=tcp&encryption=none&flow=&sni=🔒
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@91.107.164.161:34045/?type=tcp&encryption=none&sni=🔒
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@91.107.164.161:34045?security=reality&encryption=none&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&headerType=none&type=tcp&sni=🔒
+vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@94.177.145.124:34045/?type=tcp&encryption=none&sni=🔒
+vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@95.169.170.209:34045/?type=tcp&encryption=none&flow=&sni=🔒
