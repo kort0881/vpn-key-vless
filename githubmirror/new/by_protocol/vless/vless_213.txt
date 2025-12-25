@@ -1,4 +1,3 @@
-vless://f278037e-ce36-4634-9b4d-fca93e345a35@104.16.191.195:80?path=🔒
 vless://f278037e-ce36-4634-9b4d-fca93e345a35@104.16.191.195:80?security=none&encryption=none&host=barayeiran.mahiozonboroon.qzz.io&fp=chrome&type=ws&sni=🔒
 vless://f278037e-ce36-4634-9b4d-fca93e345a35@104.16.191.195:80?security=none&encryption=none&host=barayeiran.mahiozonboroon.qzz.io&fp=random&type=ws&sni=🔒
 vless://f278037e-ce36-4634-9b4d-fca93e345a35@104.16.191.195:80?security=none&encryption=none&host=barayeiran.mahiozonboroon.qzz.io&type=ws
@@ -498,3 +497,4 @@ vless://f6f442e3-69d1-4a83-bb78-241152eed859@147.135.76.184:443?mode=stream-one&
 vless://f6f442e3-69d1-4a83-bb78-241152eed859@147.135.76.184:443?type=xhttp&path=/sef&host=&mode=stream-one&security=none#telegram
 vless://f6f442e3-69d1-4a83-bb78-241152eed859@147.135.76.184:443?type=xhttp&path=🔒
 vless://f6f442e3-69d1-4a83-bb78-241152eed859@147.135.76.229:443?mode=stream-one&path=🔒
+vless://f6f442e3-69d1-4a83-bb78-241152eed859@147.135.76.86:443?mode=stream-one&path=🔒

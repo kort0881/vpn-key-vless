@@ -1,4 +1,3 @@
-vless://c8c9741c-6d62-472b-aad9-7b1e0bafb1a7@GozargahVPN-GozargahVPN-GozargahVPN.mymtn.sbs:443?type=tcp&path=🔒
 vless://c8d38c10-8973-46d9-bc60-40e9f791d187@104.21.48.1:443/?type=ws&encryption=none&host=mehdiama.jawaki2348.workers.dev&path=%2FZPYo6XE9nKhTQnTE%3Fed%3D2560&security=tls&sni=mEHDiaMA.JAwakI2348.WOrKeRS.DEV&alpn=h2%2Chttp%2F1.1&fp=randomized#%E2%87%9D%40Gp_Config%20%F0%9F%87%AE%F0%9F%87%B7%20%DA%AF%D8%B1%D9%88%D9%87%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 vless://c8d38c10-8973-46d9-bc60-40e9f791d187@104.21.48.1:443/?type=ws&encryption=none&host=mehdiama.jawaki2348.workers.dev&path=🔒
 vless://c8d98220-eee5-47ab-b311-b5a52c24d808@194.156.65.205:443?security=reality&encryption=none&pbk=1he5EyHxI595x0mNkFNxOebUOQZGVGIy_c92bn1qO2o&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=ac31827454d7f693#💎کانفیگ
@@ -498,3 +497,4 @@ vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/&secur
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=hetzner-12.apple.name.ng&type=ws&sni=hetzner-12.apple.name.ng#💎کانفیگ
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=hetzner-4.access.name.ng&type=ws&sni=hetzner-4.access.name.ng#telegram
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=hetzner-9.cfuk.name.ng&type=ws&sni=hetzner-9.cfuk.name.ng#✅سرورهایبیشتردرکانال:prrofile_purple@✅
+vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=lease-14.access.name.ng&fp=chrome&type=ws&sni=lease-14.access.name.ng#telegram

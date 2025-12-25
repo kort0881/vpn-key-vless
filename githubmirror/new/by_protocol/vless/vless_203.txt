@@ -1,4 +1,3 @@
-vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@172.236.109.230:34045/?type=tcp&encryption=none&sni=🔒
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@172.245.184.186:34045/?type=tcp&encryption=none&flow=&sni=🔒
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@172.245.184.186:34045/?type=tcp&encryption=none&sni=🔒
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@178.250.191.11:34045/?type=tcp&encryption=none&sni=🔒
@@ -498,3 +497,4 @@ vless://dd2961de-3cff-4b6d-bbd1-819d571df66b@virginia.fonixapp.org:52230?securit
 vless://dd3d18b9-28df-4680-a79e-e1c0c8d5496d@bless.network:443?encryption=none&security=tls&sni=🔒
 vless://dd3d18b9-28df-4680-a79e-e1c0c8d5496d@bless.network:443?path=🔒
 vless://dd48c450-75b9-4fc8-afc9-07b07bd95e8d@185.177.238.40:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=alban.normbot.ru&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&sid=505adbea98a0b5fe&spx=%2Fsinavm-sinavm-sinavm#REALITY|AL🇦🇱
+vless://dd48c450-75b9-4fc8-afc9-07b07bd95e8d@185.177.238.40:443?security=reality&encryption=none&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&headerType=none&fp=chrome&spx=/sinavm-sinavm-sinavm&type=tcp&flow=xtls-rprx-vision&sni=alban.normbot.ru&sid=505adbea98a0b5fe#@Broz_time+>+کانفیگ+رایگان

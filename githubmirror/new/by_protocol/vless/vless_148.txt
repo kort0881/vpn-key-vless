@@ -1,4 +1,3 @@
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.42.248:22224?type=ws&security=tls&path=🔒
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.51.53.125:22222?security=tls&sni=🔒
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.156.233.240:22222?encryption=none&host=telegram-channel-vlessconfig.sohala.uk&path=🔒
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.153.82:22224?type=ws&security=tls&path=🔒
@@ -498,3 +497,4 @@ vless://08966ca9-496e-4864-bc6c-84d4d8ca5592@185.113.10.43:8880?encryption=none&
 vless://089ef7fe-44fb-4644-9f0d-82db4de1360f@servo.prooatat.xyz:35079?mode=gun&security=reality&encryption=none&pbk=Tq0nuCY-XdXvwIfZQ-PofuYhPM03wEqmA0VZCSN_HEA&fp=firefox&spx=%2F&type=grpc&serviceName=www.cloudflare.com&sni=🔒
 vless://08aa33d0-a8af-460b-807a-39791019015c@77.90.10.16:58666?security=reality&encryption=none&pbk=bGCJWIH3EHCAGMeI-qgvjGZlL5tkY_HIqQEtsOqEVlw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=a6a18a6e0259#Free%207000%20%28%40Outline_Vpn%29
 vless://08b58907-305c-4413-86bd-c8855f5bac0b@best.configforvpn.fun:443?path=%2Fcdn&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=ws&sni=best.configforvpn.fun#%40ConfigforVPN…
+vless://08b58907-305c-4413-86bd-c8855f5bac0b@best.configforvpn.fun:443?path=🔒
