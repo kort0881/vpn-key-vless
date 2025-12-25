@@ -1,3 +1,4 @@
+vless://a3772768-bb90-4bce-a86b-5ac6659e0f36@94.131.110.201:443/?type=ws&encryption=none&flow=&path=🔒
 vless://a3772768-bb90-4bce-a86b-5ac6659e0f36@94.131.110.201:443?type=ws&encryption=none&flow=&path=%2Fowrqkcws&security=tls&sni=m.vk.com&allowInsecure=1#RU🇷🇺
 vless://a3839a97-465e-45e9-9507-383d3bbc73bc@172.66.40.99:80?path=🔒
 vless://a3873eb9-0c54-46c4-abbf-ae9f880d3619@162.19.228.119:443?encryption=none&security=tls&sni=🔒
@@ -497,4 +498,3 @@ vless://a7cdce51-fe3f-4a0e-9858-768e5a5e4678@pico1.zarashop0.ir:2087?mode=gun&se
 vless://a7cdce51-fe3f-4a0e-9858-768e5a5e4678@pico1.zarashop0.ir:2087?mode=gun&security=tls&encryption=none&type=grpc&sni=api-maps.yandex.ru#@FarazV2ray
 vless://a7cdce51-fe3f-4a0e-9858-768e5a5e4678@pico1.zarashop0.ir:2087?mode=gun&security=tls&encryption=none&type=grpc&sni=api-maps.yandex.ru#All--@V2rayAlpha-11
 vless://a7cdce51-fe3f-4a0e-9858-768e5a5e4678@pico1.zarashop0.ir:2087?mode=gun&security=tls&encryption=none&type=grpc&sni=api-maps.yandex.ru#All-@V2rayAlpha--34
-vless://a7cdce51-fe3f-4a0e-9858-768e5a5e4678@pico1.zarashop0.ir:2087?mode=gun&security=tls&encryption=none&type=grpc&sni=api-maps.yandex.ru#All_23--@V2rayAlpha

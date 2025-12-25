@@ -1,3 +1,4 @@
+vless://d97c0f7a-7976-40d9-a55b-4c52e757f591@32892393.web-manage.com.tr:1524/?encryption=none&host=testspeed-foreign.tci.ir&type=tcp&headerType=http
 vless://d97c0f7a-7976-40d9-a55b-4c52e757f591@32892393.web-manage.com.tr:1524/?encryption=none&host=testspeed-foreign.tci.ir&type=tcp&headerType=http#%F0%9F%8F%B5%EF%B8%8F37%40oneclickvpnkeys
 vless://d97c0f7a-7976-40d9-a55b-4c52e757f591@32892393.web-manage.com.tr:2134/?type=tcp&encryption=none&sni=chess.com&fp=chrome&security=reality&pbk=yGgU4VVwpWk3sY54VgDxYVg77n5i-4jduHegq6PqPyA&sid=#%F0%9F%8F%B5%EF%B8%8F42%40oneclickvpnkeys
 vless://d97c0f7a-7976-40d9-a55b-4c52e757f591@32892393.web-manage.com.tr:2134/?type=tcp&encryption=none&sni=🔒
@@ -497,4 +498,3 @@ vless://de9e93dc-9ce2-4c8f-839c-f6f3a58a10bb@99.199.73.47:6068?security=none&enc
 vless://de9e93dc-9ce2-4c8f-839c-f6f3a58a10bb@99.199.73.47:6068?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp
 vless://de9e93dc-9ce2-4c8f-839c-f6f3a58a10bb@sport-shop-gw01.cyberscaler.net:6068?security=&encryption=none&host=v10.events.data.microsoft.com&headerType=http&type=tcp
 vless://de9e93dc-9ce2-4c8f-839c-f6f3a58a10bb@sport-shop-gw01.cyberscaler.net:6068?security=&fp=chrome&type=tcp&path=🔒
-vless://de9e93dc-9ce2-4c8f-839c-f6f3a58a10bb@sport-shop-gw01.cyberscaler.net:6068?security=none&encryption=none&host=v10.events.data.microsoft.com&headerType=http&fp=chrome&type=tcp

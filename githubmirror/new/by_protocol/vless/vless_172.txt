@@ -1,3 +1,4 @@
+vless://5879d109-8c92-448a-801b-3f3989019934@69.84.182.149:443?path=🔒
 vless://5879d109-8c92-448a-801b-3f3989019934@www.speedtest.net:443?path=🔒
 vless://588e0c52-44bc-4d24-9833-8bd2af532c58@angelina.ns.cloudflare.com:443/?type=ws&encryption=none&host=news3.testsnew.com&path=%2Fwss&security=tls&sni=news3.testsnew.com&alpn=http%2F1.1&fp=chrome#%F0%9F%A7%B834%40oneclickvpnkeys
 vless://588e0c52-44bc-4d24-9833-8bd2af532c58@angelina.ns.cloudflare.com:443/?type=ws&encryption=none&host=news3.testsnew.com&path=🔒
@@ -497,4 +498,3 @@ vless://5d2f6225-c658-4efe-a57c-53adb435964f@172.105.27.17:443?mode=stream-one&p
 vless://5d2f6225-c658-4efe-a57c-53adb435964f@192.53.123.112:443?mode=stream-one&path=🔒
 vless://5d3074a6-751c-42d9-94e7-c3f1f1cb7db7@148.251.147.177:443/?type=grpc&encryption=none&flow=&serviceName=yZ1aB2cC3dD4eE5f6gH7iJ8kL9mNOoP&sni=🔒
 vless://5d3a7e3d-6f9f-4b8d-bb4c-5120925c3c16@172.66.40.99:80?path=🔒
-vless://5d52e8ae-c7a3-4e2b-9edd-9253226f1ec1@speed.sorenajanebi.ir:2053/?encryption=none&host=speedtest.net&type=tcp&headerType=http

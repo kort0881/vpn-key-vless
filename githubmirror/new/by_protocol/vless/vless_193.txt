@@ -1,3 +1,4 @@
+vless://a7cdce51-fe3f-4a0e-9858-768e5a5e4678@pico1.zarashop0.ir:2087?mode=gun&security=tls&encryption=none&type=grpc&sni=api-maps.yandex.ru#All_23--@V2rayAlpha
 vless://a7cdce51-fe3f-4a0e-9858-768e5a5e4678@pico1.zarashop0.ir:2087?mode=gun&security=tls&encryption=none&type=grpc&sni=api-maps.yandex.ru#🇫🇮@FreakConfig
 vless://a7cdce51-fe3f-4a0e-9858-768e5a5e4678@pico1.zarashop0.ir:2087?mode=gun&security=tls&encryption=none&type=grpc&sni=🔒
 vless://a7e04b44-855e-4fe7-8fa0-31894e928bce@104.131.32.9:443?security=reality&encryption=none&pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.gstatic.com&sid=a4844ba7#All-@V2rayAlpha--8
@@ -497,4 +498,3 @@ vless://ac1edaf9-37c2-4d92-9d29-9ad759127206@167.71.43.126:443?mode=gun&security
 vless://ac1edaf9-37c2-4d92-9d29-9ad759127206@167.71.43.126:443?mode=gun&security=none&encryption=none&authority=telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray&type=grpc#telegram
 vless://ac1edaf9-37c2-4d92-9d29-9ad759127206@207.154.192.115:443?type=grpc&encryption=none&serviceName=&authority=&security=none#DE🇩🇪
 vless://ac28579d-1c73-489c-8e85-5cfa8e622763@185.251.82.170:2096?path=🔒
-vless://ac28579d-1c73-489c-8e85-5cfa8e622763@www.speedtest.net:2096?path=🔒

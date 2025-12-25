@@ -1,3 +1,4 @@
+vless://5d52e8ae-c7a3-4e2b-9edd-9253226f1ec1@speed.sorenajanebi.ir:2053/?encryption=none&host=speedtest.net&type=tcp&headerType=http
 vless://5d52e8ae-c7a3-4e2b-9edd-9253226f1ec1@speed.sorenajanebi.ir:2053/?encryption=none&host=speedtest.net&type=tcp&headerType=http#%40NETMelliAnti
 vless://5d5a343a-cfe2-45bc-b100-2e1df542be4a@n2vpn-helper.projectis.ir:2083?path=/@n2vpn&security=tls&encryption=none&host=n2vpn.projectis.ir&fp=chrome&type=ws&sni=n2vpn.projectis.ir#@n2vpn+-+کانفیگ+های+اختصاصی
 vless://5d5a343a-cfe2-45bc-b100-2e1df542be4a@n2vpn-helper.projectis.ir:2083?path=🔒
@@ -497,4 +498,3 @@ vless://63005378-e32e-4e23-bc6e-84812f147a6f@172.66.44.118:443/?type=ws&encrypti
 vless://63005378-e32e-4e23-bc6e-84812f147a6f@172.66.44.118:443?path=🔒
 vless://63005378-e32e-4e23-bc6e-84812f147a6f@172.66.47.138:443/?type=ws&encryption=none&host=configmr.pages.dev&path=%2FVrChX4o5oasIm4In%3Fed%3D2560&security=tls&sni=ConFIgmr.PaGeS.dEV&alpn=h2%2Chttp%2F1.1&fp=randomized#%40Hope_Net-join-us-on-Telegram
 vless://63005378-e32e-4e23-bc6e-84812f147a6f@172.66.47.138:443/?type=ws&encryption=none&host=configmr.pages.dev&path=🔒
-vless://63005378-e32e-4e23-bc6e-84812f147a6f@45.159.219.96:443/?type=ws&encryption=none&host=ConFIgmr.PaGeS.dEV&path=🔒

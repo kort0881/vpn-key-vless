@@ -1,3 +1,4 @@
+vless://bd0b90ea-ae80-4da2-89dc-0c4a80605c5f@49.13.192.48:443/?type=grpc&encryption=none&serviceName=Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray&sni=🔒
 vless://bd12cf37-bd2b-4f3b-be23-e91146bf1914@xpanel-ir.panelfreedom.com:2092?security=none&encryption=none&host=parsabr.com&headerType=http&type=tcp
 vless://bd235967-bc87-48c9-b63b-8f2b5be17946@192.99.219.120:40031?security=reality&encryption=none&pbk=s-USVtDmGcodwPKA0nxUNIZu00EvHQcuKmRuXAHFcQg&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&type=tcp&sni=sourceforge.net&sid=b50961503a702b#🇨🇦
 vless://bd235967-bc87-48c9-b63b-8f2b5be17946@192.99.219.120:40031?security=reality&encryption=none&pbk=s-USVtDmGcodwPKA0nxUNIZu00EvHQcuKmRuXAHFcQg&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&type=tcp&sni=🔒
@@ -497,4 +498,3 @@ vless://c2e5afa0-907f-4b26-a2e2-2c8f17d332de@185.58.115.104:2087?security=tls&sn
 vless://c2ec47f4-873f-573f-7d8d-d79d7ad452e6@162.19.175.55:9954/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒
 vless://c2ec47f4-873f-573f-7d8d-d79d7ad452e6@162.19.175.55:9954?encryption=none&flow=xtls-rprx-vision&security=reality&sni=store.steampowered.com&fp=chrome&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&type=tcp&headerType=none#@Daily_Configs
 vless://c2ec47f4-873f-573f-7d8d-d79d7ad452e6@162.19.175.55:9954?encryption=none&flow=xtls-rprx-vision&security=reality&sni=🔒
-vless://c2ec47f4-873f-573f-7d8d-d79d7ad452e6@162.19.175.55:9954?security=reality&encryption=none&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&headerType=none&fp=chrome&spx=/---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&type=tcp&flow=xtls-rprx-vision&sni=store.steampowered.com#🇩🇪

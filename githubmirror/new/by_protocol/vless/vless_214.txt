@@ -1,3 +1,4 @@
+vless://f361c445-281f-4ffe-e834-a9eb53282ff2@138.68.75.228:443?mode=gun&security=none&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#✅
 vless://f361c445-281f-4ffe-e834-a9eb53282ff2@138.68.75.228:443?mode=gun&security=none&encryption=none&type=grpc
 vless://f361c445-281f-4ffe-e834-a9eb53282ff2@138.68.75.228:443?mode=gun&security=none&encryption=none&type=grpc#All-@V2ray_Alpha--15
 vless://f361c445-281f-4ffe-e834-a9eb53282ff2@138.68.75.228:443?mode=gun&security=none&encryption=none&type=grpc#All-@V2ray_Alpha--40
@@ -497,4 +498,3 @@ vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@104.18.77.36:443?encryption=none&se
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@112.168.91.60:18888?encryption=none&security=tls&sni=🔒
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@14.102.228.210:2096?encryption=none&security=tls&type=ws&sni=🔒
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@14.52.249.135:10082?encryption=none&security=tls&sni=🔒
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@140.99.233.156:2087?encryption=none&security=tls&sni=🔒
