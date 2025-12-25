@@ -1,3 +1,4 @@
+vless://a446ef35-6c74-40d9-910c-f63d60197d9b@172.67.136.126:2095/?type=tcp&encryption=none
 vless://a44df311-52e1-40f9-a8c8-bfe3a857b7d6@172.66.46.246:443?path=🔒
 vless://a457d6af-5c3c-4956-937c-db0349ad4105@62.60.231.215:28485?encryption=none&type=grpc&mode=gun&serviceName=/@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec&security=reality&fp=chrome&sni=tgju.org&pbk=kP5lEpXBe5wbaSLOR6A9azX6kwMkfEk06bMkEpZxdSE&sid=dc&spx=/#🇩🇪@V2ray_official
 vless://a457d6af-5c3c-4956-937c-db0349ad4105@62.60.231.215:28485?encryption=none&type=grpc&mode=gun&serviceName=/@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec&security=reality&fp=chrome&sni=🔒
@@ -497,4 +498,3 @@ vless://a8dcf8a4-e552-43fe-aeaa-eb6b6a4dcc2e@trt.fastlynew.hosting-ip.com:80?enc
 vless://a8dcf8a4-e552-43fe-aeaa-eb6b6a4dcc2e@trt.fastlynew.hosting-ip.com:80?encryption=none&security=none&type=xhttp&host=maxpl165.global.ssl.fastly.net&path=🔒
 vless://a8dcf8a4-e552-43fe-aeaa-eb6b6a4dcc2e@trt.fastlynew.hosting-ip.com:80?encryption=none&type=xhttp&mode=auto&host=maxpl165.global.ssl.fastly.net&path=/?ed=2560&security=none#AKLISvpn🎈✅s2🍉
 vless://a8dcf8a4-e552-43fe-aeaa-eb6b6a4dcc2e@trt.fastlynew.hosting-ip.com:80?encryption=none&type=xhttp&mode=auto&host=maxpl165.global.ssl.fastly.net&path=🔒
-vless://a8dcf8a4-e552-43fe-aeaa-eb6b6a4dcc2e@trt.fastlynew.hosting-ip.com:80?mode=auto&path=%2F%3Fed%3D%23%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&security=&encryption=none&host=maxpl165.global.ssl.fastly.net&type=xhttp#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig

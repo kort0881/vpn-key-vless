@@ -1,3 +1,4 @@
+vless://3116cc23-0c39-4bb6-8154-d3f332e9017e@msk.ru.srv.oplcdn.link:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒
 vless://3116cc23-0c39-4bb6-8154-d3f332e9017e@msk.ru.srv.oplcdn.link:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ign.com&sid=6ba85179e30d4fc2#REALITY|RU🇷🇺
 vless://3116cc23-0c39-4bb6-8154-d3f332e9017e@msk.ru.srv.oplcdn.link:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ign.com&sid=6ba85179e30d4fc2#@MARAMBASHI
 vless://3116cc23-0c39-4bb6-8154-d3f332e9017e@msk.ru.srv.oplcdn.link:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒
@@ -497,4 +498,3 @@ vless://35a04287-2470-4fed-bc91-4d9779dedfe7@www.speedtest.net:8080?type=ws&host
 vless://35ac26b9-3b10-4b2e-845d-c59c02fa6aea@test2.vpremiumservice.shop:9652?type=tcp&encryption=none&security=none&path=🔒
 vless://35b0de8b-b156-43ff-a0e6-59f1018f7adb@185.242.87.162:443/?type=ws&encryption=none&path=🔒
 vless://35b0de8b-b156-43ff-a0e6-59f1018f7adb@185.242.87.162:443?encryption=none&security=tls&allowInsecure=1&type=ws&path=🔒
-vless://35b0de8b-b156-43ff-a0e6-59f1018f7adb@185.242.87.162:443?path=🔒

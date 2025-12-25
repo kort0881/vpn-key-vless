@@ -1,3 +1,4 @@
+vless://037e395f-f79d-4d61-bb92-dafcc27e53ba@46.101.57.231:443?path=%2Fesoznjws&security=tls&encryption=none&type=ws&sni=m.vk.com#🇬🇧[openproxylist.com]
 vless://037e395f-f79d-4d61-bb92-dafcc27e53ba@46.101.57.231:443?path=/esoznjws#/@Azarbayjab1----@Azarbayjab1----@Azarbayjab1----@Azarbayjab1----@Azarbayjab1----@Azarbayjab1----@Azarbayjab1----@Azarbayjab1----@Azarbayjab1----@Azarbayjab1----@Azarbayjab1----@Azarbayjab15&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1&sni=m.vk.com#🇬🇧TM
 vless://037e395f-f79d-4d61-bb92-dafcc27e53ba@46.101.57.231:443?path=/esoznjws&security=tls&encryption=none&fp=chrome&type=ws&sni=m.vk.com#Channel
 vless://037e395f-f79d-4d61-bb92-dafcc27e53ba@46.101.57.231:443?path=/esoznjws&security=tls&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=m.vk.com#@Daily_Configs
@@ -497,4 +498,3 @@ vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@www.pcmag.com:443/?type=ws&encrypti
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@www.pcmag.com:443/?type=ws&encryption=none&host=in.youlingkais.filegear-sg.me&path=🔒
 vless://06e87d4a-314d-4651-af86-d4f55624159a@104.21.50.49:2053?security=tls&sni=🔒
 vless://06ec083d-2a70-4ca2-9f3d-19442b58fc4e@172.67.73.216:80?encryption=none&security=none&type=ws&host=www.speedtest.net.tax.gov.ir.aparat.com.a.2.jEy.dPdNs.org.&path=🔒
-vless://06f14984-f7b0-43af-9694-e54f18f9daa5@193.3.182.246:2070/?type=tcp&security=none

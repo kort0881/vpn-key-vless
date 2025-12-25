@@ -1,3 +1,4 @@
+vless://f5d5f7c9-e573-4fb6-8faf-8db450db9b07@165.227.185.247:8880?type=tcp&security=reality&fp=chrome&sni=🔒
 vless://f5d5f7c9-e573-4fb6-8faf-8db450db9b07@37.140.242.245:8880?type=tcp&security=reality&fp=chrome&sni=🔒
 vless://f5d7d068-3325-43d8-85bd-e8ed665abcd5@94.72.99.160:443?encryption=none&security=reality&sni=www.microsoft.com&fp=safari&pbk=CsPJilX_bL4eatrPYHcBbnDEERssJU-2Igrnm8mir0Q&sid=8f79818e36afd892&type=grpc&serviceName=846fa1b373f6d179e30631f7#REALITY|GB🇬🇧
 vless://f5d7d068-3325-43d8-85bd-e8ed665abcd5@94.72.99.160:8443?encryption=none&security=reality&sni=www.microsoft.com&fp=safari&pbk=CsPJilX_bL4eatrPYHcBbnDEERssJU-2Igrnm8mir0Q&sid=8f79818e36afd892&type=tcp&flow=xtls-rprx-vision#REALITY|GB🇬🇧
@@ -497,4 +498,3 @@ vless://f8c783d3-f68c-449b-8bc2-4cab2ef29031@171.22.120.254:443?path=%2Fwhoxqpws
 vless://f8c783d3-f68c-449b-8bc2-4cab2ef29031@171.22.120.254:443?path=/whoxqpws&security=tls&encryption=none&type=ws&sni=github.com#All_20--@V2rayAlpha
 vless://f8c783d3-f68c-449b-8bc2-4cab2ef29031@171.22.120.254:443?path=🔒
 vless://f8c93834-99a4-44e7-b476-147a3ab582d0@35.74.231.223:2096?encryption=none&security=reality&sni=zula.ir&fp=chrome&pbk=1MAWRB1pWGt62JZszI7ppUwukazzBbJ00i_C5CNr5jk&sid=28&spx=/&type=grpc&authority=&serviceName=config&mode=gun#telegram
-vless://f8c93834-99a4-44e7-b476-147a3ab582d0@35.74.231.223:2096?encryption=none&security=reality&sni=🔒
