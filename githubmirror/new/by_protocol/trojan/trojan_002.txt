@@ -96,10 +96,12 @@ trojan://59a62e95-6262-4ba1-8027-c642b7c72713@green2.cdntencentmusic.com:31101/?
 trojan://d446ca24-80b7-4e4a-8055-e23838e43705@cdnfire.xiaomispeed.com:23301/?type=tcp&amp;security=tls&amp;sni=cdnfire.xiaomispeed.com&amp;allowInsecure=1#🇸🇬 新加坡
 trojan://d446ca24-80b7-4e4a-8055-e23838e43705@cdnfire.xiaomispeed.com:21102/?type=tcp&amp;security=tls&amp;sni=cdnfire.xiaomispeed.com&amp;allowInsecure=1#🇭🇰 香港
 trojan://b574ea88-168d-4504-a62d-fe9a2271d726@green2.cdntencentmusic.com:31103/?type=tcp&amp;security=tls&amp;sni=green2.cdntencentmusic.com&amp;allowInsecure=1#🇭🇰 香港
+trojan://telegram-id-privatevpns@51.44.113.247:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷[openproxylist.com] trojan-FR
+trojan://telegram-id-privatevpns@52.47.66.171:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷[openproxylist.com] trojan-FR
 trojan://telegram-id-privatevpns@18.194.50.87:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪[openproxylist.com] trojan-DE
 trojan://telegram-id-privatevpns@52.58.93.190:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪[openproxylist.com] trojan-DE
+trojan://15299860-fadf-4a95-bb62-63666856822b@green2.cdntencentmusic.com:31102?allowInsecure=0&sni=green2.cdntencentmusic.com#🇭🇰[openproxylist.com] trojan-HK
 trojan://cfdf8794-5365-41ac-9e59-573aab964b3e@green2.cdntencentmusic.com:31103?allowInsecure=0&sni=green2.cdntencentmusic.com#🇭🇰[openproxylist.com] trojan-HK
-trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=api.avito.ru#🇺🇸[openproxylist.com] trojan-US
 trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&amp;sni=io.ozone.ru&amp;allowInsecure=true#🇪🇸[openproxylist.com] trojan-ES
 trojan://RPyW62_b9aH.ztJKeArou@83.143.87.9:18581?security=tls&amp;allowInsecure=true#🇳🇴[openproxylist.com] trojan-NO
 trojan://BxceQaOe@58.152.26.107:443?allowInsecure=1&sni=t.me%2Fripaojiedian#🇭🇰[openproxylist.com] trojan-HK
@@ -109,16 +111,19 @@ trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&amp;sni=api.av
 trojan://44e660b0ee21cf3ac66aee2c08af85d2@112.118.116.8:443?allowInsecure=0&sni=www.nintendogames.net#🇭🇰[openproxylist.com] trojan-HK
 trojan://bb824a22-b7ce-427b-9ed6-1adf0751da02@107.174.82.102.sslip.io:443?security=tls&type=ws&sni=107.174.82.102.sslip.io&path=/gXKGj8a1tp1nNbZEcRugowKV#🇺🇸[openproxylist.com] trojan-US
 trojan://POORIARED@172.67.134.185:443?security=tls&sni=reDfRee8.REDFree8.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=%2FeyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40v2rayvpn2%20%5B6%5D
-trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@202.181.103.246:1334?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=www.nintendogames.net#@Vip_Security join us - 10
-trojan://cf142ac0-4bae-4c4b-9882-21fc0550a661@188.114.97.3:443?sni=red-dream-2d6c.xepis84786.workers.dev&type=ws&path=/?ed=2560&fp=chrome#@Vip_Security join us - 9
-trojan://bb824a22-b7ce-427b-9ed6-1adf0751da02@107.174.82.102.sslip.io:443?security=tls&sni=107.174.82.102.sslip.io&type=ws&path=/gXKGj8a1tp1nNbZEcRugowKV#@Vip_Security join us - 8
-trojan://POORIARED@172.67.134.185:443?security=tls&sni=reDfRee8.REDFree8.ir&fp=chrome&type=ws&path=/eyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed#@Vip_Security join us - 7
-trojan://POORIARED@172.67.134.185:443?path=/eyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&security=tls&fp=chrome&type=ws&sni=reDfRee8.REDFree8.ir#@Vip_Security join us - 6
-trojan://POORIARED@172.67.134.185:443?path=%2FeyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed&security=tls&fp=chrome&type=ws&sni=reDfRee8.REDFree8.ir#@Vip_Security join us - 5
-trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&sni=diningtable.electricbanana.click&type=tcp&headerType=none&path=/#@Vip_Security join us - 4
-trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&sni=diningtable.electricbanana.click&path=/#@Vip_Security join us - 3
-trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.116.227:4054?security=tls&sni=www.nintendogames.net&type=tcp&path=/#@Vip_Security join us - 2
-trojan://44e660b0ee21cf3ac66aee2c08af85d2@112.118.116.8:443?security=tls&sni=www.nintendogames.net&type=tcp&path=/#@Vip_Security join us - 1
+trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@202.181.103.246:1334?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=www.nintendogames.net#@Vip_Security join us - 55
+trojan://POORIARED@172.67.134.185:443?security=tls&sni=reDfRee8.REDFree8.ir&fp=chrome&type=ws&path=/eyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed#@Vip_Security join us - 54
+trojan://POORIARED@172.67.134.185:443?path=/eyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&security=tls&fp=chrome&type=ws&sni=reDfRee8.REDFree8.ir#@Vip_Security join us - 53
+trojan://POORIARED@172.67.134.185:443?path=%2FeyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed&security=tls&fp=chrome&type=ws&sni=reDfRee8.REDFree8.ir#@Vip_Security join us - 52
+trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&sni=diningtable.electricbanana.click&type=tcp&headerType=none&path=/#@Vip_Security join us - 51
+trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.131.243:4054?security=tls&sni=www.nintendogames.net&path=/#@Vip_Security join us - 50
+trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.116.227:4054?security=tls&sni=www.nintendogames.net&type=tcp&path=/#@Vip_Security join us - 49
+trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3169?sni=www.nintendogames.net&path=/#@Vip_Security join us - 48
+trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3093?sni=www.nintendogames.net&path=/#@Vip_Security join us - 47
+trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3093?security=tls&sni=www.nintendogames.net&path=/#@Vip_Security join us - 46
+trojan://44e660b0ee21cf3ac66aee2c08af85d2@112.118.116.8:443?sni=www.nintendogames.net&path=/#@Vip_Security join us - 45
+trojan://44e660b0ee21cf3ac66aee2c08af85d2@112.118.116.8:443?security=tls&sni=www.nintendogames.net&type=tcp&path=/#@Vip_Security join us - 44
+trojan://.ie4rghJuMkcf0oF@38.96.254.102:18509?security=tls&sni=shoppingmall.electricbanana.click&path=/#@Vip_Security join us - 43
 trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3093?security=tls&sni=www.nintendogames.net&path=/#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Osaka🅿️ping:246.97ms
 trojan://POORIARED@172.67.134.185:443?path=%2FeyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&security=tls&fp=chrome&type=ws&sni=reDfRee8.REDFree8.ir#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:21.98ms
 trojan://POORIARED@172.67.134.185:443?path=%2FeyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=reDfRee8.REDFree8.ir#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:21.98ms
@@ -493,8 +498,3 @@ trojan://Aimer@damien.ns.cloudflare.com:443/?type=tcp&security=tls&sni=ngepx.amb
 trojan://Aimer@188.164.159.174:2053/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
 trojan://Aimer@176.124.223.40:2053/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-176.124.223.40-1370
 trojan://Aimer@156.225.72.199:2096/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-156.225.72.199-1378
-trojan://Aimer@188.164.159.69:2083/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-188.164.159.69-1379
-trojan://Aimer@154.197.64.206:443/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-154.197.64.206-1392
-trojan://Aimer@173.245.59.109:2087/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-173.245.59.109-1397
-trojan://Aimer@162.159.44.233:8443/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-162.159.44.233-1410
-trojan://Aimer@108.165.152.1:2087/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-108.165.152.1-1411
