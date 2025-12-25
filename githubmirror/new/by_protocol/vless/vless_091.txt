@@ -1,3 +1,5 @@
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.95:8880?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&mode=gun&security=&encryption=none&type=grpc # [ By EbraSha ]
+vless://8dcd0c9f-4393-49e8-aef8-6eee570d1e5b@deu415.unboundaccess.org:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision # [ By EbraSha ]
 vless://8df510c5-5267-4012-9da7-6ae0ea8d8416@test.fast.hosting-ip.com:80?mode=auto&security=none&encryption=none&host=speedtest.net&type=xhttp # [ By EbraSha ]
 vless://8df60790-c903-4661-b85d-64c0009378e5@ip.sb:443?security=tls&alpn=h3&encryption=none&host=speedtest.net&fp=chrome&type=ws # [ By EbraSha ]
 vless://8e2cc81d-7ac4-4352-a7b5-bbfcfa81e49e@ru-nl01-vlr01.tcp-reset-club.net:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&fp=chrome&security=reality&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=8453e5fd9af927 # [ By EbraSha ]
@@ -496,5 +498,3 @@ vless://TELEGRAM-CONFiGLiNE-98@ip.fastlynew.hosting-ip.com:80?mode=auto&security
 vless://TELEGRAM-CONFiGLiNE-98@ip.fastlynew.hosting-ip.com:80?mode=auto&security=none&encryption=none&host=speedtest.net&type=xhttp # [ By EbraSha ]
 vless://TELEGRAM-CONFiGLiNE-99@de.fastlynew.hosting-ip.com:80?mode=auto&security=&encryption=none&host=speedtest.net&type=xhttp # [ By EbraSha ]
 vless://TELEGRAM-CONFiGLiNE-99@de.fastlynew.hosting-ip.com:80?mode=auto&security=none&encryption=none&host=speedtest.net&type=xhttp # [ By EbraSha ]
-vless://TELEGRAM-CONFiGLiNE@172.66.40.99:443?serviceName=Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH&security=tls&encryption=none&alpn=h2,http/1.1&host=speedtest.net&fp=chrome&allowinsecure=0&type=ws # [ By EbraSha ]
-vless://TELEGRAM-NUFiLTER@test.fast.hosting-ip.com:80?mode=auto&security=none&encryption=none&host=speedtest.net&type=xhttp # [ By EbraSha ]
