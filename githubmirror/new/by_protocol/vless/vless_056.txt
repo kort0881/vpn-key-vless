@@ -1,7 +1,3 @@
-vless://1773441d-8b07-43c0-81e6-226cce288e13@104.18.15.166:80?security=none&type=ws&host=cpy2.cpy-teel-1-32f.workers.dev&path=%2F# VL-WS-NONE  NA-104.18.15.166:80
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@190.93.246.82:443?security=tls&sni=al.ylks.xyz&type=ws&host=al.ylks.xyz&path=%2F%3Fed%3D2048# VL-WS-TLS  NA-190.93.246.82:443
-vless://2928d83a-ca75-4d52-b437-fa78c7601378@104.20.22.137:443?security=tls&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560&fp=randomized# VL-WS-TLS  NA-104.20.22.137:443
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@173.245.59.226:443?security=tls&sni=al.ylks.xyz&type=ws&host=al.ylks.xyz&path=%2F%3Fed%3D2048# VL-WS-TLS  NA-173.245.59.226:443
 vless://f9c9c1b1-5550-4e2f-b3e8-dec12b91d7c4@104.21.94.168:80?security=none&type=httpupgrade&host=FySuMyYk3.aMirsiTesos.sItE.&path=%2Ftelegram%3DV_2RAYNGVPN# VL-HTTPUPGRADE-NONE  NA-104.21.94.168:80
 vless://4f9219f6-ba56-4e5a-a676-0978d8b613e4@188.114.99.237:443?security=tls&sni=shirvanoo.hooplnqpb.ir&type=ws&host=shirvanoo.hooplnqpb.ir&path=/?ed%3D2048/SiNABiGO-SiNABiGO&fp=chrome&alpn=h2,http/1.1# VL-WS-TLS  NA-188.114.99.237:443
 vless://47db5676-3e2b-44fd-bd14-9134da8db30d@104.19.229.91:443?security=tls&sni=yelfuif8fbrb3j3an.thelastronin.cloudns.org&type=ws&host=yelan.thelastronin.cloudns.org&path=%2FVLESS%2Fse-full.privateip.net&fp=random&alpn=http%2F1.1# VL-WS-TLS  NA-104.19.229.91:443
@@ -498,3 +494,7 @@ vless://6babb657-1524-43bb-b421-11bda27bc9de@172.67.137.11:2087?security=tls&sni
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.18.7.36:8443?type=ws# VL-WS-NA  NA-104.18.7.36:8443
 vless://9a2df380-742c-5831-f342-6e9c7829afb8@5.160.47.71:443?security=tls&sni=office1001.avaoffice.cloud&type=ws&path=%2F# VL-WS-TLS  IR-5.160.47.71:443
 vless://2928d83a-ca75-4d52-b437-fa78c7601378@162.159.44.148:443?security=tls&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560# VL-WS-TLS  NA-162.159.44.148:443
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@108.162.192.223:443?security=tls&sni=al.ylks.xyz&type=ws&host=al.ylks.xyz&path=%2F%3Fed%3D2048# VL-WS-TLS  NA-108.162.192.223:443
+vless://23037be1-b627-4e00-90e1-79275188749f@172.66.44.194:8443?security=tls&sni=daILy-CoNFiGs-CHaNnEl.pageS.Dev&type=ws&host=daily-configs-channel.pages.dev&path=%2FTelegram%2CDAILY_CONFIGS%3Fed%3D2048&fp=randomized&alpn=h2%2Chttp%2F1.1# VL-WS-TLS  NA-172.66.44.194:8443
+vless://96494ca5-6dcf-4d33-b94f-5c3485586095@104.16.28.34:8880?security=none&type=ws&host=hamedan.hiven33959.workers.dev&path=%2F%3Fed%3D2048# VL-WS-NONE  NA-104.16.28.34:8880
+vless://3fefc100-faed-43ad-b087-d47ddfe75121@104.21.47.122:443?security=tls&sni=s92qb78mnok7yh5ykir1ayugvc49aqclfapp4qmqvixdxyd8crqppthcfpsjmm2.esmpy.workers.Dev&type=ws&host=s92qb78mnok7yh5ykir1ayugvc49aqclfapp4qmqvixdxyd8crqppthcfpsjmm2.esmpy.workers.Dev&path=%2F# VL-WS-TLS  NA-104.21.47.122:443

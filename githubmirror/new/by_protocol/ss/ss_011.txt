@@ -1,3 +1,11 @@
+ss://2652fbc5-e1b1-691f-c9c7-11ad83e828a6@93.127.180.178:7033?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=iLik9C9our-5dRYuvFtrYOzd1NedgTsqUKew2ogLdgE&amp;fp=firefox&amp;type=grpc&amp;serviceName=7034vless&amp;sni=telewebion.com&amp;sid=16b6cda7ab793526#%40V2RAY_VMESS_free
+ss://602b380a-9fdf-4425-bc07-aae9a95cfc4b@27.50.48.8:443?path=%2Fsnippets%2Fip&amp;security=tls&amp;alpn=h3&amp;encryption=none&amp;fp=chrome&amp;type=ws&amp;sni=vless.hubp.de#%40V2RAY_VMESS_free
+ss://602b380a-9fdf-4425-bc07-aae9a95cfc4b@27.50.48.8:443?security=tls&amp;alpn=h3&amp;encryption=none&amp;fp=chrome&amp;type=ws&amp;sni=vless.hubp.de#%40V2RAY_VMESS_free
+ss://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@208.103.161.33:2053?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=sni.111000.dynv6.net&amp;fp=chrome&amp;type=ws&amp;sni=sni.111000.dynv6.net#%40V2RAY_VMESS_free
+ss://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@208.103.161.33:2053?path=%2F&amp;security=tls&amp;encryption=none&amp;host=sni.111000.dynv6.net&amp;type=ws&amp;sni=sni.111000.dynv6.net#%40V2RAY_VMESS_free
+ss://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@208.103.161.33:2053?path=%2F%3Fed&amp;security=tls&amp;encryption=none&amp;host=sni.111000.dynv6.net&amp;fp=chrome&amp;type=ws&amp;sni=sni.111000.dynv6.net#%40V2RAY_VMESS_free
+ss://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@208.103.161.32:2053?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=sni.111000.dynv6.net&amp;fp=chrome&amp;type=ws&amp;sni=sni.111000.dynv6.net#%40V2RAY_VMESS_free
+ss://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@208.103.161.32:2053?path=%2F%3Fed&amp;security=tls&amp;encryption=none&amp;host=sni.111000.dynv6.net&amp;fp=chrome&amp;type=ws&amp;sni=sni.111000.dynv6.net#%40V2RAY_VMESS_free
 ss://12345678-1234-1234-1234-123456789123@188.164.248.61:2096?path=%2Fsnippets&amp;security=tls&amp;encryption=none&amp;host=vless.hubp.de&amp;fp=chrome&amp;type=ws&amp;sni=vless.hubp.de#%40V2RAY_VMESS_free
 ss://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@151.101.195.6:443?mode=auto&amp;security=tls&amp;alpn=h3&amp;encryption=none&amp;host=adsmiatm1764454498.global.ssl.fastly.net&amp;fp=chrome&amp;type=xhttp&amp;sni=hls-amt.itunes.apple.com#%40V2RAY_VMESS_free
 ss://2ee2a715-d541-416a-8713-d66567448c2e@91.98.39.30:443?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%40V2RAY_VMESS_free
@@ -490,11 +498,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvait
 ss://1a539db6-d162-42f4-9b56-687bd57bfbc2@nl20.abvpn.ru:443?security=reality&amp;encryption=none&amp;pbk=KXA-hPtvy_hzNER1ZNtUxBv_VrGGKfmIyi4CQAyjGxs&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;sni=mirror.yandex.ru&amp;sid=d94e8f45#%F0%9F%8E%8445%40ConfigV2RayNG
 ss://309fa273-6579-4cb2-9143-7cad50401eba@45.82.249.129:8443?security=reality&amp;encryption=none&amp;pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.cloudflare.com&amp;sid=7cad5040#ConfigV2RayNG
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@
-ss://--LegenderY_Servers--
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@
-ss://309fa273-6579-4cb2-9143-7cad50401eba@45.82.245.39:8443?security=reality&amp;encryption=none&amp;pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.cloudflare.com&amp;sid=7cad5040#ConfigV2RayNG
-ss://TELEGRAM-CONFiGLiNE-104@ip.fastlynew.hosting-ip.com:80?mode=auto&amp;path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&amp;security=&amp;encryption=none&amp;host=barakanal4.global.ssl.fastly.net&amp;type=xhttp#%5B%F0%9F%87%A8%F0%9F%87%AD%5D%40ConfigV2RayNG
-ss://8f631f3f-5854-4d77-961a-ad33e10e29bb@89.23.103.60:5443?path=%2Fvless&amp;security=&amp;encryption=none&amp;host=noda3.mcqueenconnection.ru&amp;type=ws#%E2%9D%84%EF%B8%8F21%40ConfigV2RayNG
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@
-ss://309fa273-6579-4cb2-9143-7cad50401eba@45.15.185.69:8443?security=reality&amp;encryption=none&amp;pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.cloudflare.com&amp;sid=7cad5040#ConfigV2RayNG
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSRkszOENnN0FQbmVTQjVjV0RjcGJt@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%B3%F0%9F%87%B1NL%20%20%40ConfigV2RayNG%E2%80%94405
