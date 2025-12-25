@@ -1,7 +1,3 @@
-vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.160.151:443?security=&encryption=none&host=zula.ir/?TELEGRAM@JOKERRVPN&headerType=http&type=tcp#@CaV2ray
-vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.160.41:443/?encryption=none&host=zula.ir&type=tcp&headerType=http#@Geek_Spot
-vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.160.41:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@CaV2ray
-vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.192.185:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@CaV2ray
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.192.185:443?security=none&encryption=none&host=zula.ir/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#@CaV2ray
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.193.96:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@CaV2ray
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.193.96:443?security=none&encryption=none&host=zula.ir/?TELEGRAM_JOKERRVPN&headerType=http&type=tcp#@CaV2ray
@@ -498,3 +494,7 @@ vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@180.149.44.70:4655?security=none&en
 vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@180.149.44.70:4655?security=none&encryption=none&headerType=none&type=tcp&note=@freeOnlineVPN# - AZ - @freeOnlineVPN
 vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@180.149.44.70:4655?security=none&type=tcp&note=@freeOnlineVPN# - AZ - @freeOnlineVPN
 vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@81.27.100.89:4655?security=none&encryption=none&headerType=none&type=tcp#Channel : @Mrsoulb
+vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@81.27.100.89:4655?security=none&encryption=none&headerType=none&type=tcp#
+vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@81.27.100.89:4655?security=none&encryption=none&headerType=none&type=tcp&note=@freeOnlineVPN# - PL - @freeOnlineVPN
+vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@81.27.100.89:4655?security=none&type=tcp&encryption=none#[]t.me/ConfigsHub
+vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@81.27.100.89:4655?security=none&type=tcp&encryption=none#t.me/entryNET/config=1852349289521455
