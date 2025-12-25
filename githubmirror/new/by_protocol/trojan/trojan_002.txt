@@ -88,11 +88,6 @@ trojan://b574ea88-168d-4504-a62d-fe9a2271d726@green2.cdntencentmusic.com:31103/?
 trojan://telegram-id-privatevpns@15.224.11.77:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷[openproxylist.com] trojan-FR
 trojan://telegram-id-privatevpns@63.176.238.123:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪[openproxylist.com] trojan-DE
 trojan://telegram-id-privatevpns@63.181.207.11:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪[openproxylist.com] trojan-DE
-trojan://telegram-id-privatevpns@51.44.113.247:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#🇫🇷[openproxylist.com] trojan-FR
-trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&amp;sni=io.ozone.ru&amp;allowInsecure=true#🇪🇸[openproxylist.com] trojan-ES
-trojan://RPyW62_b9aH.ztJKeArou@83.143.87.9:18581?security=tls&amp;allowInsecure=true#🇳🇴[openproxylist.com] trojan-NO
-trojan://ZblhWr0mqMakCPg.N@212.193.18.144:36158?security=tls&amp;sni=ya.ru&amp;allowInsecure=true#🇫🇮[openproxylist.com] trojan-FI
-trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&amp;sni=api.avito.ru&amp;allowInsecure=true&amp;fp=chrome#🇮🇹[openproxylist.com] trojan-IT
 trojan://44e660b0ee21cf3ac66aee2c08af85d2@112.118.116.8:443?security=tls&sni=www.nintendogames.net#🇭🇰[openproxylist.com] trojan-HK
 trojan://bb824a22-b7ce-427b-9ed6-1adf0751da02@107.174.82.102.sslip.io:443?security=tls&type=ws&sni=107.174.82.102.sslip.io&path=/gXKGj8a1tp1nNbZEcRugowKV#🇺🇸[openproxylist.com] trojan-US
 trojan://POORIARED@172.67.134.185:443?security=tls&sni=reDfRee8.REDFree8.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=%2FeyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40v2rayvpn2%20%5B6%5D
@@ -498,3 +493,8 @@ trojan://Aimer@161.145.150.14:443/?type=tcp&security=tls&sni=agepy.ambercc.fileg
 trojan://Aimer@141.11.203.168:443/?type=tcp&security=tls&sni=agepy.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-141.11.203.168-1289
 trojan://Aimer@43.156.116.194:443/?type=tcp&security=tls&sni=agept.ambercc.filegear-sg.me#%F0%9F%87%B8%F0%9F%87%ACSG-43.156.116.194-1320
 trojan://Aimer@150.109.11.223:443/?type=tcp&security=tls&sni=agepy.aimercc.filegear-sg.me#%F0%9F%87%B8%F0%9F%87%ACSG-150.109.11.223-1322
+trojan://Aimer@108.165.152.92:2053/?type=tcp&security=tls&sni=agept.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-108.165.152.92-1347
+trojan://Aimer@188.164.159.91:2083/?type=tcp&security=tls&sni=agepy.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-188.164.159.91-1364
+trojan://Aimer@92.243.74.3:8443/?type=tcp&security=tls&sni=agept.ambercc.filegear-sg.me#%F0%9F%8F%81RELAY-92.243.74.3-1427
+trojan://Aimer@199.34.228.190:2083/?type=ws&host=ngepx.ambercc.filegear-sg.me&security=tls&sni=ngepx.ambercc.filegear-sg.me#%40Hope_Net-join-us-on-Telegram
+trojan://Aimer@162.159.44.82:443/?type=tcp&security=tls&sni=ngepz.ambercc.filegear-sg.me#%40Hope_Net-join-us-on-Telegram
