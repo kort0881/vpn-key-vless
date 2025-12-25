@@ -1,3 +1,10 @@
+vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@172.64.34.176:443?path=/sghiyws&security=tls&encryption=none&insecure=0&host=terazhedi.info&fp=chrome&type=ws&allowInsecure=0&sni=terazhedi.info#CA_967_@Surfboardv2ray
+vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@172.64.34.176:443?path=/sghiyws&security=tls&encryption=none&insecure=0&host=terazhedi.info&fp=chrome&type=ws&allowInsecure=0&sni=terazhedi.info#CA_968_@Surfboardv2ray
+vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@172.64.34.176:443?path=/sghiyws&security=tls&encryption=none&insecure=0&host=terazhedi.info&fp=chrome&type=ws&allowInsecure=0&sni=terazhedi.info#CA_969_@Surfboardv2ray
+vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@172.64.34.176:443?path=/sghiyws&security=tls&encryption=none&insecure=0&host=terazhedi.info&fp=chrome&type=ws&allowInsecure=0&sni=terazhedi.info#CA_970_@Surfboardv2ray
+vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@172.64.34.176:443?path=/sghiyws&security=tls&encryption=none&type=ws&sni=terazhedi.info#CA_971_@Surfboardv2ray
+vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@172.64.34.176:443?path=/sghiyws&security=tls&encryption=none&type=ws&sni=terazhedi.info#CA_972_@Surfboardv2ray
+vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@172.64.34.176:443?path=/sghiyws&security=tls&encryption=none=/@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@TEHRANARGO&host=terazhedi.info&type=ws&sni=terazhedi.info#CA_973_@Surfboardv2ray
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@172.64.34.176:443?path=/sghiyws&security=tls&encryption=none=/@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@TEHRANARGO&host=terazhedi.info&type=ws&sni=terazhedi.info#CA_974_@Surfboardv2ray
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?encryption=none&security=tls&sni=terazhedi.info&insecure=0&allowInsecure=0&type=ws&host=terazhedi.info&path=/sghiyws#CA_975_@Surfboardv2ray
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?encryption=none&security=tls&sni=terazhedi.info&insecure=0&allowInsecure=0&type=ws&path=/sghiyws#CA_976_@Surfboardv2ray
@@ -491,10 +498,3 @@ vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.160.13:443?encryption=none&se
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.160.13:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#DE_1489_@Surfboardv2ray
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.160.13:443?security=none&encryption=none&host=zula.ir/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#DE_1490_@Surfboardv2ray
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.160.13:443?security=none&encryption=none&host=zula.ir/?TELEGRAM_JOKERRVPN&headerType=http&type=tcp#DE_1491_@Surfboardv2ray
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.160.210:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#DE_1492_@Surfboardv2ray
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.162.239:443?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#DE_1493_@Surfboardv2ray
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.162.239:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#DE_1494_@Surfboardv2ray
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.162.239:443?security=none&encryption=none&host=zula.ir/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#DE_1495_@Surfboardv2ray
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.170.56:51615?security=none&encryption=none&host=zul/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHIa.ir&headerType=http&type=tcp#DE_1496_@Surfboardv2ray
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.170.56:51615?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#DE_1497_@Surfboardv2ray
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.181.193:51615?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#DE_1498_@Surfboardv2ray
