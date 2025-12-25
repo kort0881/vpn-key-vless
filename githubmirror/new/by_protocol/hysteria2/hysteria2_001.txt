@@ -318,14 +318,9 @@ hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&amp;obf
 hysteria2://a084933d-0b41-4571-ae0c-7163b8c71ed1@de.eyucdn.xyz:2056?security=tls&amp;insecure=1&amp;sni=de.eyucdn.xyz#Telegram:@zede_filteri
 hysteria2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@lsj3.mangshe.xyz:2056?security=tls&amp;insecure=1&amp;sni=lsj3.mangshe.xyz#Telegram:@zede_filteri
 hysteria2://SNItest@37.18.14.169:443?security=tls&amp;insecure=1&amp;sni=megafon.ru#Telegram:@zede_filteri
-hysteria2://130ec091-df05-4af9-9695-dc982e98a8ec@168.138.194.92:28253?security=tls&insecure=1&sni=www.bing.com#%40%F0%9D%91%BD2_%F0%9D%91%B4%F0%9D%91%B6%F0%9D%91%AB_%F0%9D%91%BA%F0%9D%91%AF%F0%9D%91%B6%F0%9D%91%B7%20-%20%F0%9F%87%AF%F0%9F%87%B5%20%E2%9A%A1%20%7C
-hysteria2://17cdeb6c-f046-11ee-bdac-f23c93141fad@c37b0be5n-t3kyo0-t3lvgh-2gok.la.shifen.uk:1743/?sni=c37b0be5-t3kyo0-t3lvgh-2gok.la.shifen.uk#%3E%3E%40ShadowsocksM%3A%3AUS
-hysteria2://17cdeb6c-f046-11ee-bdac-f23c93141fad@c37b0be5n-t3kyo0-t3lvgh-2gok.la.shifen.uk:1743?security=tls&sni=c37b0be5-t3kyo0-t3lvgh-2gok.la.shifen.uk#%3E%3E%40ShadowsocksM%3A%3AUS
-hysteria2://6286105c-fb6d-11ef-be96-f23c93136cb3@227fd503-t4ssg0-t5vo4i-4550.la.shifen.uk:1743?security=tls&sni=227fd503-t4ssg0-t5vo4i-4550.la.shifen.uk&allowInsecure=true#%3E%3E%40ShadowsocksM%3A%3AUS
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=api.kermanshahi.org#%F0%9F%8C%B4%F0%9F%92%8E4
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#%F0%9F%8C%A7%F0%9F%90%A06
 hysteria2://dongtaiwang.com@208.87.243.187:22222/?insecure=1&sni=www.bing.com#%3E%3E%40oneclickvpnkeys%3A%3AUS
 hysteria2://dongtaiwang.com@62.210.99.49:40088/?insecure=1&sni=apple.com#%3E%3E%40oneclickvpnkeys%3A%3AFR
-hysteria2://e20cc63dc06088fba56bf786860aadaf@dd.openaccessnode.com:989?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-King-Reza-Pahlavi&insecure=0&sni=dd.ircybersec.org#%F0%9F%8D%B7%F0%9F%8D%8B%E2%80%8D%F0%9F%9F%A93
 hysteria2://03573f46-e944-11eb-a8bf-f23c91cfbbc9@9bc9db69-t6t0g0-tee612-2r82.hk1.hyhuawei.com:443?insecure=1&sni=9bc9db69-t6t0g0-tee612-2r82.hk1.hyhuawei.com#All--%40V2rayAlpha--17
 hysteria2://03573f46-e944-11eb-a8bf-f23c91cfbbc9@9bc9db69-t6t0g0-tee612-2r82.hk1.hyhuawei.com:443?security=tls&insecure=1&mport=30000-60000&sni=9bc9db69-t6t0g0-tee612-2r82.hk1.hyhuawei.com#All--@V2rayAlpha--17
 hysteria2://06b2ac52-fcc6-11ec-bb74-f23c9164ca5d@21a3b260-t6pb40-t9byd7-1jfvb.hk1.hyhuawei.com:443?security=tls&insecure=1&sni=21a3b260-t6pb40-t9byd7-1jfvb.hk1.hyhuawei.com#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
@@ -498,3 +493,8 @@ hysteria2://RZjK7qHG15@91.99.225.11:443?security=tls&obfs=salamander&obfs-passwo
 hysteria2://SAOLvYVTTu@91.99.225.11:443?insecure=1&sni=refersion.com&obfs=salamander&obfs-password=Jsbdksj@V2RayyNGvpn$Miracle#%F0%9F%87%A9%F0%9F%87%AA%40V2RayyNGvpn%F0%9F%87%A9%F0%9F%87%AA%D9%87%D9%85%D9%87%20%D8%A7%D9%88%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%20%D9%87...%20%2312
 hysteria2://SAOLvYVTTu@91.99.225.11:443?security=tls&obfs=salamander&obfs-password=Jsbdksj@V2RayyNGvpn$Miracle&insecure=1&sni=refersion.com#🇩🇪@V2RayyNGvpn🇩🇪همه
 hysteria2://SNItest@37.18.14.169:443?insecure=1&sni=megafon.ru#%F0%9F%94%B8%40IRAN_V2RAY1%F0%9F%92%98%20%233
+hysteria2://SNItest@37.18.14.169:443?security=tls&insecure=1&sni=megafon.ru#@FarazV2ray
+hysteria2://SNItest@37.18.14.169:443?security=tls&insecure=1&sni=megafon.ru#AZARBAYJAB12RAY
+hysteria2://SNItest@37.18.14.169:443?security=tls&insecure=1&sni=megafon.ru#All--@V2rayAlpha--13
+hysteria2://SNItest@37.18.14.169:443?security=tls&insecure=1&sni=megafon.ru#WiFi-@V2rayAlpha--2
+hysteria2://SNItest@37.18.14.169:443?security=tls&insecure=1&sni=megafon.ru#🔸@IRAN_V2RAY1💘
