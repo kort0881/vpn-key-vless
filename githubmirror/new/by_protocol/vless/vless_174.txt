@@ -1,3 +1,9 @@
+vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@104.19.113.54:80?encryption=none&security=none&sni=🔒
+vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@104.19.113.54:80?path=/?BIA_TELEGRAM@AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1&security=none&alpn=h2,http/1.1&encryption=none&host=vless.hubp.de&fp=chrome&type=ws&sni=vless.hubp.de#🇺🇲:@AZARBAYJAB1
+vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@104.19.113.54:80?path=🔒
+vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@104.19.113.54:80?security=none&type=ws&path=%2F%F0%9F%94%92%20%5BBy%20EbraSha%5D&host=vless.hubp.de&sni=%F0%9F%94%92%20%5BBy%20EbraSha%5D&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%A9%F0%9F%87%AADE%20%F0%9F%A7%AD%202.2MB%2Fs
+vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@104.19.113.54:80?security=none&type=ws&path=%2Ft.me%2Fv2Line&host=vless.hubp.de&sni=vless.hubp.de&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%A9%F0%9F%87%AADE%20%F0%9F%A7%AD%202.2MB%2Fs
+vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@104.19.81.75:80?path=/?BIA_TELEGRAM@AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1&security=none&alpn=h2,http/1.1&encryption=none&host=vless.hubp.de&fp=chrome&type=ws&sni=vless.hubp.de#🇺🇲:@AZARBAYJAB1
 vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@104.19.81.75:80?path=🔒
 vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@104.19.81.75:80?security=none&type=ws&path=%2F%3FBIA_TELEGRAM%40AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1&host=vless.hubp.de&sni=vless.hubp.de&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%A9%F0%9F%87%AADE%20%F0%9F%A7%AD%204.7MB%2Fs
 vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@104.24.158.194:443?path=%2F%3FBIA_TELEGRAM%40AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1&security=tls&encryption=none&fp=chrome&type=ws&sni=vless.hubp.de#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22ms
@@ -492,9 +498,3 @@ vless://2bd0516b-d354-4b73-a198-9d826ab478ae@vluk.g2ray.com:443?encryption=none&
 vless://2bd0516b-d354-4b73-a198-9d826ab478ae@vluk.g2ray.com:443?encryption=none&security=tls&type=tcp&headerType=none
 vless://2bd0516b-d354-4b73-a198-9d826ab478ae@vluk.g2ray.com:443?encryption=none&security=tls&type=ws&path=🔒
 vless://2bd0516b-d354-4b73-a198-9d826ab478ae@vluk1.g2ray.com:443?encryption=none&flow=xtls-rprx-direct&security=xtls&type=tcp&headerType=none
-vless://2bd0516b-d354-4b73-a198-9d826ab478ae@vluk1.g2ray.com:443?encryption=none&security=tls&type=tcp&headerType=none
-vless://2bd0516b-d354-4b73-a198-9d826ab478ae@vluk1.g2ray.com:443?encryption=none&security=tls&type=ws&path=🔒
-vless://2bd0516b-d354-4b73-a198-9d826ab478ae@vluk2.g2ray.com:443?encryption=none&flow=xtls-rprx-direct&security=xtls&type=tcp&headerType=none
-vless://2bd0516b-d354-4b73-a198-9d826ab478ae@vluk2.g2ray.com:443?encryption=none&security=tls&type=tcp&headerType=none
-vless://2bd0516b-d354-4b73-a198-9d826ab478ae@vluk2.g2ray.com:443?encryption=none&security=tls&type=ws&path=🔒
-vless://2bd0516b-d354-4b73-a198-9d826ab478ae@vluk3.g2ray.com:443?encryption=none&flow=xtls-rprx-direct&security=xtls&type=tcp&headerType=none

@@ -1,3 +1,4 @@
+vless://30839e94-8a2f-495b-a20d-d49828160500@185.14.97.152:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=cloudflare.com&fp=r...
 vless://3fa3261f-8f6b-4f5a-8f75-eb39911a0798@104.234.239.0:2082/?type=httpupgrade&encryption=none&host=finhztco.nipytee.info&path=%2F#%40Hope_Net-join-us-on-Telegram
 vless://f4bf5e01-b8c5-47d7-a83e-b93b094f96b6@104.18.42.238:2053/?type=grpc&encryption=none&security=tls&sni=connectingno.technewspaper.store&alpn=h2%2Chttp...
 vless://8cdc6e73-cbc6-4d4c-abe2-d2eb29fce6c2@162.159.138.171:443/?type=grpc&encryption=none&serviceName=BuT9Wfa6u5bLQUgA9&security=tls&sni=noodturk.parsianboton.ir#%40Hope_Net-join-us-on-Telegram
@@ -496,5 +497,4 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.208.110.41:8880?mode=gun&securit
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.16:8880?mode=gun&security=none&encryption=none&type=grpc#%40V2rayNG3
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.94:8880?mode=gun&security=none&encryption=none&type=grpc#%40V2rayNG3
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.13.164:8880?mode=gun&security=none&encryption=none&type=grpc#%40V2rayNG3
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@80.92.206.172:8880?mode=gun&security=none&encryption=none&type=grpc#%40V2rayNG3
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@80.92.206.172:8880?mode=gun&security=none&encryption=none&type=grpc#%40V2rayNG3
