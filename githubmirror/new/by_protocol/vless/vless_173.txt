@@ -1,6 +1,3 @@
-vless://5d52e8ae-c7a3-4e2b-9edd-9253226f1ec1@speed.sorenajanebi.ir:2053/?encryption=none&host=speedtest.net&type=tcp&headerType=http
-vless://5d52e8ae-c7a3-4e2b-9edd-9253226f1ec1@speed.sorenajanebi.ir:2053/?encryption=none&host=speedtest.net&type=tcp&headerType=http#%40NETMelliAnti
-vless://5d5a343a-cfe2-45bc-b100-2e1df542be4a@n2vpn-helper.projectis.ir:2083?path=/@n2vpn&security=tls&encryption=none&host=n2vpn.projectis.ir&fp=chrome&type=ws&sni=n2vpn.projectis.ir#@n2vpn+-+کانفیگ+های+اختصاصی
 vless://5d5a343a-cfe2-45bc-b100-2e1df542be4a@n2vpn-helper.projectis.ir:2083?path=🔒
 vless://5d5c5ec2-d3fb-460d-bd07-23ba76e434a7@194.120.24.125:10431?type=tcp&path=🔒
 vless://5d5ff80f-6c4b-4df0-8781-ecbf2bba37c2@91.107.254.202:2096?type=xhttp&path=🔒
@@ -303,7 +300,6 @@ vless://60bb8ec1-fb7e-4e6a-89b7-5df1b743ec43@172.238.163.197:443?security=&encry
 vless://60bc841c-cfbd-408f-889b-473f90bb4a26@micro.slumbo.com:443?security=reality&encryption=none&pbk=jH08UU9id-Q8i17ltvHPO3sfGL6YTJIFveAJGgNjNl8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒
 vless://60bf43be-e37a-4bcc-9350-e1f228c524f2@64.226.122.88:31677?encryption=none&type=grpc&packetEncoding=xudp#https://t.me/ShadowsocksM26
 vless://60bf43be-e37a-4bcc-9350-e1f228c524f2@64.226.122.88:31677?mode=gun&security=none&encryption=none&type=grpc
-vless://60bf43be-e37a-4bcc-9350-e1f228c524f2@64.226.122.88:31677?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://60bf43be-e37a-4bcc-9350-e1f228c524f2@64.226.122.88:31677?security=&encryption=none&type=grpc#@meli_proxyy
 vless://60d955c2-c8b5-492c-a457-af3ffe2ca6a2@99.199.73.53:6068?security=none&encryption=none&host=www.speedtest.net/?BIA_CHANEL@JOKERRVPN&headerType=http&type=tcp
 vless://60d955c2-c8b5-492c-a457-af3ffe2ca6a2@99.199.73.53:6068?security=none&encryption=none&host=www.speedtest.net/?BIA_CHANEL@JOKERRVPN&headerType=http&type=tcp#@CaV2ray
@@ -498,3 +494,7 @@ vless://63005378-e32e-4e23-bc6e-84812f147a6f@172.66.44.118:443/?type=ws&encrypti
 vless://63005378-e32e-4e23-bc6e-84812f147a6f@172.66.44.118:443?path=🔒
 vless://63005378-e32e-4e23-bc6e-84812f147a6f@172.66.47.138:443/?type=ws&encryption=none&host=configmr.pages.dev&path=%2FVrChX4o5oasIm4In%3Fed%3D2560&security=tls&sni=ConFIgmr.PaGeS.dEV&alpn=h2%2Chttp%2F1.1&fp=randomized#%40Hope_Net-join-us-on-Telegram
 vless://63005378-e32e-4e23-bc6e-84812f147a6f@172.66.47.138:443/?type=ws&encryption=none&host=configmr.pages.dev&path=🔒
+vless://63005378-e32e-4e23-bc6e-84812f147a6f@45.159.219.96:443/?type=ws&encryption=none&host=ConFIgmr.PaGeS.dEV&path=🔒
+vless://63005378-e32e-4e23-bc6e-84812f147a6f@45.159.219.96:443?path=🔒
+vless://63055150-ec7c-4bf3-9708-3fe7d6e1d912@104.18.58.47:2087?path=🔒
+vless://6306f288-a5f5-4886-8e6d-944d1a951cfd@185.146.173.58:8080?encryption=none&host=lc10.lebasnoo.ir.&path=🔒
