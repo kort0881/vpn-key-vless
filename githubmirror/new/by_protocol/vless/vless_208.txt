@@ -1,5 +1,3 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.179.217.208:8880?mode=gun&security=none&encryption=none&type=grpc#All-@V2rayAlpha--6
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.179.217.208:8880?mode=gun&security=none&encryption=none&type=grpc#WiFi-@V2rayAlpha--8
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.179.217.208:8880?mode=gun&security=none&encryption=none&type=grpc#𝗝𝗼𝗶𝗻
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.217.134.58:8880?mode=gun&security=none&encryption=none&type=grpc
 vless://df0680ca-e43c-498d-ed86-8e196eedd012ijnqibqygqo98710@138.199.175.204:8880?type=grpc&mode=gun&security=none
@@ -498,3 +496,5 @@ vless://e3dc0d6a-aa94-4d1f-e930-f162aec8b624@172.67.169.244:80/?type=ws&encrypti
 vless://e3dc0d6a-aa94-4d1f-e930-f162aec8b624@172.67.169.244:80/?type=ws&encryption=none&host=sbl.ailicf.us.kg&path=%2F3dc0d6a#%40Hope_Net-join-us-on-Telegram
 vless://e3dc0d6a-aa94-4d1f-e930-f162aec8b624@carmelo.ns.cloudflare.com:443/?type=ws&encryption=none&host=sbl.ailicf.us.kg&path=%2F3dc0d6a&security=tls&sni=sbl.ailicf.us.kg#%40Hope_Net-join-us-on-Telegram
 vless://e3e0d5f2-1954-4238-93ba-9321dd88d45a@www.speedtest.net:8880?type=ws&path=🔒
+vless://e3e0d5f2-1954-4238-93ba-9321dd88d45a@www.zula.ir:8880?type=ws&path=🔒
+vless://e3e4f965-82f1-4fc9-bfae-89a69008be60@77.110.98.221:36994/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒
