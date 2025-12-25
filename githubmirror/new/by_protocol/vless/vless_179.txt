@@ -1,5 +1,3 @@
-vless://77a40992-d9ba-4ed1-a542-bacf18d095c3@mkop.v2try.sbs:27094?security=none&encryption=none&headerType=none&type=tcp#%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%F0%9F%96%A4
-vless://77a571fb-4fd2-4b37-8596-1b7d9728bb5c@104.17.110.70:80?security=&type=ws&path=🔒
 vless://77a571fb-4fd2-4b37-8596-1b7d9728bb5c@45.80.111.10:80?path=🔒
 vless://77a571fb-4fd2-4b37-8596-1b7d9728bb5c@ja.vivacello.org:80?path=🔒
 vless://77aad3ce-609e-4142-8e87-4b98d8b55b0a@test.fast.hosting-ip.com:80?mode=auto&path=/@EXPRESSVPN_420--------@EXPRESSVPN_420--------@EXPRESSVPN_420--------@EXPRESSVPN_420--------@EXPRESSVPN_420--------@EXPRESSVPN_420--------@EXPRESSVPN_420--------@EXPRESSVPN_420--------@EXPRESSVPN_420--------@EXPRESSVPN_420--------@EXPRESSVPN_420--------@EXPRESSVPN_420--------@EXPRESSVPN_420--------@EXPRESSVPN_420--------@EXPRESSVPN_420--------@EXPRESSVPN_420--------@EXPRESSVPN_420--------@EXPRESSVPN_420--------@EXPRESSVPN_420&security=none&encryption=none&host=Ctarboy726.ir&type=xhttp#@EXPRESSVPN_420
@@ -498,3 +496,5 @@ vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@45.8.211.184:443/?type=ws&encryptio
 vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@45.8.211.184:443/?type=ws&encryption=none&host=rAyAn-12.LeIlA.DpDnS.OrG&path=🔒
 vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@45.8.211.236:443/?type=ws&encryption=none&host=rayan-12.leila.dpdns.org&path=🔒
 vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@45.8.211.254:443?security=tls&sni=🔒
+vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@check-host.net:443/?type=ws&encryption=none&host=rayan-10.leila.dpdns.org&path=%2F%3Fed%3D2560&security=tls&sni=rAyAn-10.LeIlA.DpDnS.OrG&fp=chrome#%F0%9F%9B%B896%40oneclickvpnkeys
+vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@check-host.net:443/?type=ws&encryption=none&host=rayan-10.leila.dpdns.org&path=🔒

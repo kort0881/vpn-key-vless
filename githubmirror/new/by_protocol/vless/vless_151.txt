@@ -1,5 +1,3 @@
-vless://103104c5-a3f5-4c48-8d8f-a72a56959799@104.17.15.166:443/?type=ws&encryption=none&host=zyzzzoao.putata.eu.org&path=🔒
-vless://103104c5-a3f5-4c48-8d8f-a72a56959799@104.17.252.217:443/?type=ws&encryption=none&host=zyzzzoao.putata.eu.org&path=%2FaLeWKcOOsNmDaotw%3Fed%3D2560&security=tls&sni=ZYzzZoAO.putata.eU.Org&alpn=h2%2Chttp%2F1.1&fp=randomized#%F0%9F%AB%9040%40oneclickvpnkeys
 vless://103104c5-a3f5-4c48-8d8f-a72a56959799@104.17.252.217:443/?type=ws&encryption=none&host=zyzzzoao.putata.eu.org&path=🔒
 vless://103104c5-a3f5-4c48-8d8f-a72a56959799@104.17.92.98:443/?type=ws&encryption=none&host=zyzzzoao.putata.eu.org&path=%2FnS7O2tPfhZMcEOcM%3Fed%3D2560&security=tls&sni=ZyzZzoAo.pUTaTA.EU.Org&alpn=h2%2Chttp%2F1.1&fp=randomized#%F0%9F%AB%9030%40oneclickvpnkeys
 vless://103104c5-a3f5-4c48-8d8f-a72a56959799@104.17.92.98:443/?type=ws&encryption=none&host=zyzzzoao.putata.eu.org&path=🔒
@@ -498,3 +496,5 @@ vless://15398933-070d-4ea2-9697-5fcd79793c97@91.99.54.106:443?security=none&encr
 vless://15398933-070d-4ea2-9697-5fcd79793c97@91.99.54.106:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#RELAY🚩
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.160.145:443/?encryption=none&host=zula.ir%2F%3FTELEGRAM%40JOKERRVPN&type=tcp&headerType=http
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.160.145:443/?encryption=none&host=zula.ir%2F%3FTELEGRAM%40JOKERRVPN&type=tcp&headerType=http#%E2%87%9D%40Gp_Config%20%F0%9F%9F%A1%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%D9%82%D8%B7%D8%B9%20%D9%86%D8%B4%DB%8C
+vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.160.151:443/?encryption=none&host=zula.ir%2F%3FTELEGRAM%40JOKERRVPN&type=tcp&headerType=http
+vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.160.151:443/?encryption=none&host=zula.ir%2F%3FTELEGRAM%40JOKERRVPN&type=tcp&headerType=http#%E2%87%9D%20%40GpConnectSho%20%DA%A9%D8%A7%D9%86%DA%A9%D8%AA%20%D8%B4%D9%88%21%20%F0%9F%93%8C

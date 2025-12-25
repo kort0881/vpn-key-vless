@@ -1,5 +1,3 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.49:8880?mode=gun&security=none&encryption=none&type=grpc
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.49:8880?mode=gun&security=none&encryption=none&type=grpc#@Maznet-46201-4
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.59:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.144.28.5:8880/?type=grpc&encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40prrofile_purple%20%5B144%5D
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.144.28.5:8880?mode=gun&security=&encryption=none&type=grpc#@V2rayNG3
@@ -498,3 +496,5 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012ijnqibqygqo98710@138.199.175.204:888
 vless://df0e67fc-a6e5-41d8-95fd-97dfb96d2802@207.154.236.4:20087?security=none&encryption=none&headerType=none&type=tcp
 vless://df1bdf76-7525-4e92-f337-a6e4d31dd26c@zula-game.karaj-game-farsi.ir:443?type=grpc&serviceName=/@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM&authority=&security=reality&pbk=UUYC2_gNNVUIpGrNghmPKdJZRwbF0elm-cpKW8W2cWU&fp=chrome&sni=🔒
 vless://df2f3a19-7f58-4884-b2c4-e6a0bd723078@172.66.46.246:443?path=🔒
+vless://df2ff417-082c-4644-8d75-af12e74d8477@31.58.144.49:6666?security=&encryption=none&type=grpc&serviceName=/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy
+vless://df2ff417-082c-4644-8d75-af12e74d8477@binex.tv.sedanor.ir:6666?type=grpc&serviceName=/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy&authority=&security=none

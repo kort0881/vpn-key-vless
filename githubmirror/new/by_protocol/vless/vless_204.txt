@@ -1,5 +1,3 @@
-vless://d5ad5040-00fb-4858-df1d-a1a10112189b@chat.deepseek.com:80?type=ws&path=🔒
-vless://d5ad5040-00fb-4858-df1d-a1a10112189b@tgju.org:80?path=/olem/ws?ed=1024&security=none&encryption=none&host=fin.channel.digicyber.click&type=ws#💎کانفیگ
 vless://d5ad5040-00fb-4858-df1d-a1a10112189b@tgju.org:80?path=🔒
 vless://d5ad5040-00fb-4858-df1d-a1a10112189b@tgju.org:80?type=ws&path=🔒
 vless://d5ad5040-00fb-4858-df1d-a1a10112189b@www.speedtest.net:80?type=ws&path=🔒
@@ -498,3 +496,5 @@ vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@5.129.208.19:34045?security=reality
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@5.61.50.192:34045/?type=tcp&encryption=none&flow=&sni=🔒
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@5.61.50.192:34045/?type=tcp&encryption=none&sni=🔒
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@5.61.50.192:34045?encryption=none&security=reality&sni=🔒
+vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@5.61.63.5:34045/?type=tcp&encryption=none&sni=🔒
+vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@64.188.96.208:34045/?type=tcp&encryption=none&sni=🔒

@@ -1,5 +1,3 @@
-vless://5a86cc48-98e8-4c32-836c-a9b98da83dbe@ava.game.naver.com.cillnet.my.id:443?encryption=none&security=tls&sni=🔒
-vless://5a998931-c4be-4441-8a0d-81ffe55b5c64@212.95.41.20:900/?type=xhttp&encryption=none&sni=🔒
 vless://5a998931-c4be-4441-8a0d-81ffe55b5c64@212.95.41.20:900?mode=auto&path=🔒
 vless://5a998931-c4be-4441-8a0d-81ffe55b5c64@hajimamad.timeclassic.ir:900?mode=auto&path=🔒
 vless://5a998931-c4be-4441-8a0d-81ffe55b5c64@hajimamad.timeclassic.ir:900?type=xhttp&path=🔒
@@ -498,3 +496,5 @@ vless://609cbb2a-8bd3-4c3d-ad54-220863b5d670@95.38.104.119:1919?security=none&en
 vless://609cbb2a-8bd3-4c3d-ad54-220863b5d670@95.38.104.119:1919?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#@CaV2ray
 vless://60af76a9-66c2-461e-8545-6fe0ac2822f8@104.21.17.127:443/?type=ws&encryption=none&host=trre.859885.xyz&path=%2F6pC5ZWNjJLlDlbpi&security=tls&sni=trre.859885.xyz&alpn=http%2F1.1&fp=chrome#%40Hope_Net-join-us-on-Telegram
 vless://60af76a9-66c2-461e-8545-6fe0ac2822f8@104.21.17.127:443/?type=ws&encryption=none&host=trre.859885.xyz&path=🔒
+vless://60af76a9-66c2-461e-8545-6fe0ac2822f8@172.67.176.196:443/?type=ws&encryption=none&host=w2.859885.xyz&security=tls&sni=w2.859885.xyz&alpn=http%2F1.1#%40Hope_Net-join-us-on-Telegram
+vless://60af76a9-66c2-461e-8545-6fe0ac2822f8@172.67.176.196:443/?type=ws&encryption=none&host=w2.859885.xyz&security=tls&sni=🔒

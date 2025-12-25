@@ -1,5 +1,3 @@
-vless://e53ecb38-1974-4cca-b640-039e1f310710@104.21.37.43:8443/?type=httpupgrade&encryption=none&host=app.soft10.ir&path=🔒
-vless://e542acb6-f09b-4073-b5b4-2372f236f398@172.66.40.99:443?path=🔒
 vless://e54344fd-82d2-4117-a654-4d28c8bc52bc@windrunner.fonixapp.org:11301/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒
 vless://e54344fd-82d2-4117-a654-4d28c8bc52bc@windrunner.fonixapp.org:11301?security=reality&encryption=none&pbk=tK-R4w5CsF0DSBD0ycQcRQLKgYqOi0TBQFZCHmsaa1Q&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=ilovepdf.com&sid=992756930320c803#WiFi-@V2rayAlpha--11
 vless://e54344fd-82d2-4117-a654-4d28c8bc52bc@windrunner.fonixapp.org:11301?security=reality&encryption=none&pbk=tK-R4w5CsF0DSBD0ycQcRQLKgYqOi0TBQFZCHmsaa1Q&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=🔒
@@ -498,3 +496,5 @@ vless://e7531b0f-c610-89f1-ff87-09be35fdac2c@ladisix.modernstore3.ir:8080?securi
 vless://e7531b0f-c610-89f1-ff87-09be35fdac2c@lalotwo.close-softmeto.ir:8080?security=none&encryption=none&host=lalotwo.close-softmeto.ir&type=httpupgrade
 vless://e7531b0f-c610-89f1-ff87-09be35fdac2c@laneone.modernstore3.ir:8080?security=none&encryption=none&host=laneone.modernstore3.ir&type=httpupgrade
 vless://e7531b0f-c610-89f1-ff87-09be35fdac2c@lausthree.testspeedge.ir:8080?security=none&encryption=none&host=lausthree.testspeedge.ir&type=httpupgrade
+vless://e7531b0f-c610-89f1-ff87-09be35fdac2c@sw.modernstore3.ir:80?mode=auto&path=🔒
+vless://e7531b0f-c610-89f1-ff87-09be35fdac2c@sw.testspeedge.ir:80?mode=auto&path=🔒
