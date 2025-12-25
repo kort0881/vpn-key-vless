@@ -1,4 +1,3 @@
-vless://b19eacb5-cfd2-9792-3193-d88c0ce89254@167.99.195.8:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒
 vless://b19fb147-8ff7-465f-8525-312fd889fd73@public.alpanel.top:1403?mode=gun&security=reality&encryption=none&pbk=rCdor1DLbQcXbNBD9aiLIoCYHwqTMh8ao9MIPMXo0yA&fp=chrome&spx=%2F&type=grpc&serviceName=@vmesskhodam,@vmesskhodam,@vmesskhodam,@vmesskhodam,@vmesskhodam&sni=🔒
 vless://b1a1ac9d-27aa-417a-9980-03b79cccc1e9@172.66.40.99:8080?path=🔒
 vless://b1a441f5-ee43-4903-ab2e-a80c0d1a71eb@188.245.125.135:8443?encryption=none&flow=xtls-rprx-vision&pbk=f9yPFWY54wzWAvcPgsg8KqW1wvKhWbHHiP9pQzpD5mM&security=reality&sid=9d152a93&sni=🔒
@@ -498,3 +497,4 @@ vless://b6a617b7-758e-4639-b2f4-d296c0f1b03e@104.17.197.101:2052?encryption=none
 vless://b6a617b7-758e-4639-b2f4-d296c0f1b03e@104.18.252.199:2052/?type=ws&encryption=none&host=register.tunnelbreaking.shop&path=🔒
 vless://b6a617b7-758e-4639-b2f4-d296c0f1b03e@104.19.114.165:2052/?type=ws&encryption=none&host=register.tunnelbreaking.shop&path=%2F#%F0%9F%A9%B468%40oneclickvpnkeys
 vless://b6a617b7-758e-4639-b2f4-d296c0f1b03e@104.19.114.165:2052/?type=ws&encryption=none&host=register.tunnelbreaking.shop&path=🔒
+vless://b6a617b7-758e-4639-b2f4-d296c0f1b03e@104.19.118.80:2052/?type=ws&encryption=none&host=register.tunnelbreaking.shop&path=%2F#%F0%9F%8F%96%EF%B8%8F4%40oneclickvpnkeys

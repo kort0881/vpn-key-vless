@@ -1,4 +1,3 @@
-vless://a6fd4548-23da-4bb8-a91f-6013c5cd8e2f@par1.vpntype.dev:8443?security=reality&encryption=none&pbk=ExvhqXfyAWkqInK6hAY_ePlR-WggXgpSy0phURcuwU8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com#All-@V2rayAlpha--45
 vless://a6fd4548-23da-4bb8-a91f-6013c5cd8e2f@par1.vpntype.dev:8443?security=reality&encryption=none&pbk=ExvhqXfyAWkqInK6hAY_ePlR-WggXgpSy0phURcuwU8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com#REALITY|FR🇫🇷
 vless://a6fd4548-23da-4bb8-a91f-6013c5cd8e2f@par1.vpntype.dev:8443?security=reality&encryption=none&pbk=ExvhqXfyAWkqInK6hAY_ePlR-WggXgpSy0phURcuwU8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒
 vless://a707317c-2236-41c0-9c00-63e866401b25@server2.ultra-irancell.com:80/?type=xhttp&encryption=none
@@ -498,3 +497,4 @@ vless://ab80aaf6-8020-425e-8ddd-cb3dd48c5d41@45.150.174.87:443?security=reality&
 vless://ab868c6c-c22a-419b-e24e-a52c98d4115b@acv-79.privetpack.site:8080?path=%2F&security=none&encryption=none&type=ws#%40shadowlinkserverrvmess://eyJhZGQiOiIxLmFyc2FsYW52My5zYnMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiIiLCJpZCI6IjMwMzUyZTAwLTRhM2UtNDRkYS1mYzkyLWRhMTAyZjAxMmY3OSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjA5NSIsInBzIjoiQHZfcF9sdiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==vmess://eyJhZGQiOiJzc3YtMS5mLXN1Yi54eXoiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiIiLCJpZCI6ImViNWY1YjkxLTg2NjItNDhhMS1lZmZkLTdjZGRkYzA0YTY4OCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTA3OTIiLCJwcyI6IkB2X3BfbHYiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vless://ab868c6c-c22a-419b-e24e-a52c98d4115b@acv-79.privetpack.site:8080?path=🔒
 vless://ab8d447f-d68b-476f-ae24-ba64ef6bf208@104.26.15.69:8880?path=🔒
+vless://ab929dc5-7825-4d46-b69c-67b1d820b92a@84.234.28.119:51912?security=none&encryption=none&headerType=none&type=tcp

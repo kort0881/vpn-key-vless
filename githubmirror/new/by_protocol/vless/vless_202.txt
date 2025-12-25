@@ -1,4 +1,3 @@
-vless://d1e44075-8c92-4698-9db0-e71d7015b757@small-meal.oneeat.co:80/?type=ws&encryption=none&flow=&host=small-meal.oneeat.co&path=🔒
 vless://d1e44075-8c92-4698-9db0-e71d7015b757@small-meal.oneeat.co:80/?type=ws&encryption=none&path=🔒
 vless://d1e44075-8c92-4698-9db0-e71d7015b757@small-meal.oneeat.co:80?&type=ws&headerType=none&host=small-meal.oneeat.co&path=🔒
 vless://d1e44075-8c92-4698-9db0-e71d7015b757@small-meal.oneeat.co:80?encryption=none&security=none&sni=🔒
@@ -498,3 +497,4 @@ vless://d511b732-ade2-43dd-b2b9-76b215782326@152.53.142.129:35580?security=reali
 vless://d511b732-ade2-43dd-b2b9-76b215782326@152.53.142.129:35580?security=reality&encryption=none&pbk=gZ5Jr2vSi47aGdLo3321fO_bH7Kv3_Pdv6ZjQAEY7Vs&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒
 vless://d512bf22-e4f5-46d6-b531-b398e25eef7e@172.66.156.81:80?encryption=none&type=ws&host=websocket.network.www.speedtest.net.flutter.dev.russia.pyt.digitalcity5.xyz.&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy#🇺🇸
 vless://d512bf22-e4f5-46d6-b531-b398e25eef7e@172.66.156.81:80?encryption=none&type=ws&host=websocket.network.www.speedtest.net.flutter.dev.russia.pyt.digitalcity5.xyz.&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy&security=none#🇺🇸@Shh_Proxy
+vless://d512bf22-e4f5-46d6-b531-b398e25eef7e@172.66.156.81:80?encryption=none&type=ws&host=websocket.network.www.speedtest.net.flutter.dev.russia.pyt.digitalcity5.xyz.&path=🔒

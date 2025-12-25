@@ -1,4 +1,3 @@
-vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@38.78.145.95:34045/?type=tcp&encryption=none&sni=🔒
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@43.160.193.138:34045?security=reality&sni=🔒
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@45.12.28.231:34045/?type=tcp&encryption=none&sni=🔒
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@45.129.141.130:34045/?type=tcp&encryption=none&sni=🔒
@@ -498,3 +497,4 @@ vless://ddd02f94-4422-4242-835a-90e71a231704@test2.amin8263.ir:2095?path=/@XpnTe
 vless://ddd02f94-4422-4242-835a-90e71a231704@test2.amin8263.ir:2095?path=🔒
 vless://ddd02f94-4422-4242-835a-90e71a231704@test2.amin8263.ir:2095?type=ws&encryption=none&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&host=test3.amin8263.ir&security=none#🇩🇪
 vless://ddd02f94-4422-4242-835a-90e71a231704@test2.amin8263.ir:2095?type=ws&encryption=none&path=🔒
+vless://ddd02f94-4422-4242-835a-90e71a231704@www.speedtest.net:2095?path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&security=none&encryption=none&host=test3.amin8263.ir&type=ws#🇩🇪+@bored_vpn
