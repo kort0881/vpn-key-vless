@@ -1,4 +1,3 @@
-vless://87e5597d-88d4-4581-a534-5071851b3b2c@tn14.radmehrmax.ir:8088?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tn14-396
 vless://3dfc7eeb-1997-4353-9b57-d8f531c1e1c2@tn14.radmehrmax.ir:8088?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tn14-397
 vless://da0ea82a-e8de-4eed-8094-762c529624ae@tn14.radmehrmax.ir:8088?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tn14-398
 vless://9c3f3917-233c-4f40-9682-396ebdd3cf3f@tn14.radmehrmax.ir:8088?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tn14-399
@@ -498,3 +497,4 @@ vless://b4be228b-a5c5-4eaf-a5c0-1ddd0b8eafcf@tnl37.radvinmax.ir:8765?encryption=
 vless://a49b9cfd-e527-44c9-a7b8-7d269600ed3b@tnl37.radvinmax.ir:8765?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tnl37-893
 vless://cabc8169-55f9-4a9a-98d0-b48ee653dc1f@tnl37.radvinmax.ir:8765?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tnl37-894
 vless://2df7f4ae-cdb8-4b0a-84ed-39047c22ca23@tnl37.radvinmax.ir:8765?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tnl37-895
+vless://3ac662d3-89f1-4334-b836-209a14aa8de6@tnl37.radvinmax.ir:8765?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tnl37-896
