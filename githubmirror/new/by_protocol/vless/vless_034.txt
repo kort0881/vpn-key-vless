@@ -1,4 +1,3 @@
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:2096?path=/&security=tls&alpn=h3,h2&encryption=none&host=6Dd1Xt31Qm.SoLeNtRaA.iNfO&fp=chrome&type=ws&sni=6Dd1Xt31Qm.SoLeNtRaA.iNfO#:prrofile_purple@
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:8443?path=/&security=tls&encryption=none&fp=chrome&type=ws&sni=Rx2TfQ98lT.sOlEnTrAa.InFo#:prrofile_purple@
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@172.66.40.99:8443?path=/&security=tls&encryption=none&host=D0dTpVg4Z3.sOlEnTrAa.InFo&fp=chrome&type=ws&sni=D0dTpVg4Z3.sOlEnTrAa.InFo#JOIN @FILTERK0SH
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@92.118.232.28:443?path=/&security=tls&encryption=none&fp=chrome&type=ws#MCI--@IRAN_V2RAY1
@@ -498,3 +497,4 @@ vless://fac1c66f-3ba3-4d24-8ae8-d6049d949898@51.38.64.196:443?security=reality&e
 vless://fad329ac-313b-471c-8d94-a6e8f598990e@104.27.80.66:80?mode=auto&path=/&security=&encryption=none&host=vp3.mydatacloud2.ir&type=xhttp#telegram
 vless://fad329ac-313b-471c-8d94-a6e8f598990e@104.27.80.66:80?mode=auto&path=/&security=none&encryption=none&host=vp3.mydatacloud2.ir&type=xhttp#MCI-@V2rayAlpha--1
 vless://fad329ac-313b-471c-8d94-a6e8f598990e@188.114.97.139:80?mode=auto&path=/&security=none&encryption=none&host=vp3.mydatacloud2.ir&type=xhttp#MCI-@V2rayAlpha--2
+vless://fad329ac-313b-471c-8d94-a6e8f598990e@198.41.192.125:80?mode=auto&path=/&security=none&encryption=none&host=vp3.mydatacloud2.ir&type=xhttp#MCI-@V2rayAlpha--3

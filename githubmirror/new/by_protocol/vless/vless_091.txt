@@ -1,3 +1,5 @@
+vless://98ad4415-95da-4f89-bf41-409b6a9e47b7@193.164.155.188:6565?security=reality&encryption=none&pbk=rNRdBK8OH1KwN1ObGsMyVAM7YjYme8BYwZB-kqYLRj4&headerType=none&fp=chrome&spx=/&type=tcp&sid=a5 # [ By EbraSha ]
+vless://98ca078c-e193-47f7-8ee8-a7f579440721@185.231.205.153:443/?type=ws&encryption=none&flow=&security=tls&fp=chrome # [ By EbraSha ]
 vless://98dc8a17-0e58-4270-8407-95869d24bb5c@www.speedtest.net:443?security=tls&allowInsecure=1&fp=chrome&type=ws&host=speedtest.net&encryption=none # [ By EbraSha ]
 vless://98dc8a17-0e58-4270-8407-95869d24bb5c@www.speedtest.net:443?security=tls&encryption=none&host=speedtest.net&fp=chrome&type=ws # [ By EbraSha ]
 vless://98dc8a17-0e58-4270-8407-95869d24bb5c@www.speedtest.net:443?security=tls&type=ws&host=speedtest.net&fp=chrome&encryption=none # [ By EbraSha ]
@@ -496,5 +498,3 @@ vless://a7bfa412-5216-4903-9996-5b48da092172@f.paliss.ir:2525?security=none&encr
 vless://a7c617c90de442f19c0af1c2e64d83fe@176.125.240.166:8443?mode=auto&security=reality&encryption=none&pbk=GgiY38LjRI1hS1LKhdqvtJ5SDDO436GvihG-TzEI2XE&fp=chrome&type=xhttp&sid=aabbccdd # [ By EbraSha ]
 vless://a7c7966a-82ea-45f8-bb32-5d80e6caf320@graygoat.fonixapp.org:45846?security=reality&encryption=none&pbk=17q39_glGtdUgFWkKwjxnBG0PxYkJbgt9bfkotaj7yg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sid=ac # [ By EbraSha ]
 vless://a7cdce51-fe3f-4a0e-9858-768e5a5e4678@pico1.zarashop0.ir:2087/?type=grpc&encryption=none&flow=&security=tls&allowInsecure=1 # [ By EbraSha ]
-vless://a7cdce51-fe3f-4a0e-9858-768e5a5e4678@pico1.zarashop0.ir:2087?mode=gun&security=tls&encryption=none&authority=&type=grpc&serviceName= # [ By EbraSha ]
-vless://a7cdce51-fe3f-4a0e-9858-768e5a5e4678@pico1.zarashop0.ir:2087?mode=gun&security=tls&encryption=none&authority=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&insecure=0&type=grpc&allowInsecure=0 # [ By EbraSha ]

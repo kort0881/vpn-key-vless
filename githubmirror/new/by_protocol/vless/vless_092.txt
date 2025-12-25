@@ -1,3 +1,5 @@
+vless://a7cdce51-fe3f-4a0e-9858-768e5a5e4678@pico1.zarashop0.ir:2087?mode=gun&security=tls&encryption=none&authority=&type=grpc&serviceName= # [ By EbraSha ]
+vless://a7cdce51-fe3f-4a0e-9858-768e5a5e4678@pico1.zarashop0.ir:2087?mode=gun&security=tls&encryption=none&authority=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&insecure=0&type=grpc&allowInsecure=0 # [ By EbraSha ]
 vless://a7cdce51-fe3f-4a0e-9858-768e5a5e4678@pico1.zarashop0.ir:2087?mode=gun&security=tls&encryption=none&authority=/xx&insecure=1&type=grpc&allowInsecure=1 # [ By EbraSha ]
 vless://a7cdce51-fe3f-4a0e-9858-768e5a5e4678@pico1.zarashop0.ir:2087?mode=gun&security=tls&encryption=none&type=grpc # [ By EbraSha ]
 vless://a7e04b44-855e-4fe7-8fa0-31894e928bce@104.131.32.9:443?security=reality&encryption=none&pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sid=a4844ba7 # [ By EbraSha ]
@@ -496,5 +498,3 @@ vless://c4335777-e8c8-438b-9364-4bbae410b262@91.99.144.152:443?type=tcp&host=spe
 vless://c43b7819-008e-4863-aa20-9d3fc2935df8@dl.fastsoft98.ir:443?encryption=none&security=tls&alpn=h2&fp=chrome&type=ws&host=speedtest.net # [ By EbraSha ]
 vless://c43b7819-008e-4863-aa20-9d3fc2935df8@rezidental.az9x99.ir:2053?encryption=none&security=none&type=tcp&headerType=none # [ By EbraSha ]
 vless://c43b7819-008e-4863-aa20-9d3fc2935df8@star-cdn.az9x99.ir:2053?encryption=none&security=tls&alpn=h2&fp=chrome&type=ws&host=speedtest.net # [ By EbraSha ]
-vless://c43b7819-008e-4863-aa20-9d3fc2935df8@star-cdn.soft98speedtest.ir:2053?encryption=none&security=tls&alpn=h2&fp=chrome&type=ws&host=speedtest.net # [ By EbraSha ]
-vless://c43b7819-008e-4863-aa20-9d3fc2935df8@star-dc.az9x99.ir:2083?encryption=none&security=tls&alpn=h2&fp=chrome&type=ws&host=speedtest.net # [ By EbraSha ]

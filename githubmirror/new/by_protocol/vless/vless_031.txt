@@ -1,4 +1,3 @@
-vless://bfb7355f-da10-470c-99d2-16c5061c403a@152.42.185.230:23675?path=/FREE By Tharuwa (0767597317)&security=none&encryption=none&host=m.zoom.us&type=ws#
 vless://bfb7355f-da10-470c-99d2-16c5061c403a@152.42.185.230:23675?path=/FREE By Tharuwa (0767597317)&security=none&encryption=none&host=m.zoom.us&type=ws#@Daily_Configs
 vless://bfc73db8-88ee-4739-844d-2a1aebda0671@SVNTEAM.MiSVN.iR:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=tgju.org&fp=chrome&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&sid=e54b5ad736ae4c38#SVNTEANTCP-46
 vless://bfc78cd8-5951-4803-8d6c-4cedef8cd420@95.164.85.109:59374/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=ZsswZuBV8bEGQWFrpShCilSytnDUj0kwHFhTSLXzOwc&sid=d21e7c#92@oneclickvpnkeys
@@ -498,3 +497,4 @@ vless://d03e1748-b8f2-45c7-bf86-6b3964c3e093@188.132.183.15:8443?security=realit
 vless://d03e1748-b8f2-45c7-bf86-6b3964c3e093@188.34.179.15:8443?security=reality&encryption=none&pbk=cdZROd5jYaqrDcmZJUw_KSpfUusjrrKDgah8ZkOdF2E&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&type=tcp&sni=refersion.com&sid=b44cea83b91a143a# | @External_Net
 vless://d052fe01-dafb-444d-b0fd-1d42211a5534@Net.1lagvpn13.cfd:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@L_AGVPN13 @L_AGVPN13 @L_AGVPN13 @L_AGVPN13&sni=C.1lagvpn13.cfd#34ezkdls
 vless://d052fe01-dafb-444d-b0fd-1d42211a5534@Net.1lagvpn13.cfd:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@L_AGVPN13 @L_AGVPN13 @L_AGVPN13 @L_AGVPN13&sni=C.1lagvpn13.cfd#34ezkdls     G
+vless://d0a6999d-2849-4470-98f5-241b685f41b9@arcwarden.fonixapp.org:2083?security=reality&encryption=none&pbk=o3zpeJmn49sX_Vv50WgzxXcFetXiPfzxpdQ3gXKmJxA&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=update.googleapis.com&sid=04350b#@V2ray1_Ng

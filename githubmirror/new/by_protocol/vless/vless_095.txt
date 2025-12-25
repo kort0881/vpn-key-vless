@@ -1,3 +1,5 @@
+vless://e4877e07-99b2-49a1-b386-ba0c0c3f9184@62.60.217.8:28485?mode=gun&security=reality&encryption=none&pbk=kP5lEpXBe5wbaSLOR6A9azX6kwMkfEk06bMkEpZxdSE&fp=chrome&spx=/&type=grpc&serviceName=/@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec&sid=dc # [ By EbraSha ]
+vless://e490536d-c19a-4d38-ae62-cec388de4034@tgju.org:80?security=none&encryption=none&host=speedtest.net&type=ws # [ By EbraSha ]
 vless://e490690c-388b-4d0e-90de-dd6f8e7619a3@v26.gaterserver.ir:1370?security=reality&encryption=none&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&headerType=none&fp=chrome&type=tcp&sid=e1afb93bfe75a34b # [ By EbraSha ]
 vless://e498fe2d-f299-42c8-a7e1-9dfc1c5974a7@Evay-vpn.octacityroleplay.ir:1122?encryption=none&type=xhttp&host=speedtest.net&security=reality&fp=chrome&pbk=4iCkO1B_tdvJY7x_v9izvkoNDfdGIFiL2LQX2Nqv5RI&sid=4c7b0ea36fc7f0c4 # [ By EbraSha ]
 vless://e4a4438f-585b-4555-b8e3-f032def5819c@161.35.71.211:443?mode=stream-one&security=reality&encryption=none&pbk=PxUNgm0eZte9F8f8ntMTADWX-37SzRBvlLGLvlOH9lo&fp=chrome&spx=/&type=xhttp # [ By EbraSha ]
@@ -496,5 +498,3 @@ vless://f61a4285-7264-4d07-9408-7b9ba1922c26@104.21.224.5:2096?security=tls&encr
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@159.246.55.253:2096?security=tls&encryption=none&fp=chrome&type=ws # [ By EbraSha ]
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@159.246.55.253:2096?security=tls&encryption=none&host=speedtest.net&fp=chrome&type=ws # [ By EbraSha ]
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@159.246.55.253:2096?security=tls&encryption=none&insecure=0&host=speedtest.net&fp=chrome&type=ws&allowInsecure=0 # [ By EbraSha ]
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@25.25.25.253:2096?encryption=none&type=ws&host=speedtest.net&security=tls # [ By EbraSha ]
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@25.25.25.253:2096?security=tls&encryption=none&host=speedtest.net&fp=chrome&type=ws # [ By EbraSha ]

@@ -1,3 +1,5 @@
+vless://3c7a1227-5383-3a19-7084-76624ec8f84f@5.181.168.10:1443?security=reality&encryption=none&pbk=pFIyqIJ6RKofhtXRZJ0kcxPIolBHtDIcDYd5KvttUSY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision # [ By EbraSha ]
+vless://3c7a1dfd-5564-40bd-b6ef-6fc55e8ce80d@159.69.112.17:2095?security=none&encryption=none&host=speedtest.net&type=ws # [ By EbraSha ]
 vless://3c7a1dfd-5564-40bd-b6ef-6fc55e8ce80d@172.67.146.171:2095?security=none&encryption=none&host=speedtest.net&type=ws # [ By EbraSha ]
 vless://3c823010-71aa-4e6d-b79f-3f7328dda766@108.165.216.60:2082?security=none&encryption=none&host=speedtest.net&type=httpupgrade # [ By EbraSha ]
 vless://3c8bb2db-27d9-4214-a45c-7a6cb666e7cf@deusup.dashping1.ir:8101?security=reality&encryption=none&pbk=DG2WqjfT9HFqCfHzaYAVNEayiJN8yGQ64YT9-9eV5Fs&fp=chrome&sid=bbddcffa7270&spx=/F------Telegram------RayphoriaHub---------Telegram------RayphoriaHub---------Telegram------RayphoriaHub---------Telegram------RayphoriaHub---------Telegram------RayphoriaHub---------Telegram------RayphoriaHub---&flow=xtls-rprx-vision # [ By EbraSha ]
@@ -496,5 +498,3 @@ vless://4c93864d-8ef5-4d9b-9ff6-ffc4a7c4cac2@a.confignor.site:35493?type=grpc&en
 vless://4ca08fdf-c993-4f90-b258-f0efb4a53351@104.16.1.106:8080?mode=auto&security=none&encryption=none&host=speedtest.net&type=xhttp # [ By EbraSha ]
 vless://4cb12ac3-f4fa-47bc-a009-14b5b7d83510@99.199.73.53:6068?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp # [ By EbraSha ]
 vless://4cb539cb-7e01-4c00-90a1-b89b66881e73@172.245.33.163:10088?security=reality&encryption=none&pbk=CWO043TqIdMiwVVNBydNwdVuzKz3K8p9IIEynpR_dFs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sid=20182bcc0f3415d9 # [ By EbraSha ]
-vless://4cc04a11-08c8-4aa5-8ee4-1173bfdf9df5@5.22.217.136:80?type=tcp&host=speedtest.net&headerType=http&security=none # [ By EbraSha ]
-vless://4cea125d-b9f3-4da4-b948-8b4e58bcc091@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?security=tls&encryption=none&host=speedtest.net&fp=chrome&type=ws # [ By EbraSha ]

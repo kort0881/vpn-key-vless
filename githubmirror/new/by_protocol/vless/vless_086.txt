@@ -1,3 +1,5 @@
+vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@172.67.193.88:443?security=tls&type=ws&host=speedtest.net&fp=chrome&encryption=none # [ By EbraSha ]
+vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@77.37.33.169:80?security=&alpn=h2,http/1.1&encryption=none&host=speedtest.net&fp=chrome&type=ws # [ By EbraSha ]
 vless://29267952-e97b-4f23-9998-b084d934338d@trt.fastlynew.hosting-ip.com:80?mode=auto&security=&encryption=none&host=speedtest.net&type=xhttp # [ By EbraSha ]
 vless://29267952-e97b-4f23-9998-b084d934338d@trt.fastlynew.hosting-ip.com:80?mode=auto&security=&encryption=none&host=speedtest.net&type=xhttp&note=@freeOnlineVPN # [ By EbraSha ]
 vless://29267952-e97b-4f23-9998-b084d934338d@trt.fastlynew.hosting-ip.com:80?mode=auto&security=none&encryption=none&host=speedtest.net&type=xhttp # [ By EbraSha ]
@@ -496,5 +498,3 @@ vless://3c3a9785-f06d-4d75-abd1-44c65462813a@masterserver1.huqpmfood.ir:1331?mod
 vless://3c53a875-557f-4ece-a0b1-8c3c8dfc0458@78.47.66.175:17080/?type=tcp&encryption=none&flow= # [ By EbraSha ]
 vless://3c53a875-557f-4ece-a0b1-8c3c8dfc0458@78.47.66.175:17080?security=&encryption=none&headerType=none&type=tcp # [ By EbraSha ]
 vless://3c7a1227-5383-3a19-7084-76624ec8f84f@147.78.180.10:443?security=reality&encryption=none&pbk=Ot7NIMwy588LBegSSLxqxzXh9MszA0CxFPHbSAj7PR0&host=speedtest.net&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision # [ By EbraSha ]
-vless://3c7a1227-5383-3a19-7084-76624ec8f84f@5.181.168.10:1443?security=reality&encryption=none&pbk=pFIyqIJ6RKofhtXRZJ0kcxPIolBHtDIcDYd5KvttUSY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision # [ By EbraSha ]
-vless://3c7a1dfd-5564-40bd-b6ef-6fc55e8ce80d@159.69.112.17:2095?security=none&encryption=none&host=speedtest.net&type=ws # [ By EbraSha ]

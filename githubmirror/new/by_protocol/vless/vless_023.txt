@@ -1,4 +1,3 @@
-vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@85.9.216.145:4655?security=&encryption=none&headerType=none&type=tcp&note=@freeOnlineVPN# - NL - @freeOnlineVPN
 vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@85.9.216.145:4655?security=none&encryption=none&headerType=none&type=tcp#@Broz_time >
 vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@85.9.216.145:4655?security=none&encryption=none&headerType=none&type=tcp#[]t.me/ConfigsHub
 vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@85.9.216.145:4655?security=none&encryption=none&headerType=none&type=tcp#t.me/entryNET/config=1852334001610058
@@ -498,3 +497,4 @@ vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.64.151.232:443?path==zani.yaemi
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.64.151.232:443?path==zani.yaemiko.ggff.net/?Join---v2ray_configs_pools---Join---v2ray_configs_pools---Join---v2ray_configs_pools---Join---v2ray_configs_pools?ed=2560&security=tls&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#@v2ray_configs_pools
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.64.151.232:443?path==zani.yaemiko.ggff.net/?Join---v2ray_configs_pools---Join---v2ray_configs_pools?ed=2560&security=tls&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#@v2ray_configs_pools
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.64.151.232:443?path=V2rayBaaz&security=tls&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#@v2ray_configs_pools
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.64.151.232:443?security=tls&alpn=h2,http/1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org# @v2ray_configs_pools ()

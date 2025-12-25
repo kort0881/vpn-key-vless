@@ -1,3 +1,5 @@
+vless://c43b7819-008e-4863-aa20-9d3fc2935df8@star-cdn.soft98speedtest.ir:2053?encryption=none&security=tls&alpn=h2&fp=chrome&type=ws&host=speedtest.net # [ By EbraSha ]
+vless://c43b7819-008e-4863-aa20-9d3fc2935df8@star-dc.az9x99.ir:2083?encryption=none&security=tls&alpn=h2&fp=chrome&type=ws&host=speedtest.net # [ By EbraSha ]
 vless://c43b7819-008e-4863-aa20-9d3fc2935df8@star.fastsoft98.ir:80?encryption=none&security=none&type=xhttp&host=speedtest.net&mode=auto # [ By EbraSha ]
 vless://c43b7819-008e-4863-aa20-9d3fc2935df8@tunell-rezidentali.fastsoft98.ir:2080?encryption=none&security=none&type=tcp&headerType=http&host=speedtest.net # [ By EbraSha ]
 vless://c43b7819-008e-4863-aa20-9d3fc2935df8@tunell-star.dsadsadads.ir:2070?encryption=none&security=none&type=tcp&headerType=none # [ By EbraSha ]
@@ -496,5 +498,3 @@ vless://db162b74-0da8-4c69-8b17-2d89defabc24@root.api-music-fa.com:2053?security
 vless://db19fc68-c027-4641-a8eb-eed3e1065c8a@amin.karkas1.ir:443?mode=gun&security=tls&encryption=none&alpn=h2&fp=safari&type=grpc&serviceName=EJUVVd6sh0f9J6drcXIcStL # [ By EbraSha ]
 vless://db3b316b-7502-7cc1-8247-5e7341510802@82.152.98.15:9640?security=reality&type=xhttp&headerType=&host=speedtest.net&mode=auto&extra={"scMaxEachPostBytes":+"1000000",+"scMaxConcurrentPosts":+100,+"scMinPostsIntervalMs":+30,+"xPaddingBytes":+"100-1000",+"noGRPCHeader":+false}&fp=chrome&pbk=AUFnwL6pNO34MevJ6G17fW7RzAo5SOT4DwBk9egKw1Y&sid=c06a4978&spx=/ # [ By EbraSha ]
 vless://db3c93f2-f18f-4acf-c452-89b4da07d07a@104.16.1.106:80?security=none&encryption=none&host=speedtest.net&type=ws # [ By EbraSha ]
-vless://db400287-fb42-441d-8a76-5624a8a96f49@cdnjs.com:443?security=tls&encryption=none&host=speedtest.net&fp=chrome&type=ws # [ By EbraSha ]
-vless://db54c2ca-abe2-19ae-9abf-46a4aa1598f8@de.u-team.ir:2023?security=&encryption=none&host=speedtest.net&type=ws # [ By EbraSha ]
