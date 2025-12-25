@@ -1,4 +1,3 @@
-vless://2-TEL-JKVPN--JKVPN@brenna.ns.cloudflare.com:2095?path=🔒
 vless://2000ec36-ee09-40a3-8d37-ca5de1040b5d@cosmin.ns.cloudflare.com:443?path=/brxigzws&security=tls&encryption=none&type=ws&sni=638996735062000656.highlander-amsih.info#Channel-@vmesskhodam
 vless://2000ec36-ee09-40a3-8d37-ca5de1040b5d@cosmin.ns.cloudflare.com:443?path=🔒
 vless://20039873-1f07-46f3-bae4-3122d123ea7a@dl.huskar.fonixapp.org:26901/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒
@@ -498,3 +497,4 @@ vless://2404f667-5969-4883-a71a-ea2e0db2d25b@whatismyipaddress.com:2096?security
 vless://2404f667-5969-4883-a71a-ea2e0db2d25b@whatismyipaddress.com:2096?security=tls&type=ws&headerType=&path=&host=wwwspeedtestnetwhiteberinsistomd6625996s09.drlimit2.com&sni=wwwspeedtestnetwhiteberinsistomd6625996s09.drlimit2.com&fp=#telegram
 vless://2404f667-5969-4883-a71a-ea2e0db2d25b@whatismyipaddress.com:2096?security=tls&type=ws&headerType=&path=&host=wwwspeedtestnetwhiteberinsistomd6625996s10.ulserver.ir&sni=wwwspeedtestnetwhiteberinsistomd6625996s10.ulserver.ir&fp=#telegram
 vless://2404f667-5969-4883-a71a-ea2e0db2d25b@whatismyipaddress.com:2096?security=tls&type=ws&headerType=&path=&host=wwwspeedtestnetwhiteberinsistomd6625996s11.uuserveruu.ir&sni=wwwspeedtestnetwhiteberinsistomd6625996s11.uuserveruu.ir&fp=#telegram
+vless://2404f667-5969-4883-a71a-ea2e0db2d25b@whatismyipaddress.com:2096?security=tls&type=ws&headerType=&path=&host=wwwspeedtestnetwhiteberinsistomd6625996s13.uuserveruu.ir&sni=wwwspeedtestnetwhiteberinsistomd6625996s13.uuserveruu.ir&fp=#telegram

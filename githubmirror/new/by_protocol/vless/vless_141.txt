@@ -1,3 +1,8 @@
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.142.55:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%40V2rayNG3
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.193:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%40V2rayNG3
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.208.110.183:8880?mode=gun&amp;security=&amp;encryption=none&amp;type=grpc#@V2rayNG3
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.144.28.5:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#@V2rayNG3
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@80.92.206.172:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#@V2rayNG3
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@86.104.74.45:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#@V2rayNG3
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.159:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#@V2rayNG3
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.213:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#@V2rayNG3
@@ -493,8 +498,3 @@ vless://309fa273-6579-4cb2-9143-7cad50401eba@5.253.41.52:8443?security=reality&a
 vless://bfb7355f-da10-470c-99d2-16c5061c403a@152.42.185.230:23675?path=%2FFREE%20By%20Tharuwa%20%280767597317%29&amp;security=&amp;encryption=none&amp;host=m.zoom.us&amp;type=ws#%E2%9B%8482%40ConfigV2RayNG
 vless://1a539db6-d162-42f4-9b56-687bd57bfbc2@nl20.abvpn.ru:443?security=reality&amp;encryption=none&amp;pbk=KXA-hPtvy_hzNER1ZNtUxBv_VrGGKfmIyi4CQAyjGxs&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;sni=mirror.yandex.ru&amp;sid=d94e8f45#%F0%9F%8E%8445%40ConfigV2RayNG
 vless://309fa273-6579-4cb2-9143-7cad50401eba@45.82.249.129:8443?security=reality&amp;encryption=none&amp;pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.cloudflare.com&amp;sid=7cad5040#ConfigV2RayNG
-vless://--LegenderY_Servers--
-vless://309fa273-6579-4cb2-9143-7cad50401eba@45.82.245.39:8443?security=reality&amp;encryption=none&amp;pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.cloudflare.com&amp;sid=7cad5040#ConfigV2RayNG
-vless://TELEGRAM-CONFiGLiNE-104@ip.fastlynew.hosting-ip.com:80?mode=auto&amp;path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&amp;security=&amp;encryption=none&amp;host=barakanal4.global.ssl.fastly.net&amp;type=xhttp#%5B%F0%9F%87%A8%F0%9F%87%AD%5D%40ConfigV2RayNG
-vless://8f631f3f-5854-4d77-961a-ad33e10e29bb@89.23.103.60:5443?path=%2Fvless&amp;security=&amp;encryption=none&amp;host=noda3.mcqueenconnection.ru&amp;type=ws#%E2%9D%84%EF%B8%8F21%40ConfigV2RayNG
-vless://309fa273-6579-4cb2-9143-7cad50401eba@45.15.185.69:8443?security=reality&amp;encryption=none&amp;pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.cloudflare.com&amp;sid=7cad5040#ConfigV2RayNG

@@ -1,8 +1,3 @@
-vless://61757901-3818-46c7-8482-683fa7f6ba10@103.90.75.252:3001?security=&encryption=none&headerType=none&type=tcp#NL🇳🇱
-vless://61757901-3818-46c7-8482-683fa7f6ba10@103.90.75.252:3001?security=&encryption=none&headerType=none&type=tcp#[⚡]
-vless://61757901-3818-46c7-8482-683fa7f6ba10@103.90.75.252:3001?security=&encryption=none&headerType=none&type=tcp#⚡
-vless://61757901-3818-46c7-8482-683fa7f6ba10@103.90.75.252:3001?security=&encryption=none&headerType=none&type=tcp#🇳🇱@FreakConfig
-vless://61757901-3818-46c7-8482-683fa7f6ba10@103.90.75.252:3001?security=none&encryption=none&headerType=none&type=tcp
 vless://61757901-3818-46c7-8482-683fa7f6ba10@103.90.75.252:3001?security=none&encryption=none&headerType=none&type=tcp#@Daily_Configs
 vless://61757901-3818-46c7-8482-683fa7f6ba10@103.90.75.252:3001?security=none&encryption=none&headerType=none&type=tcp#@V2rayNGVPN+
 vless://61757901-3818-46c7-8482-683fa7f6ba10@103.90.75.252:3001?security=none&encryption=none&headerType=none&type=tcp#Channel
@@ -498,3 +493,8 @@ vless://67202920-8d0c-4aca-96a5-6b3b67df2a8c@172.66.40.99:80?path=🔒
 vless://67219d1a-4cd4-45ed-e610-d776aea3dd3d@www.speedtest.net:8880?type=ws&path=🔒
 vless://67219d1a-4cd4-45ed-e610-d776aea3dd3d@www.zula.ir:8880?type=ws&path=🔒
 vless://672ae05e-16e7-4cc9-8d63-01a25ab13c2e@n2vpn-helper.projectis.ir:2083?path=/@n2vpn&security=tls&encryption=none&host=n2vpn.projectis.ir&fp=chrome&type=ws&sni=n2vpn.projectis.ir#@n2vpn+-+کانفیگ+های+اختصاصی
+vless://672ae05e-16e7-4cc9-8d63-01a25ab13c2e@n2vpn-helper.projectis.ir:2083?path=🔒
+vless://672cc605-8f17-4bb1-917a-b82d3faf86d4@all.vipxali.cfd:2083?alpn=http%2F1.1%2Ch2&encryption=none&fp=safari&mode=gun&security=tls&serviceName=%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray%2C%40XsV2ray&sni=🔒
+vless://67340574-ff95-4338-8c8a-46caa044effd@trt.fastlynew.hosting-ip.com:80?encryption=none&type=xhttp&mode=auto&host=maxfr171.global.ssl.fastly.net&path=/?ed=2560&security=none#🇮🇹@SiNAVM
+vless://67340574-ff95-4338-8c8a-46caa044effd@trt.fastlynew.hosting-ip.com:80?encryption=none&type=xhttp&mode=auto&host=maxfr171.global.ssl.fastly.net&path=🔒
+vless://67340574-ff95-4338-8c8a-46caa044effd@trt.fastlynew.hosting-ip.com:80?mode=auto&path=%2F%3Fed%3D2560&security=none&encryption=none&host=maxfr171.global.ssl.fastly.net&type=xhttp#%40V2RAY_VMESS_free

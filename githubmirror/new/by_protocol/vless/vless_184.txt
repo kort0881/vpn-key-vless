@@ -1,9 +1,3 @@
-vless://8a5d06d3-67af-43db-9632-54474883b3eb@170.114.46.79:443?security=tls&sni=🔒
-vless://8a5db114-7ad1-4922-aca4-b079a79f4f04@78.46.162.62:10878/?type=grpc&encryption=none&sni=www.speedtest.net&fp=chrome&security=reality&pbk=xQvsy1P86UklsO5dbNDjaaUiQK3A9PHpM6rirHWSSDw&sid=812db24b#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40configasli%20%5B6%5D
-vless://8a5db114-7ad1-4922-aca4-b079a79f4f04@78.46.162.62:10878?mode=gun&security=reality&encryption=none&pbk=xQvsy1P86UklsO5dbNDjaaUiQK3A9PHpM6rirHWSSDw&fp=chrome&spx=%2F&type=grpc&serviceName=&sni=www.speedtest.net&sid=812db24b#%E2%9D%94%20XX%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40configasli%20%5B6%5D
-vless://8a5db114-7ad1-4922-aca4-b079a79f4f04@78.46.162.62:10878?mode=gun&security=reality&encryption=none&pbk=xQvsy1P86UklsO5dbNDjaaUiQK3A9PHpM6rirHWSSDw&fp=chrome&spx=%2F&type=grpc&serviceName=&sni=🔒
-vless://8a5e3da6-455b-4cdb-b17e-18bc6379a29e@62.60.155.245:33863?security=none&encryption=none&headerType=none&type=tcp
-vless://8a6bbf50-6440-4bab-92a1-5def72326ff9@107.170.77.232:17478?type=grpc&serviceName=@Silver_v2ray@Silver_v2ray@UCIRANIR@UCIRANIR&authority=&security=none
 vless://8a6d643c-39bf-4d11-998a-62e3bc9a7ba4@94.131.100.169:443/?type=ws&encryption=none&flow=&path=/eclbanws&security=tls&sni=www.vk.com#🎄27@oneclickvpnkeys
 vless://8a6d643c-39bf-4d11-998a-62e3bc9a7ba4@94.131.100.169:443/?type=ws&encryption=none&flow=&path=/eclbanws&security=tls&sni=www.vk.com&allowInsecure=1#🎲67@oneclickvpnkeys
 vless://8a6d643c-39bf-4d11-998a-62e3bc9a7ba4@94.131.100.169:443/?type=ws&encryption=none&flow=&path=🔒
@@ -498,3 +492,9 @@ vless://9032f390-3f3a-4684-8c08-eb43a8221840@5.181.0.149:443?security=reality&en
 vless://9032f390-3f3a-4684-8c08-eb43a8221840@5.181.0.149:443?security=reality&encryption=none&pbk=QxDIPs_jmBT9d542JY3Lojul8XjwLLAjLz4Eq75whyU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒
 vless://90398ddb-8745-41a6-b8eb-671155668614@104.21.112.1:80?path=🔒
 vless://90398ddb-8745-41a6-b8eb-671155668614@www.speedtest.net:80?path=🔒
+vless://9040640e-12a7-483f-bcf6-737b86b28c94@2.ariyanln.com:1?security=none&encryption=none&headerType=http&type=tcp
+vless://9040640e-12a7-483f-bcf6-737b86b28c94@2.ariyanln.com:1?security=none&encryption=none&headerType=http&type=tcp#💎کانفیگ
+vless://9042f64f-5952-4cab-b83f-71dbbf0627e4@moning.serantek.site:13341?type=httpupgrade&path=🔒
+vless://9044733f-2a53-4a83-bd70-4ad5a2dfd9e6@antipingfree.melin.shop:58634/?encryption=none&host=zula.ir&type=tcp&headerType=http#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40freev2raym%20%5B10%5D
+vless://9044733f-2a53-4a83-bd70-4ad5a2dfd9e6@antipingfree.melin.shop:58634?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp
+vless://9044733f-2a53-4a83-bd70-4ad5a2dfd9e6@antipingfree.melin.shop:58634?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%E2%9D%94%20XX%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40freev2raym%20%5B10%5D
