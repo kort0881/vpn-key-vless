@@ -1,7 +1,3 @@
-vless://7d645ab8-e8e5-4810-ae5f-4bd6659ac42c@ir.fxgoldensignals.com:8081?security=none&encryption=none&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=http&type=tcp
-vless://7d645ab8-e8e5-4810-ae5f-4bd6659ac42c@ir.fxgoldensignals.com:8081?security=none&encryption=none&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=http&type=tcp#🇳🇱
-vless://7d6be8d1-c074-49d6-a912-0c9f4b8feb43@65.109.203.70:59752?security=reality&encryption=none&pbk=4-IeeFySub_R2q5HNmeG5V94sdgRvfvHGDmxaB05-DA&fp=chrome&spx=/&type=grpc&sni=🔒
-vless://7d6be8d1-c074-49d6-a912-0c9f4b8feb43@activeservice.mispd.ir:59752?mode=gun&security=reality&encryption=none&pbk=4-IeeFySub_R2q5HNmeG5V94sdgRvfvHGDmxaB05-DA&fp=chrome&spx=/&type=grpc&sni=🔒
 vless://7d6c8e28-8f81-5a74-9257-24b1e0a841a9@88.218.95.12:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#%40v2raying
 vless://7d72821b-2f17-4204-952f-bda56d4d1735@77.110.104.200:8080?type=xhttp&mode=auto&path=🔒
 vless://7d742a95-774e-409d-8808-54ea32e09331@213.232.204.253:56356?security=reality&encryption=none&pbk=x82wt1xGXc8dpO2TJNCjecm7Q6ZiXnuzBlV5qNDEhmE&headerType=http&fp=chrome&spx=/&type=tcp&sni=🔒
@@ -498,3 +494,7 @@ vless://80d1fe59-60f4-4272-a280-820e1ef0a754@104.18.26.90:443?path=🔒
 vless://80d1fe59-60f4-4272-a280-820e1ef0a754@162.159.129.11:443?path=🔒
 vless://80d1fe59-60f4-4272-a280-820e1ef0a754@198.62.62.175:443?path=🔒
 vless://80d1fe59-60f4-4272-a280-820e1ef0a754@31.43.179.78:443/?type=ws&encryption=none&host=tfs733.pages.dev&path=%2FTelegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray%3Fed%3D2048&security=tls&sni=pages.dev#%F0%9F%87%B0%F0%9F%87%BF%20KZ%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40config_proxy%20%5B51%5D
+vless://80d32ddd-c0ac-4eb6-8a2a-3b27b23f32b4@104.16.132.187:80?encryption=none&security=none&type=ws&host=icy-cherry-b8af-ppal03.givay59005.workers.dev&path=🔒
+vless://80d32ddd-c0ac-4eb6-8a2a-3b27b23f32b4@104.24.198.187:80?encryption=none&security=none&type=ws&host=icy-cherry-b8af-ppal03.givay59005.workers.dev&path=🔒
+vless://80e79dc0-ad8f-4008-a221-996252a6f15f@103.116.7.100:2087/?type=ws&encryption=none&host=20241205.666888.lol&path=%2F%3Fed%3D2560&security=tls&sni=20241205.666888.lol&alpn=http%2F1.1&fp=random#%F0%9F%8D%8830%40oneclickvpnkeys
+vless://80e79dc0-ad8f-4008-a221-996252a6f15f@103.116.7.100:2087/?type=ws&encryption=none&host=20241205.666888.lol&path=🔒
