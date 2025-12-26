@@ -30,7 +30,6 @@ hysteria2://571ec94e-613c-430a-93de-397d3d237475@hshl.huasuan666.top:22157?secur
 hysteria2://dongtaiwang.com@51.159.111.32:5355?security=tls&amp;insecure=1&amp;sni=www.bing.com#@V2rayNG3
 hysteria2://linux.do@[2a01:4f9:4b:f378::1]:13599?security=tls&amp;insecure=1&amp;sni=www.bing.com#@V2rayNG3
 hysteria2://dongtaiwang.com@[2001:bc8:1203:209::60]:33880?security=tls&amp;insecure=1&amp;sni=apple.com#All_1--@V2rayAlpha
-hysteria2://06b2ac52-fcc6-11ec-bb74-f23c9164ca5d@21a3b260-t6pb40-t9byd7-1jfvb.hk1.hyhuawei.com:443?security=tls&amp;insecure=1&amp;sni=21a3b260-t6pb40-t9byd7-1jfvb.hk1.hyhuawei.com#(@VmessProtocol)برای خرید و اتصال دائمی جوین شو🇩🇪
 hysteria2://KevinZakarian@kevin.serverv.net:8443?&amp;insecure=1&amp;obfs=salamander&amp;obfs-password=KevinZakarian#KevinVPN
 hysteria2://38im1KVvlSgfd7gj@122.10.114.205:8623?peer=www.nvidia.com&amp;insecure=1&amp;obfs=salamander&amp;obfs-password=cry_me_a_r1ver&amp;fastopen=1&amp;upmbps=50&amp;downmbps=50&amp;keepalive=60#Hysteria2_Nvidia_1213
 hysteria2://Yet-Another-Public-Config-1@[2a14:3f87:f001:13::a]:36600?security=tls&amp;obfs=salamander&amp;obfs-password=Yet-Another-Public-Config-1&amp;insecure=1&amp;sni=YAPC-1.afshin.ir#🔰@Fast_2ray 👈سرورهای‌بیشتر
@@ -64,6 +63,7 @@ hysteria2://dongtaiwang.com@208.87.243.187:22222/?insecure=1&sni=www.bing.com#%3
 hysteria2://dongtaiwang.com@62.210.99.49:40088/?insecure=1&sni=apple.com#%3E%3E%40oneclickvpnkeys%3A%3AFR
 hysteria2://%40KevinZakarian@keviny.vpny.online:33001/?insecure=1&obfs=salamander&obfs-password=KevinZakarian#🇩🇪DE%20%20ROSE—03
 hysteria2://03573f46-e944-11eb-a8bf-f23c91cfbbc9@9bc9db69-t6t0g0-tee612-2r82.hk1.hyhuawei.com:443?insecure=1&sni=9bc9db69-t6t0g0-tee612-2r82.hk1.hyhuawei.com#All--%40V2rayAlpha--17
+hysteria2://06b2ac52-fcc6-11ec-bb74-f23c9164ca5d@21a3b260-t6pb40-t9byd7-1jfvb.hk1.hyhuawei.com:443?security=tls&insecure=1&sni=21a3b260-t6pb40-t9byd7-1jfvb.hk1.hyhuawei.com#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
 hysteria2://0abd5d38-fdf1-11ed-bade-f23c91369f2d@1d4e3b3b-t6ngg0-tedirp-1fli7.us.hyhuawei.com:443?insecure=1&sni=1d4e3b3b-t6ngg0-tedirp-1fli7.us.hyhuawei.com#All-%23V2rayAlpha--19
 hysteria2://12929592-a7bd-41eb-ab4d-d804f76c4ff9@5.83.150.108:49187/?sni=imafake.locker&fp=chrome#D%C3%BCsseldorf-GetAFreeNode
 hysteria2://12929592-a7bd-41eb-ab4d-d804f76c4ff9@74.117.196.232:52534/?sni=imafake.locker&fp=chrome#%E2%9D%8CFremont-GetAFreeNode
