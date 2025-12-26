@@ -1,3 +1,6 @@
+vless://51b8e038-d14f-4236-91bf-78ae4d1fb843@ppan.cloudpooya.ir:29878/?encryption=none&host=khamenei.ir&type=tcp&headerType=http
+vless://51b8e038-d14f-4236-91bf-78ae4d1fb843@ppan.cloudpooya.ir:29878?allowInsecure=0&sni=🔒
+vless://51b8e038-d14f-4236-91bf-78ae4d1fb843@ppan.cloudpooya.ir:29878?encryption=none&security=none&type=tcp&headerType=http&host=khamenei.ir
 vless://51b8e038-d14f-4236-91bf-78ae4d1fb843@ppan.cloudpooya.ir:29878?security=&encryption=none&host=khamenei.ir&headerType=http&type=tcp
 vless://51b8e038-d14f-4236-91bf-78ae4d1fb843@ppan.cloudpooya.ir:29878?security=none&encryption=none&host=khamenei.ir&headerType=http&type=tcp
 vless://51be809d-3e82-4090-b14f-a42a32100ff9@deu637.webunlocked.org:443?encryption=none&flow=xtls-rprx-vision-udp443&security=tls&sni=deu637.webunlocked.org&fp=chrome&type=tcp&headerType=none#MD🇲🇩
@@ -495,6 +498,3 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.8.211.139:80?path=🔒
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.8.211.20:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#%D8%AE%D8%B1%DB%8C%D8%AF%20%40Orange_supp
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.8.211.220:80/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=Telegram%3A%20%40vpnAndroid2%2F%3Fed%3D2560#%F0%9F%8C%B310%40oneclickvpnkeys
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.8.211.220:80/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=🔒
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.8.211.79:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=%2FChannel%20id%3A%20%40ShadowProxy66%3Fed%3D2560#%F0%9F%8C%BA42%40oneclickvpnkeys
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.8.211.79:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=🔒
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.80.111.119:2095?path=🔒
