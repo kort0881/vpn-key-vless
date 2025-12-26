@@ -1,3 +1,7 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8080#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
+ss://4c186abf-c15f-4a73-af74-cdeb78d29d81@90.156.150.229:443?security=reality&amp;encryption=none&amp;pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=tradingview.com&amp;sid=48fccabc158a4c22#%F0%9F%87%AA%F0%9F%87%B8%40FreakConfig
+ss://f228db24-3602-4dd2-bdec-2d7faa61e70b@193.160.209.95:4443?security=reality&amp;encryption=none&amp;pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=github.com&amp;sid=aa7e96542880027a#%F0%9F%87%B7%F0%9F%87%BA%40FreakConfig
+ss://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.235.241.67:443?path=%2Fhormoz&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;type=ws&amp;allowInsecure=0&amp;sni=web.max.ru#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 ss://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.235.241.56:443?path=%2Fhormoz&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;type=ws&amp;allowInsecure=0#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 ss://7c63f43f-f526-49bb-b5c8-2be26e11ef00@statue.lnmarketplace.net:443?mode=stream-one&amp;path=%2Fstatue&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;insecure=0&amp;host=statue.lnmarketplace.net&amp;fp=firefox&amp;type=xhttp&amp;allowInsecure=0&amp;sni=statue.lnmarketplace.net#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 ss://1a539db6-d162-42f4-9b56-687bd57bfbc2@45.8.144.198:443?security=reality&amp;encryption=none&amp;pbk=KXA-hPtvy_hzNER1ZNtUxBv_VrGGKfmIyi4CQAyjGxs&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;sni=mirror.yandex.ru&amp;sid=d94e8f45#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
@@ -494,7 +498,3 @@ ss://2668fdee-331d-4770-8244-d2a4efbf6ef8@85.9.205.54:4655?encryption=none&amp;p
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.218:8080#https://t.me/ShadowsocksM15
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZ3ZMWlVmczhzaXZvQjlBN3drWWRt@83.217.9.17:25232#https://t.me/ShadowsocksM16
 ss://61757901-3818-46c7-8482-683fa7f6ba10@103.90.75.252:3001?encryption=none&amp;packetEncoding=xudp#https://t.me/ShadowsocksM17
-ss://abff54b1-a5a6-46a6-a202-08452fd07ae7@51.250.65.209:443?encryption=none&amp;flow=xtls-rprx-vision&amp;security=tls&amp;sni=api-maps.yandex.ru&amp;fp=chrome&amp;pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&amp;sid=6354585c37827955&amp;packetEncoding=xudp#https://t.me/ShadowsocksM18
-ss://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.235.241.95:443?encryption=none&amp;security=tls&amp;sni=web.max.ru&amp;allowInsecure=true&amp;type=ws&amp;path=/hormoz&amp;packetEncoding=xudp#https://t.me/ShadowsocksM19
-ss://e80f6880-f525-48a2-9d3f-faea2cd7c967@81.200.146.76:41770?encryption=none&amp;packetEncoding=xudp#https://t.me/ShadowsocksM20
-ss://513bfff6-0286-48e7-8e28-2d7f49edf7a9@94.183.149.102:10005?encryption=none&amp;type=http&amp;method=GET&amp;packetEncoding=xudp#https://t.me/ShadowsocksM22

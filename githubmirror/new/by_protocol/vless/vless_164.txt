@@ -1,6 +1,3 @@
-vless://39a192ed-7e78-42f4-b956-2f0ea17f677f@108.162.194.99:443?&security=tls&fp=chrome&sni=639018301854287215.camry-amsjk.info&type=ws&headerType=none&host=639018301854287215.camry-amsjk.info&path=%2Frbjisuws#_%E7%BE%8E%E5%9B%BD%2079
-vless://39a192ed-7e78-42f4-b956-2f0ea17f677f@108.162.194.99:443?security=tls&type=ws&path=%2Frbjisuws&host=639018301854287215.camry-amsjk.info&sni=639018301854287215.camry-amsjk.info&fp=chrome&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40freenettir%20%F0%9F%93%A1%20%F0%9F%87%AC%F0%9F%87%A7GB_2%20%F0%9F%A7%AD%205.0MB%2Fs
-vless://39a192ed-7e78-42f4-b956-2f0ea17f677f@172.64.34.99:443?security=tls&type=ws&path=%2Frbjisuws&host=639018301854287215.camry-amsjk.info&sni=639018301854287215.camry-amsjk.info&fp=chrome&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40freenettir%20%F0%9F%93%A1%20%F0%9F%87%AC%F0%9F%87%A7GB_3%20%F0%9F%A7%AD%204.6MB%2Fs
 vless://39a192ed-7e78-42f4-b956-2f0ea17f677f@delilah.ns.cloudflare.com:443/?type=ws&encryption=none&flow=&host=639018301854287215.camry-amsjk.info&path=%2Frbjisuws&security=tls&sni=639018301854287215.camry-amsjk.info&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AGB
 vless://39a192ed-7e78-42f4-b956-2f0ea17f677f@delilah.ns.cloudflare.com:443/?type=ws&encryption=none&flow=&host=639018301854287215.camry-amsjk.info&path=/rbjisuws&security=tls&sni=639018301854287215.camry-amsjk.info&allowInsecure=1#⛄38@oneclickvpnkeys
 vless://39a192ed-7e78-42f4-b956-2f0ea17f677f@delilah.ns.cloudflare.com:443/?type=ws&encryption=none&flow=&host=639018301854287215.camry-amsjk.info&path=🔒
@@ -498,3 +495,6 @@ vless://3ec5186b-d636-48b0-9a0a-30d824f63078@test.fast.hosting-ip.com:80?mode=au
 vless://3ec5186b-d636-48b0-9a0a-30d824f63078@test.fast.hosting-ip.com:80?mode=auto&path=🔒
 vless://3ec7a6b6-6176-4691-ff7c-3616aae9396b@www.speedtest.net:8880?path=🔒
 vless://3ec9280e-98dd-4b9b-a057-97030b3eb608@168.119.184.101:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=cloudflare.com
+vless://3ec9280e-98dd-4b9b-a057-97030b3eb608@168.119.184.101:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=🔒
+vless://3ed3966a-ca0e-4a46-a437-8000836fa495@Sd.mciickoir.ir:9620?security=none&encryption=none&host=uptvs.com&headerType=http&type=tcp
+vless://3ed3966a-ca0e-4a46-a437-8000836fa495@sd.mciickoir.ir:9620?security=none&encryption=none&host=uptvs.com&headerType=http&type=tcp

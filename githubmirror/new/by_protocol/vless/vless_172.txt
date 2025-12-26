@@ -1,6 +1,3 @@
-vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@betty.ns.cloudflare.com:443?path=🔒
-vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@brenna.ns.cloudflare.com:443?encryption=none&security=tls&sni=639008791615850704.golf-amsix.info&insecure=1&allowInsecure=1&type=ws&host=639008791615850704.golf-amsix.info&path=/cahttingws#@Daily_Configs
-vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@brenna.ns.cloudflare.com:443?encryption=none&security=tls&sni=🔒
 vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@brenna.ns.cloudflare.com:443?path=%2Fcahttingws&security=tls&encryption=none&host=638989641566694428.tucson-amshx.info&type=ws&sni=638989641566694428.tucson-amshx.info#RELAY🚩
 vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@brenna.ns.cloudflare.com:443?path=%2Fcahttingws&security=tls&encryption=none&host=639000411272225027.swift-amsin.info&fp=chrome&type=ws&sni=639000411272225027.swift-amsin.info#%40V2RAY_VMESS_free
 vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@clyde.ns.cloudflare.com:443?path=/cahttingws&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=639008791615851231.golf-amsix.info#Channel
@@ -498,3 +495,6 @@ vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@104.16.51.36:80?encryption=none&sec
 vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@104.16.51.36:80?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN&path=🔒
 vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@104.16.51.36:80?path=/&security=none&encryption=none&host=barayeiran-mahsang.taraneh.dpdns.org&type=ws#💎کانفیگ
 vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@104.16.51.36:80?path=🔒
+vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@104.16.51.36:80?security=&encryption=none&host=barayeiran-mahsang.taraneh.dpdns.org&fp=chrome&type=ws&sni=🔒
+vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@104.16.51.36:80?security=none&encryption=none&host=barayeiran-mahsang.taraneh.dpdns.org&fp=chrome&type=ws&sni=🔒
+vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@104.16.51.36:80?security=none&encryption=none&host=barayeiran-mahsang.taraneh.dpdns.org&fp=random&type=ws&sni=🔒

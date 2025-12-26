@@ -1,6 +1,3 @@
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.66:8880/?type=ws&encryption=none&host=jp.laoyoutiao.link&path=🔒
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.76:8880?allowInsecure=0&sni=🔒
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.76:8880?encryption=none&security=none&type=ws&host=yd.laoyoutiao.link&path=🔒
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.77:8880/?type=ws&encryption=none&host=yd.laoyoutiao.link&path=🔒
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.7:8880/?type=ws&encryption=none&host=jp.laoyoutiao.link&path=🔒
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.82:8880/?type=ws&encryption=none&host=kjgx.laoyoutiao.link&path=🔒
@@ -498,3 +495,6 @@ vless://fce9e311-b8bd-4fa6-9fe5-f6f6e80b8efc@5.182.36.99:80?security=&type=tcp&h
 vless://fcfabe6c-1558-4e5f-8184-8b3639a502b3@www.speedtest.net:80?host=5.www.speedtest.net.zula.ir.zemestanil.iR.&path=🔒
 vless://fd08abcb-4ba1-4950-bbf9-449ae291271d@trt.fastlynew.hosting-ip.com:80?mode=auto&path=%2F&security=none&encryption=none&host=jetde129.global.ssl.fastly.net&type=xhttp#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 vless://fd08abcb-4ba1-4950-bbf9-449ae291271d@trt.fastlynew.hosting-ip.com:80?mode=auto&path=%2F&security=none&encryption=none&host=jetde129.global.ssl.fastly.net&type=xhttp#%40meli_proxyy
+vless://fd08abcb-4ba1-4950-bbf9-449ae291271d@trt.fastlynew.hosting-ip.com:80?mode=auto&path=/&security=none&encryption=none&host=jetde129.global.ssl.fastly.net&type=xhttp#🏴🏳
+vless://fd08abcb-4ba1-4950-bbf9-449ae291271d@trt.fastlynew.hosting-ip.com:80?mode=auto&path=🔒
+vless://fd0cdd44-2361-11f0-9970-45e1d80c4039@62.60.233.250:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=🔒
