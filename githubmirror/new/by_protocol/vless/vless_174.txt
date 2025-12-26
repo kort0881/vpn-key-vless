@@ -1,6 +1,3 @@
-vless://5c00f0cb-905e-47ce-9b6b-2d4d137a1f9e@drow-ranger.fonixapp.org:443?security=reality&encryption=none&pbk=BnwepsrMVlmIpiUMIOoAlBXJ5iZh5GMpgfjHuhwhklM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=workers.cloudflare.com&sid=48#@Daily_Configs
-vless://5c00f0cb-905e-47ce-9b6b-2d4d137a1f9e@drow-ranger.fonixapp.org:443?security=reality&encryption=none&pbk=BnwepsrMVlmIpiUMIOoAlBXJ5iZh5GMpgfjHuhwhklM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒
-vless://5c0c61ab-5670-4644-823a-02c7bcf047ef@128.140.125.228:443?security=reality&sni=🔒
 vless://5c0c61ab-5670-4644-823a-02c7bcf047ef@78.47.23.231:443?security=reality&sni=🔒
 vless://5c105446-0e06-48ad-e3d0-6ccc3f97a574@185.209.21.36:40887?type=tcp&path=🔒
 vless://5c183802-747d-4d2f-a6f1-aff2d5d78401@47.238.40.144:443/?type=tcp&encryption=none&flow=&sni=🔒
@@ -498,3 +495,6 @@ vless://6199b420-6037-4513-bb15-0e625ec393c2@194.156.65.85:443/?type=tcp&encrypt
 vless://6199b420-6037-4513-bb15-0e625ec393c2@194.156.65.85:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒
 vless://6199b420-6037-4513-bb15-0e625ec393c2@194.156.66.29:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=cdnjs.com&fp=chrome&security=reality&pbk=1he5EyHxI595x0mNkFNxOebUOQZGVGIy_c92bn1qO2o&sid=ac31827454d7f693#%F0%9F%8D%8974%40oneclickvpnkeys
 vless://6199b420-6037-4513-bb15-0e625ec393c2@194.156.66.29:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒
+vless://6199b420-6037-4513-bb15-0e625ec393c2@194.156.67.206:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒
+vless://6199b420-6037-4513-bb15-0e625ec393c2@194.58.46.240:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=cdnjs.com&fp=chrome&security=reality&pbk=1he5EyHxI595x0mNkFNxOebUOQZGVGIy_c92bn1qO2o&sid=ac31827454d7f693#%F0%9F%8D%8972%40oneclickvpnkeys
+vless://6199b420-6037-4513-bb15-0e625ec393c2@194.58.46.240:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒

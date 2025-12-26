@@ -1,6 +1,3 @@
-vless://701b1f9b-1485-4063-8fa3-23ec1d8f528e@deusup.dashping1.ir:8101?security=reality&encryption=none&pbk=DG2WqjfT9HFqCfHzaYAVNEayiJN8yGQ64YT9-9eV5Fs&fp=chrome&sni=🔒
-vless://701c0432-aecc-4aa6-b461-20d3db19bdf3@che-0001-xr.packet-drop-society.net:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&fp=chrome&security=reality&pbk=llaiqC-oIhL_bjc236FPq26LSn7IVhIa4cIC6OVytws&sid=e499f276e7bd6420#%F0%9F%87%A8%F0%9F%87%AD%20CH%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40v2ray_sub%20%5B32%5D
-vless://701c0432-aecc-4aa6-b461-20d3db19bdf3@est-0001-xr.packet-drop-society.net:443?security=reality&encryption=none&pbk=llaiqC-oIhL_bjc236FPq26LSn7IVhIa4cIC6OVytws&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=86e999a2cdc2#REALITY|EE🇪🇪
 vless://70223017-0be8-4009-900a-0c44b58f1908@104.18.26.90:80?path=🔒
 vless://7028cb85-9611-4876-bb19-e15fa050b253@172.234.31.253:2321?security=none&encryption=none&headerType=none&type=tcp
 vless://7031e57a-80e6-404e-b723-7c8bd4788030@ecobrg.drinfoo.com:4443?security=tls&sni=🔒
@@ -498,3 +495,6 @@ vless://743ef7fc-576a-4a74-857f-ba4a841e6836@104.16.143.237:443/?type=ws&encrypt
 vless://743ef7fc-576a-4a74-857f-ba4a841e6836@104.16.143.237:443/?type=ws&encryption=none&host=App.einetwork.news&path=🔒
 vless://7451eb8a-9f02-412d-812a-eae123f225c7@81.19.137.214:18717?security=reality&sni=🔒
 vless://745688c6-43bb-4348-8033-6a091ec29c9e@london.fonixapp.org:443?security=reality&encryption=none&pbk=eJxj6P1fomCjwQMxLpuSN9SVCSE1ujqS5ztXYowRPSk&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=developer.apple.com&sid=0ace2ef998182e5f#All-@V2rayAlpha--31
+vless://745688c6-43bb-4348-8033-6a091ec29c9e@london.fonixapp.org:443?security=reality&encryption=none&pbk=eJxj6P1fomCjwQMxLpuSN9SVCSE1ujqS5ztXYowRPSk&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=🔒
+vless://74569ce0-f8d2-4dd4-8081-13cf6ed39ecb@de.fastly80-3.hosting-ip.com:80?path=%2F%40custom_config%3Fed%3D2048&security=none&encryption=none&alpn=h2%2Chttp%2F1.1&host=leader-of-www.com&fp=chrome&type=ws&sni=live.skornorth.com#US🇺🇸
+vless://745ded22-6ae3-4c4d-b31e-c42db0ae74fa@194.4.49.229:443?encryption=none&security=tls&allowInsecure=1&type=ws&path=🔒

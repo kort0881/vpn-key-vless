@@ -1,6 +1,3 @@
-vless://583ceab3-4022-4553-9158-9bedc625ad4e@199.34.229.177:8880?allowInsecure=0&sni=🔒
-vless://583ceab3-4022-4553-9158-9bedc625ad4e@199.34.229.177:8880?path=🔒
-vless://583ceab3-4022-4553-9158-9bedc625ad4e@212.183.88.188:8880?allowInsecure=0&sni=🔒
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@25.129.196.177:8880?allowInsecure=0&sni=🔒
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@25.129.198.186:8880?allowInsecure=0&sni=🔒
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@25.129.198.87:8880?encryption=none&security=none&sni=🔒
@@ -498,3 +495,6 @@ vless://5be96290-7b84-4c76-9b5c-7e42083f68ee@www.speedtest.net:2086?path=/@spike
 vless://5be96290-7b84-4c76-9b5c-7e42083f68ee@www.speedtest.net:2086?path=🔒
 vless://5c00f0cb-905e-47ce-9b6b-2d4d137a1f9e@drow-ranger.fonixapp.org:443?security=reality&encryption=none&pbk=BnwepsrMVlmIpiUMIOoAlBXJ5iZh5GMpgfjHuhwhklM&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=workers.cloudflare.com&sid=48#All-@V2rayAlpha--17
 vless://5c00f0cb-905e-47ce-9b6b-2d4d137a1f9e@drow-ranger.fonixapp.org:443?security=reality&encryption=none&pbk=BnwepsrMVlmIpiUMIOoAlBXJ5iZh5GMpgfjHuhwhklM&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=🔒
+vless://5c00f0cb-905e-47ce-9b6b-2d4d137a1f9e@drow-ranger.fonixapp.org:443?security=reality&encryption=none&pbk=BnwepsrMVlmIpiUMIOoAlBXJ5iZh5GMpgfjHuhwhklM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=workers.cloudflare.com&sid=48#@Daily_Configs
+vless://5c00f0cb-905e-47ce-9b6b-2d4d137a1f9e@drow-ranger.fonixapp.org:443?security=reality&encryption=none&pbk=BnwepsrMVlmIpiUMIOoAlBXJ5iZh5GMpgfjHuhwhklM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒
+vless://5c0c61ab-5670-4644-823a-02c7bcf047ef@128.140.125.228:443?security=reality&sni=🔒

@@ -1,4 +1,3 @@
-vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@norman.ns.cloudflare.com:443?path=%2Fyhowcws&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1&sni=azizoarjmand.info#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A7%F0%9F%87%AC
 vless://2fd3f869-9725-407f-8092-129b81495442@213.226.114.143:30072?security=&encryption=none&host=fast.com&headerType=none&type=tcp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B7%F0%9F%87%BA
 vless://722490e5-0cb0-4387-a6f7-da148349ed73@yoyo-fl.bing-net.com:9031?security=&encryption=none&host=varzesh3.com&headerType=http&type=tcp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%AE
 vless://39a192ed-7e78-42f4-b956-2f0ea17f677f@delilah.ns.cloudflare.com:443?path=%2Frbjisuws&security=tls&encryption=none&insecure=1&host=639018301854287215.camry-amsjk.info&fp=chrome&type=ws&allowInsecure=1&sni=639018301854287215.camry-amsjk.info#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AC%F0%9F%87%A7
@@ -498,3 +497,4 @@ vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@dylan.ns.cloudflare.com:443/?type=w
 vless://eb50d091-51ed-4f89-bc4e-8b04320585d7@141.193.213.21:2096/?type=ws&encryption=none&host=premium.vkehi.shop&path=%2F&security=tls&sni=premium.vkehi.shop&fp=chrome#%F0%9F%9B%A9%EF%B8%8F27%40oneclickvpnkeys
 vless://f9f52055-ff98-4f3c-baa4-869864503e1e@104.25.140.153:443/?type=ws&encryption=none&host=BPB-pANEL-En-1O0.pAges.DEV&path=%2F&security=tls&sni=BPB-pANEL-En-1O0.pAges.DEV#%F0%9F%8E%B28%40oneclickvpnkeys
 vless://18d8ce6f-a27c-461e-ada8-a7d0a97a023b@hyun.cloudflare.182682.xyz:443/?type=ws&encryption=none&host=ad.oldcloud.online&path=%2F&security=tls&sni=ad.oldcloud.online&fp=chrome#29%F0%9F%8E%B2%40oneclickvpnkeys
+vless://762e148f-39f7-4ef3-a348-c3584bf436d2@86.38.214.30:8080/?type=ws&encryption=none&host=sNaPp.MaStErSrV.ir.&path=%2F#%F0%9F%90%B823%40oneclickvpnkeys

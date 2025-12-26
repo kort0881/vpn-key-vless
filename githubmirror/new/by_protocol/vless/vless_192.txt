@@ -1,6 +1,3 @@
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@188.114.97.82:443/?type=ws&encryption=none&flow=&host=lg.ylks01.eu.org&path=🔒
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@188.114.97.82:443/?type=ws&encryption=none&host=lg.ylks01.eu.org&path=%2Fblue&security=tls&sni=lg.ylks01.eu.org#%40Hope_Net-join-us-on-Telegram
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@188.114.97.92:443/?type=ws&encryption=none&flow=&path=🔒
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@188.114.97.92:443/?type=ws&encryption=none&path=%2F%3Fed%3D2048&security=tls&sni=ly.kpcloud.eu.org#%40Hope_Net-join-us-on-Telegram
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@188.114.98.13:443/?type=ws&encryption=none&host=lu.kpcloud.eu.org&path=...&security=tls&sni=lu.kpcloud.eu.org
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@188.114.98.226:443/?type=ws&encryption=none&flow=&host=cg.ylks.xyz&path=🔒
@@ -498,3 +495,6 @@ vless://a207569d-bf8f-43dd-81fd-2c847c7870c4@ams1.fromblancwithlove.com:8443?sec
 vless://a207569d-bf8f-43dd-81fd-2c847c7870c4@ams1.fromblancwithlove.com:8443?security=tls&alpn=h2&encryption=none&headerType=none&fp=chrome&type=tcp&sni=ams1.fromblancwithlove.com#All--@V2rayAlpha-10
 vless://a207569d-bf8f-43dd-81fd-2c847c7870c4@ams1.fromblancwithlove.com:8443?security=tls&alpn=h2&encryption=none&headerType=none&fp=chrome&type=tcp&sni=ams1.fromblancwithlove.com#NL🇳🇱
 vless://a207569d-bf8f-43dd-81fd-2c847c7870c4@ams1.fromblancwithlove.com:8443?security=tls&alpn=h2&encryption=none&headerType=none&fp=chrome&type=tcp&sni=ams1.fromblancwithlove.com#[⚡]
+vless://a207569d-bf8f-43dd-81fd-2c847c7870c4@ams1.fromblancwithlove.com:8443?security=tls&alpn=h2&encryption=none&headerType=none&fp=chrome&type=tcp&sni=ams1.fromblancwithlove.com#𝗝𝗼𝗶𝗻
+vless://a207569d-bf8f-43dd-81fd-2c847c7870c4@ams1.fromblancwithlove.com:8443?security=tls&alpn=h2&encryption=none&headerType=none&fp=chrome&type=tcp&sni=ams1.fromblancwithlove.com#🇳🇱@FreakConfig
+vless://a207569d-bf8f-43dd-81fd-2c847c7870c4@ams1.fromblancwithlove.com:8443?security=tls&alpn=h2&encryption=none&headerType=none&fp=chrome&type=tcp&sni=ams1.fromblancwithlove.com#🇳🇱@vpnserverrr
