@@ -1,10 +1,3 @@
-vmess://03fcc618-b93d-6796-6aed-8a38c975d581@57.129.25.26:443?security=tls&amp;sni=yichueng.org&amp;alpn&amp;type=ws&amp;host=yichueng.org&amp;path=linkvws&amp;packetEncoding=xudp#
-vmess://03fcc618-b93d-6796-6aed-8a38c975d581@57.129.64.199:443?security=tls&amp;sni=pelang.org&amp;alpn&amp;type=ws&amp;host=pelang.org&amp;path=linkvws&amp;packetEncoding=xudp#
-vmess://03fcc618-b93d-6796-6aed-8a38c975d581@141.94.155.224:443?security=tls&amp;sni=fapeng.org&amp;alpn&amp;type=ws&amp;host=fapeng.org&amp;path=linkvws&amp;packetEncoding=xudp#
-vmess://03fcc618-b93d-6796-6aed-8a38c975d581@141.94.155.229:443?security=tls&amp;sni=pelang.org&amp;alpn&amp;type=ws&amp;host=pelang.org&amp;path=linkvws&amp;packetEncoding=xudp#
-vmess://03fcc618-b93d-6796-6aed-8a38c975d581@91.134.8.101:443?security=tls&amp;sni=fapeng.org&amp;alpn&amp;type=ws&amp;host=fapeng.org&amp;path=linkvws&amp;packetEncoding=xudp#
-vmess://03fcc618-b93d-6796-6aed-8a38c975d581@146.59.118.249:443?security=tls&amp;sni=fapeng.org&amp;alpn&amp;type=ws&amp;host=fapeng.org&amp;path=linkvws&amp;packetEncoding=xudp#
-vmess://03fcc618-b93d-6796-6aed-8a38c975d581@146.59.85.226:443?security=tls&amp;alpn&amp;type=ws&amp;host=pelang.org&amp;path=linkvws&amp;packetEncoding=xudp#
 vmess://44932f63-70b6-4cd8-a77b-8fbf623ec19a@5.129.233.127:443?packetEncoding=xudp#https://t.me/ShadowsocksM53
 vmess://372c1939-299d-4946-9633-5ffa971f8b67@n1761214911.74qxv.top:443?security=tls&amp;sni=n1761214911.74qxv.top&amp;type=ws&amp;host=n1761214911.74qxv.top&amp;path=/&amp;packetEncoding=xudp#https://t.me/ShadowsocksM103
 vmess://1d638060-9665-42bf-8744-b7a2ecc608d4@192.243.124.25:27763/?type=tcp&amp;encryption=auto#proxy
