@@ -1,3 +1,5 @@
+vless://9befba72-dde9-45a4-ac78-c71acd15b146@152.53.141.19:18067?security=reality&encryption=none&pbk=nBK6uareAlIewgMgIsDf7UtIl1R69j9nC4x8W2yaEHQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒
+vless://9bf09a16-c5f1-4c9f-889d-25b9889df1b0@91.107.181.155:2025?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🎗
 vless://9bf8204e-76bb-4721-9e4a-218ed6d9ee4a@chat.deepseek.com:80?type=ws&path=🔒
 vless://9bf8204e-76bb-4721-9e4a-218ed6d9ee4a@tgju.org:80?path=🔒
 vless://9bf8204e-76bb-4721-9e4a-218ed6d9ee4a@tgju.org:80?type=ws&path=🔒
@@ -496,5 +498,3 @@ vless://9e894e86-cdae-4894-b39a-246a59c89448@202.71.14.61:8443?type=tcp&encrypti
 vless://9e894e86-cdae-4894-b39a-246a59c89448@31.57.56.213:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒
 vless://9e894e86-cdae-4894-b39a-246a59c89448@31.57.56.213:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ign.com&sid=6ba85179e30d4fc2#🏴🏳
 vless://9e894e86-cdae-4894-b39a-246a59c89448@31.57.56.213:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒
-vless://9e894e86-cdae-4894-b39a-246a59c89448@31.57.56.213:8443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ign.com&fp=qq&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#REALITY|IE🇮🇪
-vless://9e894e86-cdae-4894-b39a-246a59c89448@45.141.119.180:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒

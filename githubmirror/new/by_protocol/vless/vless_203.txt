@@ -1,3 +1,5 @@
+vless://d03d8815-a06f-408f-a62f-6c84869b96a9@elegant-corporation.seotoolsforyou.co.uk:80?encryption=none&security=none&type=ws&path=🔒
+vless://d03d8815-a06f-408f-a62f-6c84869b96a9@elegant-corporation.seotoolsforyou.co.uk:80?path=🔒
 vless://d03d8815-a06f-408f-a62f-6c84869b96a9@elegant-corporation.seotoolsforyou.co.uk:80?type=ws&path=🔒
 vless://d03e1748-b8f2-45c7-bf86-6b3964c3e093@188.132.183.15:8443?security=reality&encryption=none&pbk=cdZROd5jYaqrDcmZJUw_KSpfUusjrrKDgah8ZkOdF2E&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&type=tcp&sni=refersion.com&sid=b44cea83b91a143a#🇹🇷
 vless://d03e1748-b8f2-45c7-bf86-6b3964c3e093@188.132.183.15:8443?security=reality&encryption=none&pbk=cdZROd5jYaqrDcmZJUw_KSpfUusjrrKDgah8ZkOdF2E&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&type=tcp&sni=🔒
@@ -496,5 +498,3 @@ vless://d3m1xvk50k@d3m1xvk50k-525340173-direct.bahame.co:443?security=tls&alpn=h
 vless://d3m1xvk50k@d3m1xvk50k-525340173-direct.bahame.co:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=d3m1xvk50k-525340173-direct.bahame.co#https://t.me/v2raynplus
 vless://d3m1xvk50k@d3m1xvk50k-525340173-direct.bahame.co:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=🔒
 vless://d3m1xvk50k@d3m1xvk50k-525340173-direct.bahame.co:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&flow=xtls-rprx-vision&sni=d3m1xvk50k-525340173-direct.bahame.co#@Daily_Configs
-vless://d3m1xvk50k@d3m1xvk50k-525340173-direct.bahame.co:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&flow=xtls-rprx-vision&sni=🔒
-vless://d3m1xvk50k@d3m1xvk50k-525340173-direct.bahame.co:443?security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=d3m1xvk50k-525340173-direct.bahame.co#CY🇨🇾

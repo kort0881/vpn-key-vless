@@ -1,3 +1,5 @@
+vless://2b70f40f-b236-448c-b92e-e598f025a0ed@74.119.193.67:10088/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒
+vless://2b70f40f-b236-448c-b92e-e598f025a0ed@74.119.193.67:10088?security=reality&encryption=none&pbk=enVCnAoXILJUvAvwx8GNVOImPYFm3Jo-UHYHOlbDZW4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒
 vless://2b74e019-81b0-4c77-9f41-2f3aaf04132d@185.231.205.152:443/?type=ws&encryption=none&flow=&path=/uefsanws&security=tls&sni=m.vk.com&fp=chrome#🎄5@oneclickvpnkeys
 vless://2b74e019-81b0-4c77-9f41-2f3aaf04132d@185.231.205.152:443/?type=ws&encryption=none&flow=&path=/uefsanws&security=tls&sni=m.vk.com&fp=chrome#🎲41@oneclickvpnkeys
 vless://2b74e019-81b0-4c77-9f41-2f3aaf04132d@185.231.205.152:443/?type=ws&encryption=none&flow=&path=🔒
@@ -496,5 +498,3 @@ vless://2ee2a715-d541-416a-8713-d66567448c2e@91.98.148.160:443?mode=gun&security
 vless://2ee2a715-d541-416a-8713-d66567448c2e@91.98.148.160:443?mode=gun&security=none&encryption=none&type=grpc#Channel
 vless://2ee2a715-d541-416a-8713-d66567448c2e@91.98.148.160:443?mode=gun&security=none&encryption=none&type=grpc#WiFi-@V2rayAlpha--7
 vless://2ee2a715-d541-416a-8713-d66567448c2e@91.98.155.240:443?mode=gun&security=none&encryption=none&authority=telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray&type=grpc
-vless://2ee2a715-d541-416a-8713-d66567448c2e@91.98.155.240:443?mode=gun&security=none&encryption=none&authority=telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray&type=grpc#telegram
-vless://2ee2a715-d541-416a-8713-d66567448c2e@91.98.155.240:443?mode=gun&security=none&encryption=none&type=grpc

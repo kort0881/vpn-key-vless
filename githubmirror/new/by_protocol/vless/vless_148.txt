@@ -1,3 +1,5 @@
+vless://002accb526534fcab24a72b0ea1cff59@176.125.240.166:443?security=reality&sni=apple.com&alpn=h2&fp=random&pbk=GgiY38LjRI1hS1LKhdqvtJ5SDDO436GvihG-TzEI2XE&sid=aabbccdd&type=tcp&flow=xtls-rprx-vision&encryption=none#REALITY|RU🇷🇺
+vless://0033fda5-029e-4de3-acea-3bd45a1912e2@156.244.41.221:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=aws.amazon.com&pbk=K195x6sAmXL2K_9fSwMsPR8uqYF7UISl1ehaTjNhEz0&fp=chrome#REALITY|QA🇶🇦
 vless://0033fda5-029e-4de3-acea-3bd45a1912e2@156.244.41.221:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=aws.amazon.com&fp=chrome&security=reality&pbk=K195x6sAmXL2K_9fSwMsPR8uqYF7UISl1ehaTjNhEz0&sid=#REALITY|QA🇶🇦
 vless://0043c18f-c3a8-4762-9815-b54989eabdd5@Hh.somo44.sbs:8080?path=🔒
 vless://004ba5d4-d448-4960-a762-e5190ab415f2@104.26.6.18:443/?type=ws&encryption=none&host=albedoalbedochan.violetchaan.ip-ddns.com&path=%2F%3FJOKERRVPN_BIA_CHANEL%40JOKERRVPN&security=tls&sni=albedoalbedochan.violetchaan.ip-ddns.com&alpn=http%2F1.1&fp=random#%F0%9F%9A%80%F0%9F%87%A9%F0%9F%87%AA%5BAll%5D%20%D9%82%D8%B7%D8%B9%20%D8%B4%D8%AF%DB%8C%20%D8%A8%DB%8C%D8%A7%20%DA%86%D9%86%D9%84%20%40JOKERRVPN
@@ -496,5 +498,3 @@ vless://02e46039-200d-4ae4-ac90-b0d619f72034@172.64.33.91:443?type=ws&encryption
 vless://02e46039-200d-4ae4-ac90-b0d619f72034@clyde.ns.cloudflare.com:443/?type=ws&encryption=none&flow=&host=redlabell.info&path=/aafeuws&security=tls&sni=redlabell.info#🎄76@oneclickvpnkeys
 vless://02e46039-200d-4ae4-ac90-b0d619f72034@clyde.ns.cloudflare.com:443/?type=ws&encryption=none&flow=&host=redlabell.info&path=🔒
 vless://02e46039-200d-4ae4-ac90-b0d619f72034@clyde.ns.cloudflare.com:443?encryption=none&security=tls&sni=redlabell.info&fp=chrome&type=ws&host=redlabell.info&path=/aafeuws&packetEncoding=xudp#https://t.me/ShadowsocksM82
-vless://02e46039-200d-4ae4-ac90-b0d619f72034@clyde.ns.cloudflare.com:443?encryption=none&security=tls&sni=redlabell.info&insecure=0&allowInsecure=0&type=ws&host=redlabell.info&path=/aafeuws#Telegram:
-vless://02e46039-200d-4ae4-ac90-b0d619f72034@clyde.ns.cloudflare.com:443?encryption=none&security=tls&sni=redlabell.info&insecure=1&allowInsecure=1&type=ws&host=redlabell.info&path=/aafeuws#@Daily_Configs

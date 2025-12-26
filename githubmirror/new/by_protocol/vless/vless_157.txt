@@ -1,3 +1,5 @@
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@49.13.216.199:2020?security=none&encryption=none&headerType=none&type=tcp
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@49.13.68.90:2020?security=none&encryption=none&headerType=none&type=tcp
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.46.152.225:2020?encryption=none&security=none&type=tcp&headerType=none
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.46.251.109:2020?security=&encryption=none&headerType=none&type=tcp
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.46.251.109:2020?security=none&encryption=none&headerType=none&type=tcp
@@ -496,5 +498,3 @@ vless://28212275-7589-4993-8075-fa415c6b2d1e@Evay-vpn.octacityroleplay.ir:1122?e
 vless://28212275-7589-4993-8075-fa415c6b2d1e@Evay-vpn.octacityroleplay.ir:1122?encryption=none&type=xhttp&host=join-bede-evay_vpn.org&path=🔒
 vless://2825bed8-db26-4722-81db-0f572f19dac5@helsinki.fonixapp.org:2083?security=reality&encryption=none&pbk=0ynmhxgUxTCCEhdgYsH1-_90sX5jztkAwUrarbruPS8&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=clients4.google.com&sid=8c#REALITY|FI🇫🇮
 vless://2825bed8-db26-4722-81db-0f572f19dac5@helsinki.fonixapp.org:2083?security=reality&encryption=none&pbk=0ynmhxgUxTCCEhdgYsH1-_90sX5jztkAwUrarbruPS8&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=clients4.google.com&sid=8c#All--@V2rayAlpha-14
-vless://2825bed8-db26-4722-81db-0f572f19dac5@helsinki.fonixapp.org:2083?security=reality&encryption=none&pbk=0ynmhxgUxTCCEhdgYsH1-_90sX5jztkAwUrarbruPS8&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=🔒
-vless://2825bed8-db26-4722-81db-0f572f19dac5@helsinki.fonixapp.org:2083?security=reality&encryption=none&pbk=0ynmhxgUxTCCEhdgYsH1-_90sX5jztkAwUrarbruPS8&host=telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=clients4.google.com&sid=8c#telegram

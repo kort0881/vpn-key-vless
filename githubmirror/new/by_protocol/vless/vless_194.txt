@@ -1,3 +1,5 @@
+vless://a61eb3a2-1adb-48cb-ab46-ce225769de16@ada102.oshtd.com:443?security=tls&type=ws&path=🔒
+vless://a61eb3a2-1adb-48cb-ab46-ce225769de16@ada145.lefxb.com:443?security=tls&type=ws&path=🔒
 vless://a61eb3a2-1adb-48cb-ab46-ce225769de16@ada70.fupaj.com:443?security=tls&type=ws&path=🔒
 vless://a61fc8cb-0012-4c4b-aa5e-d1c623ae8092@172.67.187.219:8880?encryption=none&security=none&type=ws&host=worker-late-feather-d436.wedome3486.workers.DEV&path=🔒
 vless://a625cee0-3231-4a09-9385-e88bbcc348c2@104.19.4.141:443/?type=ws&encryption=none&host=54212165917176758510489669355092.v2line.net&path=%2Fv2line-helsinki-finland-vl-ws-tls&security=tls&sni=54212165917176758510489669355092.v2line.net&alpn=http%2F1.1&fp=randomized&packetEncoding=xudp#%F0%9F%90%A540%40oneclickvpnkeys
@@ -496,5 +498,3 @@ vless://aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1@freexxx.xhamster.biz.id:443/?type=w
 vless://aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1@freexxx.xhamster.biz.id:443?encryption=none&security=tls&sni=🔒
 vless://aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1@freexxx.xhamster.biz.id:443?path=🔒
 vless://aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1@freexxx.xhamster.biz.id:443?security=tls&encryption=none&type=ws&host=freexxx.xhamster.biz.id&path=🔒
-vless://aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1@privasi.ndeso.web.id:443/?type=ws&encryption=none&host=privasi.ndeso.web.id&path=🔒
-vless://aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1@web.ndeso.xyz:443?encryption=none&security=tls&sni=🔒

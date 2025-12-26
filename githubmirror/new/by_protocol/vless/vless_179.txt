@@ -1,3 +1,5 @@
+vless://745688c6-43bb-4348-8033-6a091ec29c9e@london.fonixapp.org:443?security=reality&encryption=none&pbk=eJxj6P1fomCjwQMxLpuSN9SVCSE1ujqS5ztXYowRPSk&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=🔒
+vless://74569ce0-f8d2-4dd4-8081-13cf6ed39ecb@de.fastly80-3.hosting-ip.com:80?path=%2F%40custom_config%3Fed%3D2048&security=none&encryption=none&alpn=h2%2Chttp%2F1.1&host=leader-of-www.com&fp=chrome&type=ws&sni=live.skornorth.com#US🇺🇸
 vless://745ded22-6ae3-4c4d-b31e-c42db0ae74fa@194.4.49.229:443?encryption=none&security=tls&allowInsecure=1&type=ws&path=🔒
 vless://745e0663-483a-4817-9d7e-11190f4b3090@myfreexnum01tamiz.bazibazestan.ir:443/?type=tcp&encryption=none&sni=tgju.org&fp=firefox&security=reality&pbk=Mtdk_nmm5mWBlKzjIOoDXN8nL4zHL-F40WNP5e2E4ko&sid=e1bc8e591c390c7c#%F0%9F%9B%9C%20%40NETMelliAnti
 vless://745e0663-483a-4817-9d7e-11190f4b3090@myfreexnum01tamiz.bazibazestan.ir:443/?type=tcp&encryption=none&sni=🔒
@@ -496,5 +498,3 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@172.66.42.130:80/?type=ws&encryptio
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@188.114.96.76:80/?type=ws&encryption=none&host=us1.rtacg.com&path=%2F#%40Hope_Net-join-us-on-Telegram
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@188.114.96.76:80/?type=ws&encryption=none&host=us1.rtacg.com&path=🔒
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@188.114.97.250:80/?type=ws&encryption=none&host=us1.rtacg.com&path=%2F#%40Hope_Net-join-us-on-Telegram
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@188.114.97.250:80/?type=ws&encryption=none&host=us1.rtacg.com&path=🔒
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@190.93.247.121:80/?type=ws&encryption=none&host=us1.rtacg.com&path=%2F#%40Hope_Net-join-us-on-Telegram

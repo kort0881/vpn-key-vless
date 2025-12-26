@@ -1,3 +1,5 @@
+vless://18161878-c749-40fe-8146-8b061a41bd4f@sourceforge.net:2052?type=ws&path=🔒
+vless://181fd3e2-df14-43ba-8a9b-dfb75866fbc1@H:8696?security=none&type=grpc&headerType=&serviceName=200vless&authority=&mode=gun
 vless://181fd3e2-df14-43ba-8a9b-dfb75866fbc1@tun.shadowcx.top:100?security=none&type=grpc&headerType=&serviceName=1081vless&authority=&mode=gun
 vless://181fd3e2-df14-43ba-8a9b-dfb75866fbc1@tun.shadowcx.top:8696?security=none&type=grpc&headerType=&serviceName=200vless&authority=&mode=gun
 vless://181fd3e2-df14-43ba-8a9b-dfb75866fbc1@tun.shadowcx.top:8697?security=none&type=tcp&headerType=&path=🔒
@@ -496,5 +498,3 @@ vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=/
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=/sghiyws&security=tls&encryption=none&host=terazhedi.info&type=ws&sni=terazhedi.info#@Broz_time+>+کانفیگ+رایگان
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=/sghiyws&security=tls&encryption=none&host=terazhedi.info&type=ws&sni=terazhedi.info#[🛸]
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=/sghiyws&security=tls&encryption=none&host=terazhedi.info&type=ws&sni=terazhedi.info#🇬🇧@FreakConfig
-vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=/sghiyws&security=tls&encryption=none&insecure=0&host=terazhedi.info&fp=chrome&type=ws&allowInsecure=0&sni=terazhedi.info#@Daily_Configs
-vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=/sghiyws&security=tls&encryption=none&insecure=0&host=terazhedi.info&fp=chrome&type=ws&allowInsecure=0&sni=terazhedi.info#⚡
