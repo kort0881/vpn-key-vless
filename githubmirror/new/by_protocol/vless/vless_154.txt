@@ -1,3 +1,5 @@
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@108.165.216.198:2053/?type=ws&encryption=none&host=dl1-pl-cdn.easy-upload.org&path=%2F&security=tls&sni=dl1-pl-cdn.easy-upload.org&alpn=h2%2Chttp%2F1.1&fp=random#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B5%F0%9F%87%B1
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@31.43.179.34:2053/?type=ws&encryption=none&host=dl1-fr-cdn.easy-upload.org&path=%2F&security=tls&sni=dl1-fr-cdn.easy-upload.org#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AB%F0%9F%87%B7
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.12.31.36:2053/?type=ws&encryption=none&host=dl1-fr-cdn.easy-upload.org&path=%2F&security=tls&sni=dl1-fr-cdn.easy-upload.org#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AB%F0%9F%87%B7
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.209.126:2053/?type=ws&encryption=none&host=dl1-fr-cdn.easy-upload.org&path=%2F&security=tls&sni=dl1-fr-cdn.easy-upload.org#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AB%F0%9F%87%B7
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@188.42.89.7:2053/?type=ws&encryption=none&host=dl1-pl-cdn.easy-upload.org&path=%2F&security=tls&sni=dl1-pl-cdn.easy-upload.org&alpn=h2%2Chttp%2F1.1&fp=random#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B5%F0%9F%87%B1
@@ -496,5 +498,3 @@ vless://40918498-0eb5-46ad-8706-f9813f96552b@104.21.94.168:8080/?type=ws&encrypt
 vless://0f81bb73-5a81-4119-b0d8-332aa4c01fd7@172.66.44.99:443/?type=ws&encryption=none&host=vpnkenzo-cuo.pages.dev&security=tls&sni=VPnKeNzo-CUO.pAgeS.dEv
 vless://0789a06d-a61a-470d-b182-33926b1aa21f@172.66.44.135:443/?type=ws&encryption=none&host=shAh-5r1.PAgEs.DEV&path=%2Ftelegram-proxy_mtm-telegram-proxy_mtm%3Fed%3D2560&security=tls&sni=SHAH-5R1.paGes.deV&alpn=h2%2Chttp%2F1.1&fp=randomized#%40Hope_Net-join-us-on-Telegram
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@190.93.246.129:443/?type=ws&encryption=none&host=aw.ylks.xyz&path=%2F%3Fed%3D2048&security=tls&sni=aw.ylks.xyz#%40Hope_Net-join-us-on-Telegram
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@188.114.97.246:443/?type=ws&encryption=none&host=lx.kpcloud.eu.org&security=tls&sni=lx.kpcloud.eu.org
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@173.245.59.178:443/?type=ws&encryption=none&host=av.ylks.xyz&path=%2F%3Fed%3D2048&security=tls&sni=av.ylks.xyz#%40Hope_Net-join-us-on-Telegram
