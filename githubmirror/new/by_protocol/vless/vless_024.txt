@@ -1,5 +1,3 @@
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.160.13:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@CaV2ray
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.160.13:443?security=none&encryption=none&host=zula.ir/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#@CaV2ray
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.160.13:443?security=none&encryption=none&host=zula.ir/?TELEGRAM_JOKERRVPN&headerType=http&type=tcp#@CaV2ray
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.160.210:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@CaV2ray
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.162.239:443?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#@CaV2ray
@@ -498,3 +496,5 @@ vless://3d7dd548-5456-4f28-8019-393fbfab3312@104.26.1.108:443?path=/sg3/?ed=2048
 vless://3d7dd548-5456-4f28-8019-393fbfab3312@172.67.74.133:443?path=/sg3//?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN&security=tls&encryption=none&host=app-stg.gopay.co.id.servpn.my.id&fp=chrome&type=ws&sni=app-stg.gopay.co.id.servpn.my.id#JOIN @FILTERK0SH
 vless://3d7dd548-5456-4f28-8019-393fbfab3312@172.67.74.133:443?path=/sg3//?ed=2048@v2ray_configs_pools--@v2ray_configs_pools&security=tls&encryption=none&host=app-stg.gopay.co.id.servpn.my.id&fp=chrome&type=ws&sni=app-stg.gopay.co.id.servpn.my.id#@v2ray_configs_pools
 vless://3d7dd548-5456-4f28-8019-393fbfab3312@172.67.74.133:443?path=/sg3/?ed=2048JOIN---FILTERK0SH&security=tls&encryption=none&host=app-stg.gopay.co.id.servpn.my.id&fp=chrome&type=ws&sni=app-stg.gopay.co.id.servpn.my.id#@FILTERK0SH
+vless://3d7dd548-5456-4f28-8019-393fbfab3312@172.67.74.133:443?path=/sg3/?ed=2048JOIN---PLANB_PROXY&security=tls&encryption=none&host=app-stg.gopay.co.id.servpn.my.id&fp=chrome&type=ws&sni=app-stg.gopay.co.id.servpn.my.id#JOIN @FILTERK0SH
+vless://3d7dd548-5456-4f28-8019-393fbfab3312@172.67.74.133:443?path=/sg3/?ed=2048JOIN---PLANB_PROXY&security=tls&encryption=none&host=app-stg.gopay.co.id.servpn.my.id&fp=chrome&type=ws&sni=app-stg.gopay.co.id.servpn.my.id#:prrofile_purple@
