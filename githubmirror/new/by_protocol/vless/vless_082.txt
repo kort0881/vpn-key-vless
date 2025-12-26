@@ -1,3 +1,4 @@
+vless://f78ce1bb-0fa6-4ef4-b4c9-b91014a7055d@172.67.194.241:80?encryption=none&security=none&sni=delam.ahaysiahzangi.dpdns.org&type=ws&host=delam.ahaysiahzangi.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%94%92%20VL-WS-NONE%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-172.67.194.241%3A80
 vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@185.207.196.247:8880?encryption=none&security=none&sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%94%92%20VL-WS-NA%20%F0%9F%87%B3%F0%9F%87%B1%20NL-185.207.196.247%3A8880
 vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@154.197.108.247:8880?encryption=none&security=none&sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%94%92%20VL-WS-NA%20%F0%9F%87%A8%F0%9F%87%BF%20CZ-154.197.108.247%3A8880
 vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@170.114.45.247:8880?encryption=none&security=none&sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%94%92%20VL-WS-NA%20%F0%9F%87%BA%F0%9F%87%B8%20US-170.114.45.247%3A8880
@@ -497,4 +498,3 @@ vless://5c10b8cf-509a-43ec-856d-7c065b74c5b6@tn14.radmehrmax.ir:8088?encryption=
 vless://b24671dd-6f0b-459b-aaa3-6bf44491d8c2@tn14.radmehrmax.ir:8088?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tn14-376
 vless://0ad63f11-b3d1-4844-a05b-8110767fedca@tn14.radmehrmax.ir:8088?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tn14-377
 vless://eb2d5ea9-2abe-48df-95b2-9f627a91021a@tn14.radmehrmax.ir:8088?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tn14-378
-vless://3fed619e-2e29-4510-b14e-9cf11ea5f762@tn14.radmehrmax.ir:8088?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tn14-379

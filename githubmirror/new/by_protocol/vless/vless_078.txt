@@ -1,3 +1,4 @@
+vless://ef5442d6-02f7-4fec-b356-9f212cd4c24e@139.59.167.252:443?path=/jysxfpws&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1&sni=ozon.ru#4Jadi-12921
 vless://ef6dfa5c-c976-468f-8a9a-660a0adad17f@antimage.fonixapp.org:2083?security=reality&encryption=none&pbk=rVZQETztt4al4bryh9sL7F9UlGvny2402yvDDJR7o3g&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=ajax.cloudflare.com&sid=6590cb#4Jadi-12922
 vless://ef7316a9-f531-40f8-9f13-d2f1dcb46e83@142.93.238.52:14045?path=/&security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&type=ws#4Jadi-12923
 vless://ef87653e-f1e4-4e47-9202-474557f924e9@acv-76.f-sub.xyz:80?type=ws&security=none&path=%2F#4Jadi-12924
@@ -497,4 +498,3 @@ vless://fd4b0117-d752-46fd-9a94-21a21e360fdb@meg3.horiono3.xyz:443?security=real
 vless://fd4b0117-d752-46fd-9a94-21a21e360fdb@meg3.horiono3.xyz:443?security=reality&encryption=none&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=io.ozone.ru&sid=cf4d#4Jadi-13418
 vless://fd7eb872-66bd-4bf7-be5b-8f349e7c5f16@172.234.239.252:443?mode=stream-one&path=/&security=&encryption=none&type=xhttp#4Jadi-13419
 vless://fd80f56e-93f3-4c85-b2a8-c77216c509a7@195.85.59.161:2052?security=&type=ws&path=/vls?ed%3D2048&host=asia.tunn.free.hr&encryption=none#4Jadi-13420
-vless://fd80f56e-93f3-4c85-b2a8-c77216c509a7@195.85.59.95:2052?security=&type=ws&path=/vls?ed%3D2048&host=asia.tunn.free.hr&encryption=none#4Jadi-13421

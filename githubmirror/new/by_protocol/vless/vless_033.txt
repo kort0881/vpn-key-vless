@@ -1,4 +1,5 @@
 vless://d7ea444a-2c80-4019-8795-5235b076596e@Net.1lagvpn13.cfd:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@L_AGVPN13 @L_AGVPN13 @L_AGVPN13 @L_AGVPN13&sni=C.1lagvpn13.cfd#2nchsww6
+vless://d7ea444a-2c80-4019-8795-5235b076596e@Net.1lagvpn13.cfd:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@L_AGVPN13 @L_AGVPN13 @L_AGVPN13 @L_AGVPN13&sni=C.1lagvpn13.cfd#2nchsww6
 vless://d7ed8991-e019-47c1-b578-93a8d8443830@188.245.200.119:443?mode=auto&path=/xhttp&security=none&encryption=none&type=xhttp#      Config_Rayegan@
 vless://d7ed8991-e019-47c1-b578-93a8d8443830@188.245.228.94:443?mode=auto&path=/xhttp&security=none&encryption=none&type=xhttp#      Config_Rayegan@
 vless://d80b9af5-5351-4d37-8ba5-c9a7fca650f6@45.38.42.220:2085?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#@CaV2ray
@@ -497,4 +498,3 @@ vless://e056e792-aaf6-2ecb-af3f-5b3d8989955d@franxmbikil.vtuix.ir:7033?mode=gun&
 vless://e0976e35-a651-4f34-b5b1-c9ac9f75cb74@172.67.133.33:8443?path=/J5aKLOY1R7ONXYCM?ed&security=tls&encryption=none&host=private.besttotaldns.com&type=ws&sni=private.besttotaldns.com#@AZARBAYJAB1
 vless://e0976e35-a651-4f34-b5b1-c9ac9f75cb74@172.67.133.33:8443?path=/J5aKLOY1R7ONXYCM?ed=2048HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN&security=tls&encryption=none&host=private.besttotaldns.com&type=ws&sni=private.besttotaldns.com#@HiByeVPNN
 vless://e09cd40e-9479-4ce1-891b-4920b5185c20@j3s1.proxyfire.xyz:1611?security=reality&encryption=none&pbk=3EWvgfHUv-7aKL47dJL1WiIHY43aeWo8QUZRjzCw0RI&headerType=none&fp=chrome&type=tcp&sni=zhaket.com&sid=6f84e8adb893b4bd#@Daily_Configs
-vless://e09cd40e-9479-4ce1-891b-4920b5185c20@j3s1i.proxyfire.xyz:8000?security=none&encryption=none&headerType=none&type=tcp#@Daily_Configs

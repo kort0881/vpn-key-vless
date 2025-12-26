@@ -1,3 +1,4 @@
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.6.62:443?security=tls&sni=Sanjeshp.Ir&encryption=none@ShadowsocksM42&type=ws&host=Sanjeshp.Ir&path=/H?ed%3D2560&fp=randomized&alpn=h2,http/1.1# VL-WS-TLS  US-199.232.6.62:443
 vless://ea93598b-a8d8-449a-a925-520c6e1626ee@162.159.138.178:443?security=tls&sni=pardazeshvpn-tg105.pages.dev&type=ws&host=pardazeshvpn-tg105.pages.dev&path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2560# VL-WS-TLS  NA-162.159.138.178:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.20.69.135:443?security=tls&sni=lk.kpcloud.eu.org&type=ws&host=lk.kpcloud.eu.org&path=%2F%3Fed%3D2048# VL-WS-TLS  NA-104.20.69.135:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.17.110.12:443?security=tls&sni=xxx.donated006.workers.dev&type=ws&host=xxx.donated006.workers.dev&path=%2F@V2VIPCHANNEL%2F%3Fed%3D2048# VL-WS-TLS  NA-104.17.110.12:443
@@ -497,4 +498,3 @@ vless://50cd070b-32c3-4918-8237-4a2467e72d17@162.159.194.75:8880?security=none&t
 vless://2928d83a-ca75-4d52-b437-fa78c7601378@104.20.17.59:443?security=tls&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560&fp=randomized# VL-WS-TLS  NA-104.20.17.59:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@188.114.98.17:443?security=tls&sni=cg.ylks.xyz&type=ws&host=cg.ylks.xyz&path=%2Fblue# VL-WS-TLS  NA-188.114.98.17:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@188.114.97.39:443?security=tls&sni=cj.ylks.xyz&type=ws&host=cj.ylks.xyz&path=%2Fblue# VL-WS-TLS  NA-188.114.97.39:443
-vless://ba2b8534-f500-453f-9a33-9c9038f0a40d@104.22.4.136:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2# VL-WS-TLS  NA-104.22.4.136:443

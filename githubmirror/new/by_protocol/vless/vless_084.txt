@@ -1,3 +1,4 @@
+vless://8a154ade-420f-455a-bdd0-35b6aabf5d3b@tnl36.radvinmax.ir:8764?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tnl36-879
 vless://bbe50160-4e23-443f-b71d-53cda9bc2b7a@tnl36.radvinmax.ir:8764?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tnl36-880
 vless://b0b6d250-9e7f-46cc-bc3a-f01ce7d7bef6@tnl36.radvinmax.ir:8764?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tnl36-881
 vless://47feecce-676e-4dea-bd11-723a6c8e8b96@tnl36.radvinmax.ir:8764?encryption=none&security=none&type=tcp&headerType=http#VL-VIP-tnl36-882
@@ -497,4 +498,3 @@ vless://07f29b2e-b64b-4224-a215-4abefc89d728@167.235.146.176:8443?security=none&
 vless://161fa2ac-9618-4a3c-bc9b-5420ecc1826e@104.21.47.6:443?security=tls&type=ws&path=%2F%3F%40V2rayBaaz------%40V2rayBaaz&host=v2ray-vmess-free.irnoen.workers.dev&sni=v2ray-vmess-free.irnoen.workers.dev&fp=chrome&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%A9%F0%9F%87%AADE_34%20%F0%9F%A7%AD%204.1MB%2Fs#_
 vless://a4d73ad4-fde4-4c50-84bd-ab7d773f9dc2@deusup.dashping1.ir:8101?security=reality&type=tcp&sni=preview.redd.it&fp=chrome&flow=xtls-rprx-vision&sid=bbddcffa7270&pbk=DG2WqjfT9HFqCfHzaYAVNEayiJN8yGQ64YT9-9eV5Fs&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%A9%F0%9F%87%AADE_35%20%F0%9F%A7%AD%207.2MB%2Fs#_
 vless://6e7894ac-fc10-4ceb-8fee-41d4cabca8f3@40.172.60.168:5555?security=none&type=tcp&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%A6%F0%9F%87%AAAE_1%20%F0%9F%A7%AD%2010.5MB%2Fs#_
-vless://f2119e6c-685b-45bb-97de-229696cb30c7@brenna.ns.cloudflare.com:443?&security=tls&sni=639020094881472575.defender-amsjk.info&type=ws&headerType=none&host=639020094881472575.defender-amsjk.info&path=%2Fbytyguws#[openproxylist.com]
