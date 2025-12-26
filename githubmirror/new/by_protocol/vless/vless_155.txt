@@ -1,3 +1,7 @@
+vless://1b766abe-05da-46fa-973c-0d06d9605736@172.66.40.99:8880?path=🔒
+vless://1b766abe-05da-46fa-973c-0d06d9605736@172.66.40.99:8880?type=ws&path=🔒
+vless://1b766abe-05da-46fa-973c-0d06d9605736@www.speedtest.net:8880?type=ws&path=🔒
+vless://1b8dd35a-6213-4a33-84e9-ce662ad6e280@78.140.246.39:8443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp
 vless://1b96e86b-11fa-4709-836d-816f7b7eaf82@91.107.146.109:39953?mode=gun&security=reality&encryption=none&pbk=8ueBwb-uwLy208rRiXgXxublRQ3344Bi4PnhPAySiUQ&fp=chrome&spx=/&type=grpc&serviceName=@FREE_VPN02@FREE_VPN02@FREE_VPN02@FREE_VPN02@FREE_VPN02@FREE_VPN02@FREE_VPN02@FREE_VPN02@FREE_VPN02@FREE_VPN02@FREE_VPN02@FREE_VPN02&sni=🔒
 vless://1b9ad34d-6b57-4ad1-84f5-12698b9b2b29@104.16.85.3:80?flow=&type=ws&host=join-to-Vmessorg.sabadyt.ir&path=🔒
 vless://1b9ad34d-6b57-4ad1-84f5-12698b9b2b29@104.16.85.3:80?path=🔒
@@ -494,7 +498,3 @@ vless://211bbb0b-70a7-4792-ad04-cb6e599d2b9e@108.165.152.241:2053/?type=ws&encry
 vless://211bbb0b-70a7-4792-ad04-cb6e599d2b9e@108.165.152.241:2053/?type=ws&encryption=none&host=v.aivpn.filegear-sg.me&path=🔒
 vless://211bbb0b-70a7-4792-ad04-cb6e599d2b9e@160.79.104.131:8443/?type=ws&encryption=none&host=v.aivpn.filegear-sg.me&path=%2F%3Fed%3D2560&security=tls&sni=v.aivpn.filegear-sg.me&alpn=h3&fp=random#%F0%9F%93%A426%40oneclickvpnkeys
 vless://211bbb0b-70a7-4792-ad04-cb6e599d2b9e@160.79.104.131:8443/?type=ws&encryption=none&host=v.aivpn.filegear-sg.me&path=🔒
-vless://211bbb0b-70a7-4792-ad04-cb6e599d2b9e@176.105.253.98:443/?type=ws&encryption=none&host=v.aivpn.filegear-sg.me&path=%2F%3Fed%3D2560&security=tls&sni=v.aivpn.filegear-sg.me&alpn=h3&fp=random#%F0%9F%93%A418%40oneclickvpnkeys
-vless://211bbb0b-70a7-4792-ad04-cb6e599d2b9e@176.105.253.98:443/?type=ws&encryption=none&host=v.aivpn.filegear-sg.me&path=🔒
-vless://211bbb0b-70a7-4792-ad04-cb6e599d2b9e@206.238.236.187:2096/?type=ws&encryption=none&host=v.aivpn.filegear-sg.me&path=%2F%3Fed%3D2560&security=tls&sni=v.aivpn.filegear-sg.me&alpn=h3&fp=random#%F0%9F%93%A411%40oneclickvpnkeys
-vless://211bbb0b-70a7-4792-ad04-cb6e599d2b9e@206.238.236.187:2096/?type=ws&encryption=none&host=v.aivpn.filegear-sg.me&path=🔒

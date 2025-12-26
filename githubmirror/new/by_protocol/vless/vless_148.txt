@@ -1,3 +1,7 @@
+vless://00e10d66-bb93-47e7-8f11-e6943053195c@79.137.202.150:28485?encryption=none&type=grpc&mode=gun&serviceName=/@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec&security=reality&fp=chrome&sni=tgju.org&pbk=kP5lEpXBe5wbaSLOR6A9azX6kwMkfEk06bMkEpZxdSE&sid=dc&spx=/#MdVpnSec
+vless://00e10d66-bb93-47e7-8f11-e6943053195c@79.137.202.150:28485?encryption=none&type=grpc&mode=gun&serviceName=/@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec&security=reality&fp=chrome&sni=🔒
+vless://00e10d66-bb93-47e7-8f11-e6943053195c@79.137.202.150:28485?mode=gun&security=reality&encryption=none&pbk=kP5lEpXBe5wbaSLOR6A9azX6kwMkfEk06bMkEpZxdSE&fp=chrome&spx=/&type=grpc&serviceName=/@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec&sni=tgju.org&sid=dc#🇩🇪@V2ray_official
+vless://00e10d66-bb93-47e7-8f11-e6943053195c@79.137.202.150:28485?mode=gun&security=reality&encryption=none&pbk=kP5lEpXBe5wbaSLOR6A9azX6kwMkfEk06bMkEpZxdSE&fp=chrome&spx=/&type=grpc&serviceName=/@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec&sni=🔒
 vless://00e7e47a-4fec-4931-da61-2c9aba8190d6@www.speedtest.net:2086?path=🔒
 vless://00e85943-119a-4112-af52-d44175192452@185.146.173.58:8080?allowInsecure=0&sni=🔒
 vless://00f02ab2-6f2d-449f-a089-d182a2fac59a@151.236.93.102:443?security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=io.ozone.ru&sid=d8c6b58bcbb0c323#MCI--@IRAN_V2RAY1
@@ -494,7 +498,3 @@ vless://03517ec0-976e-4cac-b84b-146fc4c7b023@199.232.13.32:80?path=🔒
 vless://0354ec40-a5f5-49d7-beb0-4624c923529e@37.202.237.244:55093?security=none&type=tcp&headerType=none&path=🔒
 vless://0354ec40-a5f5-49d7-beb0-4624c923529e@37.202.237.244:55094?security=none&type=tcp&headerType=none&path=🔒
 vless://0354ec40-a5f5-49d7-beb0-4624c923529e@37.202.237.244:55095?security=none&type=tcp&headerType=none&path=🔒
-vless://0357473a-694e-4aaa-af1b-c8e198b1b443@104.16.1.106:8080/?type=tcp&encryption=none#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2rayopen%20%5B17%5D
-vless://036340ab-a3fc-45a9-92f8-f4c8d552e0d7@betty.ns.cloudflare.com:443?encryption=none&security=tls&sni=639012607479964292.defender-amsjc.info&insecure=0&allowInsecure=0&type=ws&host=639012607479964292.defender-amsjc.info&path=/ixbbknws#@Daily_Configs
-vless://036340ab-a3fc-45a9-92f8-f4c8d552e0d7@betty.ns.cloudflare.com:443?encryption=none&security=tls&sni=🔒
-vless://036340ab-a3fc-45a9-92f8-f4c8d552e0d7@betty.ns.cloudflare.com:443?path=/ixbbknws&security=tls&encryption=none&host=639012607479964292.defender-amsjc.info&fp=chrome&type=ws&sni=639012607479964292.defender-amsjc.info#[🛸]

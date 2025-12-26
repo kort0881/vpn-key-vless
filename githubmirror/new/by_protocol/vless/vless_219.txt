@@ -1,3 +1,7 @@
+vless://mmd@46.101.83.29:8443?type=tcp&security=reality&fp=chrome&sni=🔒
+vless://narcod_ping@85.133.228.198:41546/?encryption=none&host=varzesh3.com&type=tcp&headerType=http#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40narcod_ping%20%5B14%5D
+vless://narcod_ping@85.133.228.198:41546?type=tcp&path=%2F&host=varzesh3.com&headerType=http&security=none#%E2%9D%94%20XX%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40narcod_ping%20%5B14%5D
+vless://narcod_ping@85.133.228.198:41546?type=tcp&path=🔒
 vless://qeshmserver@151.101.3.8:80?type=xhttp&mode=auto&host=qeshmserverfree.global.ssl.fastly.net&security=none
 vless://qeshmserver@151.101.3.8:80?type=xhttp&mode=auto&host=qeshmserverfree.global.ssl.fastly.net&security=none#%E2%9D%94%20XX%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40qeshmserver%20%5B13%5D
 vless://spec-x-technology@beththebird.online:2052?path=🔒
@@ -494,7 +498,3 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.107:8880?security=none&f
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.133.224:8880?security=none&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#%F0%9F%87%A8%F0%9F%87%BE%20Cyprus%20-%20NA%20%F0%9F%8C%8F%20VL-GRPC-NONE%204%E2%83%A3
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.138.164.4:8880?security=none&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20Coventry%20%F0%9F%8C%8D%20VL-GRPC-NONE%204%E2%83%A3
 vless://12345678-1234-1234-1234-123456789123@94.247.142.61:2096?security=tls&sni=vless.hubp.de&allowInsecure=1&fp=chrome&type=ws&path=/snippets&host=vless.hubp.de&packetEncoding=xudp&encryption=none#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20NA%20%F0%9F%8C%8D%20VL-WS-TLS%204%E2%83%A3
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.219:8880?security=none&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20Paris%20%F0%9F%8C%8D%20VL-GRPC-NONE%204%E2%83%A3
-vless://0d22d782-b8e5-4825-b300-cc315f513592@194.87.29.240:443?security=reality&sni=cdnjs.com&fp=chrome&pbk=vfmqSXTEjdIOgz43eZTNzBRztAvd1U1dDkSz_mnaSk4&sid=bc97736f81817c41&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Frankfurt%20am%20Main%20%F0%9F%8C%8D%20VL-TCP-RLT%204%E2%83%A3
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.72:8880?security=none&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20Paris%20%F0%9F%8C%8D%20VL-GRPC-NONE%204%E2%83%A3
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.219:8880?security=none&allowInsecure=1&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20Paris%20%F0%9F%8C%8D%20VL-GRPC-NONE%204%E2%83%A3

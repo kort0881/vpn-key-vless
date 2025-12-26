@@ -1,3 +1,7 @@
+vless://eb1d7b6b-b639-4de6-bec5-f99ab30e5f8e@192.109.200.88:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒
+vless://eb1d7b6b-b639-4de6-bec5-f99ab30e5f8e@192.109.200.88:443?security=reality&encryption=none&pbk=KxuN6IHvbKNp0sqqCMM9kk5SmJ1bKFpivyX4K2G97hc&host=%2FJKVPN_BIA_CHANEL%40JKVPN&headerType=none&fp=chrome&spx=%2FJKVPN_BIA_CHANEL%40JKVPN&type=tcp&flow=xtls-rprx-vision&sni=🔒
+vless://eb1d7b6b-b639-4de6-bec5-f99ab30e5f8e@192.109.200.88:443?security=reality&encryption=none&pbk=KxuN6IHvbKNp0sqqCMM9kk5SmJ1bKFpivyX4K2G97hc&host=/JKVPN_BIA_CHANEL@JKVPN&headerType=none&fp=chrome&spx=/JKVPN_BIA_CHANEL@JKVPN&type=tcp&flow=xtls-rprx-vision&sni=🔒
+vless://eb1f9272-a26f-44a8-a1e9-864d6bb22dd6@135.125.207.34:80?encryption=none&security=none&type=ws&host=de1.v2vless.xyz&path=🔒
 vless://eb224fdb-a85c-4764-9f26-9b49e0f231cd@earthshaker.fonixapp.org:40359?security=reality&encryption=none&pbk=7YnBT77FEbuPm7lDErGuskhNdiq773WQYumBa0aapXo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ilovepdf.com&sid=a57aef#All-@V2ray_Alpha--27
 vless://eb224fdb-a85c-4764-9f26-9b49e0f231cd@earthshaker.fonixapp.org:40359?security=reality&encryption=none&pbk=7YnBT77FEbuPm7lDErGuskhNdiq773WQYumBa0aapXo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒
 vless://eb24e3b9-bcfb-46b9-a962-2621eabee526@165.232.32.128:8990?security=reality&encryption=none&pbk=Om08OL0-DY2tV5Z27yFWpzdz_TiJSBxcGUdX5awq5zA&headerType=none&fp=chrome&type=tcp&sni=🔒
@@ -494,7 +498,3 @@ vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@104.18.90.95:443?path=🔒
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@104.24.236.112:443/?type=ws&encryption=none&path=%2F&security=tls&sni=dl1-de-cdn.easy-upload.org#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A9%F0%9F%87%AA
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@104.24.236.112:443?path=🔒
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@104.24.6.87:443/?type=ws&encryption=none&path=%2F&security=tls&sni=dl1-de-cdn.easy-upload.org#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A9%F0%9F%87%AA
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@104.24.6.87:443?path=🔒
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@104.25.18.255:443/?type=ws&encryption=none&path=%2F&security=tls&sni=dl1-de-cdn.easy-upload.org#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A9%F0%9F%87%AA
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@104.25.18.255:443?path=🔒
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@104.27.78.152:443/?type=ws&encryption=none&path=%2F&security=tls&sni=dl1-de-cdn.easy-upload.org#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A9%F0%9F%87%AA

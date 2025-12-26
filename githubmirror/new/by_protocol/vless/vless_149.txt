@@ -1,3 +1,7 @@
+vless://0357473a-694e-4aaa-af1b-c8e198b1b443@104.16.1.106:8080/?type=tcp&encryption=none#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2rayopen%20%5B17%5D
+vless://036340ab-a3fc-45a9-92f8-f4c8d552e0d7@betty.ns.cloudflare.com:443?encryption=none&security=tls&sni=639012607479964292.defender-amsjc.info&insecure=0&allowInsecure=0&type=ws&host=639012607479964292.defender-amsjc.info&path=/ixbbknws#@Daily_Configs
+vless://036340ab-a3fc-45a9-92f8-f4c8d552e0d7@betty.ns.cloudflare.com:443?encryption=none&security=tls&sni=🔒
+vless://036340ab-a3fc-45a9-92f8-f4c8d552e0d7@betty.ns.cloudflare.com:443?path=/ixbbknws&security=tls&encryption=none&host=639012607479964292.defender-amsjc.info&fp=chrome&type=ws&sni=639012607479964292.defender-amsjc.info#[🛸]
 vless://036340ab-a3fc-45a9-92f8-f4c8d552e0d7@betty.ns.cloudflare.com:443?path=🔒
 vless://03702488-a7b1-445e-98db-db2166e9a656@172.66.156.81:80?encryption=none&type=ws&host=websocket.network.www.speedtest.net.flutter.dev.russia.pyt.digitalcity5.xyz.&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy#🇺🇸
 vless://03702488-a7b1-445e-98db-db2166e9a656@172.66.156.81:80?encryption=none&type=ws&host=websocket.network.www.speedtest.net.flutter.dev.russia.pyt.digitalcity5.xyz.&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy&security=none#🇺🇸@Shh_Proxy
@@ -494,7 +498,3 @@ vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@dylan.ns.cloudflare.com:443/?type=w
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@icook.tw:443/?type=ws&encryption=none&host=vk.ylka.dpdns.org&path=%2F%3Fed%3D2560%26prot_type%3Dvless&security=tls&sni=vk.ylka.dpdns.org#%F0%9F%AB%9283%40oneclickvpnkeys
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@icook.tw:443/?type=ws&encryption=none&host=vk.ylka.dpdns.org&path=🔒
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@ip.sb:443/?type=ws&encryption=none&host=vk.ylka.dpdns.org&path=%2F%3Fed%3D2560%26prot_type%3Dvless&security=tls&sni=vk.ylka.dpdns.org#2%F0%9F%AB%92%40oneclickvpnkeys
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@ip.sb:443/?type=ws&encryption=none&host=vk.ylka.dpdns.org&path=🔒
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@join.my.telegram.channel.cmliussss.to.unlock.more.premium.nodes.cf.090227.xyz:443?encryption=none&security=tls&sni=🔒
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@lewis.ns.cloudflare.com:443/?type=ws&encryption=none&host=rc.ylks0033.dpdns.org&path=%2F%3Fed%3D2560&security=tls&sni=rc.ylks0033.dpdns.org#%F0%9F%8C%BD7%40oneclickvpnkeys
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@lewis.ns.cloudflare.com:443/?type=ws&encryption=none&host=rc.ylks0033.dpdns.org&path=🔒

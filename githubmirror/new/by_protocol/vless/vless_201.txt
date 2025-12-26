@@ -1,3 +1,7 @@
+vless://c92794ee-7c70-4faa-8f07-e7cec2cb14c9@185.243.49.177:24989/?encryption=none&host=exo.ir&type=tcp&headerType=http
+vless://c92856da-9532-49ec-bb71-d981a623f5c9@104.21.11.28:443/?type=ws&encryption=none&host=freedom6.mamav81785.workers.dev&path=%2F&security=tls&sni=freedom6.mamav81785.workers.dev#%40Hope_Net-join-us-on-Telegram
+vless://c92856da-9532-49ec-bb71-d981a623f5c9@104.21.11.28:443/?type=ws&encryption=none&host=freedom6.mamav81785.workers.dev&path=🔒
+vless://c92856da-9532-49ec-bb71-d981a623f5c9@104.21.11.28:443?encryption=none&security=tls&sni=🔒
 vless://c928cc14-4bb1-48bd-b4da-69448ec797ba@91.99.216.9:8443?type=tcp&headerType=none&host=mci.ir&security=reality&fp=chrome&sni=🔒
 vless://c931b432-cbab-47f4-ae30-917b17e5fb1f@208.67.105.196:443?security=reality&sni=www.tradingview.com&fp=chrome&pbk=ameppwaxPsbMnl1d5xQ4nbkdiRLRQL7XLsFDwOv2XAY&sid=ba2e91d5d7be&type=tcp&flow=xtls-rprx-vision&encryption=none#@V2ray_Collector
 vless://c935aba0-8835-426a-a585-225baee13f70@188.34.201.88:16072?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=
@@ -494,7 +498,3 @@ vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?type=ws&host
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?type=ws&host=lease-14.access.name.ng&path=🔒
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?type=ws&host=lease-15.access.name.ng&path=🔒
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?type=ws&host=lease-20.access.name.ng&path=🔒
-vless://ccd5d8c4-634c-46bc-8f7a-5be3b8649858@85.133.215.188:3311?mode=gun&security=none&encryption=none&type=grpc
-vless://ccd5d8c4-634c-46bc-8f7a-5be3b8649858@85.133.215.188:3311?mode=gun&security=none&encryption=none&type=grpc#@CaV2ray
-vless://ccd5d8c4-634c-46bc-8f7a-5be3b8649858@turkey.jewelll.ir:3311?mode=gun&security=none&encryption=none&type=grpc
-vless://ccd5d8c4-634c-46bc-8f7a-5be3b8649858@turkey.jewelll.ir:3311?mode=gun&security=none&encryption=none&type=grpc#@CaV2ray
