@@ -1,3 +1,6 @@
+trojan://telegram-id-privatevpns@15.224.11.77:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@15.236.28.119:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@52.29.221.21:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.72.188.172:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@15.224.12.64:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@15.188.100.75:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
@@ -257,14 +260,11 @@ trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@k
 trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.228:10889?security=tls&amp;sni=web.max&amp;allowInsecure=1&amp;type=tcp&amp;headerType=none#t.me/v2Line
 trojan://telegram-id-directvpn@52.59.43.9:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#OurChannel
 trojan://telegram-id-privatevpns@52.47.92.82:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#T.me%2FSafeNet_Server+%F0%9F%92%9A%F0%9F%A4%8D%E2%9D%A4
-trojan://.ie4rghJuMkcf0oF@38.96.254.102:18509?type=raw&headerType=none&security=tls&sni=shoppingmall.electricbanana.click#[🇨🇦] [tr-tl-ra] [251226-102712.051]
-trojan://9f6256ae-52e7-4954-9a17-445b106bdca7@green2.cdntencentmusic.com:31102?type=raw&headerType=none&security=tls&sni=green2.cdntencentmusic.com#[🇭🇰] [tr-tl-ra] [251226-102715.466]
-trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.87.174:3093?type=raw&headerType=none&security=tls&sni=www.nintendogames.net#[🇯🇵] [tr-tl-ra] [251226-102713.444]
-trojan://cf142ac0-4bae-4c4b-9882-21fc0550a661@whatismyipaddress.com:443?type=ws&path=%2F%3Fed%3D2560&security=tls&fp=random&sni=red-dream-2d6c.xepis84786.workers.dev#[🇯🇵] [tr-tl-ws] [251226-102719.032]
-trojan://BaeSzHdfJIR13l67@70.34.218.149:11930?type=raw&headerType=none&security=tls&sni=softpillow.silentrocket.click#[🇸🇪] [tr-tl-ra] [251226-102715.556]
-trojan://5a2c16f9@cf.130519.xyz:443?type=ws&host=snippets.kkii.eu.org&path=%2F&security=tls&sni=snippets.kkii.eu.org#[🇹🇼] [tr-tl-ws] [251226-102713.672]
-trojan://adb3985f-f23b-42f9-9332-cac7604021fd@green2.cdntencentmusic.com:35501?type=raw&headerType=none&security=tls&sni=green2.cdntencentmusic.com#[🇺🇸] [tr-tl-ra] [251226-102718.063]
-trojan://e86364fb-a5e3-42c3-b7fa-6ce8097fe19f@bisque.qzz.io:443?type=ws&host=bisque.qzz.io&path=%2F66.135.4.222%3A8443&security=tls&sni=bisque.qzz.io#[🇺🇸] [tr-tl-ws] [251226-102719.586]
+trojan://.ie4rghJuMkcf0oF@38.96.254.102:18509?type=raw&headerType=none&security=tls&sni=shoppingmall.electricbanana.click#[🇨🇦] [tr-tl-ra] [251226-131636.279]
+trojan://9f6256ae-52e7-4954-9a17-445b106bdca7@green2.cdntencentmusic.com:31102?type=raw&headerType=none&security=tls&sni=green2.cdntencentmusic.com#[🇭🇰] [tr-tl-ra] [251226-131639.747]
+trojan://BaeSzHdfJIR13l67@70.34.218.149:11930?type=raw&headerType=none&security=tls&sni=softpillow.silentrocket.click#[🇸🇪] [tr-tl-ra] [251226-131639.839]
+trojan://5a2c16f9@freeyx.cloudflare88.eu.org:443?type=ws&host=snippets.kkii.eu.org&path=%2F&security=tls&sni=snippets.kkii.eu.org#[🇹🇼] [tr-tl-ws] [251226-131637.914]
+trojan://e86364fb-a5e3-42c3-b7fa-6ce8097fe19f@bisque.qzz.io:443?type=ws&host=bisque.qzz.io&path=%2F66.135.4.222%3A8443&security=tls&sni=bisque.qzz.io#[🇺🇸] [tr-tl-ws] [251226-131643.902]
 trojan://trojan@172.67.75.172:8443?security=tls&sni=fofang.pages.dev&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=fofang.pages.dev#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20TR-WS-TLS%204%E2%83%A3
 trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&fp=chrome&type=ws&path=/&host=store.timimi.dpdns.org#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20-%20NA%20%F0%9F%8C%8D%20TR-WS-TLS%204%E2%83%A3
 trojan://trojan@104.18.13.229:8443?security=tls&sni=pangpi.pages.dev&fp=chrome&type=ws&path=/&host=pangpi.pages.dev#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20TR-WS-TLS%204%E2%83%A3
@@ -293,3 +293,9 @@ trojan://cf142ac0-4bae-4c4b-9882-21fc0550a661@www.speedtest.net:443?sni=red-drea
 trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?sni=5.188.108.13&allowInsecure=1&fp=chrome#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%B5%F0%9F%87%B1PL_1%20%F0%9F%A7%AD%204.5MB%2Fs`
 trojan://telegram-id-directvpn@3.127.180.68:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 trojan://telegram-id-privatevpns@3.127.180.68:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@13.36.161.107:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#@Hope_Net-join-us-on-Telegram
+trojan://cf142ac0-4bae-4c4b-9882-21fc0550a661@188.114.97.3:443?sni=red-dream-2d6c.xepis84786.workers.dev&type=ws&path=%2F%3Fed%3D2560&fp=chrome#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%A9%F0%9F%87%AADE_8%20%F0%9F%A7%AD%204.3MB%2Fs`
+trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?sni=5.188.108.13&allowInsecure=1&fp=chrome#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%B5%F0%9F%87%B1PL_1%20%F0%9F%A7%AD%204.2MB%2Fs`
+trojan://telegram-id-privatevpns@3.11.222.99:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#@Hope_Net-join-us-on-Telegram
+trojan://4V4kxVXmcg5Yn2DqF2@ty1-3.nigirocloud.com:443?allowInsecure=1#@Hope_Net-join-us-on-Telegram
+trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?sni=5.188.108.13&allowInsecure=1&fp=chrome#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%B5%F0%9F%87%B1PL_1%20%F0%9F%A7%AD%204.7MB%2Fs`

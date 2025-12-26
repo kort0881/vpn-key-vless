@@ -1,9 +1,3 @@
-vless://d00d13b2-5cd3-4648-afa9-807983647ed8@144.31.3.129:443?path=/&security=&encryption=none&host=sinavm.ir&type=ws#4Jadi-11146
-vless://d00d13b2-5cd3-4648-afa9-807983647ed8@144.31.3.129:443?path=/&security=none&encryption=none&host=sinavm.ir&type=ws#4Jadi-11147
-vless://d00d13b2-5cd3-4648-afa9-807983647ed8@144.31.3.129:443?path=/&security=none&encryption=none&type=ws#4Jadi-11148
-vless://d00d13b2-5cd3-4648-afa9-807983647ed8@[2a0e:d600:0:2f8::2]:443?encryption=none&type=ws&host=sinavm.ir&path=/&security=none#4Jadi-11149
-vless://d00d13b2-5cd3-4648-afa9-807983647ed8@[2a0e:d600:0:2f8::2]:443?path=/&security=none&encryption=none&host=sinavm.ir&type=ws#4Jadi-11150
-vless://d00d13b2-5cd3-4648-afa9-807983647ed8@[2a0e:d600:0:2f8::2]:443?path=/&security=none&encryption=none&type=ws#4Jadi-11151
 vless://d01fb2d9-1ec2-4512-a9ec-0b4fbe36822c@51.250.34.219:443/?type=grpc&encryption=none&flow=&sni=eh.vk.com&fp=chrome&security=reality&pbk=Nf_7O30eWxpnogvFWfzAn8kd2UJgFekYEYmoNz_AdxE&sid=a84f3bf1#4Jadi-11152
 vless://d0298536-d670-4045-bbb1-ddd5ea68683e@172.66.168.221:443?security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=azaDNET-1Cm.Pages.DeV#4Jadi-11153
 vless://d0298536-d670-4045-bbb1-ddd5ea68683e@time.is:443?path=/&security=tls&encryption=none&fp=chrome&type=ws&sni=a.azadnet002.ddns-ip.net#4Jadi-11154
@@ -498,3 +492,9 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.16:8880?mode=gun&security=
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.19:8880?mode=gun&security=&encryption=none&fp=chrome&type=grpc#4Jadi-11643
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.19:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#4Jadi-11644
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.218:8880?mode=gun&security=none&encryption=none&type=grpc#4Jadi-11645
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.222:8880?mode=gun&security=&encryption=none&type=grpc#4Jadi-11646
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.222:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#4Jadi-11647
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.222:8880?mode=gun&security=none&encryption=none&type=grpc#4Jadi-11648
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.226:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#4Jadi-11649
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.226:8880?mode=gun&security=none&encryption=none&type=grpc#4Jadi-11650
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.40:8880?mode=gun&security=none&encryption=none&type=grpc#4Jadi-11651

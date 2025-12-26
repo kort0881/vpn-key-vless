@@ -1,9 +1,3 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.222:8880?mode=gun&security=&encryption=none&type=grpc#4Jadi-11646
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.222:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#4Jadi-11647
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.222:8880?mode=gun&security=none&encryption=none&type=grpc#4Jadi-11648
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.226:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#4Jadi-11649
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.226:8880?mode=gun&security=none&encryption=none&type=grpc#4Jadi-11650
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.40:8880?mode=gun&security=none&encryption=none&type=grpc#4Jadi-11651
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.4:8880?mode=gun&security=none&encryption=none&type=grpc#4Jadi-11652
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.105:8880?mode=gun&security=&encryption=none&type=grpc#4Jadi-11653
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.105:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#4Jadi-11654
@@ -498,3 +492,9 @@ vless://e5e1fd55-9174-4ae3-9471-ae2c6aea6198@209.38.218.66:45415?mode=gun&securi
 vless://e5e2998b-92ff-4a71-abd2-46548489ac0b@172.66.40.99:2052?type=ws&path=/@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&host=--.snaptripupport.space.&security=none#4Jadi-12143
 vless://e5f6a7b8-c9d0-5678-1234-ef0123456789@51.82.89.185:2053?type=tcp&encryption=none&sni=fast.com&fp=chrome&security=reality&pbk=JKL9876543210fedcba9876543210fed#4Jadi-12144
 vless://e60ac179-ff5e-4c01-88be-1d221cb8e61a@172.66.40.99:8080?type=ws&path=/@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&host=--.snaptripupport.space.&security=none#4Jadi-12145
+vless://e60c6be1-42cc-472e-b35d-6568fe8a49b2@104.17.147.22:2096?path=/&security=tls&encryption=none&host=GRouND-sloth.zulair.SIte.&fp=chrome&type=ws&sni=GRouND-sloth.zulair.SIte.#4Jadi-12146
+vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@146.19.230.209:443?path=%2Fhormoz&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1#4Jadi-12147
+vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@146.19.230.209:443?path=/hormoz&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1#4Jadi-12148
+vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.138.164.157:443?path=%2Fhormoz&security=tls&encryption=none&type=ws&sni=github.com#4Jadi-12149
+vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.218.3.40:443?path=%2Fhormoz&security=tls&encryption=none&type=ws&sni=fuck.rkn#4Jadi-12150
+vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.218.3.40:443?path=/hormoz&security=tls&encryption=none&type=ws&sni=fuck.rkn#4Jadi-12151
