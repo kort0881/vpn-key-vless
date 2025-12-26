@@ -1,6 +1,3 @@
-vless://f38865d8-5aca-4135-8d56-7c39aa779b9b@45.150.174.82:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=maviks.eu&fp=chrome&security=reality&pbk=lyLhdojpACv6B3tHViJvPjNGATedXYRMnpAt4n4Siyo&sid=f203719d3ff9a5f5#%40Hope_Net-join-us-on-Telegram
-vless://f38865d8-5aca-4135-8d56-7c39aa779b9b@45.150.174.82:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒
-vless://f3913cee-7c77-4816-868e-8a8cd4f8747f@104.21.112.1:2096/?type=ws&encryption=none&host=mahdiserver-6pb.pages.dev&path=%2FhnFXjygGdKZVdR7d%3Fed%3D2560&security=tls&sni=mahDISerVeR-6PB.PAgeS.dEV&alpn=h2%2Chttp%2F1.1&fp=randomized#%40Hope_Net-join-us-on-Telegram
 vless://f3913cee-7c77-4816-868e-8a8cd4f8747f@104.21.112.1:2096/?type=ws&encryption=none&host=mahdiserver-6pb.pages.dev&path=🔒
 vless://f3913cee-7c77-4816-868e-8a8cd4f8747f@104.21.16.1:2096/?type=ws&encryption=none&host=mahdiserver-6pb.pages.dev&path=%2FhnFXjygGdKZVdR7d%3Fed%3D2560&security=tls&sni=mahDISerVeR-6PB.PAgeS.dEV&alpn=h2%2Chttp%2F1.1&fp=randomized#%40Hope_Net-join-us-on-Telegram
 vless://f3913cee-7c77-4816-868e-8a8cd4f8747f@104.21.16.1:2096/?type=ws&encryption=none&host=mahdiserver-6pb.pages.dev&path=🔒
@@ -498,3 +495,6 @@ vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@18.183.158.211:443?encryption=none&
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@181.214.1.234:2087?encryption=none&security=tls&sni=🔒
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@181.214.1.242:2053?encryption=none&security=tls&sni=🔒
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@185.148.105.225:8443?encryption=none&security=tls&type=ws&sni=🔒
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@185.148.106.44:2083?encryption=none&security=tls&sni=🔒
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@185.176.24.140:2087?encryption=none&security=tls&sni=🔒
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@185.176.24.140:2087?encryption=none&security=tls&type=ws&sni=🔒

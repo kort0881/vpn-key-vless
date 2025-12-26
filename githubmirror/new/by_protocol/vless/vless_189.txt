@@ -1,6 +1,3 @@
-vless://50e8358b-a93c-4cd2-8459-2d87bacbe48d@safar65.ucpubg.org:54556/?encryption=none&host=dash.cloudflare.com&type=tcp&headerType=http#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40dalton_ping%20%5B6%5D
-vless://50ee9674-b7bd-4ea5-a677-80b93901486f@invoker.fonixapp.org:44107?security=reality&encryption=none&pbk=9TRNqh5LFeGA6ZkHZyV5l6fB3lOTgk_HaAviYi5MOQY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=grammarly.com&sid=b19de72e#All-@V2ray_Alpha--36
-vless://50ee9674-b7bd-4ea5-a677-80b93901486f@invoker.fonixapp.org:44107?security=reality&encryption=none&pbk=9TRNqh5LFeGA6ZkHZyV5l6fB3lOTgk_HaAviYi5MOQY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒
 vless://50f0212c-923b-40d7-f55f-a8c5d9c4898e@www.speedtest.net:2086?path=🔒
 vless://510d82c4-20c6-4605-9e92-cf49c1e9f900@188.245.61.146:8001/?type=tcp&encryption=none&sni=oMIdmAHBouBI.ir&fp=chrome&security=reality&pbk=W0BYEeLEqNRk8Bn2G27x5G9ALICJxePV6hxZG2A4Jmg&sid=#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40merdesert%20%5B4%5D
 vless://510d82c4-20c6-4605-9e92-cf49c1e9f900@188.245.61.146:8001?security=reality&encryption=none&pbk=W0BYEeLEqNRk8Bn2G27x5G9ALICJxePV6hxZG2A4Jmg&headerType=none&fp=chrome&type=tcp&sni=oMIdmAHBouBI.ir#%E2%9D%94%20XX%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40merdesert%20%5B4%5D
@@ -498,3 +495,6 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@34.160.118.77:80/?type=ws&encryptio
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@44.31.62.2:80/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560#%40Hope_Net-join-us-on-Telegram
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@44.31.62.2:80/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=🔒
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@44.31.62.2:80?path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#%40v2raying
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@44.31.62.3:80/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560#%40Hope_Net-join-us-on-Telegram
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@44.31.62.3:80/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=🔒
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@44.31.62.3:80?path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#%40v2raying

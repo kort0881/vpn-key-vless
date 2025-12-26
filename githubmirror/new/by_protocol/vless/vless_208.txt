@@ -1,6 +1,3 @@
-vless://9e894e86-cdae-4894-b39a-246a59c89448@202.71.14.61:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒
-vless://9e894e86-cdae-4894-b39a-246a59c89448@202.71.14.61:8443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ign.com&fp=qq&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#REALITY|NL🇳🇱
-vless://9e894e86-cdae-4894-b39a-246a59c89448@31.57.56.213:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒
 vless://9e894e86-cdae-4894-b39a-246a59c89448@31.57.56.213:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ign.com&sid=6ba85179e30d4fc2#🏴🏳
 vless://9e894e86-cdae-4894-b39a-246a59c89448@31.57.56.213:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒
 vless://9e894e86-cdae-4894-b39a-246a59c89448@31.57.56.213:8443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ign.com&fp=qq&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#REALITY|IE🇮🇪
@@ -498,3 +495,6 @@ vless://Parsashonam-Bot-13@[2a01:4f8:1c1a:dc2b::1]:4430?security=reality&encrypt
 vless://Parsashonam-Bot-14@104.17.147.22:8080?path=🔒
 vless://Parsashonam-Bot-14@104.17.147.22:8880?path=🔒
 vless://Parsashonam-Bot-14@185.146.173.39:8080?path=🔒
+vless://Parsashonam-Bot-14@[2a01:4f8:1c1a:dc2b::1]:4430?security=reality&encryption=none&pbk=5CE4ZpwvR-EmkymzU3V6yeeTcSTCpIBg473J8-6IFnM&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=🔒
+vless://Parsashonam-Bot-14@[2a01:4f9:c011:76c2::1]:12059?security=reality&encryption=none&pbk=47PT8crL4enRdXrSwKRpbqDjWOqao-cUMABVJ9jq2SI&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=🔒
+vless://Parsashonam-Bot-14@[2a01:4f9:c011:76c2::1]:12060?security=reality&encryption=none&pbk=ns_xXaKpN5PUjM6FuXjnFGVWN4JLiR-K5I6yDWerBlQ&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=🔒

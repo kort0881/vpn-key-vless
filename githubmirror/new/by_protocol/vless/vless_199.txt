@@ -1,6 +1,3 @@
-vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.10:443?encryption=none&security=tls&allowInsecure=1&type=ws&path=🔒
-vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.10:443?path=🔒
-vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.11:443/?type=ws&encryption=none&flow=&path=🔒
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.11:443?encryption=none&security=tls&allowInsecure=1&type=ws&path=🔒
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.11:443?path=🔒
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.12:443/?type=ws&encryption=none&flow=&path=🔒
@@ -498,3 +495,6 @@ vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@statue.lnmarketplace.net:443?mode=s
 vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@statue.lnmarketplace.net:443?mode=stream-one&path=%2Fstatue&security=tls&alpn=h2&encryption=none&insecure=0&host=statue.lnmarketplace.net&fp=firefox&type=xhttp&allowInsecure=0&sni=statue.lnmarketplace.net#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@statue.lnmarketplace.net:443?mode=stream-one&path=%2Fstatue&security=tls&alpn=h2&encryption=none&insecure=0&host=statue.lnmarketplace.net&type=xhttp&allowInsecure=0&sni=statue.lnmarketplace.net#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@statue.lnmarketplace.net:443?mode=stream-one&path=%2Fstatue&security=tls&alpn=h2&encryption=none&insecure=0&host=statue.lnmarketplace.net&type=xhttp&allowInsecure=0&sni=statue.lnmarketplace.net#%F0%9F%87%AB%F0%9F%87%B7%40FreakConfig
+vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@statue.lnmarketplace.net:443?mode=stream-one&path=%2Fstatue&security=tls&alpn=h2&encryption=none&insecure=0&host=statue.lnmarketplace.net&type=xhttp&allowInsecure=0&sni=statue.lnmarketplace.net#DE🇩🇪
+vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@statue.lnmarketplace.net:443?mode=stream-one&path=%2Fstatue&security=tls&alpn=h2&encryption=none&insecure=1&host=statue.lnmarketplace.net&type=xhttp&allowInsecure=1&sni=statue.lnmarketplace.net#DE🇩🇪
+vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@statue.lnmarketplace.net:443?mode=stream-one&path=%2Fstatue&security=tls&encryption=none&alpn=h2&extra=%7B%22headers%22%3A%7B%7D%2C%22noGRPCHeader%22%3Atrue%2C%22xmux%22%3A%7B%22maxConnections%22%3A%226%22%7D%7D&host=statue.lnmarketplace.net&fp=firefox&allowinsecure=0&type=xhttp&sni=statue.lnmarketplace.net#DE🇩🇪

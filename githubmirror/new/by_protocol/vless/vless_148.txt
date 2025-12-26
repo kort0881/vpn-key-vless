@@ -1,6 +1,3 @@
-vless://39a192ed-7e78-42f4-b956-2f0ea17f677f@108.162.194.99:443?security=tls&type=ws&path=%2Frbjisuws&host=639018301854287215.camry-amsjk.info&sni=639018301854287215.camry-amsjk.info&fp=chrome&encryption=none#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:21.69ms
-vless://SERVERNETT-SERVERNETT1@rf4.sernett.ir:80?mode=auto&path=%2F&security=&encryption=none&type=xhttp#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22.45ms
-vless://e4b8df56-b680-4a34-ab47-5bf5738ed718@5.181.21.72:443?security=reality&encryption=none&pbk=v9CxKfIPtkKH1cTGKEer-1i-3JL31vZPpPl2Ujnbjh8&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=85225c27630d023f#👉🆔@v2ray_configs_pool📡🇦🇹®️Austria©️Vienna🅿️ping:21.68ms
 vless://7bcb7241-33f9-48e0-8660-b33aed2bff7a@104.21.96.1:2096?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=8j3f7HD37h.PaGES.dEV#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:21.79ms
 vless://495c0dad-3268-4470-ac57-887c5089db0d@162.159.153.2:443?path=%2F&security=tls&encryption=none&insecure=0&host=ziyong.boringdad.netlib.re&fp=chrome&type=ws&allowInsecure=0&sni=ziyong.boringdad.netlib.re#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:21.76ms
 vless://e5017995-2093-491b-a0fa-d4890782d42a@84.201.139.151:1443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=eh.vk.com&fp=chrome&security=reality&pbk=Cr5wj7rAiTAjxuRTjgbsyxHeKzCVbs1VZB3V1_PGeS0&sid=8e2a2f4c217f519f#👉🆔@v2ray_configs_pool📡🇷🇺®️Russia©️Moscow🅿️ping:48.23ms
@@ -498,3 +495,6 @@ vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.159.239:80/?type=ws&encrypti
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.16.250:80/?type=ws&encryption=none&host=us3.rtacg.com&path=%2F#%40Hope_Net-join-us-on-Telegram
 vless://81d304dd-dfdd-4db3-9918-b1516dc3510d@162.159.135.232:2096/?type=ws&encryption=none&host=S.fruitsstore.ir&security=tls&sni=S.fruitsstore.ir
 vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.16.254.154:80/?type=ws&encryption=none&host=kr1.175852.xyz&path=%2Fabcde#%40Hope_Net-join-us-on-Telegram
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.120.108:80/?type=ws&encryption=none&host=us3.rtacg.com&path=%2F#%40Hope_Net-join-us-on-Telegram
+vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.52.5:80/?type=ws&encryption=none&host=us3.rtacg.com&path=%2F#%40Hope_Net-join-us-on-Telegram
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.66.45.45:443/?type=ws&encryption=none&host=edtunnel-csc.pages.dev&path=%2F%3Fed%3D2048&security=tls&sni=edtunnel-csc.pages.dev&fp=chrome#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool
