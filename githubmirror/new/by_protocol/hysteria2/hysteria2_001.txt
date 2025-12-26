@@ -295,6 +295,7 @@ hysteria2://dongtaiwang.com@[2001:bc8:32d7:302::11]:20088?security=tls&amp;insec
 hysteria2://linux.do@[2a01:4f9:4b:f378::1]:13599?security=tls&amp;insecure=1&amp;sni=www.bing.com#🇫🇮
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&amp;obfs=salamander&amp;obfs-password=Yet-Another-Public-Config-1&amp;insecure=1&amp;sni=YAPC-1.afshin.ir#🇳🇱
 hysteria2://Telegram-->@Ln2Ray@[2a14:3f87:f001:9::a]:45000?security=tls&amp;obfs=salamander&amp;obfs-password=Telegram-->@Ln2Ray&amp;insecure=1&amp;sni=gavazn.55994421.xyz#🇳🇱
+hysteria2://e20cc63dc06088fba56bf786860aadaf@dd.openaccessnode.com:989?security=tls&amp;obfs=salamander&amp;obfs-password=@JavidnamanIran-Javid-SHAH-King-Reza-Pahlavi&amp;insecure=0&amp;sni=dd.ircybersec.org#@V2rayNGVPN <= کانفیگ رایگان
 hysteria2://afc8e385-dc0f-4b26-a5ed-b0fbf08b9df6@tr.xn--9kqx4sc0n.shop:21325?security=tls&amp;insecure=0#(@VmessProtocol)برای خرید و اتصال دائمی جوین شو🇩🇪
 hysteria2://c232f411-96b5-4b07-b2f7-66a434725ffb@193.142.59.41:23899?security=tls&amp;insecure=1&amp;sni=hl01.mistea.top#(@VmessProtocol)برای خرید و اتصال دائمی جوین شو🇩🇪
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&amp;obfs=salamander&amp;obfs-password=Yet-Another-Public-Config-1&amp;insecure=1&amp;sni=YAPC-1.afshin.ir#(@VmessProtocol)برای خرید و اتصال دائمی جوین شو🇩🇪
@@ -497,4 +498,3 @@ hysteria2://SNItest@37.18.14.169:443?security=tls&insecure=1&sni=megafon.ru#AZAR
 hysteria2://SNItest@37.18.14.169:443?security=tls&insecure=1&sni=megafon.ru#All--@V2rayAlpha--13
 hysteria2://SNItest@37.18.14.169:443?security=tls&insecure=1&sni=megafon.ru#WiFi-@V2rayAlpha--2
 hysteria2://SNItest@37.18.14.169:443?security=tls&insecure=1&sni=megafon.ru#🔸@IRAN_V2RAY1💘
-hysteria2://TA524PW3Hg@91.99.225.11:443?insecure=1&sni=refersion.com&obfs=salamander&obfs-password=Jsbdksj@V2RayyNGvpn$Miracle#%F0%9F%87%A9%F0%9F%87%AA%40V2RayyNGvpn%F0%9F%87%A9%F0%9F%87%AA%D9%87%D9%85%D9%87%20%D8%A7%D9%88%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%20%D9%87...%20%2311
