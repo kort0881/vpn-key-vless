@@ -1,4 +1,3 @@
-vless://2bcc0549-b18c-4f53-b02c-34d37a3bbc7c@surfiran.com:2052?path=🔒
 vless://2bcfbfba-b446-4ad5-93ad-72af9e008f61@172.67.160.192:443/?type=ws&encryption=none&flow=&host=nuclear.us.kg&path=🔒
 vless://2bcfbfba-b446-4ad5-93ad-72af9e008f61@172.67.160.192:443/?type=ws&encryption=none&host=nuclear.us.kg&path=%2Ffree%2F103.101.153.32%3A443&security=tls&sni=nuclear.us.kg#%40NETMelliAnti
 vless://2bd0516b-d354-4b73-a198-9d826ab478ae@vlbe.g2ray.com:443?encryption=none&flow=xtls-rprx-direct&security=xtls&type=tcp&headerType=none
@@ -498,3 +497,4 @@ vless://2ee2a715-d541-416a-8713-d66567448c2e@91.98.231.130:443/?type=grpc&encryp
 vless://2ee2a715-d541-416a-8713-d66567448c2e@91.98.231.130:443?mode=gun&security=none&encryption=none&type=grpc
 vless://2ee2a715-d541-416a-8713-d66567448c2e@91.98.231.130:443?mode=gun&security=none&encryption=none&type=grpc#DE🇩🇪
 vless://2ee2a715-d541-416a-8713-d66567448c2e@91.98.231.130:443?mode=gun&security=none&encryption=none&type=grpc#WiFi-@V2rayAlpha--10
+vless://2ee2a715-d541-416a-8713-d66567448c2e@91.98.231.130:443?mode=gun&security=none&encryption=none&type=grpc#🇩🇪[openproxylist.com]

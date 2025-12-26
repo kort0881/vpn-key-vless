@@ -1,4 +1,3 @@
-vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@52.25.169.136:443/?type=tcp&encryption=none&sni=🔒
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@sv4.cloudjetm.com:2222?security=none&encryption=none&headerType=none&type=tcp
 vless://7fd30e86-70da-4d3a-c7e6-c732f5e76896@www.speedtest.net:2082?path=🔒
 vless://7fda59fc-d77f-4177-ae7b-7c582b7f6e03@65.109.204.158:19623?mode=gun&security=reality&encryption=none&pbk=qg_rCaLr0AyCmVZkfOS_6jUVb5QwFkQmMe-z8caU-UU&fp=chrome&spx=/&type=grpc&serviceName=@IRAN_V2RAY1---@IRAN_V2RAY1---@IRAN_V2RAY1---@IRAN_V2RAY1---@IRAN_V2RAY1---@IRAN_V2RAY1---@IRAN_V2RAY1---@IRAN_V2RAY1---@IRAN_V2RAY1---@IRAN_V2RAY1---@IRAN_V2RAY1---@IRAN_V2RAY1---@IRAN_V2RAY1&sni=🔒
@@ -498,3 +497,4 @@ vless://840ae376-483b-48d5-bc49-22b0769b5860@152.53.145.111:50151?security=reali
 vless://840ae376-483b-48d5-bc49-22b0769b5860@152.53.145.111:50151?security=reality&encryption=none&pbk=4U5Q1I9IVS4086blx7Zgo7tnq2-B5V1ARtpNinTcjHY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒
 vless://840ae376-483b-48d5-bc49-22b0769b5860@shadowshaman.fonixapp.org:50151?security=reality&encryption=none&pbk=4U5Q1I9IVS4086blx7Zgo7tnq2-B5V1ARtpNinTcjHY&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=steampowered.com&sid=de1e92#@IRAN_V2RAY1--All
 vless://840ae376-483b-48d5-bc49-22b0769b5860@shadowshaman.fonixapp.org:50151?security=reality&encryption=none&pbk=4U5Q1I9IVS4086blx7Zgo7tnq2-B5V1ARtpNinTcjHY&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=🔒
+vless://8417c221-c277-4e3b-8d19-b0ac0bfb4666@free.vpn.luna-marzban.ir:15510?security=none&encryption=none&host=divarcdn.com&headerType=http&type=tcp#@V2rayNG3

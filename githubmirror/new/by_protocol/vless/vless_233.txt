@@ -1,4 +1,3 @@
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.4.199:2053?path=🔒
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.4.225:2053/?type=ws&encryption=none&host=dl1-uk-cdn.easy-upload.org&path=%2F&security=tls&sni=dl1-uk-cdn.easy-upload.org#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AC%F0%9F%87%A7
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.4.225:2053?path=🔒
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.4.249:2053/?type=ws&encryption=none&host=dl1-pl-cdn.easy-upload.org&path=%2F&security=tls&sni=dl1-pl-cdn.easy-upload.org&alpn=h2%2Chttp%2F1.1&fp=random#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B5%F0%9F%87%B1
@@ -498,3 +497,4 @@ vless://ef4def1d-a5e3-4f4a-86fc-6de8505514e4@185.146.173.58:8080/?type=ws&encryp
 vless://ef52efd8-af07-434e-b384-db29806a281c@5.161.22.31:45173?encryption=none&security=none&type=ws&path=🔒
 vless://ef5442d6-02f7-4fec-b356-9f212cd4c24e@139.59.167.252:443/?type=ws&encryption=none&flow=&path=🔒
 vless://ef5442d6-02f7-4fec-b356-9f212cd4c24e@139.59.167.252:443?path=%2Fjysxfpws&security=tls&encryption=none&fp=chrome&type=ws&sni=ozon.ru#I%20%2065%20%28%40Outline_Vpn%29%20free
+vless://ef5442d6-02f7-4fec-b356-9f212cd4c24e@139.59.167.252:443?path=%2Fjysxfpws&security=tls&encryption=none&fp=chrome&type=ws&sni=ozon.ru#🇬🇧[openproxylist.com]

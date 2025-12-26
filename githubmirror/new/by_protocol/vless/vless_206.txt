@@ -1,4 +1,3 @@
-vless://95b1344a-2b59-419f-ab7d-2ff7e5c6aa34@91.98.93.136:443?mode=gun&security=none&encryption=none&type=grpc#Channel
 vless://95b1344a-2b59-419f-ab7d-2ff7e5c6aa34@91.98.93.136:443?mode=gun&security=none&encryption=none&type=grpc&serviceName=
 vless://95b1344a-2b59-419f-ab7d-2ff7e5c6aa34@91.98.93.136:443?mode=gun&security=none&encryption=none&type=grpc&serviceName=#TM+(@AZARBAYJAB1)GPRS
 vless://95bb51c8-660a-4a5b-80e5-93112261ed5f@172.66.40.99:443?path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&serviceName=Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH&security=tls&encryption=none&alpn=h2,http/1.1&host=hE136.maShkesTan.CoM&fp=chrome&allowinsecure=0&type=ws&sni=hE136.maShkesTan.CoM#➪+@FILTERK0SH++منبع+کانفیگ+رایگان
@@ -498,3 +497,4 @@ vless://9ab7946d-5907-4b98-b377-cd4956f7a41c@37.202.237.244:55095?security=none&
 vless://9ab7946d-5907-4b98-b377-cd4956f7a41c@87.248.129.96:55093?security=none&type=tcp&headerType=none&path=🔒
 vless://9ac02124-e3f2-4a80-8ac8-d06612ebaceb@purplelily.qzz.io:443?&security=tls&fp=chrome&sni=purplelily.qzz.io&type=ws&headerType=none&host=purplelily.qzz.io&path=%2F57.128.183.35%3A443#%5B%F0%9F%87%AC%F0%9F%87%A7%5D%20%5Bvl-tl-ws%5D%20%5B251226-192028.245%5D
 vless://9ac02124-e3f2-4a80-8ac8-d06612ebaceb@purplelily.qzz.io:443?encryption=none&security=tls&sni=purplelily.qzz.io&type=ws&path=%2F57.128.183.35%3A443#%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A%2F%2Fa0a.xyz%2F%E3%80%912
+vless://9ac02124-e3f2-4a80-8ac8-d06612ebaceb@purplelily.qzz.io:443?path=%2F57.128.183.35%3A443&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=purplelily.qzz.io#Channel%20%3A%20%40SHOP_GAMING1011%20%F0%9F%8F%B4%F0%9F%8F%B3`

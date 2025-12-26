@@ -1,4 +1,3 @@
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.83.129.58:8443/?type=ws&encryption=none&flow=&path=🔒
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.83.129.58:8443?path=🔒
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@5.180.30.78:2096/?type=ws&encryption=none&flow=&path=🔒
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@74.119.192.12:2096/?type=ws&encryption=none&flow=&path=🔒
@@ -498,3 +497,4 @@ vless://a9ca2b2a-df16-4be9-9606-6046dc7e674d@93.127.180.143:85?security=none&ser
 vless://a9de9b61-23e9-429c-b52e-56693b4fda93@zula-game.karaj-game-farsi.ir:443?type=grpc&serviceName=/@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM&authority=&security=reality&pbk=UUYC2_gNNVUIpGrNghmPKdJZRwbF0elm-cpKW8W2cWU&fp=chrome&sni=🔒
 vless://a9e67841-e12d-109c-9e8c-27b841a4bbfc@www.speedtest.net:80?path=🔒
 vless://a9ed3003-c6c6-4bfe-b502-a1a910eb24a9@www.speedtest.net:443?type=ws&encryption=none&path=/@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android&host=fish.speedtest24.ir&security=tls&fp=chrome&alpn=http/1.1&sni=fish.speedtest24.ir#🇩🇪𝗚𝗲𝗿𝗺𝗮𝗻𝘆
+vless://a9ed3003-c6c6-4bfe-b502-a1a910eb24a9@www.speedtest.net:443?type=ws&encryption=none&path=🔒
