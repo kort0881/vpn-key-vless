@@ -1,4 +1,3 @@
-vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@208.103.161.33:2053?path=%2F&security=tls&encryption=none&host=sni.111000.dynv6.net&allowinsecure=0&type=ws&sni=sni.111000.dynv6.net#%40Filter_breaker
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@208.103.161.33:2053?path=%2F&security=tls&encryption=none&host=sni.111000.dynv6.net&allowinsecure=0&type=ws&sni=sni.111000.dynv6.net#%40meli_proxyy
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@208.103.161.33:2053?path=%2F&security=tls&encryption=none&host=sni.111000.dynv6.net&type=ws&sni=sni.111000.dynv6.net#%40V2RAY_VMESS_free
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@208.103.161.33:2053?path=%2F&security=tls&encryption=none&host=sni.111000.dynv6.net&type=ws&sni=sni.111000.dynv6.net#%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%A8%D8%A7%20%D8%B3%D8%B1%D9%88%D8%B1%20%D9%87%D8%A7%DB%8C%20%DA%86%D9%86%D9%84%F0%9F%8D%A6%40Outline_ir
@@ -498,3 +497,4 @@ vless://1e503e46-5ab8-4f79-8cd1-73bac4bcd102@104.234.4.120:8080?security=reality
 vless://1e5599e3-325c-49fa-a6c7-675e314a0d99@104.27.125.158:443/?type=ws&encryption=none&host=in4s.pqvip.top&security=tls&sni=in4s.pqvip.top&fp=chrome#%40Hope_Net-join-us-on-Telegram
 vless://1e5599e3-325c-49fa-a6c7-675e314a0d99@104.27.125.158:443/?type=ws&encryption=none&host=in4s.pqvip.top&security=tls&sni=🔒
 vless://1e56e60a-f5b4-443f-81b0-9b8593c73e61@185.235.137.85:59549?security=reality&encryption=none&pbk=9Zsv8K_EsD5IlY2Tv-o88ON512N5Kye6ZGBfeL2TdWc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒
+vless://1e610976-fef5-4ca4-a447-f3530e70603e@160.153.0.132:443?allowInsecure=0&sni=🔒

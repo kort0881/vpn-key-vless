@@ -1,4 +1,3 @@
-vless://c495cf08-e046-4311-aa4b-82cc16576992@51.250.66.217:446?mode=gun&security=reality&encryption=none&pbk=mMaSUsOC5i3ErLDcaWW9UOOjG0fcKPCwVjzGS1wXQx8&spx=/s&type=grpc&serviceName=ads.x5.ru&sni=🔒
 vless://c495cf08-e046-4311-aa4b-82cc16576992@51.250.66.217:446?mode=gun&security=reality&encryption=none&pbk=mMaSUsOC5i3ErLDcaWW9UOOjG0fcKPCwVjzGS1wXQx8&type=grpc&serviceName=ads.x5.ru&sni=ads.x5.ru&sid=0512567389abcdef#REALITY|RU🇷🇺
 vless://c495cf08-e046-4311-aa4b-82cc16576992@51.250.66.217:446?mode=gun&security=reality&encryption=none&pbk=mMaSUsOC5i3ErLDcaWW9UOOjG0fcKPCwVjzGS1wXQx8&type=grpc&serviceName=ads.x5.ru&sni=ads.x5.ru&sid=0512567389abcdef#🇷🇺@FreakConfig
 vless://c495cf08-e046-4311-aa4b-82cc16576992@51.250.66.217:446?mode=gun&security=reality&encryption=none&pbk=mMaSUsOC5i3ErLDcaWW9UOOjG0fcKPCwVjzGS1wXQx8&type=grpc&serviceName=ads.x5.ru&sni=🔒
@@ -498,3 +497,4 @@ vless://c8a1edae-1acc-4c98-90e5-fb052f708213@198.41.216.98:8080?path=🔒
 vless://c8a4ced0-b100-4700-8857-d06ca3b251af@188.114.97.131:443/?type=ws&encryption=none&host=xxx.66500-280b-471c-b2b8-d68b7f9960004.workers.dev&path=%2F%3Fed%3D2048&security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960004.workers.dev&alpn=h3%2Ch2&fp=chrome#%40Hope_Net-join-us-on-Telegram
 vless://c8a4ced0-b100-4700-8857-d06ca3b251af@188.114.97.131:443/?type=ws&encryption=none&host=xxx.66500-280b-471c-b2b8-d68b7f9960004.workers.dev&path=🔒
 vless://c8a4ced0-b100-4700-8857-d06ca3b251af@23.227.60.231:443/?type=ws&encryption=none&security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev
+vless://c8a71f9b-692d-4916-ad73-f070ac00257f@141.227.140.214:2030/?type=grpc&encryption=none&flow=&serviceName=CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config&sni=🔒

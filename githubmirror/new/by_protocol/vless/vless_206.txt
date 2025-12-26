@@ -1,4 +1,3 @@
-vless://d3daa900-0377-4575-9ebc-c4d88cb8486c@45.88.183.158:44629?security=&type=tcp&encryption=none#@V2ray_Collector
 vless://d3daa900-0377-4575-9ebc-c4d88cb8486c@45.88.183.158:44629?security=none&encryption=none&headerType=none&type=tcp
 vless://d3ed6b7b-1a51-4628-e2b4-89f12e092b2e@am288.amin-1.ir:2082?type=xhttp&encryption=none&path=🔒
 vless://d3f3fd0b-7b5c-4070-d5dc-61f96641b507@185.201.49.94:58089?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp
@@ -498,3 +497,4 @@ vless://d843b700-0e0d-5ad9-72d9-46ced5785cd1@212.33.201.222:2051?type=tcp&host=s
 vless://d848308b-0041-47c7-bcc8-82d3219db0f8@magnataur.fonixapp.org:19739/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒
 vless://d848308b-0041-47c7-bcc8-82d3219db0f8@magnataur.fonixapp.org:19739?security=reality&encryption=none&pbk=6iM1yNyz4NaAgsjL5b_GrKmCH5lJ8iNXejgNSrWHPgk&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=marmiton.org&sid=9103#MCI-@V2rayAlpha--16
 vless://d848308b-0041-47c7-bcc8-82d3219db0f8@magnataur.fonixapp.org:19739?security=reality&encryption=none&pbk=6iM1yNyz4NaAgsjL5b_GrKmCH5lJ8iNXejgNSrWHPgk&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=🔒
+vless://d848308b-0041-47c7-bcc8-82d3219db0f8@magnataur.fonixapp.org:19739?security=reality&encryption=none&pbk=6iM1yNyz4NaAgsjL5b_GrKmCH5lJ8iNXejgNSrWHPgk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=marmiton.org&sid=9103#🇩🇪AZARBAYJAB1

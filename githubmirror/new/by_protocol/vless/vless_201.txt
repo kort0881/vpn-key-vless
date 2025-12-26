@@ -1,4 +1,3 @@
-vless://c09e7267-0061-4345-9953-4b95ed5357ac@83.147.18.200:2052?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AC%F0%9F%87%A7
 vless://c0ac6d0a-dba7-4a19-97d3-ebae0ddefcfa@home.phpdeb.ir:8446?security=none&encryption=none&headerType=none&type=tcp
 vless://c0adb6b8-4fb7-4b18-887b-6aecb80334b1@135.181.201.193:53546?security=none&encryption=none&headerType=http&type=tcp
 vless://c0adb6b8-4fb7-4b18-887b-6aecb80334b1@135.181.201.193:53546?security=none&encryption=none&headerType=http&type=tcp#✨
@@ -498,3 +497,4 @@ vless://c495cf08-e046-4311-aa4b-82cc16576992@51.250.66.217:446?encryption=none&t
 vless://c495cf08-e046-4311-aa4b-82cc16576992@51.250.66.217:446?encryption=none&type=grpc&mode=gun&serviceName=ads.x5.ru&security=reality&sni=ads.x5.ru&pbk=mMaSUsOC5i3ErLDcaWW9UOOjG0fcKPCwVjzGS1wXQx8&sid=0512567389abcdef&spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#🇷🇺@EVAY_VPN
 vless://c495cf08-e046-4311-aa4b-82cc16576992@51.250.66.217:446?encryption=none&type=grpc&mode=gun&serviceName=ads.x5.ru&security=reality&sni=🔒
 vless://c495cf08-e046-4311-aa4b-82cc16576992@51.250.66.217:446?mode=gun&security=reality&encryption=none&pbk=mMaSUsOC5i3ErLDcaWW9UOOjG0fcKPCwVjzGS1wXQx8&spx=/s&type=grpc&serviceName=ads.x5.ru&sni=ads.x5.ru&sid=0512567389abcdef#https://t.me/v2rayNplus
+vless://c495cf08-e046-4311-aa4b-82cc16576992@51.250.66.217:446?mode=gun&security=reality&encryption=none&pbk=mMaSUsOC5i3ErLDcaWW9UOOjG0fcKPCwVjzGS1wXQx8&spx=/s&type=grpc&serviceName=ads.x5.ru&sni=🔒
