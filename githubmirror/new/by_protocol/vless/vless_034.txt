@@ -1,4 +1,3 @@
-vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh28v5.waipdirect.shop:8880?security=&encryption=none&type=grpc#telegram  v2ray_configs_pools
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh29v4.vetmainconf.shop:8880?mode=gun&security=none&encryption=none&type=grpc#ALL@azadiiivpn
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh29v4.vetmainconf.shop:8880?security=&encryption=none&type=grpc#telegram  v2ray_configs_pools
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh30v2.vetmainconf.shop:8880?security=&encryption=none&type=grpc#JOIN @FILTERK0SH
@@ -498,3 +497,4 @@ vless://f1b3ac3c-3000-4a19-89bb-3d613055df68@fs.ir-sub.fun:80?path=/ZEDMODEON-ZE
 vless://f1b3ac3c-3000-4a19-89bb-3d613055df68@fs.ir-sub.fun:80?path=/ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=&encryption=none&host=zedd3.global.ssl.fastly.net&type=ws#@bored_vpn
 vless://f1ea701d-e33b-4606-955b-3d788b8b8860@sv1.avaaal.ir:12559?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#@FarazV2ray
 vless://f1ea701d-e33b-4606-955b-3d788b8b8860@sv1.avaaal.ir:12559?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#@MARAMBASHI
+vless://f1ea701d-e33b-4606-955b-3d788b8b8860@sv1.avaaal.ir:12559?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#https://t.me/v2rayNplus |

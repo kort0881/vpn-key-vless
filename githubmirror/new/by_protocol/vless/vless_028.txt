@@ -1,4 +1,3 @@
-vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.199.137:443?security=none&encryption=none&host=zula.ir/?&headerType=http&type=tcp#@CaV2ray
 vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.199.137:443?security=none&encryption=none&host=zula.ir/?TELEGRAM@JOKERRVPN&headerType=http&type=tcp#@CaV2ray
 vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.199.137:443?security=none&encryption=none&host=zula.ir/?TELEGRAM_JOKERRVPN&headerType=http&type=tcp#@CaV2ray
 vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.231.218:443?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#@CaV2ray
@@ -498,3 +497,4 @@ vless://912eacc1-42b4-4d0f-a8ba-abb825c1d468@64.227.47.120:443/?type=ws&encrypti
 vless://912eacc1-42b4-4d0f-a8ba-abb825c1d468@64.227.47.120:443/?type=ws&encryption=none&flow=&path=/ulptgqws&security=tls&sni=api.avito.ru&allowInsecure=1#25@oneclickvpnkeys
 vless://912eacc1-42b4-4d0f-a8ba-abb825c1d468@64.227.47.120:443?path=/ulptgqws#/@Azarbayjab1----@Azarbayjab1----@Azarbayjab1----@Azarbayjab1----@Azarbayjab1----@Azarbayjab1----@Azarbayjab1----@Azarbayjab1----@Azarbayjab1----@Azarbayjab1----@Azarbayjab1----@Azarbayjab1&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1&sni=api.avito.ru#TM (@AZARBAYJAB1)
 vless://912eacc1-42b4-4d0f-a8ba-abb825c1d468@64.227.47.120:443?path=/ulptgqws&security=tls&encryption=none&type=ws&sni=api.avito.ru#@FarazV2ray
+vless://912eacc1-42b4-4d0f-a8ba-abb825c1d468@64.227.47.120:443?path=/ulptgqws&security=tls&encryption=none&type=ws&sni=api.avito.ru#All-@V2rayAlpha--38

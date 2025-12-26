@@ -1,4 +1,3 @@
-vless://0d0782a3-2c62-4936-b893-5790188778ea@74.119.192.71:443?encryption=none&security=tls&insecure=1&allowInsecure=1&type=ws&path=/#@Daily_Configs
 vless://0d0782a3-2c62-4936-b893-5790188778ea@74.119.192.71:443?path=/&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1# @Fast78_Channel | Best Free Configs
 vless://0d0782a3-2c62-4936-b893-5790188778ea@74.119.192.71:443?path=/&security=tls&encryption=none&type=ws#All_32--@V2rayAlpha
 vless://0d0782a3-2c62-4936-b893-5790188778ea@74.119.192.71:443?path=/&security=tls&encryption=none&type=ws#WiFi_23--@V2rayAlpha
@@ -498,3 +497,4 @@ vless://1df79df3-908d-4458-8eb0-fd31b0e2e22f@167.99.239.69:2053?security=reality
 vless://1df79df3-908d-4458-8eb0-fd31b0e2e22f@167.99.239.69:2053?security=reality&encryption=none&pbk=PVM-pgM-Y1_yxII9Oi8yWK6OkXmJmQynk9DkMEj4YW8&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.openstreetmap.org&sid=54c3eae868b911#      Config_Rayegan@
 vless://1df79df3-908d-4458-8eb0-fd31b0e2e22f@198.199.84.91:2053?security=reality&encryption=none&pbk=PVM-pgM-Y1_yxII9Oi8yWK6OkXmJmQynk9DkMEj4YW8&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.openstreetmap.org&sid=54c3eae868b911#:prrofile_purple@
 vless://1e0eec01-b5df-4ecb-8fa3-7e1dadb5b11a@185.126.67.38:442?security=reality&encryption=none&pbk=w-OL-FR27zshwcHHVXfjVvvfqlru59Yh8pHtmp2oiwE&headerType=none&fp=chrome&type=tcp&sni=aliexpress.ru&sid=128ef5e5a75ffb#@FarazV2ray
+vless://1e0eec01-b5df-4ecb-8fa3-7e1dadb5b11a@185.126.67.38:442?security=reality&encryption=none&pbk=w-OL-FR27zshwcHHVXfjVvvfqlru59Yh8pHtmp2oiwE&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&sni=aliexpress.ru&sid=128ef5e5a75ffb#@MARAMBASHI
