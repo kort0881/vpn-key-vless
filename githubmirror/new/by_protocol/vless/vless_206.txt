@@ -1,6 +1,3 @@
-vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@159.223.245.168:34045/?type=tcp&encryption=none&flow=&sni=🔒
-vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@159.223.245.168:34045/?type=tcp&encryption=none&sni=🔒
-vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@159.223.245.168:34045?security=reality&encryption=none&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&headerType=none&fp=chrome&type=tcp&sni=🔒
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@159.223.245.168:34045?security=reality&encryption=none&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&headerType=none&type=tcp&sni=🔒
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@160.250.65.148:34045/?type=tcp&encryption=none&flow=&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&fp=chrome&security=reality&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&sid=e8ab71d0#telegram
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@160.250.65.148:34045/?type=tcp&encryption=none&flow=&sni=🔒
@@ -498,3 +495,6 @@ vless://dcaa6ab9-76fe-4c0b-bb29-f72f9b2d2ae5@139.59.185.253:443/?type=ws&encrypt
 vless://dcaa6ab9-76fe-4c0b-bb29-f72f9b2d2ae5@139.59.185.253:443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&path=🔒
 vless://dcaa6ab9-76fe-4c0b-bb29-f72f9b2d2ae5@139.59.185.253:443?path=%2Flcuaolws&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1&sni=ozon.ru#RU🇷🇺
 vless://dcaa6ab9-76fe-4c0b-bb29-f72f9b2d2ae5@139.59.185.253:443?path=%2Flcuaolws&security=tls&encryption=none&type=ws&sni=ozon.ru#I%20%2061%20%28%40Outline_Vpn%29%20free
+vless://dcaa6ab9-76fe-4c0b-bb29-f72f9b2d2ae5@139.59.185.253:443?path=%2Flcuaolws&security=tls&encryption=none&type=ws&sni=ozon.ru#RU🇷🇺
+vless://dcaa6ab9-76fe-4c0b-bb29-f72f9b2d2ae5@139.59.185.253:443?path=%2Flcuaolws&security=tls&encryption=none&type=ws&sni=ozon.ru#🇬🇧[openproxylist.com]
+vless://dcaa6ab9-76fe-4c0b-bb29-f72f9b2d2ae5@139.59.185.253:443?path=/lcuaolws#/@Azarbayjab1----@Azarbayjab1----@Azarbayjab1----@Azarbayjab1----@Azarbayjab1----@Azarbayjab1----@Azarbayjab1----@Azarbayjab1----@Azarbayjab1----@Azarbayjab1----@Azarbayjab1----@Azarbayjab1&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1&sni=ozon.ru#🇬🇧TM

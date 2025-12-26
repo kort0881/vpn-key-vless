@@ -1,6 +1,3 @@
-vless://dcaa6ab9-76fe-4c0b-bb29-f72f9b2d2ae5@139.59.185.253:443?path=%2Flcuaolws&security=tls&encryption=none&type=ws&sni=ozon.ru#RU🇷🇺
-vless://dcaa6ab9-76fe-4c0b-bb29-f72f9b2d2ae5@139.59.185.253:443?path=%2Flcuaolws&security=tls&encryption=none&type=ws&sni=ozon.ru#🇬🇧[openproxylist.com]
-vless://dcaa6ab9-76fe-4c0b-bb29-f72f9b2d2ae5@139.59.185.253:443?path=/lcuaolws#/@Azarbayjab1----@Azarbayjab1----@Azarbayjab1----@Azarbayjab1----@Azarbayjab1----@Azarbayjab1----@Azarbayjab1----@Azarbayjab1----@Azarbayjab1----@Azarbayjab1----@Azarbayjab1----@Azarbayjab1&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1&sni=ozon.ru#🇬🇧TM
 vless://dcaa6ab9-76fe-4c0b-bb29-f72f9b2d2ae5@139.59.185.253:443?path=/lcuaolws&security=tls&encryption=none&type=ws&sni=ozon.ru#GB🇬🇧
 vless://dcaa6ab9-76fe-4c0b-bb29-f72f9b2d2ae5@139.59.185.253:443?path=🔒
 vless://dcaa6ab9-76fe-4c0b-bb29-f72f9b2d2ae5@139.59.185.253:443?type=ws&encryption=none&path=%2Flcuaolws&security=tls&sni=ozon.ru#RU🇷🇺
@@ -498,3 +495,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.226:8880?mode=gun&security
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.226:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#@Hddify
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.226:8880?mode=gun&security=none&encryption=none&type=grpc
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.226:8880?mode=gun&security=none&encryption=none&type=grpc#azadiiivpn
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.40:8880?mode=gun&security=none&encryption=none&type=grpc
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.40:8880?mode=gun&security=none&encryption=none&type=grpc#@Hddify
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.4:8880?mode=gun&security=none&encryption=none&type=grpc

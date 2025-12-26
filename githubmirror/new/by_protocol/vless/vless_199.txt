@@ -1,6 +1,3 @@
-vless://bc432859-051c-40e5-ab96-a34f47f1b14a@172.236.103.104:443?mode=stream-one&path=🔒
-vless://bc4ee3f2-ded6-4a7a-8d7f-c0c37f2cd426@food1.hamrahconfig.com:80?path=🔒
-vless://bc4f49dc-2c50-49ac-b8fa-d3020a5e65de@91.99.125.215:443/?encryption=none&host=zula.ir&type=tcp&headerType=http
 vless://bc4f49dc-2c50-49ac-b8fa-d3020a5e65de@91.99.125.215:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp
 vless://bc4f49dc-2c50-49ac-b8fa-d3020a5e65de@91.99.125.215:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#
 vless://bc4f49dc-2c50-49ac-b8fa-d3020a5e65de@91.99.125.215:443?type=tcp&path=/&host=zula.ir&headerType=http&security=none#telegram
@@ -498,3 +495,6 @@ vless://c0e1f187-a2c5-44f9-a9c1-642e483dd890@104.24.179.164:443/?type=ws&encrypt
 vless://c0e1f187-a2c5-44f9-a9c1-642e483dd890@104.24.179.164:443/?type=ws&encryption=none&host=g2.nanvaiiisaeed.ir&path=🔒
 vless://c0fc0462-dad0-e0d3-3604-8fd2777510cd@ip.sb:8880?path=🔒
 vless://c106802e-577e-4dfd-ab45-c65d88af1ef9@104.16.98.3:2053/?type=ws&encryption=none&host=0p9oj0annx3ywe408ctenbtw3mhacrc7.pages.dev&path=%2FpBo4JI9ey63R7sN5%3Fed%3D2560%2F%3FJoin_Bade_Channel%40JOKERRVPN&security=tls&sni=0p9oj0annx3ywe408ctenbtw3mhacrc7.pages.dev&alpn=http%2F1.1&fp=randomized#%40V2rayNGVPN
+vless://c106802e-577e-4dfd-ab45-c65d88af1ef9@104.16.98.3:2053/?type=ws&encryption=none&host=0p9oj0annx3ywe408ctenbtw3mhacrc7.pages.dev&path=🔒
+vless://c106802e-577e-4dfd-ab45-c65d88af1ef9@104.16.98.3:2053?path=/pBo4JI9ey63R7sN5?ed=2560/?Join_Bade_Channel@JOKERRVPN&security=tls&alpn=http/1.1&encryption=none&host=0p9oj0annx3ywe408ctenbtw3mhacrc7.pages.dev&fp=chrome&type=ws&sni=0p9oj0annx3ywe408ctenbtw3mhacrc7.pages.dev#@DarkHub_VPN🇩🇪
+vless://c106802e-577e-4dfd-ab45-c65d88af1ef9@104.16.98.3:2053?path=🔒

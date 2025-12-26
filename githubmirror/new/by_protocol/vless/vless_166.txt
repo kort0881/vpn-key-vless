@@ -1,6 +1,3 @@
-vless://4289b2ad-26e7-4154-9259-89292aa3a7fe@51.250.15.188:4241/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒
-vless://4289b2ad-26e7-4154-9259-89292aa3a7fe@51.250.15.188:4241?&security=reality&flow=xtls-rprx-vision&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111&fp=chrome&sni=ads.x5.ru&type=tcp&headerType=none&path=%2F#_%E4%BF%84%E7%BD%97%E6%96%AF%202
-vless://4289b2ad-26e7-4154-9259-89292aa3a7fe@51.250.15.188:4241?security=reality&encryption=none&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=111111#%F0%9F%A7%8A72%40ConfigV2RayNG
 vless://4289b2ad-26e7-4154-9259-89292aa3a7fe@51.250.15.188:4241?security=reality&encryption=none&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=🔒
 vless://4289b2ad-26e7-4154-9259-89292aa3a7fe@51.250.74.53:4241/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&security=reality&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111#%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%8E%A739%40oneclickvpnkeys
 vless://4289b2ad-26e7-4154-9259-89292aa3a7fe@51.250.74.53:4241/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒
@@ -498,3 +495,6 @@ vless://46aea670-5e6c-40af-9b99-95585dd71cc3@185.143.233.5:443?path=/?ed=443&sec
 vless://46aea670-5e6c-40af-9b99-95585dd71cc3@185.143.233.5:443?path=/?ed=443&security=tls&encryption=none&host=mercimovie.ir.oadeflantrogmnl5.abrirmahan.com&fp=chrome&type=ws&sni=mercimovie.ir#@CaV2ray
 vless://46aea670-5e6c-40af-9b99-95585dd71cc3@185.143.233.5:443?path=🔒
 vless://46aea670-5e6c-40af-9b99-95585dd71cc3@185.143.234.120:443?path=/?ed=443&security=tls&encryption=none&host=irancellapp.ir.turcancowntiv.airasiadl.com&fp=chrome&type=ws&sni=irancellapp.ir#@CaV2ray
+vless://46aea670-5e6c-40af-9b99-95585dd71cc3@185.143.234.120:443?path=/?ed=443&security=tls&encryption=none&host=vikimovie.ir.uiblapridayavl.iranaircdn.com&fp=chrome&type=ws&sni=vikimovie.ir#@CaV2ray
+vless://46aea670-5e6c-40af-9b99-95585dd71cc3@185.143.234.120:443?path=🔒
+vless://46aea670-5e6c-40af-9b99-95585dd71cc3@185.143.234.200:443?path=/?ed=443&security=tls&encryption=none&host=aiomovie.ir.wnticaceninl10.mahanmapcdn.com&fp=chrome&type=ws&sni=aiomovie.ir#@CaV2ray

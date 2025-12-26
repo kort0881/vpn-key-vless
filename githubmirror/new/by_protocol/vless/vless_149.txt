@@ -1,6 +1,3 @@
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@190.93.245.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=🔒
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@190.93.246.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%AB%9C46%40oneclickvpnkeys
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@190.93.246.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=🔒
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@190.93.247.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%A6%9155%40oneclickvpnkeys
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@190.93.247.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=🔒
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@192.0.54.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=%2FTelegram%20%40WangCai2%20%2F%3Fed%3D2560#%F0%9F%8D%BF77%40oneclickvpnkeys
@@ -498,3 +495,6 @@ vless://042890e0-b519-11ed-b559-1239d0255272@de2.socifiles.com:443?security=tls&
 vless://04327cef-1084-431a-d595-cfcf9593cbc3@151.101.3.8:80?mode=auto&path=🔒
 vless://043c6983-e720-4e82-9568-5694cbf43753@balancer.russia.purr.bot:10443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒
 vless://043c6983-e720-4e82-9568-5694cbf43753@balancer.russia.purr.bot:10443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=🔒
+vless://043c6983-e720-4e82-9568-5694cbf43753@balancer.russia.purr.bot:10443?security=reality&encryption=none&pbk=jydcbn_c_lQzE7FxMCqmo4pzl9oYypd-EdpJzpdvfS4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒
+vless://0450a34a-8ef2-4a7c-aff6-cca9508c3ddf@1.ariyanln.com:5051?mode=auto&path=🔒
+vless://0450a34a-8ef2-4a7c-aff6-cca9508c3ddf@4.ariyanln.com:5051?mode=auto&path=🔒
