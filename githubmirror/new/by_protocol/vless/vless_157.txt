@@ -1,6 +1,3 @@
-vless://21e0218f-70eb-47b5-8478-9838ce08fe67@104.21.69.44:443/?type=ws&encryption=none&host=lmn1746782403494.lmn17713.info&path=🔒
-vless://21f78714-2df6-4757-9fa5-f583eb0290cf@194.110.246.61:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=okKUcvjT68odjfLWEZ47XopjP3AqHfbC4jsxfN2-i30&sni=google.com#VPNKEY-United
-vless://21f78714-2df6-4757-9fa5-f583eb0290cf@194.110.246.61:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=okKUcvjT68odjfLWEZ47XopjP3AqHfbC4jsxfN2-i30&sni=🔒
 vless://220bafe5-d259-453f-b6b5-9f8988521a66@www.speedtest.net:80?path=🔒
 vless://2224c52b-2de1-413b-811c-cbc229497e63@176.98.181.37:443/?type=tcp&encryption=none&sni=🔒
 vless://22253331-3afd-4b87-ec6f-25e995664743@104.17.147.22:80?type=ws&host=fin.channel.digicyber.click&path=🔒
@@ -498,3 +495,6 @@ vless://25e03a84-70cc-47e3-a13c-d81bd5c1511a@151.101.205.194:80?path=/-LiV2ry@LI
 vless://25e03a84-70cc-47e3-a13c-d81bd5c1511a@151.101.205.194:80?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=none&encryption=none&host=e1.ir&extra={
 vless://25e03a84-70cc-47e3-a13c-d81bd5c1511a@151.101.205.194:80?path=🔒
 vless://25e25405-b3b3-4129-a027-3c0fe57efe44@www.speedtest.net:8080?security=&type=ws&path=🔒
+vless://25e848aa-f4aa-496f-a25b-805258ed75de@ip4-spd.get-service.ir:443?security=reality&encryption=none&pbk=nFvWIzWf5rME4LgyVthg7fvMqn6l2zAKHB_uMRt9WyQ&headerType=&fp=chrome&spx=/&type=tcp&sni=🔒
+vless://25e848aa-f4aa-496f-a25b-805258ed75de@ip4-spd.get-service.ir:443?security=reality&encryption=none&pbk=nFvWIzWf5rME4LgyVthg7fvMqn6l2zAKHB_uMRt9WyQ&headerType=none&fp=chrome&spx=/&type=tcp&sni=🔒
+vless://25ec3d8a-8b33-42b0-af3e-94777a31ac2b@172.105.19.41:443?mode=stream-one&path=🔒

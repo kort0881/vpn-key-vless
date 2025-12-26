@@ -1,6 +1,3 @@
-vless://199ff20d-9bb4-423a-b759-e538392a27b6@fxs.samiion73.ir:8080?security=reality&encryption=none&type=tcp&sni=🔒
-vless://19a7a0c0-34c4-476b-80fd-68a28d417c43@66.42.118.140:443?mode=stream-one&path=🔒
-vless://19ae54a4-716b-4b08-914f-c9c1556c4380@94.131.100.163:443/?type=ws&encryption=none&flow=&path=/pyzrgqws&security=tls&sni=api.avito.ru&allowInsecure=1#🎲93@oneclickvpnkeys
 vless://19ae54a4-716b-4b08-914f-c9c1556c4380@94.131.100.163:443/?type=ws&encryption=none&flow=&path=🔒
 vless://19ae54a4-716b-4b08-914f-c9c1556c4380@94.131.100.163:443?path=%2Fpyzrgqws&security=tls&encryption=none&type=ws&sni=api.avito.ru#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
 vless://19ae54a4-716b-4b08-914f-c9c1556c4380@94.131.100.163:443?path=%2Fpyzrgqws&security=tls&encryption=none&type=ws&sni=api.avito.ru#@V2ray_NG
@@ -498,3 +495,6 @@ vless://1cf4fd3b-7a87-4684-b4ba-e64cf3b24203@malo.mbetaa.site:443?encryption=non
 vless://1cf4fd3b-7a87-4684-b4ba-e64cf3b24203@malo.mbetaa.site:443?flow=&type=tcp&headerType=none&security=none
 vless://1cf4fd3b-7a87-4684-b4ba-e64cf3b24203@malo.mbetaa.site:443?flow=&type=tcp&headerType=none&security=none#t.me/entryNET/config=1852329537397522
 vless://1cf4fd3b-7a87-4684-b4ba-e64cf3b24203@malo.mbetaa.site:443?security=&encryption=none&headerType=none&type=tcp
+vless://1cf4fd3b-7a87-4684-b4ba-e64cf3b24203@malo.mbetaa.site:443?security=&encryption=none&headerType=none&type=tcp#🇹🇷@FreakConfig
+vless://1cf4fd3b-7a87-4684-b4ba-e64cf3b24203@malo.mbetaa.site:443?security=none&encryption=none&headerType=none&type=tcp
+vless://1cf4fd3b-7a87-4684-b4ba-e64cf3b24203@malo.mbetaa.site:443?security=none&encryption=none&headerType=none&type=tcp#%40v2raying

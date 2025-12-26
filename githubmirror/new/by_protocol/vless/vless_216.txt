@@ -1,6 +1,3 @@
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.5.191:2053?path=🔒
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.5.202:2053/?type=ws&encryption=none&host=dl1-uk-cdn.easy-upload.org&path=%2F&security=tls&sni=dl1-uk-cdn.easy-upload.org#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AC%F0%9F%87%A7
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.5.202:2053?path=🔒
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.5.26:2053/?type=ws&encryption=none&host=dl1-fr-cdn.easy-upload.org&path=%2F&security=tls&sni=dl1-fr-cdn.easy-upload.org#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AB%F0%9F%87%B7
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.5.26:2053?path=🔒
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.5.84:2053/?type=ws&encryption=none&host=dl1-tr-cdn.easy-upload.org&path=%2F&security=tls&sni=dl1-tr-cdn.easy-upload.org#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B9%F0%9F%87%B7
@@ -498,3 +495,6 @@ vless://ef7316a9-f531-40f8-9f13-d2f1dcb46e83@142.93.238.52:14045?path=🔒
 vless://ef7adb9b-0f1c-4eef-99c2-7e500094a284@104.16.242.124:443/?type=ws&encryption=none&host=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&path=%2F%3Fed%3D2048&security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&alpn=h3%2Ch2&fp=chrome#%40Hope_Net-join-us-on-Telegram
 vless://ef87653e-f1e4-4e47-9202-474557f924e9@acv-76.f-sub.xyz:80?type=ws&security=none&path=%2F#HAMRAH.AVAL.VLESS
 vless://ef87653e-f1e4-4e47-9202-474557f924e9@acv-76.f-sub.xyz:80?type=ws&security=none&path=%2F#HAMRAH.AVAL.VLESS#v2rayng
+vless://ef9a6fe6-ca59-45f8-a2a7-db870fbcd71c@104.19.223.79:2053/?type=ws&encryption=none&host=wwwspeedtestnetwhiteberinsistomd6625996speed03.dropgame.ir&security=tls&sni=wwwspeedtestnetwhiteberinsistomd6625996speed03.dropgame.ir#%40Hope_Net-join-us-on-Telegram
+vless://ef9a6fe6-ca59-45f8-a2a7-db870fbcd71c@104.19.223.79:2053/?type=ws&encryption=none&host=wwwspeedtestnetwhiteberinsistomd6625996speed03.dropgame.ir&security=tls&sni=🔒
+vless://ef9b115b-3f25-43fe-ae7f-257759442edd@91.99.229.232:50222?security=none&encryption=none&host=exo.ir&headerType=http&type=tcp

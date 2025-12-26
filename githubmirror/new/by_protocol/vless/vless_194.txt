@@ -1,6 +1,3 @@
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@192.200.160.47:443/?type=ws&encryption=none&flow=&path=🔒
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@192.200.160.47:443/?type=ws&encryption=none&path=%2F%3Fproxyip&security=tls&sni=jz.ylks01.eu.org#%40Hope_Net-join-us-on-Telegram
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@192.200.160.63:443/?type=ws&encryption=none&flow=&path=🔒
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@192.200.160.63:443/?type=ws&encryption=none&path=%2Fblue&security=tls&sni=cm.ylks.xyz#%40Hope_Net-join-us-on-Telegram
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@192.236.249.102:443/?type=ws&encryption=none&path=%2Fblue&security=tls&sni=co.ylks.xyz#%40Hope_Net-join-us-on-Telegram
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@192.236.249.102:443?encryption=none&security=tls&sni=🔒
@@ -498,3 +495,6 @@ vless://a286f903-32d9-4950-a3a3-60937d533326@dl5-de6-cdn.cloud-files-uploader.co
 vless://a286f903-32d9-4950-a3a3-60937d533326@dl5-de6-cdn.cloud-files-uploader.com:2052?path=🔒
 vless://a28952b5-8c6d-4473-9da2-76388877c34a@www.speedtest.net:80?path=🔒
 vless://a28952b5-8c6d-4473-9da2-76388877c34a@www.zula.ir:80?path=🔒
+vless://a295f5d8-fbb0-4a71-bef3-a39a6334bfc4@n2vpn-helper.projectis.ir:2053?path=/@n2vpn&security=tls&encryption=none&host=n2vpn.projectis.ir&fp=chrome&type=ws&sni=n2vpn.projectis.ir#@n2vpn+-+کانفیگ+های+اختصاصی
+vless://a295f5d8-fbb0-4a71-bef3-a39a6334bfc4@n2vpn-helper.projectis.ir:2053?path=🔒
+vless://a2a73002-f706-4506-816d-3fc813b7b616@Net.1lagvpn13.cfd:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@L_AGVPN13
