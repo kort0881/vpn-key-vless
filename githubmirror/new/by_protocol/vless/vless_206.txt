@@ -1,5 +1,3 @@
-vless://d46a098c-a34a-4c46-a656-c0dcbdeb85ce@eegap.ucdavis.edu:443?path=🔒
-vless://d46a92b5-8042-45c5-8f55-3aac665cc871@104.17.234.114:443/?type=ws&encryption=none&flow=&host=UNLIMITEDD...&security=tls&sni=🔒
 vless://d46a92b5-8042-45c5-8f55-3aac665cc871@104.17.234.114:443/?type=ws&encryption=none&host=UNLIMITEDD...&security=tls&sni=UNLIMITEDDEV.unlimiteddev-vpn.com
 vless://d4710a65-4d89-4736-b575-917334dcfffb@wolf540.api-tel.ir:36338?type=tcp&security=reality&fp=chrome&pbk=WRbNyWLu_I0Mfyv6WWf4EwoE2srtKdwlUq2Z-tbJ6j4&flow=xtls-rprx-vision&sni=🔒
 vless://d475df47-2b3b-4488-9c8c-146dabbb7f9e@91.107.170.231:2053/?type=tcp&path=🔒
@@ -498,3 +496,5 @@ vless://d8dc5f06-8fce-4070-88b9-225817b65b5e@151.101.205.194:80?path=/-LiV2ry@LI
 vless://d8dc5f06-8fce-4070-88b9-225817b65b5e@151.101.205.194:80?path=🔒
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@103.12.77.78:34045/?type=tcp&encryption=none&flow=&sni=🔒
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@103.12.77.78:34045/?type=tcp&encryption=none&sni=🔒
+vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@103.229.96.166:34045/?type=tcp&encryption=none&sni=🔒
+vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@103.65.140.216:34045/?type=tcp&encryption=none&sni=🔒

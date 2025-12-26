@@ -1,5 +1,3 @@
-vless://12345678-1234-1234-1234-123456789123@185.176.24.61:2096?path=/snippets&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=vless.hubp.de#🔸ALL:
-vless://12345678-1234-1234-1234-123456789123@185.176.24.61:2096?path=/snippets&security=tls&encryption=none&type=ws&sni=vless.hubp.de#𝗝𝗼𝗶𝗻
 vless://12345678-1234-1234-1234-123456789123@185.176.24.61:2096?path=🔒
 vless://12345678-1234-1234-1234-123456789123@188.164.248.61:2096?path=%2Fsnippets&security=tls&encryption=none&host=vless.hubp.de&fp=chrome&type=ws&sni=vless.hubp.de#%3E%3E%40V2RAY_VMESS_free%3A%3AUS
 vless://12345678-1234-1234-1234-123456789123@188.164.248.61:2096?path=%2Fsnippets&security=tls&encryption=none&host=vless.hubp.de&fp=chrome&type=ws&sni=vless.hubp.de#%40V2RAY_VMESS_free
@@ -498,3 +496,5 @@ vless://16a3dea9-96fc-4c91-b74f-15cf627d1ca0@drow-ranger.fonixapp.org:37933?secu
 vless://16a3dea9-96fc-4c91-b74f-15cf627d1ca0@drow-ranger.fonixapp.org:37933?security=reality&encryption=none&pbk=lPSI3kHNhurG5ak6LTNc6NAJmSOvdt8EWjLHdsJXLCE&host=Mainv2rayMainv2ray&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=🔒
 vless://16aa617a-631d-4be3-8a6f-819a7b7480d0@91.107.244.240:8443?encryption=none&security=reality&sni=fastly.com&fp=chrome&pbk=A-uda057zISQMYHNFlfW1PQefk11bqT_RnI8aPi3YnU&sid=3f9bee6a2f7f&type=tcp&headerType=none#@Daily_Configs
 vless://16aa617a-631d-4be3-8a6f-819a7b7480d0@91.107.244.240:8443?encryption=none&security=reality&sni=🔒
+vless://16aa617a-631d-4be3-8a6f-819a7b7480d0@91.107.244.240:8443?security=reality&encryption=none&pbk=A-uda057zISQMYHNFlfW1PQefk11bqT_RnI8aPi3YnU&headerType=none&fp=chrome&spx=/&type=tcp&sni=fastly.com&sid=3f9bee6a2f7f#@Maznet-46212-4
+vless://16aa617a-631d-4be3-8a6f-819a7b7480d0@91.107.244.240:8443?security=reality&encryption=none&pbk=A-uda057zISQMYHNFlfW1PQefk11bqT_RnI8aPi3YnU&headerType=none&fp=chrome&spx=/&type=tcp&sni=🔒

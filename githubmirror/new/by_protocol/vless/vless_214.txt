@@ -1,5 +1,3 @@
-vless://ea4a90a2-7896-470e-bf50-89d1f01a3dca@am288.amin-1.ir:2082?type=xhttp&encryption=none&path=🔒
-vless://ea4fb2fa-8e16-43fd-c5d4-048e4b9fd338@acv-76.f-sub.xyz:80?type=ws&security=none&path=%2F#HAMRAH.AVAL.VLESS
 vless://ea4fb2fa-8e16-43fd-c5d4-048e4b9fd338@acv-76.f-sub.xyz:80?type=ws&security=none&path=%2F#HAMRAH.AVAL.VLESS#v2rayng
 vless://ea58dac7-6ca9-448a-aeff-af1ac5070acf@gb01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒
 vless://ea58dac7-6ca9-448a-aeff-af1ac5070acf@gb02-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒
@@ -498,3 +496,5 @@ vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@norman.ns.cloudflare.com:443?&secur
 vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@norman.ns.cloudflare.com:443?encryption=none&security=tls&sni=azizoarjmand.info&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=azizoarjmand.info&path=%2Fyhowcws#RELAY🚩
 vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@norman.ns.cloudflare.com:443?encryption=none&security=tls&sni=azizoarjmand.info&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=azizoarjmand.info&path=/yhowcws#@Daily_Configs
 vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@norman.ns.cloudflare.com:443?encryption=none&security=tls&sni=azizoarjmand.info&insecure=0&allowInsecure=0&type=ws&host=azizoarjmand.info&path=%2Fyhowcws#RELAY🚩
+vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@norman.ns.cloudflare.com:443?encryption=none&security=tls&sni=azizoarjmand.info&insecure=0&allowInsecure=0&type=ws&host=azizoarjmand.info&path=/yhowcws#@Daily_Configs
+vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@norman.ns.cloudflare.com:443?encryption=none&security=tls&sni=🔒
