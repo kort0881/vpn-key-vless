@@ -1,3 +1,7 @@
+vless://faa5c704-9d46-5753-905e-b56c7af4ed03@194.226.121.190:2052?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#%D8%AE%D8%B1%DB%8C%D8%AF%20%40Orange_supp
+vless://faaaf16e-188e-42f2-bcc1-17feadc84fad@151.236.15.72:444/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒
+vless://faaaf16e-188e-42f2-bcc1-17feadc84fad@151.236.15.72:444?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=🔒
+vless://faaaf16e-188e-42f2-bcc1-17feadc84fad@151.236.15.72:444?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=🔒
 vless://faaaf16e-188e-42f2-bcc1-17feadc84fad@151.236.15.72:444?security=reality&encryption=none&pbk=FOSoac3DIrSrCUcBtQA-BdHMxCtqe2CYCpdvGxKMiUw&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=opensuse.org&sid=82b9ca5d8d39ba72#JOIN
 vless://faaaf16e-188e-42f2-bcc1-17feadc84fad@151.236.15.72:444?security=reality&encryption=none&pbk=FOSoac3DIrSrCUcBtQA-BdHMxCtqe2CYCpdvGxKMiUw&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒
 vless://faaaf16e-188e-42f2-bcc1-17feadc84fad@151.236.15.72:444?security=reality&encryption=none&pbk=FOSoac3DIrSrCUcBtQA-BdHMxCtqe2CYCpdvGxKMiUw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒
@@ -494,7 +498,3 @@ vless://fc363de7-5d11-42e0-b9c0-79d59274882a@fi.podpiska.vip:443?security=realit
 vless://fc4706af-c9c8-478c-b1a1-394fb0157d63@lavenderblush.qzz.io:443?encryption=none&security=tls&sni=lavenderblush.qzz.io&insecure=0&allowInsecure=0&type=ws&path=%2F31.97.50.106%3A443#RELAY🚩
 vless://fc4706af-c9c8-478c-b1a1-394fb0157d63@lavenderblush.qzz.io:443?encryption=none&security=tls&sni=lavenderblush.qzz.io&insecure=0&allowInsecure=0&type=ws&path=/31.97.50.106:443#Tel:@Daily_Configs
 vless://fc4706af-c9c8-478c-b1a1-394fb0157d63@lavenderblush.qzz.io:443?encryption=none&security=tls&sni=🔒
-vless://fc4706af-c9c8-478c-b1a1-394fb0157d63@lavenderblush.qzz.io:443?path=/31.97.50.106:443&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=lavenderblush.qzz.io#@Daily_Configs
-vless://fc4706af-c9c8-478c-b1a1-394fb0157d63@lavenderblush.qzz.io:443?path=/31.97.50.106:443&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=lavenderblush.qzz.io#Channel
-vless://fc4706af-c9c8-478c-b1a1-394fb0157d63@lavenderblush.qzz.io:443?path=🔒
-vless://fc4b7d09-5270-437a-9067-faaeb20e8946@ip.hostingcloud.reallyclody.ir:2096/?type=xhttp&encryption=none&security=tls&sni=rp-f.Qwpvakvsoj438.iR.&alpn=h2%2Chttp%2F1.1&fp=firefox#%40NETMelliAnti
