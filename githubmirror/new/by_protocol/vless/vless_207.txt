@@ -1,3 +1,8 @@
+vless://d843b700-0e0d-5ad9-72d9-46ced5785cd1@212.33.201.222:2051?type=tcp&host=snapp.taxi&headerType=http#✨
+vless://d848308b-0041-47c7-bcc8-82d3219db0f8@magnataur.fonixapp.org:19739/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒
+vless://d848308b-0041-47c7-bcc8-82d3219db0f8@magnataur.fonixapp.org:19739?security=reality&encryption=none&pbk=6iM1yNyz4NaAgsjL5b_GrKmCH5lJ8iNXejgNSrWHPgk&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=marmiton.org&sid=9103#MCI-@V2rayAlpha--16
+vless://d848308b-0041-47c7-bcc8-82d3219db0f8@magnataur.fonixapp.org:19739?security=reality&encryption=none&pbk=6iM1yNyz4NaAgsjL5b_GrKmCH5lJ8iNXejgNSrWHPgk&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=🔒
+vless://d848308b-0041-47c7-bcc8-82d3219db0f8@magnataur.fonixapp.org:19739?security=reality&encryption=none&pbk=6iM1yNyz4NaAgsjL5b_GrKmCH5lJ8iNXejgNSrWHPgk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=marmiton.org&sid=9103#🇩🇪AZARBAYJAB1
 vless://d848308b-0041-47c7-bcc8-82d3219db0f8@magnataur.fonixapp.org:19739?security=reality&encryption=none&pbk=6iM1yNyz4NaAgsjL5b_GrKmCH5lJ8iNXejgNSrWHPgk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒
 vless://d84c63de-f41b-44cc-c22e-20d01f38aec7@151.101.3.8:80?mode=auto&path=🔒
 vless://d84c63de-f41b-44cc-c22e-20d01f38aec7@151.101.3.8:80?type=xhttp&path=🔒
@@ -493,8 +498,3 @@ vless://dbcf007d-f950-4d98-9397-8da2b27c2931@85.133.236.19:63986?security=&alpn=
 vless://dbcf007d-f950-4d98-9397-8da2b27c2931@85.133.236.19:63986?security=none&alpn=http%2F1.1&encryption=none&host=skyroom.online%2Cigap.net%2Cgharar.ir&headerType=http&type=tcp
 vless://dbcf007d-f950-4d98-9397-8da2b27c2931@85.133.236.19:63986?security=none&alpn=http/1.1&encryption=none&host=skyroom.online,igap.net,gharar.ir&headerType=http&type=tcp
 vless://dbcf007d-f950-4d98-9397-8da2b27c2931@85.133.236.19:63986?security=none&alpn=http/1.1&encryption=none&host=skyroom.online,igap.net,gharar.ir&headerType=http&type=tcp#
-vless://dbcf007d-f950-4d98-9397-8da2b27c2931@85.133.236.19:63986?security=none&alpn=http/1.1&encryption=none&host=skyroom.online,igap.net,gharar.ir/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp
-vless://dbcf007d-f950-4d98-9397-8da2b27c2931@85.133.236.19:63986?security=none&alpn=http/1.1&encryption=none&host=skyroom.online,igap.net,gharar.ir/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#💎کانفیگ
-vless://dbcf007d-f950-4d98-9397-8da2b27c2931@85.133.236.19:63986?security=none&alpn=http/1.1&encryption=none&host=skyroom.online,igap.net,gharar.ir/?Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&headerType=http&type=tcp
-vless://dbd0ec7c-b8a0-4c60-a87e-d00edd6f0248@senator.cdniran.info:8443?security=tls&alpn=h2,http/1.1&encryption=none&host=srv26.flightbean24.com&fp=chrome&type=ws&sni=🔒
-vless://dbd0ec7c-b8a0-4c60-a87e-d00edd6f0248@senator.cdniran.info:8443?security=tls&type=ws&headerType=&path=&host=srv26.flightbean24.com&sni=srv26.flightbean24.com&fp=chrome&alpn=h2,http/1.1#telegram

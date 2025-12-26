@@ -1,7 +1,3 @@
-vless://583ceab3-4022-4553-9158-9bedc625ad4e@103.133.1.177:8880/?type=ws&encryption=none&host=ip.langmanshanxi.top&path=🔒
-vless://583ceab3-4022-4553-9158-9bedc625ad4e@103.133.1.188:8880?allowInsecure=0&sni=🔒
-vless://583ceab3-4022-4553-9158-9bedc625ad4e@103.169.142.177:8880?allowInsecure=0&sni=🔒
-vless://583ceab3-4022-4553-9158-9bedc625ad4e@103.169.142.186:8880?allowInsecure=0&sni=🔒
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@103.169.142.188:8880?allowInsecure=0&sni=🔒
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@103.245.228.188:8880?allowInsecure=0&sni=🔒
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@103.245.229.186:8880?allowInsecure=0&sni=🔒
@@ -498,3 +494,7 @@ vless://5a86cc48-98e8-4c32-836c-a9b98da83dbe@ava.game.naver.com.cillnet.my.id:44
 vless://5a998931-c4be-4441-8a0d-81ffe55b5c64@212.95.41.20:900/?type=xhttp&encryption=none&sni=🔒
 vless://5a998931-c4be-4441-8a0d-81ffe55b5c64@212.95.41.20:900?mode=auto&path=🔒
 vless://5a998931-c4be-4441-8a0d-81ffe55b5c64@hajimamad.timeclassic.ir:900?mode=auto&path=🔒
+vless://5a998931-c4be-4441-8a0d-81ffe55b5c64@hajimamad.timeclassic.ir:900?type=xhttp&path=🔒
+vless://5a9fa926-1ff7-48fe-e467-5d3e1e3a61b7@172.66.40.99:2095?path=🔒
+vless://5a9fa926-1ff7-48fe-e467-5d3e1e3a61b7@Www.speedtest.net:2095?path=🔒
+vless://5a9fa926-1ff7-48fe-e467-5d3e1e3a61b7@Www.speedtest.net:2095?type=httpupgrade&path=🔒

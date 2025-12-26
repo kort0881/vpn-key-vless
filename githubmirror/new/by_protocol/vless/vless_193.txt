@@ -1,7 +1,3 @@
-vless://Warpi-Free-Vpn-In-GooglePlay@vp9.myphotomoments.ir:443?security=none&encryption=none&headerType=none&type=tcp#All--@IRAN_V2RAY1🇩🇪
-vless://Warpi-Free-Vpn-In-GooglePlay@vp9.myphotomoments.ir:443?security=none&encryption=none&headerType=none&type=tcp#All-@V2rayAlpha--25
-vless://Warpi-Free-Vpn-In-GooglePlay@www.speedtest.net:80?mode=auto&path=%2F%40WarpiFree---%40WarpiFree---%40WarpiFree---%40WarpiFree&security=&encryption=none&host=vp11.mydatacloud2.ir&type=xhttp#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:45ms
-vless://Warpi-Free-Vpn-In-GooglePlay@www.speedtest.net:80?mode=auto&path=%2F%40WarpiFree---%40WarpiFree---%40WarpiFree---%40WarpiFree&security=&encryption=none&host=vp13.mydatacloud1.ir&type=xhttp#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:44ms
 vless://Warpi-Free-Vpn-In-GooglePlay@www.speedtest.net:80?type=xhttp&encryption=none&path=%2F%40WarpiFree---%40WarpiFree---%40WarpiFree---%40WarpiFree&host=vp10.mydatacloud2.ir&mode=auto&security=none#RELAY🚩
 vless://Warpi-Free-Vpn-In-GooglePlay@www.speedtest.net:80?type=xhttp&encryption=none&path=%2F%40WarpiFree---%40WarpiFree---%40WarpiFree---%40WarpiFree&host=vp11.mydatacloud2.ir&mode=auto&security=none#RELAY🚩
 vless://Warpi-Free-Vpn-In-GooglePlay@www.speedtest.net:80?type=xhttp&encryption=none&path=%2F%40WarpiFree---%40WarpiFree---%40WarpiFree---%40WarpiFree&host=vp12.mydatacloud2.ir&mode=auto&security=none#RELAY🚩
@@ -498,3 +494,7 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.41.218.227:443/?type=ws&encrypt
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.41.218.233:443/?type=ws&encryption=none&flow=&host=lw.kpcloud.eu.org&path=🔒
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.41.218.233:443/?type=ws&encryption=none&host=lw.kpcloud.eu.org&path=%2F%3Fed%3D2048security%3Dtls#%40Hope_Net-join-us-on-Telegram
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.41.219.160:443/?type=ws&encryption=none&flow=&host=lc.kpcloud.eu.org&path=🔒
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.41.219.160:443/?type=ws&encryption=none&host=lc.kpcloud.eu.org&path=%2F%3Fed%3D2048&security=tls&sni=lc.kpcloud.eu.org#%40Hope_Net-join-us-on-Telegram
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.41.219.248:443/?type=ws&encryption=none&flow=&host=lw.kpcloud.eu.org
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.41.219.248:443/?type=ws&encryption=none&host=lw.kpcloud.eu.org
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.41.219.67:443/?type=ws&encryption=none&host=lg.ylks01.eu.org&path=%2Fblue&security=tls&sni=lg.ylks01.eu.org#%40Hope_Net-join-us-on-Telegram
