@@ -1,3 +1,4 @@
+vless://72c17526-8212-4b07-c488-8fd3d22c53f7@64.226.72.37:443?encryption=none&type=grpc&packetEncoding=xudp#https://t.me/ShadowsocksM28
 vless://72c17526-8212-4b07-c488-8fd3d22c53f7@64.226.72.37:443?mode=gun&security=none&encryption=none&type=grpc
 vless://72c1e757-6f85-40ed-b149-b059954c3400@test652.s8573.ir:443?security=none&encryption=none&headerType=none&type=tcp#%40persianelon
 vless://72c35a8d-8f11-483d-9821-9b5bbe580852@trt.fastlynew.hosting-ip.com:80?mode=auto&path=%2F%3Fed%3D2560&security=none&encryption=none&host=maxfr123.global.ssl.fastly.net&type=xhttp#All_13--%40V2rayAlpha
@@ -497,4 +498,3 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.109.232:80/?type=ws&encrypti
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.110.26:80/?type=ws&encryption=none&host=us1.rtacg.com&path=%2F#%40Hope_Net-join-us-on-Telegram
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.110.26:80/?type=ws&encryption=none&host=us1.rtacg.com&path=🔒
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.133.220:80/?type=ws&encryption=none&host=us1.rtacg.com&path=%2F#%40Hope_Net-join-us-on-Telegram
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.133.220:80/?type=ws&encryption=none&host=us1.rtacg.com&path=🔒

@@ -1,3 +1,4 @@
+vless://11402c34-7f90-485f-a218-ade69f314f49@store-static-portal.cyberscaler.net:10082?encryption=none&security=none&type=tcp&headerType=http&host=cdnjs.cloudflare.com
 vless://11402c34-7f90-485f-a218-ade69f314f49@store-static-portal.cyberscaler.net:10082?security=none&encryption=none&host=cdnjs.cloudflare.com&headerType=http&fp=chrome&type=tcp
 vless://11402c34-7f90-485f-a218-ade69f314f49@store-static-portal.cyberscaler.net:10082?security=none&encryption=none&host=cdnjs.cloudflare.com&headerType=http&type=tcp
 vless://11402e88-8bd9-4411-b4f1-a15cd038cb4a@87.107.10.58:2082?path=🔒
@@ -497,4 +498,3 @@ vless://15f34214-d8de-41e9-ba72-93daeafc59ef@104.18.32.47:2087/?type=ws&encrypti
 vless://15f34214-d8de-41e9-ba72-93daeafc59ef@172.64.155.209:2087/?type=ws&encryption=none&host=subhiddify.mmdv2.host&path=🔒
 vless://15f34214-d8de-41e9-ba72-93daeafc59ef@chatgpt.com:2087/?type=tcp&encryption=none&security=tls
 vless://15f64399-ebb4-4b82-9b9f-33b09638bc7f@65.109.209.95:443?encryption=none&type=xhttp&host=65.109.209.95&path=/
-vless://15f64399-ebb4-4b82-9b9f-33b09638bc7f@65.109.209.95:443?path=/@MaxFree---@MaxFree---@MaxFree---@MaxFree---@MaxFree&security=&encryption=none&host=65.109.209.95&type=xhttp#VLESS

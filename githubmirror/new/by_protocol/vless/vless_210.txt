@@ -1,3 +1,4 @@
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.78:8880?mode=gun&security=none&encryption=none&authority=%2FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&type=grpc
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.78:8880?mode=gun&security=none&encryption=none&authority=%2FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&type=grpc#@meli_proxyy
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.78:8880?mode=gun&security=none&encryption=none&type=grpc
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=&encryption=none&type=grpc
@@ -497,4 +498,3 @@ vless://e2f45773-e553-47d1-b495-4f6063a8d95f@188.245.126.124:44566?security=real
 vless://e2f4d1fa-0a6d-48c3-a5bb-8b438e78af23@www.speedtest.net:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=119f3a0b.chikiy123w.pages.dev&fp=randomized&type=ws&sni=119f3a0b.chikiy123w.pages.dev#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40iran_access%20%5B12%5D
 vless://e2f4d1fa-0a6d-48c3-a5bb-8b438e78af23@www.speedtest.net:443?path=🔒
 vless://e3101dd0-3dbf-5493-9d80-6787195e96a0@41.216.182.162:443?path=🔒
-vless://e310b2f0-c3e3-4588-b0f1-1f61eca7183f@165.227.167.107:2020?mode=gun&security=reality&encryption=none&pbk=ioN06zzyjfpaFtOtnVrMgnzTjAyVGYyVYzRrfHjDiU8&fp=chrome&spx=%2FKesslerVPN&type=grpc&serviceName=.

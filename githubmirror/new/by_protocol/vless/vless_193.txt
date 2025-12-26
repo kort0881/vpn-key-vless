@@ -1,3 +1,4 @@
+vless://a050016b-d586-4a34-91fa-0ae9ea0e9e4a@www.speedtest.net:8080?mode=auto&path=🔒
 vless://a050016b-d586-4a34-91fa-0ae9ea0e9e4a@www.speedtest.net:8080?type=xhttp&encryption=none&path=🔒
 vless://a0513d49-b2ed-4a94-8c1d-e7155c29ac1d@91.99.73.21:18473?security=none&encryption=none&headerType=none&type=tcp
 vless://a05367f5-a500-4514-ac99-e73f629229f2@104.21.72.109:80?path=/8WrRNGUr2d25Kcpp/NTQuMjAwLjI0NC45Mw==?ed=2560&security=none&alpn=h2,http/1.1&encryption=none&host=pamchall.com.&fp=chrome&type=ws&sni=pAmchALL.COm.#@CaV2ray
@@ -497,4 +498,3 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.64:443/?type=ws&encryptio
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.75:443/?type=ws&encryption=none&path=%2Fblue&security=tls&sni=lp.ylks01.eu.org#%40Hope_Net-join-us-on-Telegram
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.75:443?encryption=none&security=tls&sni=🔒
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.81:443/?type=ws&encryption=none&flow=&host=cd.ylks.xyz&path=🔒
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.81:443/?type=ws&encryption=none&host=cd.ylks.xyz&path=%2Fblue&security=tls&sni=cd.ylks.xyz#%40Hope_Net-join-us-on-Telegram
