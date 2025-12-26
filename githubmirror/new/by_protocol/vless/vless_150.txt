@@ -1,6 +1,3 @@
-vless://06618506-461f-46dc-a16d-1742e25e7f41@65.109.184.141:2052?security=none&encryption=none&host=igap.net&headerType=none&type=tcp#telegram
-vless://06618506-461f-46dc-a16d-1742e25e7f41@91.107.142.123:2052?flow=&type=tcp&headerType=none&security=none
-vless://06618506-461f-46dc-a16d-1742e25e7f41@91.107.142.123:2052?security=none&encryption=none&host=skyroom.online&headerType=none&type=tcp
 vless://0677795c-0191-4879-97b7-26eed229f947@103.231.75.20:443/?type=ws&encryption=none&path=🔒
 vless://0677795c-0191-4879-97b7-26eed229f947@103.231.75.20:443?path=🔒
 vless://0677e12c-9152-443b-ec62-b2d120b0ab3d@www.speedtest.net:2086?path=🔒
@@ -498,3 +495,6 @@ vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443/?type=tcp&encryp
 vless://09a54735-f680-425f-a180-59e65d50e5df@172.66.40.99:8880/?type=ws&encryption=none&host=www.speedtest.net.tax.gov.ir.aparat.com.a.1.jEy.dPdNs.org.&path=%2FTelegram%40vpnjeyTelegram%40vpnjeyTelegram%40vpnjey&packetEncoding=xudp#%F0%9F%8D%AA35%40oneclickvpnkeys
 vless://09a54735-f680-425f-a180-59e65d50e5df@172.66.40.99:8880/?type=ws&encryption=none&host=www.speedtest.net.tax.gov.ir.aparat.com.a.1.jEy.dPdNs.org.&path=🔒
 vless://09a54735-f680-425f-a180-59e65d50e5df@172.66.40.99:8880?encryption=none&security=none&type=ws&host=www.speedtest.net.tax.gov.ir.aparat.com.a.1.jEy.dPdNs.org.&path=🔒
+vless://09a54735-f680-425f-a180-59e65d50e5df@172.66.40.99:8880?path=🔒
+vless://09a54735-f680-425f-a180-59e65d50e5df@172.66.40.99:8880?type=ws&host=www.speedtest.net.tax.gov.ir.aparat.com.a.1.jEy.dPdNs.org.&path=🔒
+vless://09aacac3-1b61-4f50-a78f-dcacbc65fee2@49.12.1.252:44019?security=reality&encryption=none&pbk=Ucxc1PvD__Rqs8Bkq8QfpJvnwRjwrBlSHkTOsE600Rw&headerType=none&fp=chrome&spx=/&type=tcp&sni=🔒

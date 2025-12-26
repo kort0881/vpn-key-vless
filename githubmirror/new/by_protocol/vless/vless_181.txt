@@ -1,3 +1,7 @@
+vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@smosh.com:443/?type=ws&encryption=none&flow=&host=rayan-config-telegram-a05.leila.dpdns.org&path=🔒
+vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@smosh.com:443/?type=ws&encryption=none&host=rAyAn-uS-1.MeDiCaLhIsToRy.iR&path=%2F%40Rayan_Config&security=tls&sni=rAyAn-uS-1.MeDiCaLhIsToRy.iR&fp=chrome#%F0%9F%A6%9665%40oneclickvpnkeys
+vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@smosh.com:443?encryption=none&security=tls&sni=🔒
+vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@sourceforge.net:443/?type=ws&encryption=none&host=rayan-h09.leila.dpdns.org&path=%2F%40Rayan_Config&security=tls&sni=rAyAn-H09.LeIlA.DpDnS.OrG#%F0%9F%8D%AA26%40oneclickvpnkeys
 vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@sourceforge.net:443/?type=ws&encryption=none&host=rayan-h09.leila.dpdns.org&path=🔒
 vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@transferwise.com:443/?type=ws&encryption=none&flow=&host=rayan-config-telegram-a01.leila.dpdns.org&path=🔒
 vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@transferwise.com:443/?type=ws&encryption=none&host=rayan-d08.leila.dpdns.org&path=%2F%40Rayan_Config&security=tls&sni=rAyAn-d08.lEiLa.dPdNs.oRG&fp=chrome#%F0%9F%A6%9117%40oneclickvpnkeys
@@ -164,6 +168,7 @@ vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@[2a01:4f8:c013:a2c1::b00b]:443?mode
 vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@[2a10:4640:0:ff38::1]:443?mode=stream-one&path=/statue&security=tls&alpn=h2&encryption=none&extra={
 vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@[2a10:4640:0:ff38::1]:443?mode=stream-one&path=🔒
 vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@statue.lnmarketplace.net:443?encryption=none&security=tls&sni=statue.lnmarketplace.net&alpn=h2&type=xhttp&host=statue.lnmarketplace.net&path=%2Fstatue&mode=stream-one#DE🇩🇪
+vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@statue.lnmarketplace.net:443?mode=stream-one&path=%2Fstatue&security=tls&alpn=h2&encryption=none&extra=%7B%22headers%22%3A%7B%7D%2C%22noGRPCHeader%22%3Atrue%2C%22xmux%22%3A%7B%22maxConnections%22%3A%226%22%7D%7D&insecure=0&host=statue.lnmarketplace.net&fp=firefox&type=xhttp&allowInsecure=0&sni=statue.lnmarketplace.net#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@statue.lnmarketplace.net:443?mode=stream-one&path=%2Fstatue&security=tls&alpn=h2&encryption=none&extra=%7B%27headers%27%3A%20%7B%7D%2C%20%27noGRPCHeader%27%3A%20True%2C%20%27xmux%27%3A%20%7B%27maxConnections%27%3A%20%276%27%7D%7D&host=statue.lnmarketplace.net&fp=firefox&type=xhttp&sni=statue.lnmarketplace.net#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@statue.lnmarketplace.net:443?mode=stream-one&path=%2Fstatue&security=tls&alpn=h2&encryption=none&extra=%7B%27headers%27%3A%20%7B%7D%2C%20%27noGRPCHeader%27%3A%20True%2C%20%27xmux%27%3A%20%7B%27maxConnections%27%3A%20%276%27%7D%7D&host=statue.lnmarketplace.net&fp=firefox&type=xhttp&sni=statue.lnmarketplace.net#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@statue.lnmarketplace.net:443?mode=stream-one&path=%2Fstatue&security=tls&alpn=h2&encryption=none&extra=%7B%27headers%27%3A%20%7B%7D%2C%20%27noGRPCHeader%27%3A%20True%2C%20%27xmux%27%3A%20%7B%27maxConnections%27%3A%20%276%27%7D%7D&insecure=0&host=statue.lnmarketplace.net&fp=firefox&type=xhttp&allowInsecure=0&sni=statue.lnmarketplace.net#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
@@ -493,8 +498,3 @@ vless://7e637266-e609-437a-9436-bc9e5aa8e074@83.166.236.32:8443/?type=tcp&encryp
 vless://7e637266-e609-437a-9436-bc9e5aa8e074@83.166.236.32:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒
 vless://7e6d3409-ea79-43d9-eaa1-e881146017de@172.167.12.228:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒
 vless://7e73cb05-e0f2-4904-9b3b-0280417fa9b2@172.66.40.99:2096?path=🔒
-vless://7e74ff43-3a90-48b3-8372-7d92a045c2d4@LiGHT-PReseNce.oneEaT.Co:80?path=/&security=&encryption=none&type=ws#https://t.me/v2raynplus
-vless://7e74ff43-3a90-48b3-8372-7d92a045c2d4@LiGHT-PReseNce.oneEaT.Co:80?path=🔒
-vless://7e74ff43-3a90-48b3-8372-7d92a045c2d4@light-presence.oneeat.co:80/?type=ws&encryption=none&flow=&path=🔒
-vless://7e74ff43-3a90-48b3-8372-7d92a045c2d4@light-presence.oneeat.co:80/?type=ws&encryption=none&path=🔒
-vless://7e74ff43-3a90-48b3-8372-7d92a045c2d4@light-presence.oneeat.co:80?encryption=none&security=none&sni=🔒
