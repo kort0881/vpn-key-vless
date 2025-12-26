@@ -1,7 +1,3 @@
-vless://0d0782a3-2c62-4936-b893-5790188778ea@45.12.138.8:443?path=/&security=tls&encryption=none=/@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@TEHRANARGO&type=ws#برای
-vless://0d0782a3-2c62-4936-b893-5790188778ea@45.12.138.8:443?path=🔒
-vless://0d0782a3-2c62-4936-b893-5790188778ea@5.252.22.113:443?path=/&security=tls&encryption=none&type=ws#All_18--@V2rayAlpha
-vless://0d0782a3-2c62-4936-b893-5790188778ea@5.252.22.113:443?path=/&security=tls&encryption=none=/@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@TEHRANARGO&type=ws#برای
 vless://0d0782a3-2c62-4936-b893-5790188778ea@5.252.22.113:443?path=🔒
 vless://0d0782a3-2c62-4936-b893-5790188778ea@74.119.192.71:443?encryption=none&security=tls&insecure=1&allowInsecure=1&type=ws&path=/#@Daily_Configs
 vless://0d0782a3-2c62-4936-b893-5790188778ea@74.119.192.71:443?encryption=none&security=tls&insecure=1&allowInsecure=1&type=ws&path=🔒
@@ -498,3 +494,7 @@ vless://10e11df9-de4b-4a21-aab4-1ff712a05028@turkey.aftabix.com:1307?security=re
 vless://10e72fbe-78c9-483b-9ddd-26b33ecd02f6@87.120.205.76:1002/?type=xhttp&encryption=none&sni=🔒
 vless://10e72fbe-78c9-483b-9ddd-26b33ecd02f6@87.120.205.76:1002?mode=auto&path=🔒
 vless://10e7b4a9-1f80-48e2-b504-4da2c8415746@k.networknim.cam:43829?security=none&encryption=none&headerType=http&type=tcp
+vless://10f3650d-32f6-470a-b100-e29471cf3380@78.159.131.107:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒
+vless://10f3650d-32f6-470a-b100-e29471cf3380@78.159.131.107:443?security=reality&encryption=none&pbk=6vqqlSsqIQLQ-pmkPfTQ0tJ2kh3U74YqTUcn06nYagY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒
+vless://10f54687-bc56-478c-9fdc-dc1f8cc82612@masterserver1.huqpmfood.ir:1331?mode=auto&path=/@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1&security=reality&encryption=none&extra={
+vless://10f54687-bc56-478c-9fdc-dc1f8cc82612@masterserver1.huqpmfood.ir:1331?mode=auto&path=🔒

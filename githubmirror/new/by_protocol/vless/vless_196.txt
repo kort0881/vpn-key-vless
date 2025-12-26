@@ -1,7 +1,3 @@
-vless://b3fb3c7c-3d38-4f11-af20-06628a5c9253@185.146.173.185:2052?type=ws&encryption=none&path=🔒
-vless://b3fb50dd-35ce-4c4a-9280-acaeb1677640@104.21.43.168:8080?type=ws&path=🔒
-vless://b3fb50dd-35ce-4c4a-9280-acaeb1677640@172.66.40.99:8080?type=ws&path=🔒
-vless://b41377f1-2319-4fde-b782-c317d3569807@daeixtesla.cr-goveaccept-et01.com:8080?path=🔒
 vless://b4143fbf-9a64-4e83-9c70-98c7493277a9@144.202.57.159:443?mode=stream-one&path=🔒
 vless://b41b3c10-91f1-42ed-b597-2ebdaddb9a96@india2.clearorbitllc.com:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=india2.clearorbitllc.com&pbk=x4izG3bGdBtEw3bArBaEI4ItTLfKgnEcTct4GjvTUUQ&sid=157c0871&spx=/?@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#🇮🇳
 vless://b41b3c10-91f1-42ed-b597-2ebdaddb9a96@india2.clearorbitllc.com:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=🔒
@@ -498,3 +494,7 @@ vless://b8c73c6c-3f19-48d9-9f96-48dbdc42f913@webshecan.webredirect.org:2087?type
 vless://b8cae1e1-45cd-433c-a26e-ca28aced00d9@65.109.193.233:37308?mode=gun&security=reality&encryption=none&authority=/JKVPN_BYA_CHANEL_JKVPN&pbk=ORc1u3IIs-vGPpf-_9WU_nRyGCdaTIRavHyK_JE-VHE&fp=chrome&spx=/JKVPN_BYA_CHANEL_JKVPN&type=grpc&sni=🔒
 vless://b8cae1e1-45cd-433c-a26e-ca28aced00d9@spdnet-v1.get-service.ir:37308?mode=gun&security=reality&encryption=none&pbk=ORc1u3IIs-vGPpf-_9WU_nRyGCdaTIRavHyK_JE-VHE&fp=chrome&spx=/&type=grpc&sni=🔒
 vless://b8cae1e1-45cd-433c-a26e-ca28aced00d9@spdnet-v1.get-service.ir:37308?type=grpc&serviceName=&authority=&security=reality&pbk=ORc1u3IIs-vGPpf-_9WU_nRyGCdaTIRavHyK_JE-VHE&fp=chrome&sni=🔒
+vless://b8ce0288-e7c4-482a-be24-364f7d724585@104.21.4.8:8880?security=&type=ws&path=🔒
+vless://b8ce0288-e7c4-482a-be24-364f7d724585@104.21.94.85:8880?security=&type=ws&path=🔒
+vless://b8d3105d-e282-45ba-e39d-a0bce821c4b1@91.107.148.117:8443?security=none&encryption=none&seed=L2Ebgtp7HB&headerType=none&type=kcp
+vless://b8d3105d-e282-45ba-e39d-a0bce821c4b1@91.107.148.117:8443?security=none&encryption=none&seed=L2Ebgtp7HB&headerType=none&type=kcp#%40v2ray_ar%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85وصل

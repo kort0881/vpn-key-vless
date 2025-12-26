@@ -1,7 +1,3 @@
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.4.36:2053/?type=ws&encryption=none&host=dl1-fr-cdn.easy-upload.org&path=%2F&security=tls&sni=dl1-fr-cdn.easy-upload.org#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AB%F0%9F%87%B7
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.4.36:2053?path=🔒
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.4.51:2053/?type=ws&encryption=none&host=dl1-uk-cdn.easy-upload.org&path=%2F&security=tls&sni=dl1-uk-cdn.easy-upload.org#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AC%F0%9F%87%A7
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.4.51:2053?path=🔒
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.4.67:2053/?type=ws&encryption=none&host=dl1-tr-cdn.easy-upload.org&path=%2F&security=tls&sni=dl1-tr-cdn.easy-upload.org#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B9%F0%9F%87%B7
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.4.67:2053?path=🔒
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.5.106:2053/?type=ws&encryption=none&host=dl1-pl-cdn.easy-upload.org&path=%2F&security=tls&sni=dl1-pl-cdn.easy-upload.org&alpn=h2%2Chttp%2F1.1&fp=random#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B5%F0%9F%87%B1
@@ -498,3 +494,7 @@ vless://ef6a1a95-f082-44e3-ac10-7f7a5f56d0b6@104.21.77.239:2083?encryption=none&
 vless://ef6dfa5c-c976-468f-8a9a-660a0adad17f@antimage.fonixapp.org:2083?security=reality&encryption=none&pbk=rVZQETztt4al4bryh9sL7F9UlGvny2402yvDDJR7o3g&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=ajax.cloudflare.com&sid=6590cb#REALITY|DE🇩🇪
 vless://ef6dfa5c-c976-468f-8a9a-660a0adad17f@antimage.fonixapp.org:2083?security=reality&encryption=none&pbk=rVZQETztt4al4bryh9sL7F9UlGvny2402yvDDJR7o3g&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=ajax.cloudflare.com&sid=6590cb#All--@V2rayAlpha-26
 vless://ef6dfa5c-c976-468f-8a9a-660a0adad17f@antimage.fonixapp.org:2083?security=reality&encryption=none&pbk=rVZQETztt4al4bryh9sL7F9UlGvny2402yvDDJR7o3g&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=🔒
+vless://ef7316a9-f531-40f8-9f13-d2f1dcb46e83@142.93.238.52:14045?path=/&security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&type=ws#💎کانفیگ
+vless://ef7316a9-f531-40f8-9f13-d2f1dcb46e83@142.93.238.52:14045?path=🔒
+vless://ef7adb9b-0f1c-4eef-99c2-7e500094a284@104.16.242.124:443/?type=ws&encryption=none&host=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&path=%2F%3Fed%3D2048&security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&alpn=h3%2Ch2&fp=chrome#%40Hope_Net-join-us-on-Telegram
+vless://ef87653e-f1e4-4e47-9202-474557f924e9@acv-76.f-sub.xyz:80?type=ws&security=none&path=%2F#HAMRAH.AVAL.VLESS

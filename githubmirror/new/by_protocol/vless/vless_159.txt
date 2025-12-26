@@ -1,7 +1,3 @@
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@47.75.101.0:3443?encryption=none&security=tls&sni=🔒
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@47.76.37.57:2087?encryption=none&security=tls&sni=🔒
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@61.220.41.143:36633?encryption=none&security=tls&sni=🔒
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@8.210.119.191:81?encryption=none&security=tls&sni=🔒
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@8.210.21.65:2096?encryption=none&security=tls&sni=🔒
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@89.116.161.250:8443?encryption=none&security=tls&sni=🔒
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@91.193.58.98:2096?encryption=none&security=tls&sni=🔒
@@ -498,3 +494,7 @@ vless://2fb92a60-11ed-4490-a3a1-0afa2bbfa2eb@ns.cloudflare.com:2095/?type=ws&enc
 vless://2fc52230-4426-4c5b-a662-7cc85d8eee9e@eventx.faraservice.space:5005?security=reality&encryption=none&pbk=ui0fGumZiFhEhGU13KYIcR3coPPVHuGQMvK-_TThCVc&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=🔒
 vless://2fc52230-4426-4c5b-a662-7cc85d8eee9e@eventx.faraservice.space:5005?security=reality&sni=🔒
 vless://2fd1b67f-bc9e-4a66-a4c3-73599997d001@85.239.60.43:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=qJ_x7_Fz3M4QdnRG8WcqVNpgsHbwWgs_KrdCqr4iclE&sni=🔒
+vless://2fd3f869-9725-407f-8092-129b81495442@213.226.114.143:30072?security=&encryption=none&host=fast.com&headerType=none&type=tcp#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B7%F0%9F%87%BA
+vless://2fd56be8-7b18-4b61-b862-0f2fc10c3694@104.17.88.212:443/?type=ws&encryption=none&security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev
+vless://2fd56be8-7b18-4b61-b862-0f2fc10c3694@104.31.16.136:443/?type=ws&encryption=none&host=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&path=%2F%3Fed%3D2048&security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&alpn=h3%2Ch2&fp=chrome#%40Hope_Net-join-us-on-Telegram
+vless://2fd823dd-767b-4245-b56e-4790ca8c1a93@172.82.67.154:11476?security=reality&encryption=none&pbk=dHyiM189GsudgANJT4X9fxzsTnBUvoEUAjrJFnPGp2I&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒

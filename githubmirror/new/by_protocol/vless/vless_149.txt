@@ -1,7 +1,3 @@
-vless://04a68e50-8c5c-447d-8416-9cc075e78a85@91.99.117.223:443?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir
-vless://04a68e50-8c5c-447d-8416-9cc075e78a85@91.99.117.223:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp
-vless://04a68e50-8c5c-447d-8416-9cc075e78a85@91.99.117.223:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp
-vless://04a68e50-8c5c-447d-8416-9cc075e78a85@91.99.117.223:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#💎کانفیگ
 vless://04a93bb8-0a5b-4aa8-ab7f-31fc7adab1c1@edgu.pureboy.eu.org:443?path=🔒
 vless://04a93bb8-0a5b-4aa8-ab7f-31fc7adab1c1@edgu.pureboy.eu.org:443?security=tls&encryption=none&type=ws&host=edgu.pureboy.eu.org&path=🔒
 vless://04b2875d-16d7-40d6-af59-47bcad169843@www.speedtest.net:80?host=ch.%E6%88%91%E7%9A%84%E5%90%8D%E5%AD%97%E4%BC%8A%E6%96%AF%E6%A2%85%E6%B4%9B.site.&path=🔒
@@ -498,3 +494,7 @@ vless://07e4b0e8-32ab-4b3f-819a-2ebcb158d8a2@spdnet.get-service.ir:443?security=
 vless://07e97b58-4e24-4c56-b3ce-3d65792b9602@kafshu.ir:8080/?type=ws&encryption=none&host=inFo.laLezaRanegomaNandish.onlineshopbb.org.&path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy#%F0%9F%AB%9176%40oneclickvpnkeys
 vless://07e97b58-4e24-4c56-b3ce-3d65792b9602@kafshu.ir:8080/?type=ws&encryption=none&host=inFo.laLezaRanegomaNandish.onlineshopbb.org.&path=🔒
 vless://07e97b58-4e24-4c56-b3ce-3d65792b9602@kafshu.ir:8080?path=🔒
+vless://07e97b58-4e24-4c56-b3ce-3d65792b9602@kafshu.ir:8080?security=&type=ws&path=🔒
+vless://07e97b58-4e24-4c56-b3ce-3d65792b9602@kafshu.ir:8080?type=ws&host=inFo.laLezaRanegomaNandish.onlineshopbb.org.&path=🔒
+vless://07eaf930-14df-4508-9ad3-d3aae5e10ab1@91.134.88.205:443?type=tcp&security=tls&sni=🔒
+vless://07ec7e56-f3e7-48c3-98a8-8886d5d87f74@85.9.200.197:26143/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒
