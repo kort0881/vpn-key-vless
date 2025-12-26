@@ -1,6 +1,3 @@
-vless://72b36a89-a5bb-4c96-8cab-d0f560880ad6@138.68.160.230:443?path=%2Ffeesdgws&security=tls&encryption=none&type=ws&sni=ozon.ru#I%20%2063%20%28%40Outline_Vpn%29%20free
-vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@94.131.110.38:443?path=%2Fhormoz&security=tls&encryption=none&type=ws&sni=github.com#I%20%2064%20%28%40Outline_Vpn%29%20free
-vless://ef5442d6-02f7-4fec-b356-9f212cd4c24e@139.59.167.252:443?path=%2Fjysxfpws&security=tls&encryption=none&fp=chrome&type=ws&sni=ozon.ru#I%20%2065%20%28%40Outline_Vpn%29%20free
 vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.235.241.167:443?path=%2Fhormoz&security=tls&encryption=none&type=ws&sni=github.com#I%20%2066%20%28%40Outline_Vpn%29%20free
 vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@94.131.110.93:443?path=%2Fhormoz&security=tls&encryption=none&type=ws&sni=www.vk.com#I%20%2067%20%28%40Outline_Vpn%29%20free
 vless://55556b1f-7b61-49ee-bfcc-10ed900f1b61@91.219.227.22:443?security=reality&encryption=none&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=43dcff53849b81e6#O%201%20%28%40Outline_Vpn%29%20free
@@ -498,3 +495,6 @@ vless://bfb7355f-da10-470c-99d2-16c5061c403a@152.42.185.230:23675?path=%2FFREE%2
 vless://dc117fd8-6edd-444b-a56a-9cfee67f7257@158.160.202.13:8443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=8ba12e75110b7a9c#%F0%9F%A7%91%E2%80%8D%F0%9F%8E%8462%40ConfigV2RayNG
 vless://309fa273-6579-4cb2-9143-7cad50401eba@45.82.249.129:8443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#ConfigV2RayNG
 vless://309fa273-6579-4cb2-9143-7cad50401eba@45.82.245.39:8443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#ConfigV2RayNG
+vless://309fa273-6579-4cb2-9143-7cad50401eba@45.15.185.69:8443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#ConfigV2RayNG
+vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.235.241.67:443?path=%2Fhormoz&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1&sni=web.max.ru#%F0%9F%A7%8A57%40ConfigV2RayNG
+vless://1a539db6-d162-42f4-9b56-687bd57bfbc2@nl20.abvpn.ru:443?security=reality&encryption=none&pbk=KXA-hPtvy_hzNER1ZNtUxBv_VrGGKfmIyi4CQAyjGxs&headerType=none&fp=firefox&type=tcp&sni=mirror.yandex.ru&sid=d94e8f45#%F0%9F%8E%8445%40ConfigV2RayNG

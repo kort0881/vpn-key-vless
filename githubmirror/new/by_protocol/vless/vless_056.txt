@@ -1,6 +1,3 @@
-vless://ba2b8534-f500-453f-9a33-9c9038f0a40d@104.22.4.136:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960005.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2# VL-WS-TLS  NA-104.22.4.136:443
-vless://260c4900-69a9-465c-8c3a-272eb1b4ec00@188.114.97.3:8080?security=none&type=ws&host=ShaHrAmcOnfIgWoRKERcjsA9898.CoNfIGshaHrAmcOnfIg.woRKeRs.dev&path=%2F0URHFxBSQcqVmgqm%3Fed%3D2560# VL-WS-NONE  NA-188.114.97.3:8080
-vless://28b2c67f-e54a-4081-b76b-44eec382d887@162.159.195.233:443?security=tls&sni=virax.gamerstmjj.workers.dev&type=ws&host=virax.gamerstmjj.workers.dev&path=%2F&alpn=http%2F1.1# VL-WS-TLS  NA-162.159.195.233:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.137.45:443?security=tls&sni=ppal03.CaTALeYa-AaMinA.WOrkeRS.DeV&type=ws&host=PPal03.CaTALEya-aaMiNa.wOrkERS.Dev&path=%2F6mywAHcxdhYGJ0ck%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1# VL-WS-TLS  NA-172.67.137.45:443
 vless://9681032c-12e7-40fb-9107-16406203250c@164.92.82.207:59843?type=tcp# VL-TCP-NA  US-164.92.82.207:59843
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@173.245.58.218:443?security=tls&sni=cj.ylks.xyz&type=ws&host=cj.ylks.xyz&path=%2Fblue# VL-WS-TLS  NA-173.245.58.218:443
@@ -498,3 +495,6 @@ vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@45.85.119.246:8080?security=none&ty
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@198.41.215.160:443?security=tls&sni=an.ylks.xyz&type=ws&host=an.ylks.xyz&path=%2F%3Fed%3D2048# VL-WS-TLS  NA-198.41.215.160:443
 vless://2f88967c-2741-4e09-a682-59ec36423f2b@159.223.250.98:443?security=none&type=ws&host=159.223.250.98&path=%2FBARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN-BARGOVPN%3Fed%3D443# VL-WS-NONE  DE-159.223.250.98:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.61.82:443?security=tls&sni=pPal03.lEPiLId328.wORkErS.dEV&type=ws&host=pPaL03.LEpIlID328.WOrKers.DeV&path=%2F4TlINZNzV07HLy2O%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1# VL-WS-TLS  NA-104.21.61.82:443
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.6.236:443?security=tls&sni=behdasht.hrtc.ir&encryption=none@ShadowsocksM66&type=ws&host=behdasht.hrtc.ir&path=/H?ed%3D2560&fp=randomized&alpn=h2,http/1.1# VL-WS-TLS  US-199.232.6.236:443
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@188.114.99.47:443?security=tls&sni=an.ylks.xyz&type=ws&host=an.ylks.xyz&path=%2F%3Fed%3D2048# VL-WS-TLS  NA-188.114.99.47:443
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@108.162.196.96:443?security=tls&sni=ck.ylks.xyz&type=ws&host=ck.ylks.xyz&path=%2Fblue# VL-WS-TLS  NA-108.162.196.96:443
