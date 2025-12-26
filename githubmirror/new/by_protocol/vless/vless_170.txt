@@ -1,3 +1,4 @@
+vless://4e1f0fc6-a7f8-4642-bd35-6a3aa0bb2fc8@w3.org:443?path=🔒
 vless://4e21e86a-46f1-4272-bdb3-bac8bc6839ab@91.99.221.5:443/?type=tcp&encryption=none&sni=🔒
 vless://4e21e86a-46f1-4272-bdb3-bac8bc6839ab@Loadbalance.systemgamingirani.ir:443?security=reality&encryption=none&pbk=v3_phZMVMpR1IKmwS3HEBQGE5Yh8rFyZJOplk71hWkg&headerType=none&fp=chrome&spx=/&type=tcp&sni=tgju.org&sid=b7859e878ab2fb#@v2ray_configs_pools
 vless://4e21e86a-46f1-4272-bdb3-bac8bc6839ab@Loadbalance.systemgamingirani.ir:443?security=reality&encryption=none&pbk=v3_phZMVMpR1IKmwS3HEBQGE5Yh8rFyZJOplk71hWkg&headerType=none&fp=chrome&spx=/&type=tcp&sni=🔒
@@ -497,4 +498,3 @@ vless://51b676c4-7fc2-46b9-a26a-2834e2db7046@bonefletcher.fonixapp.org:51886?sec
 vless://51b8e038-d14f-4236-91bf-78ae4d1fb843@ppan.cloudpooya.ir:29878/?encryption=none&host=khamenei.ir&type=tcp&headerType=http
 vless://51b8e038-d14f-4236-91bf-78ae4d1fb843@ppan.cloudpooya.ir:29878?allowInsecure=0&sni=🔒
 vless://51b8e038-d14f-4236-91bf-78ae4d1fb843@ppan.cloudpooya.ir:29878?encryption=none&security=none&type=tcp&headerType=http&host=khamenei.ir
-vless://51b8e038-d14f-4236-91bf-78ae4d1fb843@ppan.cloudpooya.ir:29878?security=&encryption=none&host=khamenei.ir&headerType=http&type=tcp
