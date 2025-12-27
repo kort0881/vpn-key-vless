@@ -176,9 +176,7 @@ trojan://d446ca24-80b7-4e4a-8055-e23838e43705@cdnfire.xiaomispeed.com:21102/?typ
 trojan://b574ea88-168d-4504-a62d-fe9a2271d726@green2.cdntencentmusic.com:31103/?type=tcp&amp;security=tls&amp;sni=green2.cdntencentmusic.com&amp;allowInsecure=1#🇭🇰 香港
 trojan://telegram-id-privatevpns@15.236.57.222:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷[openproxylist.com] trojan-FR
 trojan://kkzh2prsyr2ik47as615@64.94.95.118:57142?allowInsecure=1#🇺🇸[openproxylist.com] trojan-US
-trojan://telegram-id-privatevpns@3.126.96.173:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪[openproxylist.com] trojan-DE
-trojan://telegram-id-privatevpns@3.72.120.152:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪[openproxylist.com] trojan-DE
-trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@mfyousheng.nl.eu.org:443?security=tls&sni=mfyousheng.nl.eu.org&type=ws&host=mfyousheng.nl.eu.org&path=%2FtjwsLhx0SFASG4l9FERJ1g#🇱🇺[openproxylist.com] trojan-LU
+trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@mfyousheng.nl.eu.org:443?security=tls&sni=mfyousheng.nl.eu.org&type=ws&path=%2FtjwsLhx0SFASG4l9FERJ1g#🇱🇺[openproxylist.com] trojan-LU
 trojan://BxceQaOe@52.194.193.12:11945?allowInsecure=1&sni=t.me%252Fripaojiedian#🇯🇵[openproxylist.com] trojan-JP
 trojan://BxceQaOe@203.198.84.221:443?allowInsecure=1&sni=t.me/ripaojiedian#🇭🇰[openproxylist.com] trojan-HK
 trojan://BxceQaOe@58.152.46.60:443?allowInsecure=1&sni=t.me%2Fripaojiedian#🇭🇰[openproxylist.com] trojan-HK
@@ -186,17 +184,15 @@ trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&amp;sni
 trojan://44e660b0ee21cf3ac66aee2c08af85d2@112.118.116.8:443?security=tls&sni=www.nintendogames.net#🇭🇰[openproxylist.com] trojan-HK
 trojan://bb824a22-b7ce-427b-9ed6-1adf0751da02@107.174.82.102.sslip.io:443?security=tls&type=ws&sni=107.174.82.102.sslip.io&path=/gXKGj8a1tp1nNbZEcRugowKV#🇺🇸[openproxylist.com] trojan-US
 trojan://POORIARED@172.67.134.185:443?security=tls&sni=reDfRee8.REDFree8.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=%2FeyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40v2rayvpn2%20%5B6%5D
-trojan://POORIARED@172.67.134.185:443?path=%2FeyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed&security=tls&fp=chrome&type=ws&sni=reDfRee8.REDFree8.ir#@Vip_Security join us - 55
-trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.117.182:3093?sni=www.nintendogames.net&path=/#@Vip_Security join us - 54
-trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3169?sni=www.nintendogames.net&path=/#@Vip_Security join us - 53
-trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3093?sni=www.nintendogames.net&path=/#@Vip_Security join us - 52
-trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3093?security=tls&sni=www.nintendogames.net&path=/#@Vip_Security join us - 51
-trojan://44e660b0ee21cf3ac66aee2c08af85d2@153.121.67.215:3093?security=tls&sni=www.nintendogames.net&path=/#@Vip_Security join us - 50
-trojan://44e660b0ee21cf3ac66aee2c08af85d2@153.121.53.187:3169?sni=www.nintendogames.net&path=/#@Vip_Security join us - 49
-trojan://3d24de45-e38a-49c2-a963-ba8271c62d2b@tronblue.qzz.io:443?type=ws&host=tronblue.qzz.io&path=/152.32.255.24:587&security=tls&sni=tronblue.qzz.io&allowInsecure=1#@Vip_Security join us - 48
-trojan://13e71ddb-908c-45e0-993c-da482d848c88@seashell.qzz.io:443?type=ws&host=seashell.qzz.io&path=/156.254.114.120:30011&security=tls&sni=seashell.qzz.io&allowInsecure=1#@Vip_Security join us - 47
-trojan://0507fbcd-b983-43a7-8e1d-2c561960ad4f@d-4bed-b726-2c53a82e4925.664.qzz.io:443?security=tls&sni=d-4bED-B726-2C53a82E4925.664.Qzz.iO&alpn=http/1.1&type=ws&path=/E2JXJM5geneWfr9noOhn#@Vip_Security join us - 46
-trojan://0507fbcd-b983-43a7-8e1d-2c561960ad4f@a76-4179-8a78-c8b78b3c00cb.664.qzz.io:443?security=tls&sni=A76-4179-8a78-c8B78B3C00Cb.664.QZz.iO&type=ws&path=/E2JXJM5geneWfr9noOhn#@Vip_Security join us - 45
+trojan://POORIARED@172.67.134.185:443?path=%2FeyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed&security=tls&fp=chrome&type=ws&sni=reDfRee8.REDFree8.ir#@Vip_Security join us - 9
+trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.117.182:3093?sni=www.nintendogames.net&path=/#@Vip_Security join us - 8
+trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3169?sni=www.nintendogames.net&path=/#@Vip_Security join us - 7
+trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3093?security=tls&sni=www.nintendogames.net&path=/#@Vip_Security join us - 6
+trojan://44e660b0ee21cf3ac66aee2c08af85d2@153.121.67.215:3093?security=tls&sni=www.nintendogames.net&path=/#@Vip_Security join us - 5
+trojan://3d24de45-e38a-49c2-a963-ba8271c62d2b@tronblue.qzz.io:443?type=ws&host=tronblue.qzz.io&path=/152.32.255.24:587&security=tls&sni=tronblue.qzz.io&allowInsecure=1#@Vip_Security join us - 4
+trojan://13e71ddb-908c-45e0-993c-da482d848c88@seashell.qzz.io:443?type=ws&host=seashell.qzz.io&path=/156.254.114.120:30011&security=tls&sni=seashell.qzz.io&allowInsecure=1#@Vip_Security join us - 3
+trojan://0507fbcd-b983-43a7-8e1d-2c561960ad4f@d-4bed-b726-2c53a82e4925.664.qzz.io:443?security=tls&sni=d-4bED-B726-2C53a82E4925.664.Qzz.iO&alpn=http/1.1&type=ws&path=/E2JXJM5geneWfr9noOhn#@Vip_Security join us - 2
+trojan://0507fbcd-b983-43a7-8e1d-2c561960ad4f@a76-4179-8a78-c8b78b3c00cb.664.qzz.io:443?security=tls&sni=A76-4179-8a78-c8B78B3C00Cb.664.QZz.iO&type=ws&path=/E2JXJM5geneWfr9noOhn#@Vip_Security join us - 1
 trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3169?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Osaka🅿️ping:240ms
 trojan://Aimer@104.16.149.162:443/?type=tcp&security=tls&sni=epccg.ambercc.filegear-sg.me#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22ms
 trojan://Aimer@104.16.8.113:443/?type=tcp&security=tls&sni=epcch.ambercc.filegear-sg.me#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22ms
@@ -498,3 +494,7 @@ trojan://bpb-trojan@188.114.98.253:443/?type=ws&host=fcspring.ggff.net&path=%2Ft
 trojan://b9e82117-ed3a-4098-8153-100ca12aa523@104.17.228.60:443/?type=grpc&security=tls&sni=hdfy5persiaserverc1.afsharidempire.uk#%40Hope_Net-join-us-on-Telegram
 trojan://bpb-trojan@104.21.83.62:2053/?type=ws&host=g2-1oy.pages.dev&path=%2FtrWXapRLB3X1m0q530%2FZGU...&security=tls&sni=g2-1OY.paGEs.deV
 trojan://bpb-trojan@104.16.148.244:2053/?type=ws&host=g1-21n.pages.dev&path=%2FtrEgQ1o8ai3RyG9E9z%2FZGUucmFkaWNhbGx5LnBybw%3D%3D&security=tls&sni=g1-21N.paGeS.deV&alpn=http%2F1.1&fp=randomized#%40Hope_Net-join-us-on-Telegram
+trojan://bpb-trojan@104.18.161.108:443/?type=tcp&security=tls&sni=adagio.us.kg#%40Hope_Net-join-us-on-Telegram
+trojan://4f9219f6-ba56-4e5a-a676-0978d8b613e4@188.114.99.91:443/?type=ws&host=Noshteri.hooplnqpb.ir&path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&sni=Noshteri.hooplnqpb.ir#%40Hope_Net-join-us-on-Telegram
+trojan://WOeXShhJpL@104.18.183.139:443/?type=ws&host=08jzus.zdzdzd.xyz&path=%2Fjuzigongyi&security=tls&sni=08jzus.zdzdzd.xyz#%40Hope_Net-join-us-on-Telegram
+trojan://McCPa4vups6yAdDbGokjPA@104.21.22.66:2096/?type=tcp&security=tls
