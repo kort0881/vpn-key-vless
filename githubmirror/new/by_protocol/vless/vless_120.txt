@@ -1,6 +1,3 @@
-vless://308d0488-0230-4f92-9e9f-978a3583434a@gr1hztl.private-server.host:2487?encryption=none&amp;headerType=http&amp;type=tcp&amp;path=/private&amp;host=prnewswire.com#%25F0%259F%2587%25A9%25F0%259F%2587%25AA%2520Germany%25201%2520HamrahAval
-vless://308d0488-0230-4f92-9e9f-978a3583434a@uaerel.private-server.host:58594?encryption=none&amp;headerType=none&amp;type=tcp&amp;security=reality&amp;sni=www.speed.cloudflare.com&amp;fp=chrome&amp;pbk=wwXjum_5cOzgOoodDdXE8ttA2e2LxS_NDGuSaNJ6nws&amp;flow=xtls-rprx-vision#%25F0%259F%2587%25A6%25F0%259F%2587%25AA%2520UAE
-vless://308d0488-0230-4f92-9e9f-978a3583434a@bulgtn.private-server.host:2096?encryption=none&amp;headerType=none&amp;type=ws&amp;path=/&amp;host=bulgtn.private-server.host#%25F0%259F%2587%25A7%25F0%259F%2587%25AC%2520Bulgaria%2520HamrahAval
 vless://45e96756-c697-4ffb-b1ca-69f202cbc9f2@v2vip.msjia284.site:27489?type=tcp&amp;security=none&amp;sni=none&amp;headerType=http&amp;path=/&amp;host=fast.com#BlueVPN-32333
 vless://6e9b86ec-3bb8-4faf-9509-b445e8ede4fe@87.236.208.21:33824?type=tcp&amp;security=none#@TC_V2ray
 vless://05a458e1-bc26-476a-dcf1-156a17a6a27b@uae.speedvip.fun:51436?type=tcp&amp;path=/&amp;host=speedtest.net&amp;headerType=http&amp;security=none#Em52-@chatbuzzteam test
@@ -498,3 +495,6 @@ vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@statue.lnmarketplace.net:443?mode=s
 vless://d37d61da-e50d-4f7f-9969-7f0136f97953@delilah.ns.cloudflare.com:443?path=/fwgisws&amp;security=tls&amp;encryption=none&amp;host=hazmkardan.info&amp;type=ws&amp;sni=hazmkardan.info#🍎 @V2aryng_vpn
 vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?mode=gun&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;type=grpc&amp;sni=pqh29v6.hiddendom.shop#🍎 @V2aryng_vpn
 vless://e4824193-4f54-453b-d037-88368e85ef0e@104.21.86.253:443?mode=gun&amp;security=tls&amp;encryption=none&amp;type=grpc&amp;sni=pqh27v1.carwashipdir.shop#🍎 @V2aryng_vpn
+vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?mode=gun&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;type=grpc&amp;sni=pqh30v1.hiddendom.shop#🍎 @V2aryng_vpn
+vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@norman.ns.cloudflare.com:443?path=/yhowcws&amp;security=tls&amp;encryption=none&amp;host=azizoarjmand.info&amp;type=ws&amp;sni=azizoarjmand.info#🍎 @V2aryng_vpn
+vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@108.162.193.217:443?path=/yhowcws&amp;security=tls&amp;encryption=none&amp;host=azizoarjmand.info&amp;fp=chrome&amp;type=ws&amp;sni=azizoarjmand.info#🍎 @V2aryng_vpn

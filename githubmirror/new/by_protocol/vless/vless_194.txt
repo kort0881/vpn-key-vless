@@ -1,7 +1,3 @@
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@77.91.73.188:8443/?type=ws&encryption=none&flow=&path=🔒
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@86.104.74.171:2096/?type=ws&encryption=none&flow=&path=🔒
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@86.104.74.171:443/?type=ws&encryption=none&flow=&path=🔒
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@86.104.74.171:443?path=🔒
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@86.104.74.171:8443/?type=ws&encryption=none&flow=&path=🔒
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@86.104.74.207:443/?type=ws&encryption=none&flow=&path=🔒
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@86.104.74.207:443?security=tls&encryption=none&type=ws
@@ -498,3 +494,7 @@ vless://aa063d56-f4b6-4baa-ae35-9ec4b4d24cae@151.101.205.194:80?path=/-LiV2ry@LI
 vless://aa063d56-f4b6-4baa-ae35-9ec4b4d24cae@151.101.205.194:80?path=🔒
 vless://aa0731e6-c20d-4ddf-a4aa-c258c5c25680@alchemistss.fonixapp.org:44258?security=reality&encryption=none&pbk=krhP4LVv8U-nFUhPdJmEsA4ojmhFPmNV7dNJBWB_5SM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=study.com&sid=9cdd24503fce#All-@V2rayAlpha--32
 vless://aa0731e6-c20d-4ddf-a4aa-c258c5c25680@alchemistss.fonixapp.org:44258?security=reality&encryption=none&pbk=krhP4LVv8U-nFUhPdJmEsA4ojmhFPmNV7dNJBWB_5SM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒
+vless://aa077dd1-0a53-4313-8800-c9ac79a97003@91.99.11.112:443?mode=stream-one&path=/sef&security=none&encryption=none&type=xhttp#https://t.me/v2raynplus
+vless://aa077dd1-0a53-4313-8800-c9ac79a97003@91.99.11.112:443?mode=stream-one&path=🔒
+vless://aa077dd1-0a53-4313-8800-c9ac79a97003@sss71534.tas-bazi.com:443?mode=stream-one&path=/sef&security=none&encryption=none&type=xhttp#💎کانفیگ
+vless://aa077dd1-0a53-4313-8800-c9ac79a97003@sss71534.tas-bazi.com:443?mode=stream-one&path=🔒

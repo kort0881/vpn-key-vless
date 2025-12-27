@@ -1,11 +1,3 @@
-vless://7bcb7241-33f9-48e0-8660-b33aed2bff7a@104.21.96.1:2096?security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=8j3f7HD37h.PaGES.dEV#Channel%20%3A%20%40SHOP_GAMING1011%20%F0%9F%8F%B4%F0%9F%8F%B3
-vless://7bcb7241-33f9-48e0-8660-b33aed2bff7a@104.21.96.1:2096?security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=8j3f7HD37h.PaGES.dEV#RELAY🚩
-vless://7bcb7241-33f9-48e0-8660-b33aed2bff7a@104.21.96.1:2096?security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=🔒
-vless://7bcb7241-33f9-48e0-8660-b33aed2bff7a@104.21.96.1:2096?security=tls&alpn=http/1.1&encryption=none&fp=chrome&type=ws&sni=🔒
-vless://7bcb7241-33f9-48e0-8660-b33aed2bff7a@104.21.96.1:2096?security=tls&alpn=http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=8j3f7HD37h.PaGES.dEV#🏴🏳
-vless://7bcb7241-33f9-48e0-8660-b33aed2bff7a@104.21.96.1:2096?security=tls&alpn=http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=🔒
-vless://7bcb7241-33f9-48e0-8660-b33aed2bff7a@104.21.96.1:2096?type=ws&host=8j3f7hd37h.pages.dev&path=%2FPVlCNDt9CiMEktH3%3Fed%3D2560&security=tls&sni=8j3f7HD37h.PaGES.dEV&alpn=http%2F1.1&fp=randomized&allowInsecure=0#RELAY🚩
-vless://7bcb7241-33f9-48e0-8660-b33aed2bff7a@104.21.96.1:2096?type=ws&host=8j3f7hd37h.pages.dev&path=/PVlCNDt9CiMEktH3?ed=2560&security=tls&sni=8j3f7HD37h.PaGES.dEV&alpn=http/1.1&fp=chrome&allowInsecure=0#@SiNAVM-vless-53
 vless://7bcb7241-33f9-48e0-8660-b33aed2bff7a@104.21.96.1:2096?type=ws&host=8j3f7hd37h.pages.dev&path=/PVlCNDt9CiMEktH3?ed=2560&security=tls&sni=8j3f7HD37h.PaGES.dEV&alpn=http/1.1&fp=randomized&allowInsecure=0#US🇺🇸
 vless://7bcb7241-33f9-48e0-8660-b33aed2bff7a@104.21.96.1:2096?type=ws&host=8j3f7hd37h.pages.dev&path=🔒
 vless://7bcfdcf8-fe22-4d40-8707-3249aeb66a5f@65.109.189.89:33801?security=none&encryption=none&headerType=http&type=tcp
@@ -58,6 +50,7 @@ vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@[2a01:4f8:c013:a2c1::b00b]:443?mode
 vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@[2a10:4640:0:ff38::1]:443?mode=stream-one&path=/statue&security=tls&alpn=h2&encryption=none&extra={
 vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@[2a10:4640:0:ff38::1]:443?mode=stream-one&path=🔒
 vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@statue.lnmarketplace.net:443?encryption=none&security=tls&sni=statue.lnmarketplace.net&alpn=h2&fp=firefox&type=xhttp&host=statue.lnmarketplace.net&path=/statue&mode=stream-one&extra=%7B
+vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@statue.lnmarketplace.net:443?mode=stream-one&path=%2Fstatue&security=tls&alpn=h2&encryption=none&extra=%7B%22headers%22%3A%7B%7D%2C%22noGRPCHeader%22%3Atrue%2C%22xmux%22%3A%7B%22maxConnections%22%3A%226%22%7D%7D&insecure=0&host=statue.lnmarketplace.net&fp=firefox&type=xhttp&allowInsecure=0&sni=statue.lnmarketplace.net#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@statue.lnmarketplace.net:443?mode=stream-one&path=%2Fstatue&security=tls&alpn=h2&encryption=none&extra=%7B%27headers%27%3A%20%7B%7D%2C%20%27noGRPCHeader%27%3A%20True%2C%20%27xmux%27%3A%20%7B%27maxConnections%27%3A%20%276%27%7D%7D&insecure=0&host=statue.lnmarketplace.net&fp=firefox&type=xhttp&allowInsecure=0&sni=statue.lnmarketplace.net#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@statue.lnmarketplace.net:443?mode=stream-one&path=%2Fstatue&security=tls&alpn=h2&encryption=none&extra=%7B%27headers%27%3A%20%7B%7D%2C%20%27noGRPCHeader%27%3A%20True%2C%20%27xmux%27%3A%20%7B%27maxConnections%27%3A%20%278%27%7D%7D&host=statue.lnmarketplace.net&fp=firefox&type=xhttp&sni=statue.lnmarketplace.net#%40V2RAY_VMESS_free
 vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@statue.lnmarketplace.net:443?mode=stream-one&path=%2Fstatue&security=tls&alpn=h2&encryption=none&extra=%7B%27headers%27%3A+%7B%7D%2C+%27noGRPCHeader%27%3A+True%2C+%27xmux%27%3A+%7B%27maxConnections%27%3A+%276%27%7D%7D&host=statue.lnmarketplace.net&fp=firefox&type=xhttp&sni=statue.lnmarketplace.net#DE🇩🇪
@@ -498,3 +491,10 @@ vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@3.12.41.242:443/?type=tcp&encryptio
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@35.170.71.246:4433?security=reality&encryption=none&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&headerType=none&fp=random&type=tcp&sni=🔒
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@35.85.33.155:2222?security=none&type=tcp
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@35.95.107.209:4433?security=reality&sni=🔒
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@52.25.169.136:443/?type=tcp&encryption=none&sni=stackoverflow.com&fp=random&security=reality&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#%40Hope_Net-join-us-on-Telegram
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@52.25.169.136:443/?type=tcp&encryption=none&sni=🔒
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@sv4.cloudjetm.com:2222?security=none&encryption=none&headerType=none&type=tcp
+vless://7fd30e86-70da-4d3a-c7e6-c732f5e76896@www.speedtest.net:2082?path=🔒
+vless://7fda59fc-d77f-4177-ae7b-7c582b7f6e03@65.109.204.158:19623?mode=gun&security=reality&encryption=none&pbk=qg_rCaLr0AyCmVZkfOS_6jUVb5QwFkQmMe-z8caU-UU&fp=chrome&spx=/&type=grpc&serviceName=@IRAN_V2RAY1---@IRAN_V2RAY1---@IRAN_V2RAY1---@IRAN_V2RAY1---@IRAN_V2RAY1---@IRAN_V2RAY1---@IRAN_V2RAY1---@IRAN_V2RAY1---@IRAN_V2RAY1---@IRAN_V2RAY1---@IRAN_V2RAY1---@IRAN_V2RAY1---@IRAN_V2RAY1&sni=🔒
+vless://7fe23f48-f5f8-44cd-be5b-10ae0a31473e@151.101.64.155:80?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&security=none&encryption=none&host=irancell.net.&type=ws#%40v2raying
+vless://7fe7aca2-124e-4d0b-9911-8a5312f0be34@us1.projecthope.ir:2053?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&type=grpc&serviceName=%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven&sni=us1.projecthope.ir#US🇺🇸
