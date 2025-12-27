@@ -1,3 +1,6 @@
+vless://98f18f76-bb78-4ab9-b949-bfca8741ce22@Zula.iR:80?type=ws&path=🔒
+vless://98f670fb-8a5a-4935-b4c8-9569ec19658a@cosmin.ns.cloudflare.com:443?path=%2Fufoxglws&security=tls&encryption=none&host=638991681638525311.jetta-amsia.info&type=ws&sni=638991681638525311.jetta-amsia.info#RELAY🚩
+vless://98f670fb-8a5a-4935-b4c8-9569ec19658a@cosmin.ns.cloudflare.com:443?path=/ufoxglws&security=tls&encryption=none&host=638991681638525311.jetta-amsia.info&type=ws&sni=638991681638525311.jetta-amsia.info#All-@V2ray_Alpha--21
 vless://98f670fb-8a5a-4935-b4c8-9569ec19658a@cosmin.ns.cloudflare.com:443?path=🔒
 vless://98f9fb8e-ac0c-4a54-80ff-dcce095d9fbd@103.21.244.254:80?encryption=none&security=none&type=ws&host=cold-snowflake-4912-ppal03.rarenok889.workers.dev&path=🔒
 vless://98f9fb8e-ac0c-4a54-80ff-dcce095d9fbd@104.16.46.27:80?encryption=none&security=none&type=ws&host=cold-snowflake-4912-ppal03.rarenok889.workers.dev&path=🔒
@@ -495,6 +498,3 @@ vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.22.22.237:443?path=%2F%3Fed%3D2
 vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.22.22.237:443?path=🔒
 vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.22.22.237:443?security=tls&encryption=none&type=ws&host=kawaiifreevpn-7ds.pages.dev&path=🔒
 vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.22.22.237:443?security=tls&sni=kawaiifreevpn-7ds.pages.dev&type=ws&host=kawaiifreevpn-7ds.pages.dev&path=%2F%3Fed%3D2560&fp=random#RELAY🚩
-vless://9dd8841f-ca19-47f4-a06b-dc2e9316f9c5@151.101.3.8:80?mode=auto&path=🔒
-vless://9dda23d6-52cb-435f-bfb7-9fb4d45d5ec4@104.16.64.38:2096?path=🔒
-vless://9ddd1f39-e7e4-4d52-b202-7d7b2f13215a@bloodseeker.fonixapp.org:443?security=reality&encryption=none&pbk=4yvKWFMcxHUzMJCMupKIRvqw2gsCRsD_bfirrZ0LmAI&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=clients2.google.com&sid=83e035aa57#@Daily_Configs
