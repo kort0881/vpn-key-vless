@@ -1,3 +1,7 @@
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.26.7.149:443?security=tls&sni=CCOnfIG.SPDTest.ggFf.NET&type=ws&host=cconfig.spdtest.ggff.net&path=%2FW5V92vB3BQrJH2yY%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1# VL-WS-TLS  NA-104.26.7.149:443
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@190.93.247.97:443?security=tls&sni=al.ylks.xyz&type=ws&host=al.ylks.xyz&path=%2F%3Fed%3D2048# VL-WS-TLS  NA-190.93.247.97:443
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@141.101.120.151:443?security=tls&sni=aj.ylks.xyz&type=ws&host=aj.ylks.xyz&path=%2F%3Fed%3D2048# VL-WS-TLS  NA-141.101.120.151:443
+vless://5e2a0dff-3392-476d-bbaa-c7b35380495e@188.114.97.1:2053?security=tls&sni=FREEDOM31.Pages.DEV&type=ws&path=%2F# VL-WS-TLS  NA-188.114.97.1:2053
 vless://131387aa-4b2a-43aa-bf7c-d94306ba55fb@104.18.15.19:8080?type=ws&host=13tg.jpl8xmqb.workers.dev&path=%2F%3Fed%3D2560# VL-WS-NA  NA-104.18.15.19:8080
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@108.162.192.65:443?security=tls&sni=lm.kpcloud.eu.org&type=ws&host=lm.kpcloud.eu.org&path=%2F%3Fed%3D2048# VL-WS-TLS  NA-108.162.192.65:443
 vless://35caec98-86de-4f38-a011-eb7e134446c7@172.67.197.28:443?security=tls&sni=anaSErViCeZilOrX.iXpUB.WORKErS.deV&type=ws&host=anaserVicEZIlOrX.IXPUb.WoRKErs.DEV&path=%2F@VPNHTTPInjectorfree# VL-WS-TLS  NA-172.67.197.28:443
@@ -494,7 +498,3 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.203.232:2053?security=tls&sn
 vless://34a83286-ba4e-4f0a-ac08-77a95469eeaf@172.66.44.101:2096?security=tls&sni=pardazesh18.pages.dev&type=ws&host=pardazesh18.pages.dev&path=%2FJoin--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420%3Fed%3D2048&fp=randomized# VL-WS-TLS  NA-172.66.44.101:2096
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@192.200.160.168:443?security=tls&sni=ly.ylks.us.kg&type=ws&path=%2F%3Fed%3D2560# VL-WS-TLS  US-192.200.160.168:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@173.245.58.61:443?security=tls&sni=ck.ylks.xyz&type=ws&host=ck.ylks.xyz&path=%2Fblue# VL-WS-TLS  NA-173.245.58.61:443
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@188.114.96.215:443?security=tls&sni=lm.kpcloud.eu.org&type=ws&host=lm.kpcloud.eu.org&path=%2F%3Fed%3D2048# VL-WS-TLS  NA-188.114.96.215:443
-vless://b907aea0-cf1a-489f-aef7-b55a1ac04f34@104.17.93.85:8080?type=ws&host=join-to.vmessorg.Community.&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D8080# VL-WS-NA  NA-104.17.93.85:8080
-vless://66b3cbba-e6ac-485a-8781-976a0415eab8@104.21.8.226:443?security=tls&sni=esetSeCurITylicENSe.ZRytZnbE.woRkerS.deV&type=ws&host=EseTsECUriTyliCENsE.ZrYTZnBE.WoRkErS.deV&path=%2F5vM8iD19sYNPkyHm%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1# VL-WS-TLS  NA-104.21.8.226:443
-vless://4959177b-62d7-4d1b-b6a3-eed72c0609c5@129.154.237.13:443?security=tls&flow=xtls-rprx-vision&sni=www.0wolf.com&type=tcp&fp=chrome# VL-TCP-TLS  IN-129.154.237.13:443

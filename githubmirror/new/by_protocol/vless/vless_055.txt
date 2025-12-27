@@ -1,3 +1,7 @@
+vless://2928d83a-ca75-4d52-b437-fa78c7601378@104.20.20.113:443?security=tls&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560&fp=randomized# VL-WS-TLS  NA-104.20.20.113:443
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.27.45.169:443?security=tls&sni=cp.ylks.xyz&type=ws&host=cp.ylks.xyz&path=%2Fblue# VL-WS-TLS  NA-104.27.45.169:443
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@91.107.142.138:8080?security=tls&sni=vless.ifx.us.kg&type=ws&host=vless.ifx.us.kg&path=%2F%3Fed%3D2560fp%3Dchrome# VL-WS-TLS  DE-91.107.142.138:8080
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.98.238:2053?security=tls&sni=bPB-v.PaGeS.DEV&type=ws&host=bPB-v.PaGeS.DEV&path=%2FKheiTaJ43GZuGk3r%2FMTI5LjE1OS4yNDEuMTcy# VL-WS-TLS  NA-188.114.98.238:2053
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.1:443?security=tls&sni=dr.ylks.xyz&type=ws&host=dr.ylks.xyz&path=%2Fblue# VL-WS-TLS  US-198.62.62.1:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@108.162.193.25:443?security=tls&sni=cn.ylks.xyz&type=ws&host=cn.ylks.xyz&path=%2Fblue# VL-WS-TLS  NA-108.162.193.25:443
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@173.245.58.126:443?security=tls&sni=ak.ylks.xyz&type=ws&host=ak.ylks.xyz&path=%2F%3Fed%3D2048# VL-WS-TLS  NA-173.245.58.126:443
@@ -494,7 +498,3 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@190.93.247.244:443?security=tls&sni
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@44.198.232.177:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws# VL-WS-TLS  US-44.198.232.177:22222
 vless://2df56fd0-d1b7-4793-b877-acd356d960f7@172.67.204.84:443?security=tls&sni=pages.dev&type=ws&host=download-93w.pages.dev&path=%2F%3Fed%3D8080# VL-WS-TLS  NA-172.67.204.84:443
 vless://b9961be4-546c-4e2a-8be0-aa01a1a449da@104.18.19.0:443?security=tls&sni=DAiLY-cONfIGs-cHanneL.PAgEs.Dev&type=ws&host=daily-configs-channel.pages.dev&path=%2FTelegram%2CDAILY_CONFIGS%3Fed%3D8080&fp=randomized&alpn=h2%2Chttp%2F1.1# VL-WS-TLS  NA-104.18.19.0:443
-vless://40c8e008-7454-4c36-c80f-41442d0b2669@104.21.13.125:2095?security=none&type=ws&host=www.speedtest.net.Jaricopen.Shop.&path=%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%2F%40XpnTeam%3Fed%3D2048# VL-WS-NONE  NA-104.21.13.125:2095
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@176.9.50.58:8080?security=tls&sni=vless.ifx.us.kg&type=ws&host=vless.ifx.us.kg&path=%2F%3Fed%3D2560# VL-WS-TLS  DE-176.9.50.58:8080
-vless://6285e567-0c25-4ce2-a2fa-80517c1345e1@104.21.83.62:2096?security=tls&sni=1223-9ux.pages.dev&type=ws&host=1223-9ux.pages.dev&path=%2FTelegram%40Linkvws%3Fed%3D2048&fp=randomized# VL-WS-TLS  NA-104.21.83.62:2096
-vless://6f995056-7802-4a1d-bff7-61678e626c3f@52.231.38.95:443?security=tls&sni=vkvd127.mycdn.me&type=ws&host=bnnm.azurewebsites.net&fp=chrome&alpn=http/1.1&allowInsecure=1# VL-WS-TLS  KR-52.231.38.95:443

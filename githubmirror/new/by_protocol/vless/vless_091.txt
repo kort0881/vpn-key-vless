@@ -1,4 +1,3 @@
-vless://71e0088d-809d-4c59-b09c-a7cc652d62d8@dl.darkterror.fonixapp.org:13159?security=reality&encryption=none&pbk=II6xvXxpAqNrzZgYqKKHsg30aeLm--kf7LV35n5jzH8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sid=ce # [ By EbraSha ]
 vless://71e0492e-9dc5-4fef-891b-15c983934886@185.177.238.40:443?security=reality&encryption=none&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&headerType=none&fp=chrome&spx=/sinavm-sinavm&type=tcp&flow=xtls-rprx-vision&sid=505adbea98a0b5fe # [ By EbraSha ]
 vless://71e0492e-9dc5-4fef-891b-15c983934886@51.250.77.7:443?security=reality&encryption=none&pbk=UEKLXjQmUAh_6hhHqB4fmCo68a15hC18hgRCWbzr3UE&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sid=27e53bbcab7593d7 # [ By EbraSha ]
 vless://71e0492e-9dc5-4fef-891b-15c983934886@51.250.77.7:443?security=reality&encryption=none&pbk=UEKLXjQmUAh_6hhHqB4fmCo68a15hC18hgRCWbzr3UE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sid=27e53bbcab7593d7 # [ By EbraSha ]
@@ -498,3 +497,4 @@ vless://895bcc7e-59c4-4872-d1b7-7fa19a8ec2ce@80.240.21.83:443?mode=gun&security=
 vless://895bcc7e-59c4-4872-d1b7-7fa19a8ec2ce@95.179.241.11:443?mode=gun&security=none&encryption=none&authority=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc # [ By EbraSha ]
 vless://895bcc7e-59c4-4872-d1b7-7fa19a8ec2ce@95.179.241.11:443?mode=gun&security=none&encryption=none&type=grpc # [ By EbraSha ]
 vless://89743cca-6855-478c-b9a8-79ae9ab9c3e4@s2.skullvpn.xyz:443?security=tls&encryption=none&host=speedtest.net&type=ws # [ By EbraSha ]
+vless://89952144-8ad0-4af7-a334-940df81d820d@vpncustomize2.ddns.net:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&security=tls&encryption=none&type=grpc&serviceName=&security=tls&encryption=none&type=grpc&serviceName= # [ By EbraSha ]

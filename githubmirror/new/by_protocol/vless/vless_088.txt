@@ -1,4 +1,3 @@
-vless://309fa273-6579-4cb2-9143-7cad50401eba@146.19.80.241:443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sid=7cad5040 # [ By EbraSha ]
 vless://309fa273-6579-4cb2-9143-7cad50401eba@146.19.80.242:443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sid=7cad5040 # [ By EbraSha ]
 vless://309fa273-6579-4cb2-9143-7cad50401eba@185.130.114.219:443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sid=7cad5040 # [ By EbraSha ]
 vless://309fa273-6579-4cb2-9143-7cad50401eba@185.130.114.219:443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&host=speedtest.net&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sid=7cad5040 # [ By EbraSha ]
@@ -498,3 +497,4 @@ vless://45d115fa-7e27-4950-b78c-21101e465970@masterserver1.huqpmfood.ir:1331?mod
 vless://45d44338-30d2-439c-b765-90cb16f581c9@www.speedtest.net:80?security=none&type=ws&host=speedtest.net&encryption=none # [ By EbraSha ]
 vless://45d5ff54-2fce-4e0a-9ab3-18fb566dbfb9@fs.ir-sub.fun:80?security=&encryption=none&host=speedtest.net&type=ws # [ By EbraSha ]
 vless://45dc0b5f-143e-4a31-8ed0-49746409a10b@v11.gaterserver.ir:1370?security=reality&type=tcp&headerType=none&host=speedtest.net&fp=chrome&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&sid=e1afb93bfe75a34b # [ By EbraSha ]
+vless://45f01712-2893-53e3-8e6a-6b7c925021da@45.80.111.10:2052?security=none&encryption=none&host=speedtest.net&type=ws # [ By EbraSha ]

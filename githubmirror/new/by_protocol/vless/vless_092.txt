@@ -1,4 +1,3 @@
-vless://89952144-8ad0-4af7-a334-940df81d820d@vpncustomize2.ddns.net:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&security=tls&encryption=none&type=grpc&serviceName=&security=tls&encryption=none&type=grpc&serviceName= # [ By EbraSha ]
 vless://8997a0a4-0e51-43b9-b13d-210265d00d3a@51.79.29.17:443?security=none&encryption=none&host=speedtest.net&type=ws # [ By EbraSha ]
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.17.147.22:8443?security=tls&alpn=http/1.1&encryption=none&host=speedtest.net&fp=chrome&type=ws # [ By EbraSha ]
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.17.148.22:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=speedtest.net&fp=randomized&type=ws # [ By EbraSha ]
@@ -498,3 +497,4 @@ vless://TEL--JKVPN--JKVPN-36@www.speedtest.net:2095?security=none&encryption=non
 vless://TELEGRAM-CONFiGLiNE- 102@de.fastlynew.hosting-ip.com:80?mode=auto&security=&encryption=none&host=speedtest.net&type=xhttp # [ By EbraSha ]
 vless://TELEGRAM-CONFiGLiNE- 102@de.fastlynew.hosting-ip.com:80?mode=auto&security=none&encryption=none&host=speedtest.net&type=xhttp # [ By EbraSha ]
 vless://TELEGRAM-CONFiGLiNE-%20102@de.fastlynew.hosting-ip.com:80?mode=auto&security=&encryption=none&host=speedtest.net&type=xhttp # [ By EbraSha ]
+vless://TELEGRAM-CONFiGLiNE-100@ip.fastlynew.hosting-ip.com:80?mode=auto&security=&encryption=none&host=speedtest.net&type=xhttp # [ By EbraSha ]

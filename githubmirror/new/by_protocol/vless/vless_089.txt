@@ -1,4 +1,3 @@
-vless://45f01712-2893-53e3-8e6a-6b7c925021da@45.80.111.10:2052?security=none&encryption=none&host=speedtest.net&type=ws # [ By EbraSha ]
 vless://45f34638-51ce-4d56-e657-b16894c80927@am288.amin-1.ir:2082?mode=auto&security=&encryption=none&host=speedtest.net&type=xhttp # [ By EbraSha ]
 vless://45f34638-51ce-4d56-e657-b16894c80927@am288.amin-1.ir:2082?type=xhttp&encryption=none&host=speedtest.net&mode=auto&security=none # [ By EbraSha ]
 vless://45f3a819-4e30-41bd-9782-e0f0d5e332e7@172.66.40.99:8080?security=none&encryption=none&host=speedtest.net&type=ws # [ By EbraSha ]
@@ -498,3 +497,4 @@ vless://570f00ba-af38-44b9-955c-86f8272e0d3a@173.245.59.132:8880?security=none&e
 vless://572b80b3-fa69-4e90-af39-045ff26e5ff1@31.56.197.29:49438?security=reality&encryption=none&pbk=dqw4hiO-MC-OnDuox_7m0tEu5x8o8bDnDU6kXREz8QE&headerType=none&fp=chrome&spx=/DarkHub_VPN@DarkHub_VPN@DarkHub_VPN@DarkHub_VPN@DarkHub_VPN@DarkHub_VPN?ed=8880&type=tcp # [ By EbraSha ]
 vless://575b3f5a-7d98-41c8-f252-a1ac9eeedcec@104.21.65.149:2095?security=none&encryption=none&host=speedtest.net&type=ws # [ By EbraSha ]
 vless://575b3f5a-7d98-41c8-f252-a1ac9eeedcec@172.67.146.171:2095?security=none&encryption=none&host=speedtest.net&type=ws # [ By EbraSha ]
+vless://575b3f5a-7d98-41c8-f252-a1ac9eeedcec@test2.amin8263.ir:2095?type=ws&encryption=none&host=speedtest.net&security=none # [ By EbraSha ]
