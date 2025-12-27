@@ -1,4 +1,3 @@
-trojan://NISHIKUITAN111@172.67.250.67:443/?type=tcp&security=tls#%F0%9F%8F%81RELAY-172.67.250.67-1744
 trojan://NISHIKUITAN111@104.25.147.10:443/?type=tcp&security=tls#%F0%9F%8F%81RELAY-104.25.147.10-1750
 trojan://blue2024@104.21.70.175:443/?type=ws&path=%2F%3Fed&security=tls&sni=ha.lii2010.us.kg&fp=chrome#%40Hope_Net-join-us-on-Telegram%3Cbr...
 trojan://NISHIKUITAN111@198.41.223.136:443/?type=tcp&security=tls#%40Hope_Net-join-us-on-Telegram
@@ -498,3 +497,4 @@ trojan://bpb-trojan@162.159.152.2:443/?type=ws&host=zamim340.ggff.net&path=%2Ftr
 trojan://Aimer@212.41.15.119:443/?type=tcp&security=tls&sni=agept.ambercc.filegear-sg.me#%40Hope_Net-join-us-on-Telegram
 trojan://bpb-trojan@172.67.70.92:443/?type=ws&host=zamim340.ggff.net&path=%2Ftr%3Fed%3D2560&security=tls&sni=zamim340.ggff.net#%40Hope_Net-join...
 trojan://Aimer@188.164.159.248:2053/?type=tcp&security=tls&sni=agepy.ambercc.filegear-sg.me#%40Hope_Net-join-us-on-Telegram
+trojan://Aimer@162.159.45.156:8443/?type=tcp&security=tls&sni=agepu.ambercc.filegear-sg.me#%40Hope_Net-join-us-on-Telegram
