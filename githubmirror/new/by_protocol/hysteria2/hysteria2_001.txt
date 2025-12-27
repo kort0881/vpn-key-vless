@@ -30,7 +30,10 @@ hysteria2://freehomesvpnmahsa3@donate1.mahsa.homes:16396?security=tls&amp;obfs=s
 hysteria2://dongtaiwang.com@[2001:bc8:32d7:302::11]:20088?security=tls&amp;insecure=1&amp;sni=🔒#🎨19@ConfigV2RayNG
 hysteria2://dongtaiwang.com@[2001:bc8:32d7:234::5]:40088?security=tls&amp;insecure=1&amp;sni=
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36600?security=tls&amp;obfs=salamander&amp;obfs-password=Yet-Another-Public-Config-1&amp;insecure=1&amp;sni=YAPC-1.afshin.ir#🇳🇱@FreakConfig
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36600?security=tls&amp;obfs=salamander&amp;obfs-password=Yet-Another-Public-Config-1&amp;insecure=1&amp;sni=YAPC-1.afshin.ir#🇳🇱@FreakConfig
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000?security=tls&amp;obfs=salamander&amp;obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&amp;insecure=1&amp;sni=jnir.pichondan.com#🇩🇪@FreakConfig
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.40:35000?security=tls&amp;obfs=salamander&amp;obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&amp;insecure=0&amp;sni=api.kermanshahi.org#🇳🇱@FreakConfig
+hysteria2://Telegram-->@Ln2Ray@gavazn.lnmarketplace.net:45000?security=tls&amp;obfs=salamander&amp;obfs-password=Telegram-->@Ln2Ray&amp;insecure=1&amp;sni=gavazn.55994421.xyz#🇳🇱@FreakConfig
+hysteria2://Telegram-->@Ln2Ray@206.71.158.23:45000?security=tls&amp;obfs=salamander&amp;obfs-password=Telegram-->@Ln2Ray&amp;insecure=1&amp;sni=gavazn.55994421.xyz#🇳🇱@FreakConfig
 hysteria2://5f89ac2a-b6d6-4c66-98d8-39c4d552138c@dir.cybsecguru.com:35000?security=tls&amp;obfs=salamander&amp;obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&amp;insecure=1&amp;sni=jnir.pichondan.com#@V2rayNG3
 hysteria2://5f89ac2a-b6d6-4c66-98d8-39c4d552138c@[2a0c:4ac1:8::2ae]:35000?security=tls&amp;obfs=salamander&amp;obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&amp;insecure=1&amp;sni=jnir.pichondan.com#@V2rayNG3
 hysteria2://5f89ac2a-b6d6-4c66-98d8-39c4d552138c@77.90.41.197:35000?security=tls&amp;obfs=salamander&amp;obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&amp;insecure=1&amp;sni=jnir.pichondan.com#@V2rayNG3
@@ -46,6 +49,8 @@ hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000?security=tls
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&amp;obfs=salamander&amp;obfs-password=Yet-Another-Public-Config-1&amp;insecure=1&amp;sni=YAPC-1.afshin.ir#All_7--@V2rayAlpha
 hysteria2://linux.do@[2a01:4f9:4b:f378::1]:13599?security=tls&amp;insecure=1&amp;sni=www.bing.com#@V2rayNG3
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000?security=tls&amp;obfs=salamander&amp;obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&amp;insecure=1&amp;sni=api.kermanshahi.org#@V2rayNG3
+hysteria2://dongtaiwang.com@[2001:bc8:1203:209::60]:33880?security=tls&amp;insecure=1&amp;sni=apple.com#All_1--@V2rayAlpha
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&amp;obfs=salamander&amp;obfs-password=Yet-Another-Public-Config-1&amp;insecure=1&amp;sni=YAPC-1.afshin.ir#All_3--@V2rayAlpha
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000?security=tls&amp;obfs=salamander&amp;obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&amp;insecure=1&amp;sni=api.kermanshahi.org#All_4--@V2rayAlpha
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&amp;obfs=salamander&amp;obfs-password=Yet-Another-Public-Config-1&amp;insecure=1&amp;sni=YAPC-1.afshin.ir#All-@V2rayAlpha--42
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000?security=tls&amp;obfs=salamander&amp;obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&amp;insecure=1&amp;sni=api.kermanshahi.org#All-@V2rayAlpha--44
@@ -132,7 +137,10 @@ hysteria2://71504eaf-29ac-4190-89d1-dd9ce2c9ee14@[2001:bc8:1640:50eb:dc00:ff:fe5
 hysteria2://Yet-Another-Public-Config-1@[2a14:3f87:f001:13::a]:36400?security=tls&amp;obfs=salamander&amp;obfs-password=Yet-Another-Public-Config-1&amp;insecure=1&amp;sni=YAPC-1.afshin.ir#🔰@Fast_2ray 👈سرورهای‌بیشتر
 hysteria2://71504eaf-29ac-4190-89d1-dd9ce2c9ee14@[2001:bc8:1640:50eb:dc00:ff:fe57:dd6f]:59220?security=tls&amp;obfs=salamander&amp;obfs-password=FnFgQIckcMRtKq7i&amp;insecure=1&amp;mport=50000-60000&amp;sni=Ab.ac#🔰@Fast_2ray 👈سرورهای‌بیشتر
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36600?security=tls&amp;obfs=salamander&amp;obfs-password=Yet-Another-Public-Config-1&amp;insecure=1&amp;sni=YAPC-1.afshin.ir#🇳🇱@FreakConfig
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36600?security=tls&amp;obfs=salamander&amp;obfs-password=Yet-Another-Public-Config-1&amp;insecure=1&amp;sni=YAPC-1.afshin.ir#🇳🇱@FreakConfig
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000?security=tls&amp;obfs=salamander&amp;obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&amp;insecure=1&amp;sni=jnir.pichondan.com#🇩🇪@FreakConfig
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.40:35000?security=tls&amp;obfs=salamander&amp;obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&amp;insecure=0&amp;sni=api.kermanshahi.org#🇳🇱@FreakConfig
+hysteria2://Telegram-->@Ln2Ray@gavazn.lnmarketplace.net:45000?security=tls&amp;obfs=salamander&amp;obfs-password=Telegram-->@Ln2Ray&amp;insecure=1&amp;sni=gavazn.55994421.xyz#🇳🇱@FreakConfig
+hysteria2://Telegram-->@Ln2Ray@206.71.158.23:45000?security=tls&amp;obfs=salamander&amp;obfs-password=Telegram-->@Ln2Ray&amp;insecure=1&amp;sni=gavazn.55994421.xyz#🇳🇱@FreakConfig
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35200?obfs=salamander&amp;obfs-password=Yet-Another-Public-Config-1&amp;sni=YAPC-1.afshin.ir&amp;insecure=0#🇳🇱@Free_vpn02
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35200?obfs=salamander&amp;obfs-password=Yet-Another-Public-Config-1&amp;sni=YAPC-1.afshin.ir&amp;insecure=0#🇳🇱@Free_vpn02…
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000?security=tls&amp;obfs=salamander&amp;obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&amp;insecure=1&amp;sni=api.kermanshahi.org#@IRAN_V2RAY1
@@ -202,6 +210,8 @@ hysteria2://e20cc63dc06088fba56bf786860aadaf@dd.openaccessnode.com:989?security=
 hysteria2://e20cc63dc06088fba56bf786860aadaf@dd.openaccessnode.com:989?security=tls&amp;obfs=salamander&amp;obfs-password=@JavidnamanIran-Javid-SHAH-King-Reza-Pahlavi&amp;insecure=0&amp;sni=dd.ircybersec.org#@V2ray1_Ng
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36400?security=tls&amp;obfs=salamander&amp;obfs-password=Yet-Another-Public-Config-1&amp;insecure=1&amp;sni=YAPC-1.afshin.ir#@V2ray1_Ng
 hysteria2://2a9b85bd-27cc-4e3b-b77d-54dbe5bc23af@79.72.81.183:30000?security=tls&amp;insecure=1&amp;sni=www.apple.com#@V2ray_Alpha--IR-2
+hysteria2://dongtaiwang.com@[2001:bc8:1203:209::60]:33880?security=tls&amp;insecure=1&amp;sni=apple.com#All_1--@V2rayAlpha
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&amp;obfs=salamander&amp;obfs-password=Yet-Another-Public-Config-1&amp;insecure=1&amp;sni=YAPC-1.afshin.ir#All_3--@V2rayAlpha
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000?security=tls&amp;obfs=salamander&amp;obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&amp;insecure=1&amp;sni=api.kermanshahi.org#All_4--@V2rayAlpha
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&amp;obfs=salamander&amp;obfs-password=Yet-Another-Public-Config-1&amp;insecure=1&amp;sni=YAPC-1.afshin.ir#All-@V2rayAlpha--42
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000?security=tls&amp;obfs=salamander&amp;obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&amp;insecure=1&amp;sni=api.kermanshahi.org#All-@V2rayAlpha--44
@@ -488,13 +498,3 @@ hysteria2://BZt34XQ1vL@91.99.225.11:443?security=tls&obfs=salamander&obfs-passwo
 hysteria2://EKLeRwhlYy@91.99.225.11:443?security=tls&obfs=salamander&obfs-password=Jsbdksj@V2RayyNGvpn$Miracle&insecure=1&sni=refersion.com#🇩🇪@V2RayyNGvpn🇩🇪همه
 hysteria2://EXFdk0goSh@91.99.225.11:443?insecure=1&sni=refersion.com&obfs=salamander&obfs-password=Jsbdksj@V2RayyNGvpn$Miracle#%F0%9F%87%A9%F0%9F%87%AA%40V2RayyNGvpn%F0%9F%87%A9%F0%9F%87%AA%D9%87%D9%85%D9%87%20%D8%A7%D9%88%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%20%D9%87...%20%237
 hysteria2://EXFdk0goSh@91.99.225.11:443?security=tls&obfs=salamander&obfs-password=Jsbdksj@V2RayyNGvpn$Miracle&insecure=1&sni=refersion.com#🇩🇪@V2RayyNGvpn🇩🇪همه
-hysteria2://GsM2gHXMdz@91.99.225.11:443?insecure=1&sni=refersion.com&obfs=salamander&obfs-password=Jsbdksj@V2RayyNGvpn$Miracle#%F0%9F%87%A9%F0%9F%87%AA%40V2RayyNGvpn%F0%9F%87%A9%F0%9F%87%AA%D9%87%D9%85%D9%87%20%D8%A7%D9%88%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%20%D9%87...%20%238
-hysteria2://GsM2gHXMdz@91.99.225.11:443?security=tls&obfs=salamander&obfs-password=Jsbdksj@V2RayyNGvpn$Miracle&insecure=1&sni=refersion.com#🇩🇪@V2RayyNGvpn🇩🇪همه
-hysteria2://I5RKPsSYiP@91.99.225.11:443?insecure=1&sni=refersion.com&obfs=salamander&obfs-password=Jsbdksj@V2RayyNGvpn$Miracle#%F0%9F%87%A9%F0%9F%87%AA%40V2RayyNGvpn%F0%9F%87%A9%F0%9F%87%AA%D9%87%D9%85%D9%87%20%D8%A7%D9%88%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%20%D9%87...%20%239
-hysteria2://I5RKPsSYiP@91.99.225.11:443?security=tls&obfs=salamander&obfs-password=Jsbdksj@V2RayyNGvpn$Miracle&insecure=1&sni=refersion.com#🇩🇪@V2RayyNGvpn🇩🇪همه
-hysteria2://LGpqcECo3X@91.99.225.11:443?insecure=1&sni=refersion.com&obfs=salamander&obfs-password=Jsbdksj@V2RayyNGvpn$Miracle#%F0%9F%87%A9%F0%9F%87%AA%40V2RayyNGvpn%F0%9F%87%A9%F0%9F%87%AA%D9%87%D9%85%D9%87%20%D8%A7%D9%88%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%20%D9%87...%20%2310
-hysteria2://LGpqcECo3X@91.99.225.11:443?security=tls&obfs=salamander&obfs-password=Jsbdksj@V2RayyNGvpn$Miracle&insecure=1&sni=refersion.com#🇩🇪@V2RayyNGvpn🇩🇪همه
-hysteria2://Pax8sf4epd@31.56.146.42:443?security=tls&obfs=salamander&obfs-password=t2]zv9-6Ku]QF,
-hysteria2://RZjK7qHG15@91.99.225.11:443?security=tls&obfs=salamander&obfs-password=Jsbdksj@V2RayyNGvpn$Miracle&insecure=1&sni=refersion.com#🇩🇪@V2RayyNGvpn🇩🇪همه
-hysteria2://SAOLvYVTTu@91.99.225.11:443?insecure=1&sni=refersion.com&obfs=salamander&obfs-password=Jsbdksj@V2RayyNGvpn$Miracle#%F0%9F%87%A9%F0%9F%87%AA%40V2RayyNGvpn%F0%9F%87%A9%F0%9F%87%AA%D9%87%D9%85%D9%87%20%D8%A7%D9%88%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%20%D9%87...%20%2311
-hysteria2://SAOLvYVTTu@91.99.225.11:443?security=tls&obfs=salamander&obfs-password=Jsbdksj@V2RayyNGvpn$Miracle&insecure=1&sni=refersion.com#🇩🇪@V2RayyNGvpn🇩🇪همه

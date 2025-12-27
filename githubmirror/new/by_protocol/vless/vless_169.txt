@@ -1,8 +1,3 @@
-vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-13.cristiano.name.ng:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒
-vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-13.cristiano.name.ng:443?security=reality&sni=🔒
-vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-15.cristiano.name.ng:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=🔒
-vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-15.cristiano.name.ng:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=🔒
-vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-15.cristiano.name.ng:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=🔒
 vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-15.cristiano.name.ng:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒
 vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-15.cristiano.name.ng:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=🔒
 vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-15.cristiano.name.ng:443?security=reality&sni=🔒
@@ -498,3 +493,8 @@ vless://502ce704-dcec-4f92-9489-505c99ce6c89@s2.sarasimano.com:2096/?type=ws&enc
 vless://502ce704-dcec-4f92-9489-505c99ce6c89@s3.sarasimano.com:2096/?type=ws&encryption=none&flow=&path=🔒
 vless://502ce704-dcec-4f92-9489-505c99ce6c89@s3.sarasimano.com:2096/?type=ws&encryption=none&path=🔒
 vless://502ce704-dcec-4f92-9489-505c99ce6c89@s3.sarasimano.com:2096?path=/&security=tls&encryption=none&type=ws#telegram
+vless://502ce704-dcec-4f92-9489-505c99ce6c89@s3.sarasimano.com:2096?path=🔒
+vless://502ce704-dcec-4f92-9489-505c99ce6c89@s4.sarasimano.com:2096/?type=ws&encryption=none&flow=&path=🔒
+vless://502f1a41-96df-4d6c-8a3b-26781e795893@104.21.211.74:8880/?type=ws&encryption=none&host=sinadfa.dugjup.workers.dev&path=%2FTELEGRAM%40AZARBAYJAB1T%3Fed%3D2048#%F0%9F%A7%AB14%40oneclickvpnkeys
+vless://502f1a41-96df-4d6c-8a3b-26781e795893@104.21.211.74:8880/?type=ws&encryption=none&host=sinadfa.dugjup.workers.dev&path=🔒
+vless://5030cac9-830d-4c7e-9deb-ad26d18bb82e@95.181.162.108:8880?security=none&encryption=none&headerType=none&type=tcp

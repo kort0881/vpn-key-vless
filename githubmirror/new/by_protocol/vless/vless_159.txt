@@ -1,3 +1,5 @@
+vless://2a562107-43a6-40a4-a35e-e01e6f21684e@85.234.65.120:443?security=reality&encryption=none&pbk=ng4h6xKU-cqoC_T4U9_wGbYlFqpj9RJbsWVR4AJ_MSo&headerType=none&fp=firefox&type=tcp&sni=🔒
+vless://2a59f955-18bc-427d-854d-219144015426@83.228.227.96:48933?security=reality&encryption=none&pbk=srB3mOCqI1Ve7HZOPDMFG57B-WRnV4nlAQgcmNT3wAA&headerType=none&fp=chrome&spx=/&type=tcp&sni=refersion.com&sid=8457e2#azadiiivpn
 vless://2a59f955-18bc-427d-854d-219144015426@83.228.227.96:48933?security=reality&encryption=none&pbk=srB3mOCqI1Ve7HZOPDMFG57B-WRnV4nlAQgcmNT3wAA&headerType=none&fp=chrome&spx=/&type=tcp&sni=🔒
 vless://2a5db195-0d58-40a5-a4c2-432711b01057@151.101.2.133:80/?type=ws&encryption=none&host=ks.com&path=🔒
 vless://2a70e17f-be8a-4bd2-8ae6-631d67d6ae68@tencentapp.880517.xyz:443?&security=tls&fp=chrome&sni=freesanjose.xn--4gqza090la383cba657a9rw23a362bz35amu9c.link&type=ws&headerType=none&host=freesanjose.xn--4gqza090la383cba657a9rw23a362bz35amu9c.link&path=%2Fcnmdfhq%2Fus%2Fsj#%5B%F0%9F%87%BA%F0%9F%87%B8%5D%20%5Bvl-tl-ws%5D%20%5B251227-011530.701%5D
@@ -496,5 +498,3 @@ vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.160.210:443?security=&encrypt
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.160.210:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.160.210:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@CaV2ray
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.160.210:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#RELAY🚩
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.162.239:443/?encryption=none&host=zula.ir&type=tcp&headerType=http
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.162.239:443/?encryption=none&host=zula.ir&type=tcp&headerType=http#All%20-%20%40v2own%20-%201

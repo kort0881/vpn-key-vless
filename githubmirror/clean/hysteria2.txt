@@ -29,6 +29,7 @@ hysteria2://5f89ac2a-b6d6-4c66-98d8-39c4d552138c@[2a0c:4ac1:8::2ae]:35000?securi
 hysteria2://571ec94e-613c-430a-93de-397d3d237475@hshl.huasuan666.top:22157?security=tls&amp;insecure=1&amp;sni=hshl.huasuan666.top#@V2rayNG3
 hysteria2://dongtaiwang.com@51.159.111.32:5355?security=tls&amp;insecure=1&amp;sni=www.bing.com#@V2rayNG3
 hysteria2://linux.do@[2a01:4f9:4b:f378::1]:13599?security=tls&amp;insecure=1&amp;sni=www.bing.com#@V2rayNG3
+hysteria2://dongtaiwang.com@[2001:bc8:1203:209::60]:33880?security=tls&amp;insecure=1&amp;sni=apple.com#All_1--@V2rayAlpha
 hysteria2://KevinZakarian@kevin.serverv.net:8443?&amp;insecure=1&amp;obfs=salamander&amp;obfs-password=KevinZakarian#KevinVPN
 hysteria2://38im1KVvlSgfd7gj@122.10.114.205:8623?peer=www.nvidia.com&amp;insecure=1&amp;obfs=salamander&amp;obfs-password=cry_me_a_r1ver&amp;fastopen=1&amp;upmbps=50&amp;downmbps=50&amp;keepalive=60#Hysteria2_Nvidia_1213
 hysteria2://Yet-Another-Public-Config-1@[2a14:3f87:f001:13::a]:36600?security=tls&amp;obfs=salamander&amp;obfs-password=Yet-Another-Public-Config-1&amp;insecure=1&amp;sni=YAPC-1.afshin.ir#🔰@Fast_2ray 👈سرورهای‌بیشتر
@@ -117,7 +118,6 @@ hysteria2://da9adc6f-03ca-4d32-9e93-7b2bdbc9b00d@us.xn--gmq00sc0nuve.shop:21319?
 hysteria2://de629d50-1711-11ed-bd7c-f23c913c8d2b@4a8146b5-t70f40-tlpfci-1jdha.hk1.hyhuawei.com:443?insecure=1#All--%40V2rayAlpha--18
 hysteria2://df7bed3c-06eb-11f0-8ebc-f23c93141fad@9edb1f6e-t56dc0-t9lxaa-1glq.la.shifen.uk:443?insecure=0&sni=9edb1f6e-t56dc0-t9lxaa-1glq.la.shifen.uk#All-%40V2ray_Alpha--7
 hysteria2://df7bed3c-06eb-11f0-8ebc-f23c93141fad@e10829f0-t4un40-t9lb2a-1glq.la.shifen.uk:1743?insecure=0&sni=e10829f0-t4un40-t9lb2a-1glq.la.shifen.uk#All--%40IRAN_V2RAY1%F0%9F%87%BA%F0%9F%87%B8%20%235
-hysteria2://dongtaiwang.com@[2001:bc8:1203:209::60]:33880?security=tls&insecure=1&sni=apple.com#All_1--%40V2rayAlpha
 hysteria2://e6499c55-5a54-4a2b-a1f8-725a17b4ae85@85.209.53.170:80?insecure=1&obfs=salamander&obfs-password=NDhhNmY5YTY0MGYzOTgxYQ==#%F0%9F%87%A9%F0%9F%87%AA%20-%20DE%20-%20%40freeOnlineVPN%20%231
 hysteria2://e8a960d8-14f5-11ec-a0fc-f23c913c8d2b@950c68df-t6t0g0-t85ssw-1bonh.hk1.hyhuawei.com:443?insecure=0&sni=950c68df-t6t0g0-t85ssw-1bonh.hk1.hyhuawei.com#All--%40V2rayAlpha--22
 hysteria2://e8a960d8-14f5-11ec-a0fc-f23c913c8d2b@9c329770-t6ngg0-t6k5ga-1bonh.hk1.hyhuawei.com:443?insecure=0&sni=9c329770-t6ngg0-t6k5ga-1bonh.hk1.hyhuawei.com#All--%40V2rayAlpha--24
