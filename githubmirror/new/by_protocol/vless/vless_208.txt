@@ -1,3 +1,7 @@
+vless://de9e93dc-9ce2-4c8f-839c-f6f3a58a10bb@sport-shop-gw01.cyberscaler.net:6068?security=&fp=chrome&type=tcp&path=🔒
+vless://de9e93dc-9ce2-4c8f-839c-f6f3a58a10bb@sport-shop-gw01.cyberscaler.net:6068?security=none&encryption=none&host=v10.events.data.microsoft.com&headerType=http&fp=chrome&type=tcp
+vless://dead1bb8-e95a-4517-8ed2-e0694de80ba6@138.197.215.108:443?security=reality&encryption=none&pbk=YyHLH09FoCQ7NvAPFcjXfjIiKU7wRTi-Ri8ahnqaoGU&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&sni=www.icloud.com&sid=5175dd3850#💎کانفیگ
+vless://dead1bb8-e95a-4517-8ed2-e0694de80ba6@138.197.215.108:443?security=reality&encryption=none&pbk=YyHLH09FoCQ7NvAPFcjXfjIiKU7wRTi-Ri8ahnqaoGU&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&sni=🔒
 vless://deadab5b-4a8c-4b5a-a07b-67969ea754c6@www.speedtest.net:80?path=🔒
 vless://deaea616-5b0e-40a4-ad13-b2ae569a06b4@www.speedtest.net:2053?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&type=grpc&sni=us1.projecthope.ir#US🇺🇸
 vless://debf2a42-1ff4-4ea6-92a4-f6ac49595cc7@46.62.168.70:23737?mode=gun&security=reality&encryption=none&pbk=i5nssGunCVG0W2CI3OM-wGXJwCn9W5Xvm0-tQw_SgEQ&fp=chrome&type=grpc&sni=🔒
@@ -308,7 +312,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.40:8880?mode=gun&security=
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.4:8880?mode=gun&security=none&encryption=none&type=grpc
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.4:8880?mode=gun&security=none&encryption=none&type=grpc#سرور
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.105:8880?mode=gun&security=&encryption=none&type=grpc#@V2rayNG3
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.105:8880?mode=gun&security=&encryption=none&type=grpc#🌐سرور
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.105:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.105:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#@Maznet-46194-3
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.105:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#@Maznet-46195-3
@@ -495,6 +498,3 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638943819862861158.oslo-prx-dnraacp
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638943929060330315.warsaw-prx-dnraacp.info:8880?mode=gun&security=none&encryption=none&type=grpc
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638943929060330315.warsaw-prx-dnraacp.info:8880?mode=gun&security=none&encryption=none&type=grpc#ALL@azadiiivpn
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638943929060330315.warsaw-prx-dnraacp.info:8880?mode=gun&security=none&encryption=none&type=grpc#JOIN
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638943929060335589.warsaw-prx-dnraacp.info:8880?mode=gun&security=none&encryption=none&type=grpc
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638943929060335589.warsaw-prx-dnraacp.info:8880?mode=gun&security=none&encryption=none&type=grpc#ALL@azadiiivpn
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638943941066258806.belgrade-prx-dnraacp.info:8880?mode=gun&security=none&encryption=none&type=grpc

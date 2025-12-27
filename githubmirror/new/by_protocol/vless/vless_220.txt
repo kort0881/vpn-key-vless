@@ -1,3 +1,5 @@
+vless://fca01448-d84a-436e-9aec-3be1ebdfb350@209.208.227.61:2053/?type=ws&encryption=none&flow=&host=SB-1U6.PAgEs.dev&path=🔒
+vless://fca01448-d84a-436e-9aec-3be1ebdfb350@209.208.227.61:2053/?type=ws&encryption=none&host=SB-1U6.PAgEs.dev&path=...&security=tls&sni=SB-1U6.PAgEs.dev
 vless://fca01448-d84a-436e-9aec-3be1ebdfb350@209.94.90.200:2096/?type=ws&encryption=none&path=%2Fs6rb9yyj3qaak606%2Fmtu4l...&security=tls&sni=Sb-1U6.paGES.deV
 vless://fca01448-d84a-436e-9aec-3be1ebdfb350@45.194.53.13:2053/?type=ws&encryption=none&path=%2FfLtcXoO6GRqVAT6V%2FMTU4Lj...&security=tls&sni=SB-1U6.PAgEs.dev
 vless://fca01448-d84a-436e-9aec-3be1ebdfb350@45.194.53.13:2053?encryption=none&security=tls&sni=🔒
@@ -496,5 +498,3 @@ vless://telegram-id-Arfilter@205.233.181.85:443?security=tls&type=ws&path=🔒
 vless://telegram-id-Arfilter@45.85.119.169:443?path=🔒
 vless://telegram-id-Arfilter@69.84.182.2:443?path=🔒
 vless://telegram-id-Arfilter@94.140.0.26:443?path=🔒
-vless://telegram-id-Arfilter@www.speedtest.net:443?path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=v.arfilter2.blog&fp=firefox&type=ws&sni=v.arfilter2.blog#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40arv2ray%20%5B8%5D
-vless://telegram-id-Arfilter@www.speedtest.net:443?path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=v.arfilter2.blog&fp=firefox&type=ws&allowInsecure=0&sni=v.arfilter2.blog#%F0%9F%87%B3%F0%9F%87%B1%20%7C%20%40HajmVPN_Config`
