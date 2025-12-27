@@ -1,3 +1,10 @@
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@190.93.246.28:443?security=tls&sni=cg.ylks.xyz&type=ws&host=cg.ylks.xyz&path=%2Fblue# VL-WS-TLS  NA-190.93.246.28:443
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@188.114.96.53:443?security=tls&sni=cg.ylks.xyz&type=ws&host=cg.ylks.xyz&path=%2Fblue# VL-WS-TLS  NA-188.114.96.53:443
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@190.93.245.182:443?security=tls&sni=al.ylks.xyz&type=ws&host=al.ylks.xyz&path=%2F%3Fed%3D2048# VL-WS-TLS  NA-190.93.245.182:443
+vless://f21e1b2d-71e6-4f50-b921-acd4e89ef19a@50.7.85.221:8443?security=tls&sni=hello-world-nameless-morning-b71b.bojipar202.workers.dev&type=ws&host=hello-world-nameless-morning-b71b.bojipar202.workers.dev&path=%2F%3Fed%3D2048# VL-WS-TLS  DE-50.7.85.221:8443
+vless://fca01448-d84a-436e-9aec-3be1ebdfb350@199.34.228.182:2083?security=tls&sni=SB-1U6.PAgeS.dEv&type=ws&host=SB-1U6.PAgeS.dEv&path=%2Furenftuu3z1kqryb%2Fmtu4ljewms4ymdmumti3%3Fed%3D2560# VL-WS-TLS  US-199.34.228.182:2083
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.104:443?security=tls&sni=dd.ylks.xyz&type=ws&path=%2F%3Fproxyip%3Dproxyip.us.fxxk.dedyn.io# VL-WS-TLS  US-69.84.182.104:443
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.20.19.233:443?security=tls&sni=lp.kpcloud.eu.org&type=ws&host=lp.kpcloud.eu.org&path=%2F%3Fed%3D2048# VL-WS-TLS  NA-104.20.19.233:443
 vless://9d44c4bb-b443-4945-97b4-53d06c0c1bc1@108.162.195.205:8880?type=ws&host=1505-wordpress-admin-vip-panel-cpanrl-iran-chanel.mralpha-vpn.COM.# VL-WS-NA  NA-108.162.195.205:8880
 vless://2928d83a-ca75-4d52-b437-fa78c7601378@104.16.209.198:443?security=tls&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=%2F%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%3Fed%3D2560# VL-WS-TLS  NA-104.16.209.198:443
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@129.154.46.115:443?security=tls&sni=ap.ylks.xyz&type=ws&host=ap.ylks.xyz&path=%2F%3Fed%3D2048# VL-WS-TLS  IN-129.154.46.115:443
@@ -491,10 +498,3 @@ vless://578ade22-1e58-4c37-ce01-bfad51a72c62@185.135.9.109:8443?security=tls&sni
 vless://50e75c0f-801a-4291-9d98-80e77b787fd5@172.67.32.82:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2# VL-WS-TLS  NA-172.67.32.82:443
 vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@212.183.88.144:80?security=none&type=ws&host=late-tooth.granzinhannah.workers.dev&path=%2F%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%3Fed# VL-WS-NONE  AT-212.183.88.144:80
 vless://102e76a5-0f4c-4d71-b018-a76985e4617b@104.21.8.238:2087?security=tls&sni=hamedmrx.kijenov996.workers.dev&type=ws&host=hamedmrx.kijenov996.workers.dev&path=%2Fvless-ws%2F%3Fed%3D2048&fp=edge&alpn=h2%2Chttp%2F1.1# VL-WS-TLS  NA-104.21.8.238:2087
-vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@45.85.119.79:8080?security=none&type=ws&host=late-tooth.granzinhannah.workers.dev&path=%2F%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%3Fed# VL-WS-NONE  RO-45.85.119.79:8080
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@192.200.160.44:443?security=tls&sni=ld.ylks01.eu.org&type=ws&host=ld.ylks01.eu.org&path=%2F%3Fed%3D2560# VL-WS-TLS  US-192.200.160.44:443
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@181.214.1.227:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg%40zdyz2# VL-WS-TLS  AE-181.214.1.227:443
-vless://adc647b3-4166-42a9-8890-cdb2ea8c9e0e@104.26.5.226:2082?security=none&type=httpupgrade&host=sdfsdurg32-4987sduiovychsliufgi32-4987iyfhoisudhrop32-47i9yfios.vipvipmbl.ir.&path=%2Fwww.speedtest.net-www.speedtest.net-www.speedtest.net%3Fed%3D24695# VL-HTTPUPGRADE-NONE  NA-104.26.5.226:2082
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@91.107.191.214:8080?security=tls&sni=vless.ifx.us.kg&type=ws&host=vless.ifx.us.kg&path=%2F%3Fed%3D2560# VL-WS-TLS  DE-91.107.191.214:8080
-vless://6babb657-1524-43bb-b421-11bda27bc9de@104.25.70.142:2087?security=tls&sni=smart.titimoji-f6.fun&type=grpc# VL-GRPC-TLS  NA-104.25.70.142:2087
-vless://0d9c223d-5dca-49cc-94c5-850ef59a3c8a@172.66.47.173:443?security=tls&sni=dfgdfgdzfgdfzgdrgdgertd.pages.dev&type=ws&host=dfgdfgdzfgdfzgdrgdgertd.pages.dev&path=/?ed%3D2048&fp=randomized# VL-WS-TLS  NA-172.66.47.173:443

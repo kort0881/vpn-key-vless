@@ -1,3 +1,4 @@
+trojan://NISHIKUITAN111@198.41.223.65:443/?type=tcp&security=tls#%40Hope_Net-join-us-on-Telegram
 trojan://bpb-trojan@104.27.9.13:443/?type=tcp&security=tls&sni=adagio.us.kg#%40Hope_Net-join-us-on-Telegram
 trojan://6285e567-0c25-4ce2-a2fa-80517c1345e1@sky.rethinkdns.com:2096/?type=ws&host=1223-9ux.pages.dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&sni=1223-9ux.pages.dev#%40Hope_Net-join-us-on-Telegram
 trojan://blue2024@104.17.142.12:443/?type=ws&host=tb.promote.icu&path=%2F%3Fed%3D2560&security=tls&sni=tb.promote.icu#%40Hope_Net-join-us-on-Telegram
@@ -497,4 +498,3 @@ trojan://WOeXShhJpL@104.18.71.140:443/?type=tcp&security=tls&sni=09jzus.zdzdzd.x
 trojan://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.3.10:80/?type=ws&host=uni.fi&path=%2F%3Fed%3D2048#%40Hope_Net-join-us-on-Telegr...
 trojan://bpb-trojan@198.41.219.190:443/?type=tcp&security=tls&sni=adagio.us.kg#%40Hope_Net-join-us-on-Telegram
 trojan://auto@104.20.22.19:443/?type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F&security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev#%40Hope_Net-join-us-on-Telegram
-trojan://auto@104.20.19.14:443/?type=ws&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F&security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev
