@@ -1,3 +1,10 @@
+vless://a0e804c3-55e2-4d51-82c7-33976d6748cb@185.176.220.154:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=🔒
+vless://a0e804c3-55e2-4d51-82c7-33976d6748cb@185.176.220.154:443?security=reality&encryption=none&pbk=qFBIVGsvXTMeJcdJz6GiL7DG0XNhCg7rItza7t0qTgU&headerType=none&fp=chrome&spx=/sinavm&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=9eb31eb7572c0882#🇱🇻
+vless://a0e804c3-55e2-4d51-82c7-33976d6748cb@185.176.220.154:443?security=reality&encryption=none&pbk=qFBIVGsvXTMeJcdJz6GiL7DG0XNhCg7rItza7t0qTgU&headerType=none&fp=chrome&spx=/sinavm&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=9eb31eb7572c0882#🇱🇻@vpnserverrr
+vless://a0e804c3-55e2-4d51-82c7-33976d6748cb@185.176.220.154:443?security=reality&encryption=none&pbk=qFBIVGsvXTMeJcdJz6GiL7DG0XNhCg7rItza7t0qTgU&headerType=none&fp=chrome&spx=/sinavm&type=tcp&flow=xtls-rprx-vision&sni=🔒
+vless://a0e804c3-55e2-4d51-82c7-33976d6748cb@31.57.225.233:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=google.com&pbk=qFBIVGsvXTMeJcdJz6GiL7DG0XNhCg7rItza7t0qTgU&sid=9eb31eb7572c0882&spx=/sinavm#🇹🇷@SiNAVM
+vless://a0e804c3-55e2-4d51-82c7-33976d6748cb@31.57.225.233:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=🔒
+vless://a0e804c3-55e2-4d51-82c7-33976d6748cb@31.57.225.233:443?security=reality&encryption=none&pbk=qFBIVGsvXTMeJcdJz6GiL7DG0XNhCg7rItza7t0qTgU&headerType=none&fp=chrome&spx=/sinavm&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=9eb31eb7572c0882#🇹🇷
 vless://a0e804c3-55e2-4d51-82c7-33976d6748cb@31.57.225.233:443?security=reality&encryption=none&pbk=qFBIVGsvXTMeJcdJz6GiL7DG0XNhCg7rItza7t0qTgU&headerType=none&fp=chrome&spx=/sinavm&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=9eb31eb7572c0882#🇹🇷@vpnserverrrکانال
 vless://a0e804c3-55e2-4d51-82c7-33976d6748cb@31.57.225.233:443?security=reality&encryption=none&pbk=qFBIVGsvXTMeJcdJz6GiL7DG0XNhCg7rItza7t0qTgU&headerType=none&fp=chrome&spx=/sinavm&type=tcp&flow=xtls-rprx-vision&sni=🔒
 vless://a0e804c3-55e2-4d51-82c7-33976d6748cb@62.192.153.218:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=google.com&pbk=qFBIVGsvXTMeJcdJz6GiL7DG0XNhCg7rItza7t0qTgU&sid=9eb31eb7572c0882&spx=%2Fsinavm#REALITY|DE🇩🇪
@@ -491,10 +498,3 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@34.105.189.25:443?encryption=none&s
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@34.147.231.33:443?encryption=none&security=tls&sni=🔒
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@37.1.207.228:443?encryption=none&security=tls&sni=🔒
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@42.98.167.229:12345?encryption=none&security=tls&sni=🔒
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@43.153.80.208:443?encryption=none&security=tls&sni=🔒
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@45.159.218.25:443/?type=ws&encryption=none&flow=&path=🔒
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@45.67.215.144:443/?type=ws&encryption=none&flow=&path=🔒
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@45.67.215.144:443/?type=ws&encryption=none&path=%2Fblue&security=tls&sni=dr.ylks.xyz#%40Hope_Net-join-us-on-Telegram
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@45.67.215.218:443?encryption=none&security=tls&sni=🔒
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@45.67.215.42:443/?type=ws&encryption=none&host=lw.ylks.us.kg&path=%2F%3Fed%3D2560&security=tls&sni=lw.ylks.us.kg#%40Hope_Net-join-us-on-Telegram
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@45.67.215.53:443/?type=ws&encryption=none&flow=&path=🔒
