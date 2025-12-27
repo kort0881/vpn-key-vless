@@ -2,7 +2,6 @@ vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@85.209.195.105:443?path=%2Fhormoz&s
 vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@85.209.195.105:443?path=%2Fhormoz&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1#@meli_proxyy
 vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@85.209.195.105:443?path=%2Fhormoz&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1#US🇺🇸
 vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@85.209.195.105:443?path=%2Fhormoz&security=tls&encryption=none&type=ws#US🇺🇸
-vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@85.209.195.105:443?path=/hormoz&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1#[🇩🇪]t.me/ConfigsHub
 vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@85.209.195.105:443?path=/hormoz&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1#r♡ya
 vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@85.209.195.105:443?path=/hormoz&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1#t.me/entryNET/config=1852644610412540
 vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@85.209.195.105:443?path=🔒
@@ -335,6 +334,8 @@ vless://e80f6880-f525-48a2-9d3f-faea2cd7c967@81.200.146.76:41770?security=none&e
 vless://e80f6880-f525-48a2-9d3f-faea2cd7c967@81.200.146.76:41770?security=none&encryption=none&headerType=none&type=tcp#@V2rayNGVPN
 vless://e80f6880-f525-48a2-9d3f-faea2cd7c967@81.200.146.76:41770?security=none&encryption=none&headerType=none&type=tcp#Channel
 vless://e80f6880-f525-48a2-9d3f-faea2cd7c967@81.200.146.76:41770?security=none&encryption=none&headerType=none&type=tcp#🏴🏳
+vless://e80f6880-f525-48a2-9d3f-faea2cd7c967@81.200.146.76:41770?type=tcp&encryption=none&security=none
+vless://e80f6880-f525-48a2-9d3f-faea2cd7c967@81.200.146.76:41770?type=tcp&encryption=none&security=none#[🇷🇺]t.me/ConfigsHub
 vless://e81994fb-f298-47cd-94db-3c3c92eb52b1@104.21.80.196:8080?type=ws&host=inFo.laLezaRanegomaNandish.onlineshopbb.org.&path=🔒
 vless://e81994fb-f298-47cd-94db-3c3c92eb52b1@kafshu.ir:8080?security=&type=ws&path=🔒
 vless://e81994fb-f298-47cd-94db-3c3c92eb52b1@kafshu.ir:8080?type=ws&host=inFo.laLezaRanegomaNandish.onlineshopbb.org.&path=🔒
@@ -497,4 +498,3 @@ vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.211.214:8880/?type=ws&encryp
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.211.214:8880?path=🔒
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880/?type=ws&encryption=none&host=VngSuPpLY.IP-DdnS.com&path=%2FEtb1L6YUdZFZuTOr%3Fed%3D2560#%40NETMelliAnti
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880/?type=ws&encryption=none&host=VngSuPpLY.IP-DdnS.com&path=🔒
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?flow=&type=ws&host=VngSuPpLY.IP-Ddns.com&path=🔒

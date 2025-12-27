@@ -278,6 +278,7 @@ vless://11a371e7-11c2-4336-92ee-4aeaa29cbce9@V2ngFast.huqpmfood.ir:1146?mode=aut
 vless://11a371e7-11c2-4336-92ee-4aeaa29cbce9@V2ngFast.huqpmfood.ir:1146?mode=auto&path=🔒
 vless://11a943c5-67a5-4b46-b124-e8274cb9ef6e@live.skornorth.com:443?path=%2F%40custom_config%3Fed%3D2048&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&host=easy4all.com&fp=chrome&type=ws&sni=live.skornorth.com#US🇺🇸
 vless://11afa1c6-32b2-4e3b-8e97-868e4259e96f@www.speedtest.net:2082?path=🔒
+vless://11afa1c6-32b2-4e3b-8e97-868e4259e96f@www.speedtest.net:2082?security=none&type=ws&path=🔒
 vless://11beaf11-726d-4c11-8ce9-27308c1c608c@157.173.127.225:443/?type=tcp&encryption=none&flow=&sni=🔒
 vless://11beaf11-726d-4c11-8ce9-27308c1c608c@157.173.127.225:443?security=reality&encryption=none&pbk=v3EwzA9RIIh5Ndxm-gypRY6RCJhOpQ-2WO7KaH8nsC8&headerType=none&fp=random&type=tcp&sni=analytics.google.com&sid=eab26c4a32#%40v2raying
 vless://11beaf11-726d-4c11-8ce9-27308c1c608c@157.173.127.225:443?security=reality&encryption=none&pbk=v3EwzA9RIIh5Ndxm-gypRY6RCJhOpQ-2WO7KaH8nsC8&headerType=none&fp=random&type=tcp&sni=analytics.google.com&sid=eab26c4a32#%40vpnaloo
@@ -497,4 +498,3 @@ vless://1417a34f-a0d9-46c4-a2c7-9c7d56ac4b5d@Evay_vpn.heloisfood.ir:8678?type=xh
 vless://141ca48e-94cd-42de-be3f-10343acc5356@148.251.132.120:443?encryption=none&security=reality&sni=www.microsoft.com&fp=safari&pbk=AEjB-4aL9287hDcyNWVVC3FivcdIf6Jg4k-Ks-TyfjE&sid=3bb09b3ccd0608f0&type=grpc&serviceName=7101db700851f88c66311bb8#REALITY|DE🇩🇪
 vless://142dd8b5-0b9e-4018-a961-2370d50cc435@185.215.228.90:20118?security=none&encryption=none&host=hub.docker.com/?TELEGRAM_JOKERRVPN&headerType=http&type=tcp
 vless://142dd8b5-0b9e-4018-a961-2370d50cc435@185.215.228.90:20118?security=none&encryption=none&host=hub.docker.com/?TELEGRAM_JOKERRVPN&headerType=http&type=tcp#@CaV2ray
-vless://142e062f-475e-4484-8bd6-8386b246f366@199.232.198.133:443/?type=ws&encryption=none&host=vpngaming.ir&path=%2F&security=tls&sni=www.speedrun.com&fp=chrome#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool

@@ -1,3 +1,4 @@
+vless://73a21609-8238-45c0-b2b0-0469e6c58ba3@213.176.95.70:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=🔒
 vless://73a22963-1825-4a74-b961-45bffdb590ce@62.60.156.102:8080?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=🔒
 vless://73a22963-1825-4a74-b961-45bffdb590ce@91.99.90.44:8081?type=tcp&headerType=http&host=fast.com&path=🔒
 vless://73a4456a-0442-4550-8b4f-c719871a4eeb@www.speedtest.net:443?security=tls&type=ws&path=%2FeyJqdW5rIjoibWRiMjNWaUwxNHVWIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMjE3LjE0Mi4yMzYuOTMiXX0%3D&host=011.electrocellco-cf-011.workers.dev&alpn=http%2F1.1&sni=011.electrOCELlCO-CF-011.WorKERS.dEV&fp=chrome&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%A9%F0%9F%87%AADE_25%20%F0%9F%A7%AD%205.0MB%2Fs`
@@ -497,4 +498,3 @@ vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.20.62.249:80/?type=ws&encryptio
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.20.62.249:80/?type=ws&encryption=none&host=us1.rtacg.com&path=🔒
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.225.59:80/?type=ws&encryption=none&path=%2F#%40Hope_Net-join-us-on-Telegram
 vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.226.92:80/?type=ws&encryption=none&host=us1.rtacg.com&path=%2F#%40Hope_Net-join-us-on-Telegram
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.21.226.92:80/?type=ws&encryption=none&host=us1.rtacg.com&path=🔒

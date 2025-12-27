@@ -149,7 +149,6 @@ trojan://telegram-id-privatevpns@13.39.154.102:22222?security=tls&alpn=http%2F1.
 trojan://telegram-id-privatevpns@15.188.244.223:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷[openproxylist.com] trojan-FR
 trojan://BxceQaOe@203.198.84.221:443?allowInsecure=1&sni=t.me%2Fripaojiedian#🇭🇰[openproxylist.com] trojan-HK
 trojan://BxceQaOe@58.152.46.60:443?allowInsecure=1&sni=t.me%2Fripaojiedian#🇭🇰[openproxylist.com] trojan-HK
-trojan://3d7d3041-275b-4238-a7ed-faa24700c204@green2.cdntencentmusic.com:31103?allowInsecure=1&sni=green2.cdntencentmusic.com#🇺🇸[openproxylist.com] trojan-US
 trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&amp;sni=io.ozone.ru&amp;allowInsecure=true#🇪🇸[openproxylist.com] trojan-ES
 trojan://RPyW62_b9aH.ztJKeArou@83.143.87.9:18581?security=tls&amp;allowInsecure=true#🇳🇴[openproxylist.com] trojan-NO
 trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.172:10889?security=tls&amp;sni=web.max.ru&amp;allowInsecure=true&amp;fp=chrome#🇮🇸[openproxylist.com] trojan-IS
@@ -498,3 +497,4 @@ trojan://NISHIKUITAN111@104.24.236.157:443/?type=tcp&security=tls#%40Hope_Net-jo
 trojan://NISHIKUITAN111@104.21.18.51:443/?type=tcp&security=tls#%40Hope_Net-join-us-on-Telegram
 trojan://blue2024@104.16.254.101:443/?type=tcp&security=tls&sni=ha.lii2010.us.kg#%40Hope_Net-join-us-on-Telegram
 trojan://NISHIKUITAN111@104.24.71.245:443/?type=tcp&security=tls#%40Hope_Net-join-us-on-Telegram
+trojan://blue2024@104.20.8.70:443/?type=tcp&security=tls

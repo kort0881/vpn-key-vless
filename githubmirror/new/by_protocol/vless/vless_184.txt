@@ -1,5 +1,3 @@
-vless://897a4bec-26b8-11e8-94be-00505695472c@104.16.58.89:443/?type=ws&encryption=none&host=xv6.jpmj.dpdns.org
-vless://897a4bec-26b8-11e8-94be-00505695472c@104.16.58.89:443/?type=ws&encryption=none&host=xv6.jpmj.dpdns.org#%40Hope_Net-join-us-on-Telegram
 vless://897a4bec-26b8-11e8-94be-00505695472c@104.17.24.125:443/?type=ws&encryption=none&host=xv6.jpmj.dpdns.org
 vless://897a4bec-26b8-11e8-94be-00505695472c@104.17.24.125:443/?type=ws&encryption=none&host=xv6.jpmj.dpdns.org#%40Hope_Net-join-us-on-Telegram
 vless://897a4bec-26b8-11e8-94be-00505695472c@104.21.225.79:443/?type=ws&encryption=none&host=xv6.jpmj.dpdns.org
@@ -455,9 +453,12 @@ vless://89eeb27d-1a8c-4d84-9ca4-75d614d19900@webshecan.webredirect.org:2083?type
 vless://89f86124-a711-4751-9363-4083834dabf5@185.146.173.58:8080?type=ws&path=🔒
 vless://89f99086-e244-41dc-ab20-c1d8763399d0@77.73.69.182:2040?encryption=none&type=tcp&headerType=none&security=reality&fp=chrome&sni=tradingview.com&pbk=1RJ2ulM9UyAC8PFy194dV0RTZI6xF6U4CGClhNz9fTg&sid=50ed6f6007515d63&spx=/#AKLISvpn🇷🇺RUSSI
 vless://89f99086-e244-41dc-ab20-c1d8763399d0@77.73.69.182:2040?encryption=none&type=tcp&headerType=none&security=reality&fp=chrome&sni=🔒
+vless://89f99086-e244-41dc-ab20-c1d8763399d0@77.73.69.182:2040?security=reality&type=tcp&sni=🔒
 vless://89f99086-e244-41dc-ab20-c1d8763399d0@spb-node.genadata.online:2040?security=reality&encryption=none&pbk=1RJ2ulM9UyAC8PFy194dV0RTZI6xF6U4CGClhNz9fTg&headerType=none&fp=chrome&spx=/&type=tcp&sni=tradingview.com&sid=50ed6f6007515d63#vpn
 vless://89f99086-e244-41dc-ab20-c1d8763399d0@spb-node.genadata.online:2040?security=reality&encryption=none&pbk=1RJ2ulM9UyAC8PFy194dV0RTZI6xF6U4CGClhNz9fTg&headerType=none&fp=chrome&spx=/&type=tcp&sni=🔒
 vless://89f99086-e244-41dc-ab20-c1d8763399d0@spb-node.genadata.online:2040?security=reality&encryption=none&pbk=1RJ2ulM9UyAC8PFy194dV0RTZI6xF6U4CGClhNz9fTg&headerType=none&fp=qq&spx=%2F&type=tcp&sni=🔒
+vless://89f99086-e244-41dc-ab20-c1d8763399d0@spb-node.genadata.online:2040?security=reality&encryption=none&pbk=1RJ2ulM9UyAC8PFy194dV0RTZI6xF6U4CGClhNz9fTg&host=&headerType=none&fp=chrome&spx=/&type=tcp&sni=tradingview.com&sid=50ed6f6007515d63#[🇷🇺]t.me/ConfigsHub
+vless://89f99086-e244-41dc-ab20-c1d8763399d0@spb-node.genadata.online:2040?security=reality&encryption=none&pbk=1RJ2ulM9UyAC8PFy194dV0RTZI6xF6U4CGClhNz9fTg&host=&headerType=none&fp=chrome&spx=/&type=tcp&sni=🔒
 vless://89f99086-e244-41dc-ab20-c1d8763399d0@spb-node.genadata.online:2040?security=reality&encryption=none&pbk=1RJ2ulM9UyAC8PFy194dV0RTZI6xF6U4CGClhNz9fTg&host=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&headerType=none&fp=chrome&spx=/&type=tcp&sni=🔒
 vless://89f99086-e244-41dc-ab20-c1d8763399d0@spb-node.genadata.online:2040?security=reality&encryption=none&pbk=1RJ2ulM9UyAC8PFy194dV0RTZI6xF6U4CGClhNz9fTg&host=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&headerType=none&fp=qq&spx=%2F&type=tcp&sni=tradingview.com&sid=50ed6f6007515d63#%40meli_proxyy
 vless://89fd10a1-8f7c-407b-b670-f20b93dc0680@V2ngFast.huqpmfood.ir:1146?mode=auto&path=/@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast&security=reality&encryption=none&extra={
@@ -497,4 +498,3 @@ vless://8a5db114-7ad1-4922-aca4-b079a79f4f04@78.46.162.62:10878?mode=gun&securit
 vless://8a5e3da6-455b-4cdb-b17e-18bc6379a29e@62.60.155.245:33863?security=none&encryption=none&headerType=none&type=tcp
 vless://8a6bbf50-6440-4bab-92a1-5def72326ff9@107.170.77.232:17478?type=grpc&serviceName=@Silver_v2ray@Silver_v2ray@UCIRANIR@UCIRANIR&authority=&security=none
 vless://8a6d643c-39bf-4d11-998a-62e3bc9a7ba4@94.131.100.169:443/?type=ws&encryption=none&flow=&path=/eclbanws&security=tls&sni=www.vk.com#🎄27@oneclickvpnkeys
-vless://8a6d643c-39bf-4d11-998a-62e3bc9a7ba4@94.131.100.169:443/?type=ws&encryption=none&flow=&path=/eclbanws&security=tls&sni=www.vk.com&allowInsecure=1#🎲67@oneclickvpnkeys
