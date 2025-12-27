@@ -1,6 +1,3 @@
-vless://e4a52f75-474e-449e-bcd2-05ea177f1403@104.31.16.165:80?encryption=none&security=tls&type=ws&sni=67.7.tech&host=67.7.tech&path=%2f#4FreeIran-12424
-vless://e4a52f75-474e-449e-bcd2-05ea177f1403@104.31.16.168:80?encryption=none&security=tls&type=ws&sni=24.4.tech&host=24.4.tech&path=%2f#4FreeIran-12425
-vless://e4a52f75-474e-449e-bcd2-05ea177f1403@104.31.16.168:80?encryption=none&security=tls&type=ws&sni=28.8.tech&host=28.8.tech&path=%2f#4FreeIran-12426
 vless://e4a52f75-474e-449e-bcd2-05ea177f1403@104.31.16.168:80?encryption=none&security=tls&type=ws&sni=abdodhord.9.tech&host=abdodhord.9.tech&path=%2f#4FreeIran-12427
 vless://e4a52f75-474e-449e-bcd2-05ea177f1403@104.31.16.168:80?encryption=none&security=tls&type=ws&sni=dhdodvkdpwv.18.tech&host=dhdodvkdpwv.18.tech&path=%2f#4FreeIran-12428
 vless://e4a52f75-474e-449e-bcd2-05ea177f1403@2121--join.outline-vpn.cloud:80?encryption=none&security=tls&type=ws&sni=100.20.tech&host=100.20.tech&path=%2f#4FreeIran-12429
@@ -498,3 +495,6 @@ vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@108.162.193.217:443?path=/yhowcws&s
 vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@108.162.193.217:443?path=/yhowcws&security=tls&encryption=none=/@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@TEHRANARGO&host=azizoarjmand.info&fp=chrome&type=ws&sni=azizoarjmand.info#4FreeIran-12921
 vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@108.162.193.217:443?security=tls&encryption=none&type=ws&path=%2Fyhowcws&host=azizoarjmand.info&sni=azizoarjmand.info#4FreeIran-12922
 vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@173.245.59.217:443/?type=ws&encryption=none&flow=&host=azizoarjmand.info&path=%2Fyhowcws&security=tls&sni=azizoarjmand.info&allowInsecure=1&fp=chrome#4FreeIran-12923
+vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@173.245.59.217:443/?type=ws&encryption=none&flow=&host=azizoarjmand.info&path=/yhowcws&security=tls&sni=azizoarjmand.info&fp=chrome#4FreeIran-12924
+vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@173.245.59.217:443?encryption=none&security=tls&sni=azizoarjmand.info&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=azizoarjmand.info&path=/yhowcws#4FreeIran-12925
+vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@173.245.59.217:443?path=%2Fyhowcws&security=tls&encryption=none&host=azizoarjmand.info&fp=chrome&type=ws&sni=azizoarjmand.info#4FreeIran-12926

@@ -1,6 +1,3 @@
-vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@162.243.99.69:59483?mode=gun&security=none&encryption=none&type=grpc#4FreeIran-7424
-vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@167.71.93.149:59483?encryption=none&security=auto&type=grpc&serviceName=&flow=&sni=&fp=chrome#4FreeIran-7425
-vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@167.99.52.237:59483?encryption=none&security=none&type=grpc#4FreeIran-7426
 vless://47dc734a-15e8-4286-b09f-ad0404e85630@45.79.223.65:443?type=xhttp&path=/&host=&mode=stream-one&security=none#4FreeIran-7427
 vless://47ea964c-2d7e-4907-bd22-7b3502ab77b2@trt.fastlynew.hosting-ip.com:80?mode=auto&path=/?ed=#4FreeIran-7428
 vless://47ea964c-2d7e-4907-bd22-7b3502ab77b2@trt.fastlynew.hosting-ip.com:80?mode=auto&path=/?ed=2560&security=none&encryption=none&host=maxpl165.global.ssl.fastly.net&type=xhttp#4FreeIran-7429
@@ -498,3 +495,6 @@ vless://5408b813-0a75-41de-9a4f-d5df4c10087b@transferwise.com:443?security=tls&s
 vless://54559d31-a4f0-4648-beeb-8323045a36c8@cb14.connectbaash.info:4414?security=none&encryption=none&host=varzesh3.com&headerType=http&fp=chrome&type=tcp#4FreeIran-7921
 vless://54559d31-a4f0-4648-beeb-8323045a36c8@cb14.connectbaash.info:4414?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#4FreeIran-7922
 vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@104.16.51.36:80?path=/&security=none&encryption=none&host=barayeiran-mahsang.taraneh.dpdns.org&type=ws#4FreeIran-7923
+vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@104.16.51.36:80?security=none&encryption=none&host=barayeiran-mahsang.taraneh.dpdns.org&type=ws#4FreeIran-7924
+vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@172.66.132.44:80?path=/?ed=2560&security=none&encryption=none&host=abcd.taraneh.dpdns.org&fp=chrome&type=ws&sni=abcd.taraneh.dpdns.org#4FreeIran-7925
+vless://54694a33-a8dc-47dd-bc38-acd3971e0055@135.148.74.150:443?encryption=none&security=tls&sni=147135004002.sec20org.com&type=tcp&headerType=none#4FreeIran-7926

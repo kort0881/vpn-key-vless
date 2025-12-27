@@ -1,6 +1,3 @@
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@61.220.41.143:36633?encryption=none&security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg%40zdyz2#4FreeIran-6424
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@8.210.119.191:81?encryption=none&security=tls&sni=cfed.tgzdyz2.top&fp=random&type=ws&host=cfed.tgzdyz2.top&path=TG%40ZDYZ2#4FreeIran-6425
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@8.210.21.65:2096?encryption=none&security=tls&sni=cfed.tgzdyz2.top&fp=random&type=ws&host=cfed.tgzdyz2.top&path=TG%40ZDYZ2#4FreeIran-6426
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@8.210.21.65:2096?encryption=none&security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg%40zdyz2#4FreeIran-6427
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@89.116.161.250:8443?encryption=none&security=tls&sni=cfed.tgzdyz2.top&fp=random&type=ws&host=cfed.tgzdyz2.top&path=TG%40ZDYZ2#4FreeIran-6428
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@91.193.58.98:2096?encryption=none&security=tls&sni=cfed.tgzdyz2.top&fp=random&type=ws&host=cfed.tgzdyz2.top&path=TG%40ZDYZ2#4FreeIran-6429
@@ -498,3 +495,6 @@ vless://38862790-cad0-4ffa-a47b-e385d0493226@freev2ray.v2ray4.xyz:33270?type=grp
 vless://38862790-cad0-4ffa-a47b-e385d0493226@freev2ray.v2ray4.xyz:33275?type=grpc&security=tls&serviceName=@DigiV2ray&sni=freev2ray.v2ray4.xyz#4FreeIran-6921
 vless://38862790-cad0-4ffa-a47b-e385d0493226@freev2ray.v2ray4.xyz:33276?type=grpc&security=tls&serviceName=@DigiV2ray&sni=freev2ray.v2ray4.xyz#4FreeIran-6922
 vless://38a2c051-ba6a-4457-b793-21b21886cbc9@dl1.ndkwiut2718.ir:8443/?type=tcp&encryption=none&security=tls&sni=dl1.ndkwiut2718.ir&fp=chrome#4FreeIran-6923
+vless://38a2c051-ba6a-4457-b793-21b21886cbc9@dl5.ndkwiut2718.ir:8443/?type=httpupgrade&encryption=none&host=dl5.ndkwiut2718.ir&path=/&security=tls&sni=dl5.ndkwiut2718.ir&fp=chrome#4FreeIran-6924
+vless://38ac07ff-b427-4696-9c5c-989be9020cce@VPNCUSTOMIZE.ddns.net:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@VPNCUSTOMIZE&sni=g2.iranislamic.top#4FreeIran-6925
+vless://38c14522-147e-4297-b01f-4f63f2a06a5c@a.confignor.site:35493?type=grpc&encryption=none&serviceName=++++@ConfigFree&authority=&security=reality&pbk=qeWt8jJZTwf6vmiTvDfaalPaSZDkX7a3XkKrBxf2YVA&fp=chrome&sni=www.cdn77.com&sid=9c24&spx=/#4FreeIran-6926

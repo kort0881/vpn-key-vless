@@ -1,6 +1,3 @@
-vless://9ff2699e-9a09-4bbe-a898-0dc264daef70@80.92.204.46:443?path=/ohksllws&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1&sni=github.com#4FreeIran-9924
-vless://9ff2699e-9a09-4bbe-a898-0dc264daef70@80.92.204.46:443?path=/ohksllws&security=tls&encryption=none&type=ws&sni=github.com#4FreeIran-9925
-vless://@Geek_Spot@176.97.210.2:37589/?type=tcp&encryption=none#4FreeIran-9926
 vless://@mahanvpn+@172.67.160.192:2052?path=/mAhAnteaM,?ed=2560&security=none&encryption=none&host=mAhaNteAm.noD32Cpu.iR.&type=httpupgrade#4FreeIran-9927
 vless://@mahanvpn.@172.67.160.192:2052?type=httpupgrade&path=/mAhAnteaM,?ed=2560&host=mAhaNteAm.noD32Cpu.iR.&security=none#4FreeIran-9928
 vless://@mahanvpn@172.67.160.192:2052?path=/mAhAnteaM,?ed=2560&security=none&encryption=none&host=mAhaNteAm.noD32Cpu.iR.&type=httpupgrade#4FreeIran-9929
@@ -498,3 +495,6 @@ vless://a7c617c90de442f19c0af1c2e64d83fe@176.125.240.166:8443?mode=auto&path=/x&
 vless://a7c7966a-82ea-45f8-bb32-5d80e6caf320@graygoat.fonixapp.org:45846?security=reality&encryption=none&pbk=17q39_glGtdUgFWkKwjxnBG0PxYkJbgt9bfkotaj7yg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=ac#4FreeIran-10421
 vless://a7cdce51-fe3f-4a0e-9858-768e5a5e4678@157.180.82.171:2087?mode=gun&security=tls&encryption=none&authority=/---v2rayNplus---v2rayNplus---v2rayNplus---v2rayNplus---&insecure=1&type=grpc&allowInsecure=1&sni=api-maps.yandex.ru#4FreeIran-10422
 vless://a7cdce51-fe3f-4a0e-9858-768e5a5e4678@pico1.zarashop0.ir:2087/?type=grpc&encryption=none&flow=&security=tls&sni=api-maps.yandex.ru&allowInsecure=1#4FreeIran-10423
+vless://a7cdce51-fe3f-4a0e-9858-768e5a5e4678@pico1.zarashop0.ir:2087?mode=gun&security=tls&encryption=none&authority=&type=grpc&serviceName=&sni=api-maps.yandex.ru#4FreeIran-10424
+vless://a7cdce51-fe3f-4a0e-9858-768e5a5e4678@pico1.zarashop0.ir:2087?mode=gun&security=tls&encryption=none&authority=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&insecure=0&type=grpc&allowInsecure=0&sni=api-maps.yandex.ru#4FreeIran-10425
+vless://a7cdce51-fe3f-4a0e-9858-768e5a5e4678@pico1.zarashop0.ir:2087?mode=gun&security=tls&encryption=none&authority=/xx&insecure=1&type=grpc&allowInsecure=1&sni=api-maps.yandex.ru#4FreeIran-10426

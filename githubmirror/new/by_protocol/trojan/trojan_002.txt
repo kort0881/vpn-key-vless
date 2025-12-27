@@ -1,3 +1,5 @@
+trojan://22367c45-f6c4-4ca8-8d52-d9787d7bbe91@mfa.gov.ua:2096?path=/proxyip=210.61.97.241:81&amp;security=tls&amp;host=cm2-bpg.filegear-sg.me&amp;type=ws&amp;sni=cm2-bpg.filegear-sg.me#All--@V2rayAlpha-5
+trojan://e2e3b171-33a8-4c8f-9e5f-ae6e92299e40@ivory.qzz.io:443?path=/46.232.122.240:8000&amp;security=tls&amp;host=ivory.qzz.io&amp;type=ws&amp;sni=ivory.qzz.io#All--@V2rayAlpha-6
 trojan://22367c45-f6c4-4ca8-8d52-d9787d7bbe91@cf.877774.xyz:2087?path=/proxyip=210.61.97.241:81&amp;security=tls&amp;host=cm2-bpg.filegear-sg.me&amp;type=ws&amp;sni=cm2-bpg.filegear-sg.me#All--@V2rayAlpha-7
 trojan://e86364fb-a5e3-42c3-b7fa-6ce8097fe19f@bisque.qzz.io:443?path=/66.135.4.222:8443&amp;security=tls&amp;host=bisque.qzz.io&amp;type=ws&amp;sni=bisque.qzz.io#All--@V2rayAlpha-8
 trojan://POORIARED@172.67.134.185:443?type=ws&amp;path=/eyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&amp;security=tls&amp;fp=chrome&amp;sni=reDfRee8.REDFree8.ir#@v2ray_cartel
@@ -49,6 +51,7 @@ trojan://1640ef52-2db0-44ab-b3f3-8690b762ebc9@165.154.112.107:12000?security=tls
 trojan://eDHWaPzxcl@145.223.70.115:25365?mode=gun&amp;security=reality&amp;pbk=YaP997bVbPWOkNwZ-aKWVNHSdzQkZLzhTGjVRVC1u3I&amp;fp=chrome&amp;spx=/&amp;type=grpc&amp;sni=cloudflare.com&amp;sid=d9#🇫🇷
 trojan://ignHF1x8Gp@tunel.amirspacee.top:443?path=/mfvmfdvnfjvfkdmv&amp;security=tls&amp;alpn=h2,http/1.1&amp;host=tunel.amirspacee.top&amp;fp=chrome&amp;type=ws&amp;sni=tunel.amirspacee.top#@V2rayNGVPN+<=+کانفیگ+رایگان
 trojan://ignHF1x8Gp@tunel.amirspacee.top:443?path=/mfvmfdvnfjvfkdmv&amp;security=tls&amp;alpn=h2,http/1.1&amp;host=tunel.amirspacee.top&amp;fp=chrome&amp;type=ws&amp;sni=tunel.amirspacee.top#@V2rayNGVPN+<=+کانفیگ+رایگان
+trojan://ignHF1x8Gp@tunel.amirspacee.top:443?path=/mfvmfdvnfjvfkdmv&amp;security=tls&amp;alpn=h2,http/1.1&amp;host=tunel.amirspacee.top&amp;fp=chrome&amp;type=ws&amp;sni=tunel.amirspacee.top#@V2rayNGVPN+<=+کانفیگ+رایگان
 trojan://Pooria@www.speedtest.net:443?path=/trJF1XisQEbWZpxEHh?ed=2560&amp;security=tls&amp;alpn=h2,http/1.1&amp;host=redfree8w.pooriam.ir&amp;fp=randomized&amp;type=ws&amp;sni=redfree8w.pooriam.ir#
 trojan://Pooria@www.speedtest.net:80?path=/trLwW5jwrnymnOdqki?ed=2560&amp;security=none&amp;host=redfree8w.pooriam.ir&amp;type=ws#
 trojan://POORIARED@172.67.134.185:443?path=/eyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&amp;security=tls&amp;fp=chrome&amp;type=ws&amp;sni=reDfRee8.REDFree8.ir#@V2rayNGVPN <= کانفیگ رایگان
@@ -72,6 +75,7 @@ trojan://telegram-id-v2rayvpnchannel@13.39.154.102:22223?security=tls&amp;alpn=h
 trojan://telegram-id-v2rayvpnchannel@3.72.120.152:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#OurChannel
 trojan://telegram-id-v2rayvpnchannel@3.126.96.173:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#OurChannel
 trojan://telegram-id-v2rayvpnchannel@15.236.57.222:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#OurChannel
+trojan://telegram-id-v2rayvpnchannel@35.181.29.196:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#OurChannel
 trojan://22367c45-f6c4-4ca8-8d52-d9787d7bbe91@mfa.gov.ua:2096?path=/proxyip=210.61.97.241:81&amp;security=tls&amp;host=cm2-bpg.filegear-sg.me&amp;type=ws&amp;sni=cm2-bpg.filegear-sg.me#https://t.me/V2ry_Proxy
 trojan://87d1bfd4-574e-4c96-ad42-0426f27461ff@mfa.gov.ua:443?path=/&amp;security=tls&amp;host=_acme-challenge.2go.cloudns.be&amp;type=ws&amp;sni=_acme-challenge.2go.cloudns.be#https://t.me/V2ry_Proxy
 trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=api.avito.ru#%4@v2ryorg+<=+کانفیگ+رایگان
@@ -80,6 +84,8 @@ trojan://POORIARED@172.67.134.185:443?path=/eyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJw
 trojan://POORIARED@172.67.134.185:443?path=/eyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&amp;security=tls&amp;fp=chrome&amp;type=ws&amp;sni=reDfRee8.REDFree8.ir#@@v2ryorg <= کانفیگ رایگان
 trojan://ignHF1x8Gp@tunel.amirspacee.top:443?path=/mfvmfdvnfjvfkdmv&amp;security=tls&amp;alpn=h2,http/1.1&amp;host=tunel.amirspacee.top&amp;fp=chrome&amp;type=ws&amp;sni=tunel.amirspacee.top#@@v2ryorg+<=+کانفیگ+رایگان
 trojan://ignHF1x8Gp@tunel.amirspacee.top:443?path=/mfvmfdvnfjvfkdmv&amp;security=tls&amp;alpn=h2,http/1.1&amp;host=tunel.amirspacee.top&amp;fp=chrome&amp;type=ws&amp;sni=tunel.amirspacee.top#@@v2ryorg+<=+کانفیگ+رایگان
+trojan://ignHF1x8Gp@tunel.amirspacee.top:443?path=/mfvmfdvnfjvfkdmv&amp;security=tls&amp;alpn=h2,http/1.1&amp;host=tunel.amirspacee.top&amp;fp=chrome&amp;type=ws&amp;sni=tunel.amirspacee.top#@@v2ryorg+<=+کانفیگ+رایگان
+trojan://13e71ddb-908c-45e0-993c-da482d848c88@seashell.qzz.io:443?path=/156.254.114.120:30011&amp;security=tls&amp;host=seashell.qzz.io&amp;type=ws&amp;sni=seashell.qzz.io#سرور رایگان متصل بیشتر در چنل🌊 @vmess_ir
 trojan://2ee85121-31de-4581-a492-eb00f606e392@192.3.107.252:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=rc8.freeguard.org#@VMESSIR4N جهت خرید کانفیگ
 trojan://trojan@ip.sb:8443?path=/&amp;security=tls&amp;host=fofang.pages.dev&amp;type=ws&amp;sni=fofang.pages.dev#@VMESSIR4N جهت خرید کانفیگ
 trojan://POORIARED@172.67.134.185:443?path=/eyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed&amp;security=tls&amp;fp=chrome&amp;type=ws&amp;sni=reDfRee8.REDFree8.ir#🇹🇷@vpn_ioss ♻️ عضو شو
@@ -492,9 +498,3 @@ trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.45:2087/?type=ws&host=tj
 trojan://Watashi_VPN@104.27.7.142:2053/?type=ws&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&path=%2F%3FTM%40AZARBAYJAB1%2BTM%40AZARBAYJAB1%2B%40AZARBAYJAB1&security=tls&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir&fp=chrome#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A8%F0%9F%87%A6Canada
 trojan://auto@162.159.128.233:8443/?type=ws&host=e9464f45.trauma-2r4.pages.dev&path=%2F&security=tls&sni=e9464f45.trauma-2r4.pages.dev#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A8%F0%9F%87%A6Canada
 trojan://auto@104.18.1.89:443/?type=ws&host=join-midas-x-x-----join-midas-x-x-----join-midas-x-x.join-midas-x-x-a14.workers.dev&path=%2F%3Fed%3D2560&security=tls&sni=join-midas-x-x-----join-midas-x-x-----join-midas-x-x.join-midas-x-x-a14.workers.dev#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A8%F0%9F%87%A6Canada
-trojan://auto@104.21.31.51:443/?type=ws&host=esetsecuritylicense1.vowexa5791.workers.dev&path=%2F&security=tls&sni=esetsecuritylicense1.vowexa5791.workers.dev#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A8%F0%9F%87%A6Canada
-trojan://NISHIKUITAN222@104.27.110.202:443/?type=tcp&security=tls#%40Hope_Net-join-us-on-Telegram
-trojan://NISHIKUITAN222@172.67.230.179:443/?type=tcp&security=tls#%40Hope_Net-join-us-on-Telegram
-trojan://NISHIKUITAN222@104.25.152.149:443/?type=tcp&security=tls#%40Hope_Net-join-us-on-Telegram
-trojan://NISHIKUITAN222@104.21.221.251:443/?type=tcp&security=tls#%40Hope_Net-join-us-on-Telegram
-trojan://bpb-trojan@104.17.147.22:443/?type=ws&host=10-bpb-worker-panel.pages.dev&security=tls&sni=10-bpb-wORkER-paNel.pAGEs.DeV#%40Hope_Net-...
