@@ -1,3 +1,4 @@
+vless://fdc4e100-9979-47f2-b683-421fb19f7227@93.127.180.124:77?security=none&serviceName=Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH&encryption=none&headerType=none&type=tcp#JOIN
 vless://fddeb10c-5de6-4f63-a344-16b3ae4a8b28@151.101.205.194:80?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=&encryption=none&extra={
 vless://fddeb10c-5de6-4f63-a344-16b3ae4a8b28@151.101.205.194:80?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=none&encryption=none&host=fotofactory.pk&extra={
 vless://fddeb10c-5de6-4f63-a344-16b3ae4a8b28@151.101.205.194:80?path=🔒
@@ -497,4 +498,3 @@ vless://v1bsy2b9q5@45.15.167.35:443?security=tls&encryption=none&alpn=h2,http/1.
 vless://v1bsy2b9q5@v1bsy2b9q5-451516735-direct.bahame.co:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=v1bsy2b9q5-451516735-direct.bahame.co&alpn=h2,http/1.1&fp=chrome&packetEncoding=xudp#%3E%3E%40ShadowsocksM%3A%3AXX
 vless://v1bsy2b9q5@v1bsy2b9q5-451516735-direct.bahame.co:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=🔒
 vless://v1bsy2b9q5@v1bsy2b9q5-451516735-direct.bahame.co:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=v1bsy2b9q5-451516735-direct.bahame.co#https://t.me/v2raynplus
-vless://v1bsy2b9q5@v1bsy2b9q5-451516735-direct.bahame.co:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=🔒

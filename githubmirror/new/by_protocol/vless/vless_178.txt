@@ -1,3 +1,4 @@
+vless://6fcb466a-469a-49f9-9e5c-276b86a53719@lady.kangavar20.info:34300?type=tcp&encryption=none&path=🔒
 vless://6fd4f5b4-7460-4b78-9d25-c0c285b23ce4@154.197.64.161:443/?type=ws&encryption=none&host=vbbc.ylks01.eu.org&path=🔒
 vless://6fd4f5b4-7460-4b78-9d25-c0c285b23ce4@185.146.173.252:443/?type=ws&encryption=none&host=vbbc.ylks01.eu.org&path=🔒
 vless://6fd5b6b4-86b4-4e59-b0d9-c088009a74a0@104.17.234.114:8443/?type=grpc&encryption=none&flow=&serviceName=Telegram%3A%40SourceFreeFilter
@@ -497,4 +498,3 @@ vless://739d8c14-555e-49b1-d342-b42cef939442@www.speedtest.net:2086?path=/@spike
 vless://739d8c14-555e-49b1-d342-b42cef939442@www.speedtest.net:2086?path=🔒
 vless://73a21609-8238-45c0-b2b0-0469e6c58ba3@213.176.95.70:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒
 vless://73a21609-8238-45c0-b2b0-0469e6c58ba3@213.176.95.70:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=🔒
-vless://73a22963-1825-4a74-b961-45bffdb590ce@62.60.156.102:8080?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=🔒

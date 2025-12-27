@@ -1,3 +1,4 @@
+vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@35.170.71.246:4433?security=reality&encryption=none&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&headerType=none&fp=random&type=tcp&sni=🔒
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@35.85.33.155:2222?security=none&type=tcp
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@35.95.107.209:4433?security=reality&sni=🔒
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@52.25.169.136:443/?type=tcp&encryption=none&sni=stackoverflow.com&fp=random&security=reality&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#%40Hope_Net-join-us-on-Telegram
@@ -497,4 +498,3 @@ vless://83e1425c-7bf0-4d10-9296-40901f29f35d@gr.dnszone.top:45500?security=none&
 vless://83e1425c-7bf0-4d10-9296-40901f29f35d@nl.dnszone.top:45500?security=&encryption=none&headerType=none&type=tcp
 vless://83e1425c-7bf0-4d10-9296-40901f29f35d@nl.dnszone.top:45500?security=none&encryption=none&type=tcp&headerType=none
 vless://83f79baf-b03f-4fa3-be3e-f32ae64142a0@irani.yousefbn.com:6969?security=none&encryption=none&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=http&type=tcp
-vless://83f79baf-b03f-4fa3-be3e-f32ae64142a0@irani.yousefbn.com:8585?security=none&encryption=none&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=http&type=tcp
