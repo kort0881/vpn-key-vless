@@ -1,3 +1,7 @@
+vless://telegram-id-Arfilter@205.233.181.85:443?security=tls&type=ws&path=🔒
+vless://telegram-id-Arfilter@45.85.119.169:443?path=🔒
+vless://telegram-id-Arfilter@69.84.182.2:443?path=🔒
+vless://telegram-id-Arfilter@94.140.0.26:443?path=🔒
 vless://telegram-id-Arfilter@www.speedtest.net:443?path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=v.arfilter2.blog&fp=firefox&type=ws&sni=v.arfilter2.blog#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40arv2ray%20%5B8%5D
 vless://telegram-id-Arfilter@www.speedtest.net:443?path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=v.arfilter2.blog&fp=firefox&type=ws&allowInsecure=0&sni=v.arfilter2.blog#%F0%9F%87%B3%F0%9F%87%B1%20%7C%20%40HajmVPN_Config`
 vless://telegram-id-Arfilter@www.speedtest.net:443?path=%2Ftelegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=i.arfilter2.blog&fp=firefox&type=ws&sni=i.arfilter2.blog#TLS3-ALL%20%7C%20%40ArV2ray
@@ -494,7 +498,3 @@ vless://aa3e6633-40ff-4d90-fb85-a3a73c0ee4c3@99.88.80.195:54661?encryption=none&
 vless://197092b3-e995-48b7-a34b-d32eb75b62e1@194.150.166.134:17166?encryption=none&path=%2f#%f0%9f%87%ac%f0%9f%87%a7%20GB%201
 vless://197092b3-e995-48b7-a34b-d32eb75b62e1@194.150.166.134:17166?path=%2f#%f0%9f%87%ac%f0%9f%87%a7%20GB%202
 vless://e50fa46f-20c6-4c0d-fa0e-d9ffd92df36f@91.107.130.214:41647?type=grpc&path=%2f#%f0%9f%87%a9%f0%9f%87%aa%20DE%203
-vless://61757901-3818-46c7-8482-683fa7f6ba10@103.90.75.252:3001?encryption=none&path=%2f#%f0%9f%87%b3%f0%9f%87%b1%20NL%2050
-vless://a4cb890e-8251-488e-9439-3403c9a58e55@free-server.techsonic.cloud:443?security=tls&path=%2f#%f0%9f%87%b8%f0%9f%87%ac%20SG%201
-vless://015e6f7b-c6df-470a-a22d-62b8b9947a4d@77.42.77.66:32323?type=tcp&path=%2f#%f0%9f%87%ab%f0%9f%87%ae%20FI%201
-vless://d1623c84-541c-4c49-aea7-0e19b9fe0307@s1.tun.cloudnsas.ir:443?path=%2f#%f0%9f%87%ae%f0%9f%87%b7%20IR%201

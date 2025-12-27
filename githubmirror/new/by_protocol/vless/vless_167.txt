@@ -1,11 +1,3 @@
-vless://4395eaf8-bcec-464c-9105-47701857be8b@116.203.102.8:443?security=none&encryption=none&headerType=none&type=tcp
-vless://4395eaf8-bcec-464c-9105-47701857be8b@116.203.102.8:443?security=none&encryption=none&headerType=none&type=tcp#⚜️𝗝𝗼𝗶𝗻
-vless://439dbc9e-5519-40ae-9856-47070807d87a@discord.gg:2087?mode=gun&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&fp=chrome&type=grpc&serviceName=&sni=🔒
-vless://43a6e7cd-9940-4b7b-9ffa-71be34de5049@a.confignor.site:35493?mode=gun&security=reality&encryption=none&pbk=qeWt8jJZTwf6vmiTvDfaalPaSZDkX7a3XkKrBxf2YVA&fp=chrome&spx=/&type=grpc&serviceName=چنل
-vless://43a6e7cd-9940-4b7b-9ffa-71be34de5049@a.confignor.site:35493?type=grpc&encryption=none&serviceName=چنل+سازنده+اصلی+کانفیگ+@ConfigFree&authority=&security=reality&pbk=qeWt8jJZTwf6vmiTvDfaalPaSZDkX7a3XkKrBxf2YVA&fp=chrome&sni=www.cdn77.com&sid=9c24&spx=/#مارا+به+دوستان+خود+معرفی+کنید+@ConfigFree
-vless://43a6e7cd-9940-4b7b-9ffa-71be34de5049@a.confignor.site:35493?type=grpc&encryption=none&serviceName=چنل+سازنده+اصلی+کانفیگ+@ConfigFree&authority=&security=reality&pbk=qeWt8jJZTwf6vmiTvDfaalPaSZDkX7a3XkKrBxf2YVA&fp=chrome&sni=🔒
-vless://43b3d811-cd66-4d0e-9011-b2eba8b26856@iran.dnshop.sbs:52423/?encryption=none&host=zula.ir&type=tcp&headerType=http
-vless://43b3d811-cd66-4d0e-9011-b2eba8b26856@iran.dnshop.sbs:52423/?encryption=none&host=zula.ir&type=tcp&headerType=http#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40confingv2raay%20%5B2%5D
 vless://43b3d811-cd66-4d0e-9011-b2eba8b26856@iran.dnshop.sbs:52423?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp
 vless://43c06dde-b530-4536-a9d7-ba7bccb6d0dd@www.speedtest.net:80?path=🔒
 vless://43c09ea2-72de-4b63-8da4-d5d4be7819ad@senator.cdniran.info:80/?type=ws&encryption=none&host=SeNaToRNoTLS-05.FligHtbEaN24.Com&path=🔒
@@ -430,6 +422,7 @@ vless://47867494-9509-4c32-a90a-e9253b033279@fn11.irsbv2.ir:443?path=%2F&securit
 vless://47867494-9509-4c32-a90a-e9253b033279@fn11.irsbv2.ir:443?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=none&encryption=none&host=cloudflare.com&type=ws#@MARAMBASHI
 vless://47867494-9509-4c32-a90a-e9253b033279@fn11.irsbv2.ir:443?path=🔒
 vless://47867494-9509-4c32-a90a-e9253b033279@fn11.irsbv2.ir:443?security=none&type=ws&path=%2F&host=cloudflare.com&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%AB%F0%9F%87%AEFI_8%20%F0%9F%A7%AD%204.5MB%2Fs`
+vless://47867494-9509-4c32-a90a-e9253b033279@fn11.irsbv2.ir:443?security=none&type=ws&path=%2F&host=cloudflare.com&encryption=none#🇫🇮[openproxylist.com]
 vless://47867494-9509-4c32-a90a-e9253b033279@fn11.irsbv2.ir:443?security=none&type=ws&path=🔒
 vless://4790ea39-1388-48b4-ba75-8e58836aad1e@www.speedtest.net:80?path=🔒
 vless://4790ea39-1388-48b4-ba75-8e58836aad1e@www.speedtest.net:80?type=ws&host=s1.VPNCUSTOMIZE.dNs-dynamic.neT.&path=🔒
@@ -498,3 +491,10 @@ vless://48129d2f-4e43-4047-fac8-d5b8ca0911b7@5.161.22.31:44317?encryption=none&s
 vless://48137ea2-8cfd-4726-9ff2-d6e8bd09454a@kafshu.ir:8080?path=🔒
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@104.24.88.100:443/?type=ws&encryption=none&flow=&host=ap.ylks.xyz&path=🔒
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@104.24.88.100:443/?type=ws&encryption=none&host=ap.ylks.xyz&path=%2F%3Fed%3D2048&security=tls&sni=ap.ylks.xyz#%40Hope_Net-join-us-on-Telegram
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@108.162.194.50:443/?type=ws&encryption=none&path=%2F%3Fed%3D2048&security=tls&sni=ay.ylks.xyz#%40Hope_Net-join-us-on-Telegram
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@108.162.196.113:443/?type=ws&encryption=none&flow=&host=aj.ylks.xyz&path=🔒
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@108.162.196.113:443/?type=ws&encryption=none&host=aj.ylks.xyz&path=%2F%3Fed%3D2048&security=tls&sni=aj.ylks.xyz#%40Hope_Net-join-us-on-Telegram
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@108.162.196.179:443/?type=ws&encryption=none&path=%2F%3Fed%3D2048&security=tls&sni=ay.ylks.xyz#%40Hope_Net-join-us-on-Telegram
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@108.162.196.39:443/?type=ws&encryption=none&flow=&host=aj.ylks.xyz&path=🔒
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@108.162.196.39:443/?type=ws&encryption=none&host=aj.ylks.xyz&path=%2F%3Fed%3D2048&security=tls&sni=aj.ylks.xyz#%40Hope_Net-join-us-on-Telegram
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@108.162.198.230:443/?type=ws&encryption=none&flow=&path=🔒
