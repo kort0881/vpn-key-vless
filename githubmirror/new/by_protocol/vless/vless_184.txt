@@ -1,7 +1,3 @@
-vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@tgju.org:443?security=tls&alpn=h2http/1.1&encryption=none&host=6389113402676776506.VtNeT.infO&type=ws&sni=6389113402676776506.VtNeT.infO#JOIN
-vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@tgju.org:443?security=tls&alpn=h2http/1.1&encryption=none&host=6389113402676776506.VtNeT.infO&type=ws&sni=🔒
-vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?encryption=none&security=tls&sni=6389113402676776510.VtNeT.infO&type=ws&alpn=h2http/1.1&host=&path=/#telegram
-vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?encryption=none&security=tls&sni=havij.mrconfigur.site&insecure=0&allowInsecure=0&type=ws&path=/#@Daily_Configs
 vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?encryption=none&security=tls&sni=nargil.mrconfigur.site&insecure=0&allowInsecure=0&type=ws&host=nargil.mrconfigur.site&path=/#@Daily_Configs
 vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?encryption=none&security=tls&sni=piaz.mrconfigur.site&insecure=0&allowInsecure=0&type=ws&host=piaz.mrconfigur.site&path=/#@Daily_Configs
 vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?encryption=none&security=tls&sni=🔒
@@ -498,3 +494,7 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.37.15:80/?type=ws&encryptio
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.37.15:80/?type=ws&encryption=none&host=sara193.ir&path=%2FBCXzvAcvSB7JzMWj%3Fed#%40Hope_Net-join-us-on-Telegram
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.5.101:443/?type=ws&encryption=none&host=mefa.ir&path=%2FH%3Fed%3D2560fp%3Dchrome&security=tls&sni=mefa.ir#%40Hope_Net-join-us-on-Telegram
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.5.108:443/?type=ws&encryption=none&flow=&host=behdasht.hrtc.ir&path=🔒
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.5.108:443/?type=ws&encryption=none&host=behdasht.hrtc.ir&path=%2FH%3Fed%3D2560&security=tls&sni=behdasht.hrtc.ir&alpn=h2%2Chttp%2F1.1&fp=randomized#%40Hope_Net-join-us-on-Telegram
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.5.124:80/?type=ws&encryption=none&host=en.mfa.gov.ir&path=%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%3FED#%40Hope_Net-join-us-on-Telegram
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.5.127:443/?type=ws&encryption=none&flow=&host=mef...&security=tls&sni=🔒
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.5.127:443/?type=ws&encryption=none&host=mef...&security=tls&sni=mefa.ir
