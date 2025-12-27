@@ -292,14 +292,15 @@ trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@k
 trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.228:10889?security=tls&amp;sni=web.max&amp;allowInsecure=1&amp;type=tcp&amp;headerType=none#t.me/v2Line
 trojan://telegram-id-directvpn@52.59.43.9:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#OurChannel
 trojan://telegram-id-privatevpns@52.47.92.82:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#T.me%2FSafeNet_Server+%F0%9F%92%9A%F0%9F%A4%8D%E2%9D%A4
-trojan://.ie4rghJuMkcf0oF@38.96.254.102:18509?type=raw&headerType=none&security=tls&sni=shoppingmall.electricbanana.click#[🇨🇦] [tr-tl-ra] [251227-055803.641]
-trojan://ignHF1x8Gp@tunel.amirspacee.top:443?type=ws&path=%2Fmfvmfdvnfjvfkdmv&security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome&sni=tunel.amirspacee.top#[🇩🇪] [tr-tl-ws] [251227-055812.394]
-trojan://zWFjJENcljZm@usa.visa.com:443?type=ws&host=vahidqaz-7o61u7.vahidqaz.workers.dev&path=%2F%3Fed%3D2560&security=tls&fp=chrome&sni=vahidqaz-7o61u7.vahidqaz.workers.dev#[🇬🇧] [tr-tl-ws] [251227-055815.125]
-trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.117.182:3093?type=raw&headerType=none&security=tls&sni=www.nintendogames.net#[🇯🇵] [tr-tl-ra] [251227-055805.118]
-trojan://cf142ac0-4bae-4c4b-9882-21fc0550a661@whatismyipaddress.com:443?type=ws&path=%2F%3Fed%3D2560&security=tls&fp=random&sni=red-dream-2d6c.xepis84786.workers.dev#[🇰🇷] [tr-tl-ws] [251227-055811.115]
-trojan://BaeSzHdfJIR13l67@70.34.218.149:11930?type=raw&headerType=none&security=tls&sni=softpillow.silentrocket.click#[🇸🇪] [tr-tl-ra] [251227-055807.317]
-trojan://LxJCPOP40a@206.206.77.237:51469?type=grpc&security=reality&fp=chrome&pbk=nlxKGGnvTUULdJlG1vfRbiG9IFrbFYC9VMnMWNH_A3s&sni=cloudflare.com&sid=793dfc59cf7edf#[🇸🇬] [tr-re-gr] [251227-055808.506]
-trojan://e86364fb-a5e3-42c3-b7fa-6ce8097fe19f@bisque.qzz.io:443?type=ws&host=bisque.qzz.io&path=%2F66.135.4.222%3A8443&security=tls&sni=bisque.qzz.io#[🇺🇸] [tr-tl-ws] [251227-055811.728]
+trojan://.ie4rghJuMkcf0oF@38.96.254.102:18509?type=raw&headerType=none&security=tls&sni=shoppingmall.electricbanana.click#[🇨🇦] [tr-tl-ra] [251227-073849.030]
+trojan://ignHF1x8Gp@tunel.amirspacee.top:443?type=ws&path=%2Fmfvmfdvnfjvfkdmv&security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome&sni=tunel.amirspacee.top#[🇩🇪] [tr-tl-ws] [251227-073856.402]
+trojan://f36f4495b4b26cc2fe346cfa23e05b1b@112.118.116.8:443?type=raw&headerType=none&security=tls&sni=www.nintendogames.net#[🇭🇰] [tr-tl-ra] [251227-073856.081]
+trojan://zWFjJENcljZm@usa.visa.com:443?type=ws&host=vahidqaz-7o61u7.vahidqaz.workers.dev&path=%2F%3Fed%3D2560&security=tls&fp=chrome&sni=vahidqaz-7o61u7.vahidqaz.workers.dev#[🇮🇪] [tr-tl-ws] [251227-073858.656]
+trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.117.182:3093?type=raw&headerType=none&security=tls&sni=www.nintendogames.net#[🇯🇵] [tr-tl-ra] [251227-073850.292]
+trojan://cf142ac0-4bae-4c4b-9882-21fc0550a661@whatismyipaddress.com:443?type=ws&path=%2F%3Fed%3D2560&security=tls&fp=random&sni=red-dream-2d6c.xepis84786.workers.dev#[🇰🇷] [tr-tl-ws] [251227-073855.294]
+trojan://BaeSzHdfJIR13l67@70.34.218.149:11930?type=raw&headerType=none&security=tls&sni=softpillow.silentrocket.click#[🇸🇪] [tr-tl-ra] [251227-073852.140]
+trojan://LxJCPOP40a@206.206.77.237:51469?type=grpc&security=reality&fp=chrome&pbk=nlxKGGnvTUULdJlG1vfRbiG9IFrbFYC9VMnMWNH_A3s&sni=cloudflare.com&sid=793dfc59cf7edf#[🇸🇬] [tr-re-gr] [251227-073853.133]
+trojan://e86364fb-a5e3-42c3-b7fa-6ce8097fe19f@bisque.qzz.io:443?type=ws&host=bisque.qzz.io&path=%2F66.135.4.222%3A8443&security=tls&sni=bisque.qzz.io#[🇺🇸] [tr-tl-ws] [251227-073855.802]
 trojan://trojan@172.67.75.172:8443?security=tls&sni=fofang.pages.dev&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=fofang.pages.dev#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20TR-WS-TLS%204%E2%83%A3
 trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&fp=chrome&type=ws&path=/&host=store.timimi.dpdns.org#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20-%20NA%20%F0%9F%8C%8D%20TR-WS-TLS%204%E2%83%A3
 trojan://trojan@104.18.13.229:8443?security=tls&sni=pangpi.pages.dev&fp=chrome&type=ws&path=/&host=pangpi.pages.dev#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20TR-WS-TLS%204%E2%83%A3
