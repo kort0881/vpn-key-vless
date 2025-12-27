@@ -1,3 +1,5 @@
+trojan://vip@log.bpminecraft.com:443/?type=ws&path=%2F%3Fed%3D2560&security=tls&sni=heihu880.pages.dev#%F0%9F%8F%81RELAY-104.21.12.116-0592
+trojan://ef269dbc-0486-451f-b94b-d0c354bc3f1c@tuntro001.instconn.com:443/?type=tcp&security=tls&sni=awshk.686911.xyz#%F0%9F%87%AD%F0%9F%87%B0HK-112.120.48.71-1388
 trojan://iwangjie@83.147.254.185:443/?type=ws&path=%2F%3Fed%3D2560&security=tls&sni=nodes.830901.xyz#%F0%9F%87%B8%F0%9F%87%AASE-83.147.254.185-1391
 trojan://QkxJPTkWg3@lqoo.xyz:60006/?type=tcp&security=tls#%F0%9F%87%BA%F0%9F%87%B8US-13.248.169.48-3189
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.150.76:3093/?type=tcp&security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.150.76-0262
@@ -409,6 +411,10 @@ trojan://sMed9E7gA1@verahk1.uspn.io:443?security=tls&sni=verahk1.uspn.io&insecur
 trojan://870133af-bf3d-4ece-99a7-8a77bf2d3b40@veraams2.uspn.io:443?security=tls&sni=veraams2.uspn.io&insecure=1&allowInsecure=1&type=ws&host=veraams2.uspn.io&path=%2Ftrojan#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%2C%20Amsterdam%20%5BBL%5D
 trojan://oUFBC3Vs2rYmN8_bR-P7quoL@45.129.3.220:10668?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20Russia%2C%20Moscow%20%5BBL%5D
 trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&sni=api.avito.ru&insecure=1&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%AE%F0%9F%87%B9%20IT%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40v2raych%20%5B11%5D
+trojan://tpCznR-P5%3DjZUb%23c@66.245.193.152:17126?security=tls&sni=ctaldikgfyw.uefahpgsyz.click&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%AC%F0%9F%87%A7%20PORTAL%20Telegram%3A%40STR_BYPASS%20674892
+trojan://BaeSzHdfJIR13l67@70.34.218.149:11930?security=tls&sni=softpillow.silentrocket.click&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%AA%20PORTAL%20Telegram%3A%40STR_BYPASS%20349793
+trojan://F6xOQXz%3Drp7yeiNV@134.195.197.69:19579?security=tls&sni=goodmorning.dancingbrick.click&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%A6%20PORTAL%20Telegram%3A%40STR_BYPASS%20255632
+trojan://wb6368@92.243.75.49:2087?security=tls&sni=hsdgbuys.pages.dev&insecure=0&allowInsecure=0&type=ws&host=hsdgbuys.pages.dev&path=%2F#%F0%9F%9A%8022%40STR_BYPASS
 trojan://trojan@172.67.75.172:8443?security=tls&sni=fofang.pages.dev&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=fofang.pages.dev#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20TR-WS-TLS%204%E2%83%A3
 trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&fp=chrome&type=ws&path=/&host=store.timimi.dpdns.org#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20-%20NA%20%F0%9F%8C%8D%20TR-WS-TLS%204%E2%83%A3
 trojan://trojan@104.18.13.229:8443?security=tls&sni=pangpi.pages.dev&fp=chrome&type=ws&path=/&host=pangpi.pages.dev#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20TR-WS-TLS%204%E2%83%A3
