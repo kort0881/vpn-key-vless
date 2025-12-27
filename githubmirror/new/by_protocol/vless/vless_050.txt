@@ -1,5 +1,3 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.47:8880?mode=gun&security=none&encryption=none&type=grpc#FR_5943_@Surfboardv2ray
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.5:8880?mode=gun&security=none&encryption=none&type=grpc#FR_5944_@Surfboardv2ray
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.69:8880?mode=gun&security=none&encryption=none&type=grpc#FR_5945_@Surfboardv2ray
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.89:8880?mode=gun&security=none&encryption=none&type=grpc#FR_5946_@Surfboardv2ray
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@217.69.7.35:8880?mode=gun&security=none&encryption=none&type=grpc#FR_5947_@Surfboardv2ray
@@ -498,3 +496,5 @@ vless://e7667070-6bb1-4957-dbae-859e537c0f92@Free.fast199.hosting-ip.com:80?mode
 vless://e7667070-6bb1-4957-dbae-859e537c0f92@Free.fast199.hosting-ip.com:80?type=xhttp&encryption=none&path=/@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam&host=Mahsazxshop.org&mode=auto&security=none#GB_6465_@Surfboardv2ray
 vless://e78339f1-2a10-4b9a-ab97-154fb53affbf@invoker.fonixapp.org:40388?security=reality&encryption=none&pbk=9TRNqh5LFeGA6ZkHZyV5l6fB3lOTgk_HaAviYi5MOQY&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=grammarly.com&sid=b19de72e#DE_6466_@Surfboardv2ray
 vless://e78a4c35-b1ce-43c5-9a1c-7e120b6bf16c@91.98.232.80:8880/?type=tcp&encryption=none&flow=#DE_6467_@Surfboardv2ray
+vless://e78a4c35-b1ce-43c5-9a1c-7e120b6bf16c@91.98.232.80:8880?security=&encryption=none&headerType=none&type=tcp#DE_6468_@Surfboardv2ray
+vless://e78a4c35-b1ce-43c5-9a1c-7e120b6bf16c@91.98.232.80:8880?security=none&encryption=none&headerType=none&type=tcp#DE_6469_@Surfboardv2ray
