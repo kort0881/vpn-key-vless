@@ -161,11 +161,21 @@ trojan://44e660b0ee21cf3ac66aee2c08af85d2@153.121.67.215:3093?security=tls&sni=w
 trojan://44e660b0ee21cf3ac66aee2c08af85d2@153.121.53.187:3169?sni=www.nintendogames.net&path=/#@Vip_Security join us - 394
 trojan://13e71ddb-908c-45e0-993c-da482d848c88@seashell.qzz.io:443?type=ws&host=seashell.qzz.io&path=/156.254.114.120:30011&security=tls&sni=seashell.qzz.io&allowInsecure=1#@Vip_Security join us - 393
 trojan://0507fbcd-b983-43a7-8e1d-2c561960ad4f@a76-4179-8a78-c8b78b3c00cb.664.qzz.io:443?security=tls&sni=A76-4179-8a78-c8B78B3C00Cb.664.QZz.iO&type=ws&path=/E2JXJM5geneWfr9noOhn#@Vip_Security join us - 392
-trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&allowInsecure=true#👉🆔@v2ray_configs_pool📡🇪🇸®️Spain©️Barcelona🅿️ping:44.88ms
-trojan://22367c45-f6c4-4ca8-8d52-d9787d7bbe91@cf.877774.xyz:2087#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22.24ms
-trojan://22367c45-f6c4-4ca8-8d52-d9787d7bbe91@ct.090227.xyz:443#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22.03ms
-trojan://87d1bfd4-574e-4c96-ad42-0426f27461ff@mfa.gov.ua:443#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22.34ms
-trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?sni=5.188.108.13&allowInsecure=1&fp=chrome#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%B5%F0%9F%87%B1PL_1%20%F0%9F%A7%AD%204.5MB%2Fs
+trojan://3bc392b4-ab17-4870-ace6-e968f93c4ac6@dl-hk3.steamdownload.top:443/?type=tcp&security=tls&sni=data-hk.xn--vur082k.cc#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:80ms
+trojan://Aimer@206.238.237.86:2087/?type=tcp&security=tls&sni=agepy.ambercc.filegear-sg.me&allowInsecure=1#👉🆔@v2ray_configs_pool📡🇸🇬®️Singapore©️Singapore🅿️ping:22ms
+trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&headerType=none&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇹®️Italy©️Milan🅿️ping:31ms
+trojan://b80Iy90Fma@104.26.9.227:443/?type=tcp&security=tls&sni=usa03.rtx.al#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:22ms
+trojan://cf142ac0-4bae-4c4b-9882-21fc0550a661@188.114.97.3:443?security=tls&sni=red-dream-2d6c.xepis84786.workers.dev&fp=chrome&type=ws&host=red-dream-2d6c.xepis84786.workers.dev&path=%2F%3Fed%3D2560#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:23ms
+trojan://cf142ac0-4bae-4c4b-9882-21fc0550a661@www.speedtest.net:443?security=tls&sni=red-dream-2d6c.xepis84786.workers.dev&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=red-dream-2d6c.xepis84786.workers.dev&path=%2F%3Fed%3D2560#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:45ms
+trojan://tunnel-astrovpn_official028@188.208.110.58:8441?security=tls&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev.AstroVPN_Official.org.AstroVPN.com.AstroVPN_Official.xyz.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.monster.AstroVPN_OfficialJoinTelegram-------------AstroVPN_Official----------Join.ir&alpn=http/1.1&allowInsecure=1&type=tcp&headerType=none&host=188.208.110.58#👉🆔@v2ray_configs_pool📡🇷🇴®️Romania©️Lisaura🅿️ping:145ms
+trojan://tunnel-astrovpn_official918@195.133.92.56:8441?security=tls&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev.AstroVPN_Official.org.AstroVPN.com.AstroVPN_Official.xyz.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.monster.AstroVPN_OfficialJoinTelegram-------------AstroVPN_Official----------Join.ir&alpn=http/1.1&allowInsecure=1&type=tcp&headerType=none&host=195.133.92.56#👉🆔@v2ray_configs_pool📡🇵🇹®️Portugal©️Porto🅿️ping:56ms
+trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&allowInsecure=true#👉🆔@v2ray_configs_pool📡🇪🇸®️Spain©️Barcelona🅿️ping:47.01ms
+trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=api.avito.ru&note=@freeOnlineVPN#👉🆔@v2ray_configs_pool📡🇮🇹®️Italy©️Milan🅿️ping:30.39ms
+trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051/?type=tcp&security=tls&sni=api.avito.ru&allowInsecure=1&note=@freeOnlineVPN#👉🆔@v2ray_configs_pool📡🇮🇹®️Italy©️Milan🅿️ping:30.39ms
+trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?sni=api.avito.ru&allowInsecure=1&fp=chrome&note=@freeOnlineVPN#👉🆔@v2ray_configs_pool📡🇮🇹®️Italy©️Milan🅿️ping:30.39ms
+trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&sni=api.avito.ru&allowInsecure=1&type=tcp&headerType=none&note=@freeOnlineVPN#👉🆔@v2ray_configs_pool📡🇮🇹®️Italy©️Milan🅿️ping:30.39ms
+trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&insecure=1&headerType=&fp=chrome&type=tcp&allowInsecure=1&sni=api.avito.ru&note=@freeOnlineVPN#👉🆔@v2ray_configs_pool📡🇮🇹®️Italy©️Milan🅿️ping:30.39ms
+trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3093?security=tls&sni=www.nintendogames.net&path=/#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Osaka🅿️ping:248.38ms
 trojan://trojan@ip.sb:8443?path=%2F&security=tls&insecure=1&host=fofang.pages.dev&type=ws&allowInsecure=1&sni=fofang.pages.dev#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 trojan://a5inYFE%3DJGV89%2BhjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AA%F0%9F%87%B8
 trojan://22367c45-f6c4-4ca8-8d52-d9787d7bbe91@ct.090227.xyz:443?path=%2Fproxyip%3D210.61.97.241%3A81&security=tls&host=cm2-bpg.filegear-sg.me&type=ws&sni=cm2-bpg.filegear-sg.me#@meli_proxyy
@@ -488,13 +498,3 @@ trojan://NISHIKUITAN111@104.21.18.51:443/?type=tcp&security=tls#%40Hope_Net-join
 trojan://blue2024@104.16.254.101:443/?type=tcp&security=tls&sni=ha.lii2010.us.kg#%40Hope_Net-join-us-on-Telegram
 trojan://NISHIKUITAN111@104.24.71.245:443/?type=tcp&security=tls#%40Hope_Net-join-us-on-Telegram
 trojan://blue2024@104.20.8.70:443/?type=tcp&security=tls
-trojan://blue2024@icook.tw:443/?type=tcp&security=tls&sni=ta.promote.icu#%40Hope_Net-join-us-on-Telegram
-trojan://blue2024@66.235.200.173:443/?type=tcp&security=tls&sni=ta.promote.icu#%40Hope_Net-join-us-on-Telegram
-trojan://blue2024@104.16.105.39:443/?type=ws&host=ta.promote.icu&path=%2F%3Fed%3D2560&security=tls&sni=ta.promote.icu#%40Hope_Net-join-us-on-Telegram
-trojan://blue2024@104.17.165.253:443/?type=ws&host=ta.promote.icu&path=%2F%3Fed%3D2560&security=tls&sni=ta.promote.icu#%40Hope_Net-join-u...
-trojan://yaml777@104.21.61.73:443/?type=ws&path=%2F&security=tls&sni=yaml7.ggff.net#%F0%9F%8F%81RELAY-104.21.61.73-0839
-trojan://blue2024@162.159.21.210:443/?type=tcp&security=tls&sni=ta.promote.icu#%40Hope_Net-join-us-on-Telegram
-trojan://blue2024@172.64.156.166:443/?type=ws&host=ta.promote.icu&path=%2F%3Fed%3D2560&security=tls&sni=ta.promote.icu#%F0%9F%AB%9122%40oneclickvpnkeys
-trojan://blue2024@104.16.255.10:443/?type=ws&host=ta.promote.icu&path=%2F%3Fed%3D2560&security=tls&sni=ta.promote.icu#%F0%9F%AB%9115%40oneclickvpnkeys
-trojan://blue2024@162.159.135.218:443/?type=ws&host=ta.promote.icu&path=%2F%3Fed%3D2560&security=tls&sni=ta.promote.icu#%F0%9F%AB%9128%40oneclickvpnkeys
-trojan://blue2024@104.18.46.185:443/?type=ws&host=ta.promote.icu&path=%2F%3Fed%3D2560&security=tls&sni=ta.promote.icu#%F0%9F%AB%9129%40oneclickvpnkeys
