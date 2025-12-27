@@ -1,3 +1,4 @@
+vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@104.18.82.55:443?path=/?ed=2560&security=tls&alpn=h3&encryption=none&fp=chrome&type=ws&sni=vless.hubp.de#𝗝𝗼𝗶𝗻
 vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@104.18.82.55:443?path=/?ed=2560&security=tls&alpn=h3&encryption=none&host=vless.hubp.de&fp=chrome&type=ws&sni=vless.hubp.de#@IRAN_V2RAY1
 vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@104.18.82.55:443?path=/?ed=2560&security=tls&alpn=h3&encryption=none&host=vless.hubp.de&fp=chrome&type=ws&sni=vless.hubp.de#Join
 vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@104.18.82.55:443?path=/?ed=Join---T?ed=512&security=tls&alpn=h3&encryption=none&host=vless.hubp.de&fp=chrome&type=ws&sni=vless.hubp.de#@vmesskhodam
@@ -497,4 +498,3 @@ vless://2bd0516b-d354-4b73-a198-9d826ab478ae@vlgr3.g2ray.com:443?encryption=none
 vless://2bd0516b-d354-4b73-a198-9d826ab478ae@vlgr3.g2ray.com:443?encryption=none&security=tls&type=ws&path=🔒
 vless://2bd0516b-d354-4b73-a198-9d826ab478ae@vlnl.g2ray.com:443?encryption=none&flow=xtls-rprx-direct&security=xtls&type=tcp&headerType=none
 vless://2bd0516b-d354-4b73-a198-9d826ab478ae@vlnl.g2ray.com:443?encryption=none&security=tls&type=tcp&headerType=none
-vless://2bd0516b-d354-4b73-a198-9d826ab478ae@vlnl.g2ray.com:443?encryption=none&security=tls&type=ws&path=🔒

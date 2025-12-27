@@ -1,3 +1,4 @@
+vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@94.131.9.157:2096/?type=ws&encryption=none&flow=&path=🔒
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@94.131.9.157:443/?type=ws&encryption=none&flow=&path=🔒
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@94.131.9.157:443?path=🔒
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@94.131.9.157:8443/?type=ws&encryption=none&flow=&path=🔒
@@ -497,4 +498,3 @@ vless://aa2dc840-be38-4b4d-a002-ba234999fd55@162.159.243.231:8080?allowInsecure=
 vless://aa2dc840-be38-4b4d-a002-ba234999fd55@172.67.133.19:8080/?type=ws&encryption=none&host=cdn-allxn--b6gaceuorg.l4o117en.workers.dev
 vless://aa2dc840-be38-4b4d-a002-ba234999fd55@172.67.69.34:8080/?type=ws&encryption=none&flow=&host=cdn-allxnb6gaceuorg.l4o117en.workers.dev&path=🔒
 vless://aa2dc840-be38-4b4d-a002-ba234999fd55@172.67.69.34:8080/?type=ws&encryption=none&host=cdn-allxnb6gaceuorg.l4o117en.workers.dev&path=%252...
-vless://aa374d55-b368-4121-8f02-7e6bd9ef1924@194.182.79.43:25245?mode=gun&security=reality&encryption=none&authority=&pbk=uv1gMqjxJ-bF5Xjix_d5M4qGK0-VmGyrU5ZMtiXrhHg&fp=chrome&spx=/&type=grpc&serviceName=Join-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&sni=🔒

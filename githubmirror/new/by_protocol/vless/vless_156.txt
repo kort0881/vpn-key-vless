@@ -1,3 +1,4 @@
+vless://1c9054be-74c1-472e-948a-f915de932c8e@91.99.191.47:80?security=none&encryption=none&headerType=none&type=tcp#All-@V2ray_Alpha--32
 vless://1ca86bf5-dafc-4c7f-9396-4dc7acca9d31@188.227.84.160:8443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp
 vless://1ca86bf5-dafc-4c7f-9396-4dc7acca9d31@188.227.84.160:8443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#https://t.me/v2raynplus
 vless://1cb3b1fe-b79c-49a2-a4bf-c24bc882925e@dontgetbanned.itskills180d.top:8443?path=/&security=tls&encryption=none&fp=chrome&type=ws&sni=dontgetbanned.itskills180d.top#@sunflowerplato🌻
@@ -497,4 +498,3 @@ vless://219d848d-60f2-4321-8275-72b9b575b37e@160.79.105.144:443/?type=ws&encrypt
 vless://219d848d-60f2-4321-8275-72b9b575b37e@162.159.128.165:443/?type=ws&encryption=none&host=qaa.zhuk.us.kg&path=🔒
 vless://219d848d-60f2-4321-8275-72b9b575b37e@162.159.152.138:443/?type=ws&encryption=none&host=qaa.zhuk.us.kg&path=🔒
 vless://219d848d-60f2-4321-8275-72b9b575b37e@172.64.97.73:443/?type=ws&encryption=none&host=qaa.zhuk.us.kg&path=🔒
-vless://219d848d-60f2-4321-8275-72b9b575b37e@173.245.49.1:443/?type=ws&encryption=none&host=qaa.zhuk.us.kg&path=🔒

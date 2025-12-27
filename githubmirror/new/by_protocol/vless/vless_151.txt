@@ -1,3 +1,4 @@
+vless://07b21c46-7b7a-4af8-aec9-a0f0c63ccff8@magnataur.fonixapp.org:40875?security=reality&encryption=none&pbk=6iM1yNyz4NaAgsjL5b_GrKmCH5lJ8iNXejgNSrWHPgk&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=🔒
 vless://07b804cf-beaf-4f8b-b664-5dc675636a78@217.114.40.8:6100?security=none&encryption=none&host=cafeariel.ir&headerType=http&type=tcp
 vless://07b9b10c-1d37-4ccb-bfdb-0c95abe15cbf@172.66.46.246:443?path=🔒
 vless://07c98d86-94d3-4c5e-bbe5-6c485919e673@195.201.32.108:8082?security=reality&sni=🔒
@@ -497,4 +498,3 @@ vless://0d0782a3-2c62-4936-b893-5790188778ea@37.221.125.172:443?path=/&security=
 vless://0d0782a3-2c62-4936-b893-5790188778ea@37.221.125.172:443?path=🔒
 vless://0d0782a3-2c62-4936-b893-5790188778ea@45.12.138.8:443?encryption=none&security=tls&insecure=1&allowInsecure=1&type=ws&path=/#@Daily_Configs
 vless://0d0782a3-2c62-4936-b893-5790188778ea@45.12.138.8:443?encryption=none&security=tls&insecure=1&allowInsecure=1&type=ws&path=🔒
-vless://0d0782a3-2c62-4936-b893-5790188778ea@45.12.138.8:443?path=%2F&security=tls&encryption=none&type=ws#I%2036%20%28%40Outline_Vpn%29%20free

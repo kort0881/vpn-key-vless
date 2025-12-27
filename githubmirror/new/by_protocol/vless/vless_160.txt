@@ -1,3 +1,4 @@
+vless://2bd0516b-d354-4b73-a198-9d826ab478ae@vlnl.g2ray.com:443?encryption=none&security=tls&type=ws&path=🔒
 vless://2bd0516b-d354-4b73-a198-9d826ab478ae@vlse.g2ray.com:443?encryption=none&flow=xtls-rprx-direct&security=xtls&type=tcp&headerType=none
 vless://2bd0516b-d354-4b73-a198-9d826ab478ae@vlse.g2ray.com:443?encryption=none&security=tls&type=tcp&headerType=none
 vless://2bd0516b-d354-4b73-a198-9d826ab478ae@vlse.g2ray.com:443?encryption=none&security=tls&type=ws&path=🔒
@@ -497,4 +498,3 @@ vless://2ee2a715-d541-416a-8713-d66567448c2e@91.99.210.212:443?mode=gun&security
 vless://2ee2a715-d541-416a-8713-d66567448c2e@91.99.210.212:443?mode=gun&security=none&encryption=none&type=grpc#I%2037%20%28%40Outline_Vpn%29%20free
 vless://2ee2a715-d541-416a-8713-d66567448c2e@91.99.210.212:443?mode=gun&security=none&encryption=none&type=grpc#WiFi-@V2rayAlpha--8
 vless://2ee2a715-d541-416a-8713-d66567448c2e@91.99.210.212:443?mode=gun&security=none&encryption=none&type=grpc#azadiiivpn
-vless://2ee2a715-d541-416a-8713-d66567448c2e@91.99.210.212:443?mode=gun&security=none&encryption=none&type=grpc&serviceName=

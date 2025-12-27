@@ -1,3 +1,4 @@
+vless://d7a55270-00f9-4054-865d-0e2fbad22ca9@151.101.194.219:443?security=tls&sni=🔒
 vless://d7ab62fc-7ec8-4bb3-a9af-269289c0f11f@172.66.40.99:8080?encryption=none&security=none&type=ws&host=www.speedtest.net.tax.gov.ir.aparat.com.a.3.jEy.dPdNs.org.&path=🔒
 vless://d7b33e23-42be-4fdd-c3f9-50582d0c4236@cltechip-mci.argha-v2pedia.monster:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia&sni=🔒
 vless://d7bbfe83-b037-48ae-996c-b98ed0441ba2@185.146.173.32:443?path=%2Ftel.icv2ray.spacefp&security=tls&encryption=none&type=ws&sni=e10c0e4b.oodaeq2.pages.dev#RELAY🚩
@@ -497,4 +498,3 @@ vless://db162b74-0da8-4c69-8b17-2d89defabc24@root.api-music-fa.com:2053?path=�
 vless://db19fc68-c027-4641-a8eb-eed3e1065c8a@amin.karkas1.ir:443/?type=grpc&encryption=none&serviceName=EJUVVd6sh0f9J6drcXIcStL&security=tls&sni=amin.karkas1.ir&alpn=h2&fp=safari#%E2%9D%94%20XX%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40xrayzxn%20%5B7%5D
 vless://db19fc68-c027-4641-a8eb-eed3e1065c8a@amin.karkas1.ir:443?mode=gun&security=tls&encryption=none&alpn=h2&fp=safari&type=grpc&serviceName=EJUVVd6sh0f9J6drcXIcStL&sni=amin.karkas1.ir#%E2%9D%94%20XX%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40xrayzxn%20%5B7%5D
 vless://db19fc68-c027-4641-a8eb-eed3e1065c8a@amin.karkas1.ir:443?mode=gun&security=tls&encryption=none&alpn=h2&fp=safari&type=grpc&serviceName=EJUVVd6sh0f9J6drcXIcStL&sni=🔒
-vless://db2d45c5-4cb4-4f18-9849-18c1ee0d5be7@151.101.194.219:80/?type=xhttp&encryption=none

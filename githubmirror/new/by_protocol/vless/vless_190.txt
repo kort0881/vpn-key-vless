@@ -1,3 +1,4 @@
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@95.164.18.39:443?path=🔒
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@95.164.18.39:8443?encryption=none&security=tls&allowInsecure=1&type=ws&path=🔒
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@95.164.18.5:2052?path=🔒
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@95.164.18.5:2082?path=/&security=none&encryption=none&host=/?BIA_TELEGRAM@v2ray_configs_pools&type=ws#✅
@@ -497,4 +498,3 @@ vless://Parsashonam-317@91.99.179.233:443?mode=auto&path=/Parsashonam-Parsashona
 vless://Parsashonam-317@91.99.179.233:443?mode=auto&path=🔒
 vless://Parsashonam-318@185.146.173.39:8080?path=/Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam&security=none&encryption=none&host=De.Parsashonam.CFD.&type=httpupgrade#azadiiivpn
 vless://Parsashonam-318@185.146.173.39:8080?path=🔒
-vless://Parsashonam-318@91.99.179.233:443?type=xhttp&encryption=none&path=🔒

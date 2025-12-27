@@ -1,3 +1,4 @@
+vless://74ea5905-0f26-4261-986c-0717ed34815d@95.217.163.167:12344?security=tls&sni=🔒
 vless://74ea5905-0f26-4261-986c-0717ed34815d@dl.magnataur.uk:12344?security=tls&type=grpc&encryption=none
 vless://74ee8b58-b56f-4145-b61c-9fbc1952208a@104.20.185.180:2082?path=🔒
 vless://75035d9c-d1df-4169-86d8-b65c1f697db4@104.21.3.52:443?security=tls&sni=🔒
@@ -497,4 +498,3 @@ vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.18:443?path=/&security=tl
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.18:443?path=/?ed=2048@v2ray_configs_pools&security=tls&encryption=none&fp=chrome&type=ws#@v2ray_configs_pools👈⚡❤️‍🔥
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.18:443?path=🔒
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.19:443/?type=ws&encryption=none&flow=&path=🔒
-vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.19:443?encryption=none&security=tls&allowInsecure=1&type=ws&path=🔒

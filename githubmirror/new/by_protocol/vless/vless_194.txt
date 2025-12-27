@@ -1,3 +1,4 @@
+vless://a19fd311-c343-4b54-9ca3-fe6dcd84c0fc@38.47.176.134:59967/?type=tcp&encryption=none&flow=&packetEncoding=xudp
 vless://a1a0cb28-2cdd-4fb5-beb6-ce13735567a0@151.101.25.242:80?mode=auto&path=%2F%3Fed%3D2560&security=none&encryption=none&host=maxde22.global.ssl.fastly.net&type=xhttp#US🇺🇸
 vless://a1a0cb28-2cdd-4fb5-beb6-ce13735567a0@151.101.25.242:80?mode=auto&path=/?ed=#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&security=none&encryption=none&host=maxde22.global.ssl.fastly.net&type=xhttp#@MARAMBASHI
 vless://a1a0cb28-2cdd-4fb5-beb6-ce13735567a0@151.101.25.242:80?mode=auto&path=/?ed=2560&security=none&encryption=none&host=maxde22.global.ssl.fastly.net&type=xhttp#All-@V2rayAlpha--12
@@ -497,4 +498,3 @@ vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@94.131.9.12:2096/?type=ws&encryptio
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@94.131.9.12:443/?type=ws&encryption=none&flow=&path=🔒
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@94.131.9.12:443?path=🔒
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@94.131.9.12:8443/?type=ws&encryption=none&flow=&path=🔒
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@94.131.9.157:2096/?type=ws&encryption=none&flow=&path=🔒
