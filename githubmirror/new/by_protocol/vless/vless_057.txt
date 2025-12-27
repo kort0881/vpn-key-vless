@@ -1,3 +1,9 @@
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@192.200.160.211:443?security=tls&sni=ax.ylks.xyz&type=ws&host=ax.ylks.xyz&path=%2Fblue# VL-WS-TLS  US-192.200.160.211:443
+vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@206.238.236.213:80?security=none&type=ws&host=late-tooth.granzinhannah.workers.dev&path=%2FTelegram%40NETMelliAnti%3Fed%3D2560# VL-WS-NONE  SG-206.238.236.213:80
+vless://2928d83a-ca75-4d52-b437-fa78c7601378@172.64.35.173:443?security=tls&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560# VL-WS-TLS  NA-172.64.35.173:443
+vless://c393a438-4503-43b9-9a8b-977d75f010bd@217.18.90.84:443?security=none&type=tcp&host=neshan.org&headerType=http# VL-TCP-NONE  NL-217.18.90.84:443
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.59.70:2053?security=tls&sni=MaHdisErVEr-asl.pAGEs.DEv&type=ws&host=mAHdIserveR-asL.paGES.dEv&path=%2F9wUhFMKgsGMqAUO6%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1# VL-WS-TLS  NA-104.18.59.70:2053
+vless://217b48d6-5dac-4662-9a8c-aa76e92a7cfe@151.101.66.216:80?security=none&type=ws&host=befreewithus.com&path=ws%2F%3Fed%3D2048# VL-WS-NONE  US-151.101.66.216:80
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@190.93.247.12:443?security=tls&sni=lm.kpcloud.eu.org&type=ws&host=lm.kpcloud.eu.org&path=%2F%3Fed%3D2048# VL-WS-TLS  NA-190.93.247.12:443
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@190.93.245.166:443?security=tls&sni=cg.ylks.xyz&type=ws&host=cg.ylks.xyz&path=%2Fblue# VL-WS-TLS  NA-190.93.245.166:443
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.59:2083?security=tls&sni=BPB-wOrKeR-pAnEl-Brh.PAGEs.dEv&type=ws&host=bpb-worker-panel-brh.pages.dev&path=%2F2HwPUy2BvnIRXUYb%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1# VL-WS-TLS  NA-172.66.44.59:2083
@@ -492,9 +498,3 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.193.71:443?security=tls&sni=
 vless://941c2aaf-96e7-4316-87d5-35feed4f01ba@104.21.69.44:2083?security=tls&sni=APkdOwNLoad.MiRAclehEArTbit.iCu&type=httpupgrade&host=APkdOwNLoad.MiRAclehEArTbit.iCu&path=%2F%40V2RayyNGvpn%3Fed%3D2048&fp=chrome&alpn=h2,http/1.1# VL-HTTPUPGRADE-TLS  NA-104.21.69.44:2083
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@216.24.57.108:443?security=tls&sni=ad.ylks.xyz&type=ws&host=ad.ylks.xyz&path=%2F%3Fproxyip%3Dproxyip.us.fxxk.dedyn.io# VL-WS-TLS  US-216.24.57.108:443
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@198.41.205.239:443?security=tls&sni=aj.ylks.xyz&type=ws&host=aj.ylks.xyz&path=%2F%3Fed%3D2048# VL-WS-TLS  NA-198.41.205.239:443
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@188.114.98.191:443?security=tls&sni=an.ylks.xyz&type=ws&host=an.ylks.xyz&path=%2F%3Fed%3D2048# VL-WS-TLS  NA-188.114.98.191:443
-vless://075a365b-b0c7-4ba3-b5a6-597850c223f9@104.16.3.35:8880?security=none&type=ws&host=sinaazizpor.wapgiz.workers.dev&path=%2F%3Fed%3D2048# VL-WS-NONE  NA-104.16.3.35:8880
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.41.216.16:443?security=tls&sni=lm.kpcloud.eu.org&type=ws&host=lm.kpcloud.eu.org&path=%2F%3Fed%3D2048# VL-WS-TLS  NA-198.41.216.16:443
-vless://2f0bcd99-3751-4d9d-acd4-e67b2a38c828@104.18.53.172:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2# VL-WS-TLS  NA-104.18.53.172:443
-vless://ef7adb9b-0f1c-4eef-99c2-7e500094a284@104.22.38.61:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960008.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2# VL-WS-TLS  NA-104.22.38.61:443
-vless://571f64c7-bff0-4d33-8765-56ad2334cb55@104.22.52.235:443?security=tls&sni=ca.ailicf.us.kg&type=ws&host=ca.ailicf.us.kg&path=%2Fascb&allowInsecure=1# VL-WS-TLS  NA-104.22.52.235:443
