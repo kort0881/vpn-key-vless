@@ -1,8 +1,3 @@
-vless://723c46be-ac60-4675-8f3f-a1529d41c338@104.19.47.63:443?path=/proxyip=kr.william.us.ci:443?ed=2560&security=tls&encryption=none&host=a.azrf.me&fp=chrome&type=ws&sni=a.azrf.me#All-@V2rayAlpha--18
-vless://723c46be-ac60-4675-8f3f-a1529d41c338@172.67.68.196:443?path=/&security=tls&encryption=none&host=a.azrf.me&fp=chrome&type=ws&sni=a.azrf.me#All-@V2rayAlpha--20
-vless://723c46be-ac60-4675-8f3f-a1529d41c338@198.41.209.148:443?path=/proxyip=kr.william.us.ci:443?ed=2560&security=tls&encryption=none=&host=a.azrf.me&fp=chrome&type=ws&sni=a.azrf.me#@bored_vpn
-vless://723c46be-ac60-4675-8f3f-a1529d41c338@198.41.209.148:443?path=/proxyip=kr.william.us.ci:443?ed=2560&security=tls&encryption=none=/@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@TEHRANARGO&host=a.azrf.me&fp=chrome&type=ws&sni=a.azrf.me#@TEHRANARGO
-vless://723c46be-ac60-4675-8f3f-a1529d41c338@mfa.gov.ua:443?path=/proxyip=kr.william.us.ci:443?ed=2560&security=tls&encryption=none&host=a.azrf.me&fp=chrome&type=ws&sni=a.azrf.me#All-@V2rayAlpha--21
 vless://7270612b-49f6-4b04-999c-34d8263da767@108.162.195.45:443?path=/aymdlws&security=tls&encryption=none&host=picassoo.info&fp=chrome&type=ws&sni=picassoo.info#[]  @V2ray_official
 vless://7270612b-49f6-4b04-999c-34d8263da767@108.162.195.45:443?path=/aymdlws&security=tls&encryption=none&host=picassoo.info&type=ws&sni=picassoo.info#@bored_vpn
 vless://7270612b-49f6-4b04-999c-34d8263da767@108.162.195.45:443?path=/aymdlws&security=tls&encryption=none&host=picassoo.info&type=ws&sni=picassoo.info#@mehrosaboran
@@ -498,3 +493,8 @@ vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@tgju.org:443?security=tls&alpn=h2ht
 vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?encryption=none&security=tls&sni=6389113402676776510.VtNeT.infO&type=ws&alpn=h2http/1.1&host=&path=/#telegram  v2ray_configs_pools
 vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?encryption=none&security=tls&sni=havij.mrconfigur.site&insecure=0&allowInsecure=0&type=ws&path=/#@Daily_Configs
 vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?encryption=none&security=tls&sni=nargil.mrconfigur.site&insecure=0&allowInsecure=0&type=ws&host=nargil.mrconfigur.site&path=/#@Daily_Configs
+vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?encryption=none&security=tls&sni=piaz.mrconfigur.site&insecure=0&allowInsecure=0&type=ws&host=piaz.mrconfigur.site&path=/#@Daily_Configs
+vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?path=/&security=tls&encryption=none&host=kahoo.mrconfigur.site&type=ws&sni=kahoo.mrconfigur.site#  : @V2Gatee
+vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?path=/&security=tls&encryption=none&host=nargil.mrconfigur.site&type=ws&sni=nargil.mrconfigur.site#@FreakConfig
+vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?path=/&security=tls&encryption=none&host=piaz.mrconfigur.site&type=ws&sni=piaz.mrconfigur.site#@IRAN_V2RAY1
+vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?path=/&security=tls&encryption=none&host=piaz.mrconfigur.site&type=ws&sni=piaz.mrconfigur.site#@FreakConfig
