@@ -3049,6 +3049,10 @@ trojan://1Z%23.lL57MaJA+txGN8SEv@45.77.216.146:25727/?type=tcp&amp;security=tls&
 trojan://telegram-id-directvpn@52.59.43.9:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#OurChannel
 trojan://telegram-id-privatevpns@52.47.92.82:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#T.me%2FSafeNet_Server+%F0%9F%92%9A%F0%9F%A4%8D%E2%9D%A4
 trojan://LxJCPOP40a@206.206.77.237:51469?type=grpc&security=reality&fp=chrome&pbk=nlxKGGnvTUULdJlG1vfRbiG9IFrbFYC9VMnMWNH_A3s&sni=cloudflare.com&sid=793dfc59cf7edf#[🇸🇬] [tr-re-gr] [251227-163815.690]
+trojan://F6xOQXz%3Drp7yeiNV@134.195.197.69:19579?security=tls&sni=goodmorning.dancingbrick.click&insecure=1&allowInsecure=1&type=tcp&headerType=none#0439%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%7C%20TROJAN%20%7C%20TG%3A%20%40STR_BYPASS
+trojan://X27DCuibXl@verakz1.uspn.io:443?security=tls&sni=verakz1.uspn.io&insecure=1&allowInsecure=1&type=ws&host=verakz1.uspn.io&path=%2Ftrojan#0502%20%7C%20%F0%9F%8C%8D%20Unknown%20%7C%20TROJAN%20%7C%20TG%3A%20%40STR_BYPASS
+trojan://sMed9E7gA1@verahk1.uspn.io:443?security=tls&insecure=1&allowInsecure=1&type=ws&host=verahk1.uspn.io&path=%2Ftrojan#0595%20%7C%20%F0%9F%8C%8D%20Unknown%20%7C%20TROJAN%20%7C%20TG%3A%20%40STR_BYPASS
+trojan://oUFBC3Vs2rYmN8_bR-P7quoL@45.129.3.220:10668?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20Russia%2C%20Moscow%20%5BBL%5D
 trojan://bpb-trojan@104.21.75.193:443?security=none&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20TR-TCP-NONE%204%E2%83%A3
 trojan://trojan@104.26.13.31:8443?security=tls&sni=qianlang.pages.dev&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=qianlang.pages.dev#%F0%9F%87%B3%F0%9F%87%A6%20Namibia%20-%20NA%20%F0%9F%8C%8D%20TR-WS-TLS%204%E2%83%A3
 trojan://44e660b0ee21cf3ac66aee2c08af85d2@153.121.39.240:4054?security=tls&sni=www.nintendogames.net&path=%2f#%f0%9f%87%af%f0%9f%87%b5%20JP%2010
