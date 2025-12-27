@@ -1,7 +1,3 @@
-vless://d002299a-418f-4d76-a04a-50837b44227e@172.66.40.99:8880?encryption=none&type=ws&host=websocket.network.www.speedtest.net.kkoccashor.vegaskala.com.&path=🔒
-vless://d00d13b2-5cd3-4648-afa9-807983647ed8@144.31.3.129:443?encryption=none&type=ws&host=sinavm.ir&path=/&security=none#🇵🇱@SiNAVM
-vless://d00d13b2-5cd3-4648-afa9-807983647ed8@144.31.3.129:443?encryption=none&type=ws&host=sinavm.ir&path=🔒
-vless://d00d13b2-5cd3-4648-afa9-807983647ed8@144.31.3.129:443?path=/&security=&encryption=none&host=sinavm.ir&type=ws#@V2ray_confing33
 vless://d00d13b2-5cd3-4648-afa9-807983647ed8@144.31.3.129:443?path=/&security=none&encryption=none&host=sinavm.ir&type=ws#🇵🇱@vpnserverrrکانال
 vless://d00d13b2-5cd3-4648-afa9-807983647ed8@144.31.3.129:443?path=/&security=none&encryption=none&type=ws#🇵🇱
 vless://d00d13b2-5cd3-4648-afa9-807983647ed8@144.31.3.129:443?path=🔒
@@ -498,3 +494,7 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@95.164.51.24:2501?allowInsecure=0&s
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@[::ffff:104.18.186.83]:443?security=tls&sni=🔒
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@ab841.ir.ip-dynamic.org:443?path=🔒
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@ab841.ir.ip-dynamic.org:80?path=🔒
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@ab841.zula.ir.ip-dynamic.org:443?path=🔒
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@cloudflare.182682.xyz:443?encryption=none&security=tls&sni=🔒
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@cloudflare.182682.xyz:443?path=🔒
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@creativecommons.org:2086?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=index.0x15.workers.dev&path=%2FPdgTMW8NBNZYo6L23v&security=none&type=ws#REvil¹⁹⁹

@@ -1,7 +1,3 @@
-vless://f028a8c0-6763-4558-aee3-2563db9d7825@serena.ns.cloudflare.com:443?encryption=none&security=tls&sni=freudd.info&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=freudd.info&path=/xxvclws#@Daily_Configs
-vless://f028a8c0-6763-4558-aee3-2563db9d7825@serena.ns.cloudflare.com:443?encryption=none&security=tls&sni=freudd.info&insecure=1&allowInsecure=1&type=ws&host=freudd.info&path=/xxvclws#@Daily_Configs
-vless://f028a8c0-6763-4558-aee3-2563db9d7825@serena.ns.cloudflare.com:443?encryption=none&security=tls&sni=🔒
-vless://f028a8c0-6763-4558-aee3-2563db9d7825@serena.ns.cloudflare.com:443?path=%2Fxxvclws&security=tls&encryption=none&fp=chrome&type=ws&sni=freudd.info#%40VMESSIR4N%20%D8%AC%D9%87%D8%AA%20%D8%AE%D8%B1%DB%8C%D8%AF%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF
 vless://f028a8c0-6763-4558-aee3-2563db9d7825@serena.ns.cloudflare.com:443?path=%2Fxxvclws&security=tls&encryption=none&host=freudd.info&fp=chrome&type=ws&sni=freudd.info#%40V2RAY_VMESS_free
 vless://f028a8c0-6763-4558-aee3-2563db9d7825@serena.ns.cloudflare.com:443?path=%2Fxxvclws&security=tls&encryption=none&host=freudd.info&fp=chrome&type=ws&sni=freudd.info#I%2033%20%28%40Outline_Vpn%29%20free
 vless://f028a8c0-6763-4558-aee3-2563db9d7825@serena.ns.cloudflare.com:443?path=%2Fxxvclws&security=tls&encryption=none&host=freudd.info&type=ws&sni=freudd.info#%40V2RAY_VMESS_free
@@ -498,3 +494,7 @@ vless://f3fcb0be-c785-4791-bd88-335dd20f0c1e@188.42.145.140:443?encryption=none&
 vless://f3fcb0be-c785-4791-bd88-335dd20f0c1e@188.42.88.78:443?encryption=none&security=tls&sni=🔒
 vless://f4061b1a-3743-4c58-8ad2-31b368e9a130@212.23.214.199:48265?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp
 vless://f4061b1a-3743-4c58-8ad2-31b368e9a130@212.23.214.199:48265?type=tcp&headerType=http&host=telewebion.com&path=🔒
+vless://f40c8d52-5ea8-48f7-be8c-239c72737690@Www.speedtest.net:2095?path=🔒
+vless://f41765d7-9416-4ca5-adff-45628a1eab37@at8.fastlanehosting.ru:30443?security=reality&encryption=none&pbk=nhZ4ej1P7tas8nsscDEYe8FpAK-64PcoZqn3FnNHvAk&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=🔒
+vless://f418440b-a023-4ba4-8f40-1dab600fb48d@94.237.24.169:40745/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒
+vless://f418440b-a023-4ba4-8f40-1dab600fb48d@94.237.24.169:40745?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=🔒

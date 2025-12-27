@@ -1,7 +1,3 @@
-vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@104.25.124.98:8080?path=/?BIA_TELEGRAM@AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1&security=&alpn=h2,http/1.1&encryption=none&host=vless.hubp.de&fp=chrome&type=ws&sni=vless.hubp.de#🇺🇲TM
-vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@104.25.124.98:8080?path=🔒
-vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@104.25.124.98:8080?security=none&type=ws&path=%2F%F0%9F%94%92%20%5BBy%20EbraSha%5D&host=vless.hubp.de&sni=%F0%9F%94%92%20%5BBy%20EbraSha%5D%20(%40AZARBAYJAB1)%20&encryption=none#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:21.64ms
-vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@104.27.29.194:80?path=/?BIA_TELEGRAM@AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1&security=none&alpn=h2,http/1.1&encryption=none&host=vless.hubp.de&fp=chrome&type=ws&sni=vless.hubp.de#🇺🇲:@AZARBAYJAB1
 vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@104.27.29.194:80?path=🔒
 vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@141.101.120.143:2086?path=/?BIA_TELEGRAM@AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1&security=&alpn=h2,http/1.1&encryption=none&host=vless.hubp.de&fp=chrome&type=ws&sni=vless.hubp.de#🇬🇧TM
 vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@141.101.120.143:2086?path=🔒
@@ -498,3 +494,7 @@ vless://2bd0516b-d354-4b73-a198-9d826ab478ae@vluk4.g2ray.com:443?encryption=none
 vless://2bd0516b-d354-4b73-a198-9d826ab478ae@vluk4.g2ray.com:443?encryption=none&security=tls&type=tcp&headerType=none
 vless://2bd0516b-d354-4b73-a198-9d826ab478ae@vluk4.g2ray.com:443?encryption=none&security=tls&type=ws&path=🔒
 vless://2bd09f82-d8b7-40f6-9b22-12efdd218c91@b.confignor.site:35493?type=grpc&encryption=none&serviceName=چنل+سازنده+اصلی+کانفیگ+@ConfigFree&authority=&security=reality&pbk=qeWt8jJZTwf6vmiTvDfaalPaSZDkX7a3XkKrBxf2YVA&fp=chrome&sni=🔒
+vless://2be7495d-847b-40ea-a517-b5779effb7ac@reality.sbarshia.ir:443?security=reality&encryption=none&pbk=RLUQT-hMZPmNWtDE67gs8osxdeASKAnARAmNs9bs0l0&headerType=none&fp=chrome&type=tcp&sni=🔒
+vless://2be7495d-847b-40ea-a517-b5779effb7ac@s2.sbarshia.ir:8443?security=reality&encryption=none&pbk=RLUQT-hMZPmNWtDE67gs8osxdeASKAnARAmNs9bs0l0&headerType=none&fp=chrome&type=tcp&sni=🔒
+vless://2be75101-78cd-4519-9f2c-de286d0815eb@89.106.69.224:19129?security=none&encryption=none&host=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&headerType=none&type=tcp
+vless://2be75101-78cd-4519-9f2c-de286d0815eb@89.106.69.224:19129?security=none&encryption=none&host=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&headerType=none&type=tcp#@IRAN_V2RAY1

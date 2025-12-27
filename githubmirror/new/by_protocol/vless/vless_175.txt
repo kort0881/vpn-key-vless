@@ -1,7 +1,3 @@
-vless://5d110f18-5a37-4db3-8cf6-f0bced38a1ae@154.85.18.233:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒
-vless://5d110f18-5a37-4db3-8cf6-f0bced38a1ae@89.185.27.133:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒
-vless://5d167c53-11ad-4c7c-a7ed-f8325c5d4a79@193.111.76.108:3039?security=none&encryption=none&headerType=none&type=tcp
-vless://5d167c53-11ad-4c7c-a7ed-f8325c5d4a79@193.111.76.108:3039?security=none&encryption=none&headerType=none&type=tcp#@vmesskhodam
 vless://5d175721-8bdf-4cd1-81bf-2a3eb3b841e2@pishgam.sdcards.ir:80?path=🔒
 vless://5d1d5947-72de-4bca-844d-af55ed0e4691@172.67.168.34:2082/?type=xhttp&encryption=none#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40bored_vpn%20%5B12%5D
 vless://5d1d5947-72de-4bca-844d-af55ed0e4691@am255.amin5646.ir:2082?type=xhttp&encryption=none&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&host=am290.amin5646.ir&mode=auto&security=none#Telegram
@@ -498,3 +494,7 @@ vless://62a7f030-a79d-437f-b523-e7bdbf913855@netherlands.netninja.ru:8444?securi
 vless://62abfaef-61b0-4b5e-a2b8-490281ab341b@istanbul.fonixapp.org:12177?security=reality&encryption=none&pbk=f8rRV7gssAlL-e8teb5xR9q1vRwRJ3pvORgscKSgPAM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yelp.com&sid=1ec404fc#All-@V2ray_Alpha--46
 vless://62abfaef-61b0-4b5e-a2b8-490281ab341b@istanbul.fonixapp.org:12177?security=reality&encryption=none&pbk=f8rRV7gssAlL-e8teb5xR9q1vRwRJ3pvORgscKSgPAM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒
 vless://62ae1cc9-5940-4f21-a0ed-1c13b32b5908@162.159.44.129:443/?type=ws&encryption=none&flow=&host=de.ailicf.us.kg&path=🔒
+vless://62ae1cc9-5940-4f21-a0ed-1c13b32b5908@162.159.44.129:443/?type=ws&encryption=none&host=de.ailicf.us.kg&path=%2Fsafaf&security=tls&sni=de.ailicf.us.kg#%40Hope_Net-join-us-on-Telegram
+vless://62aee310-ce43-440c-ba43-bd5cd43185dc@104.16.35.9:443/?type=ws&encryption=none&host=daily-configs-channel.pages.dev&path=%2FTelegram%2CDAILY_CONFIGS%3Fed%3D8080&security=tls&sni=DAilY-COnFiGs-chaNneL.pagES.dev&alpn=h2%2Chttp%2F1.1&fp=randomized#%40Hope_Net-join-us-on-Telegram
+vless://62aee310-ce43-440c-ba43-bd5cd43185dc@104.18.192.80:8443/?type=ws&encryption=none&host=daily-config...&security=tls&sni=DAILy-coNFiGs-chANNEl.paGES.DEv
+vless://62b0e46b-d2a5-423d-8457-95bde707fc19@152.53.60.157:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒

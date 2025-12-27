@@ -1,7 +1,3 @@
-vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.116:8880?mode=gun&security=none&encryption=none&type=grpc#%40EuServer
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@86.104.74.155:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#%40EuServer
-vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@3.67.225.188:25670?security=none&encryption=none&headerType=none&type=tcp#%40EuServer
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@159.246.55.253:2096?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2%2B%2F%3Fed%3D2560&security=tls&encryption=none&host=gaosir.unfeeling.sbs&fp=chrome&type=ws&sni=gaosir.unfeeling.sbs#%40EuServer
 vless://16aa617a-631d-4be3-8a6f-819a7b7480d0@91.107.244.240:8443?security=reality&encryption=none&pbk=A-uda057zISQMYHNFlfW1PQefk11bqT_RnI8aPi3YnU&headerType=none&fp=chrome&type=tcp&sni=fastly.com&sid=3f9bee6a2f7f#%40EuServer
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@162.159.38.176:443?path=%2Fsghiyws&security=tls&encryption=none&host=terazhedi.info&type=ws&sni=terazhedi.info#%40EuServer
 vless://SERVERNETT-SERVERNETT1@mnk.sernett.ir:80?mode=auto&path=%2F&security=none&encryption=none&type=xhttp#%40EuServer
@@ -498,3 +494,7 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@104.21.86.253:443?mode=gun&amp;secu
 vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?mode=gun&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;insecure=0&amp;type=grpc&amp;allowInsecure=0&amp;sni=pqh29v6.hiddendom.shop#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig
 vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?mode=gun&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;insecure=0&amp;type=grpc&amp;allowInsecure=0&amp;sni=pqh30v1.hiddendom.shop#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig
 vless://e4824193-4f54-453b-d037-88368e85ef0e@104.21.86.253:443?mode=gun&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;type=grpc&amp;allowInsecure=0&amp;sni=pqh27v1.carwashipdir.shop#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig
+vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@173.245.59.217:443?path=%2Fyhowcws&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=azizoarjmand.info&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=azizoarjmand.info#%F0%9F%87%A8%F0%9F%87%A6%40FreakConfig
+vless://7bcb7241-33f9-48e0-8660-b33aed2bff7a@104.21.96.1:2096?path=%2F&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;insecure=0&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=8j3f7HD37h.PaGES.dEV#%F0%9F%87%A8%F0%9F%87%A6%40FreakConfig
+vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@norman.ns.cloudflare.com:443?path=%2Fyhowcws&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=azizoarjmand.info&amp;type=ws&amp;allowInsecure=0&amp;sni=azizoarjmand.info#%F0%9F%87%A8%F0%9F%87%A6%40FreakConfig
+vless://ee122f13-9b54-49b6-abc5-aa47b464fdb3@108.162.193.217:443?path=%2Fyhowcws&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=azizoarjmand.info#%F0%9F%87%A8%F0%9F%87%A6%40FreakConfig

@@ -1,7 +1,3 @@
-vless://f40c8d52-5ea8-48f7-be8c-239c72737690@Www.speedtest.net:2095?path=🔒
-vless://f41765d7-9416-4ca5-adff-45628a1eab37@at8.fastlanehosting.ru:30443?security=reality&encryption=none&pbk=nhZ4ej1P7tas8nsscDEYe8FpAK-64PcoZqn3FnNHvAk&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=🔒
-vless://f418440b-a023-4ba4-8f40-1dab600fb48d@94.237.24.169:40745/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒
-vless://f418440b-a023-4ba4-8f40-1dab600fb48d@94.237.24.169:40745?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=🔒
 vless://f418440b-a023-4ba4-8f40-1dab600fb48d@94.237.24.169:40745?security=reality&encryption=none&pbk=KIJ-Gb61R1Ng1kMvD01v51SwtrrYh3npN5cSkxb-MH0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒
 vless://f418440b-a023-4ba4-8f40-1dab600fb48d@94.237.24.169:40745?security=reality&encryption=none&pbk=KIJ-Gb61R1Ng1kMvD01v51SwtrrYh3npN5cSkxb-MH0&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒
 vless://f418440b-a023-4ba4-8f40-1dab600fb48d@94.237.24.169:40745?security=reality&encryption=none&pbk=KIJ-Gb61R1Ng1kMvD01v51SwtrrYh3npN5cSkxb-MH0&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒
@@ -498,3 +494,7 @@ vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@88.216.66.193:443?encryption=none&s
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@88.216.66.193:443?encryption=none&security=tls&type=ws&sni=🔒
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@88.216.66.38:443?encryption=none&security=tls&sni=🔒
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@89.116.161.250:8443?encryption=none&security=tls&type=ws&sni=🔒
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@89.116.180.130:2053?encryption=none&security=tls&sni=🔒
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@89.116.180.130:2053?encryption=none&security=tls&type=ws&sni=🔒
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@89.116.180.161:443?encryption=none&security=tls&sni=🔒
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@89.116.250.6:2083?encryption=none&security=tls&sni=🔒
