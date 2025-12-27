@@ -1,11 +1,10 @@
-vless://0f6c83bc-34ba-4ca1-96e6-08b3620cbce5@78.159.131.51:443?security=reality&encryption=none&pbk=bonLTdEWniTF7h32iBBM4XK5CP0MhhZ0rIegMsYpbkw&headerType=none&fp=firefox&type=tcp&sni=www.samsung.com&sid=7d498dcd#%F0%9F%A7%8A4%40ConfigV2RayNG
-vless://0f6c83bc-34ba-4ca1-96e6-08b3620cbce5@78.159.131.51:443?security=reality&encryption=none&pbk=bonLTdEWniTF7h32iBBM4XK5CP0MhhZ0rIegMsYpbkw&headerType=none&fp=firefox&type=tcp&sni=www.samsung.com&sid=7d498dcd#REALITY|AL🇦🇱
-vless://0f6c83bc-34ba-4ca1-96e6-08b3620cbce5@78.159.131.51:443?security=reality&encryption=none&pbk=bonLTdEWniTF7h32iBBM4XK5CP0MhhZ0rIegMsYpbkw&headerType=none&fp=firefox&type=tcp&sni=www.samsung.com&sid=7d498dcd#🇦🇱[openproxylist.com]
 vless://0f6c83bc-34ba-4ca1-96e6-08b3620cbce5@78.159.131.51:443?security=reality&encryption=none&pbk=bonLTdEWniTF7h32iBBM4XK5CP0MhhZ0rIegMsYpbkw&headerType=none&fp=firefox&type=tcp&sni=🔒
+vless://0f6c83bc-34ba-4ca1-96e6-08b3620cbce5@78.159.131.51:443?security=reality&type=tcp&sni=🔒
 vless://0f6c83bc-34ba-4ca1-96e6-08b3620cbce5@78.159.131.51:443?type=tcp&encryption=none&flow=&sni=www.samsung.com&fp=firefox&security=reality&pbk=bonLTdEWniTF7h32iBBM4XK5CP0MhhZ0rIegMsYpbkw&sid=7d498dcd#REALITY|AL🇦🇱
 vless://0f6c83bc-34ba-4ca1-96e6-08b3620cbce5@de31.abvpn.ru:443/?type=tcp&encryption=none&flow=&sni=cdnjs.cloudflare.com&fp=firefox&security=reality&pbk=Wg_prcp8fAsUrveCKVqBsk_8mWuKurQb-0N3H1e35mk&sid=96ec76be#%F0%9F%9F%A93%40oneclickvpnkeys
 vless://0f6c83bc-34ba-4ca1-96e6-08b3620cbce5@de31.abvpn.ru:443/?type=tcp&encryption=none&flow=&sni=🔒
 vless://0f6c83bc-34ba-4ca1-96e6-08b3620cbce5@ru33.abvpn.net:443/?type=tcp&encryption=none&flow=&sni=www.vk.com&fp=firefox&security=reality&pbk=s0qb5ggFZN3X7QXWtgK4o7UgfS9DlpFC6JT6OWVs6X4&sid=a5d90165#%F0%9F%9F%A955%40oneclickvpnkeys
+vless://0f6c83bc-34ba-4ca1-96e6-08b3620cbce5@ru33.abvpn.net:443/?type=tcp&encryption=none&flow=&sni=🔒
 vless://0f7070cd-c91d-4532-a51f-56da4f0e94be@172.67.150.132:443/?type=ws&encryption=none&host=3333e.444682.xyz&path=%2FnSABZLQbEUSLppj7jCmY&security=tls&sni=3333e.444682.xyz&alpn=http%2F1.1&fp=chrome&packetEncoding=xudp#%F0%9F%8D%AA49%40oneclickvpnkeys
 vless://0f7070cd-c91d-4532-a51f-56da4f0e94be@172.67.150.132:443/?type=ws&encryption=none&host=3333e.444682.xyz&path=🔒
 vless://0f7070cd-c91d-4532-a51f-56da4f0e94be@172.67.188.188:443/?type=ws&encryption=none&host=sssxzaw.444652.xyz&path=%2FnSABZLQbEUSLppj7jCmY&security=tls&sni=SssXzAw.444652.XYZ&alpn=http%2F1.1&fp=chrome&packetEncoding=xudp#%F0%9F%A9%B486%40oneclickvpnkeys
@@ -50,7 +49,7 @@ vless://0f952643-6643-4de6-9cf7-d3a424d01f8b@51.158.241.51:443/?type=tcp&encrypt
 vless://0f952643-6643-4de6-9cf7-d3a424d01f8b@51.158.241.51:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒
 vless://0f9ccec5-4095-4fd4-ad82-7b206c7e3195@V2ngnet.huqpmfood.ir:4455?mode=auto&path=/@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet-@V2ngnet&security=reality&encryption=none&extra={
 vless://0f9ccec5-4095-4fd4-ad82-7b206c7e3195@V2ngnet.huqpmfood.ir:4455?mode=auto&path=🔒
-vless://0fa176bd-208b-4ad1-c442-3d4547fa767c@cloudflare-dl.byoip.top:2096?&security=tls&fp=chrome&sni=meiguo3.shuiwudengli.dpdns.org&type=ws&headerType=none&host=meiguo3.shuiwudengli.dpdns.org&path=%2F#%5B%F0%9F%87%BA%F0%9F%87%B8%5D%20%5Bvl-tl-ws%5D%20%5B251227-102650.653%5D
+vless://0fa176bd-208b-4ad1-c442-3d4547fa767c@cloudflare-dl.byoip.top:2096?&security=tls&fp=chrome&sni=meiguo3.shuiwudengli.dpdns.org&type=ws&headerType=none&host=meiguo3.shuiwudengli.dpdns.org&path=%2F#_%E7%BE%8E%E5%9B%BD%2057
 vless://0fa2cc9d-5d63-4dcb-ae73-575218a5f6ae@104.26.7.149:2082/?type=ws&encryption=none&host=www.speedtest.net.ftp.debian.org.xn--ihqvlaa157dbvciyg50okggl0r2f5bcj1a.spdtest.ggff.net.&path=ws%2F%3Fed%3D80#%40Hope_Net-join-us-on-Telegram
 vless://0fa9cf4a-7061-5239-9da9-f89a88b56390@140.248.139.207:80/?type=ws&encryption=none&host=ELiV2--ELENA.COM&path=🔒
 vless://0fa9cf4a-7061-5239-9da9-f89a88b56390@199.232.79.57:443/?type=ws&encryption=none&host=ELiV2--ELENA.COM&security=tls&sni=ELiV2--ELENA.COM&fp=qq
@@ -357,7 +356,6 @@ vless://11a371e7-11c2-4336-92ee-4aeaa29cbce9@V2ngFast.huqpmfood.ir:1146?mode=aut
 vless://11a371e7-11c2-4336-92ee-4aeaa29cbce9@V2ngFast.huqpmfood.ir:1146?mode=auto&path=🔒
 vless://11a943c5-67a5-4b46-b124-e8274cb9ef6e@live.skornorth.com:443?path=%2F%40custom_config%3Fed%3D2048&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&host=easy4all.com&fp=chrome&type=ws&sni=live.skornorth.com#US🇺🇸
 vless://11afa1c6-32b2-4e3b-8e97-868e4259e96f@www.speedtest.net:2082?path=🔒
-vless://11afa1c6-32b2-4e3b-8e97-868e4259e96f@www.speedtest.net:2082?security=none&type=ws&path=🔒
 vless://11beaf11-726d-4c11-8ce9-27308c1c608c@157.173.127.225:443/?type=tcp&encryption=none&flow=&sni=🔒
 vless://11beaf11-726d-4c11-8ce9-27308c1c608c@157.173.127.225:443?security=reality&encryption=none&pbk=v3EwzA9RIIh5Ndxm-gypRY6RCJhOpQ-2WO7KaH8nsC8&headerType=none&fp=random&type=tcp&sni=analytics.google.com&sid=eab26c4a32#%40v2raying
 vless://11beaf11-726d-4c11-8ce9-27308c1c608c@157.173.127.225:443?security=reality&encryption=none&pbk=v3EwzA9RIIh5Ndxm-gypRY6RCJhOpQ-2WO7KaH8nsC8&headerType=none&fp=random&type=tcp&sni=analytics.google.com&sid=eab26c4a32#%40vpnaloo
@@ -498,3 +496,5 @@ vless://134563d7-f835-4110-a36b-e0db5d262ae0@delilah.ns.cloudflare.com:443?path=
 vless://134563d7-f835-4110-a36b-e0db5d262ae0@delilah.ns.cloudflare.com:443?path=🔒
 vless://134a7b17-df2f-46ff-80b3-e612bd245e5b@212.134.84.115:597?security=reality&encryption=none&pbk=_SqgdwQPy596-CVJEp1pSSYZKx9hPJ-h4sX1ONLn3GQ&headerType=none&fp=chrome&spx=/TELEGRAM--CHANEL--JKVPN--JKVPN&type=tcp&sni=www.cdn77.com&sid=785891acea1f52#✅سرورهایبیشتردرکانال:prrofile_purple@✅
 vless://134a7b17-df2f-46ff-80b3-e612bd245e5b@212.134.84.115:597?security=reality&encryption=none&pbk=_SqgdwQPy596-CVJEp1pSSYZKx9hPJ-h4sX1ONLn3GQ&headerType=none&fp=chrome&spx=/TELEGRAM--CHANEL--JKVPN--JKVPN&type=tcp&sni=🔒
+vless://134c1950-3e5d-4dd1-9c3d-790ce358e374@174.138.101.107:45500?security=none&encryption=none&headerType=none&type=tcp
+vless://1350c052-17ba-4232-b2f8-2a70e65f91f5@31.47.45.97:18811?type=tcp&headerType=http&host=telewebion.com&path=🔒

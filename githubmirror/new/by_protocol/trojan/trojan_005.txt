@@ -1,4 +1,3 @@
-trojan://NISHIKUITAN111@190.93.247.139:443/?type=tcp&security=tls&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
 trojan://NISHIKUITAN111@5.10.245.142:443/?type=tcp&security=tls&sni=za.ylks.xyz&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
 trojan://NISHIKUITAN111@194.36.55.28:443/?type=ws&host=za.ylks.xyz&path=%2F%2F&security=tls&sni=za.ylks.xyz&allowInsecure=1#%40Hope_Net-join-us-on-Telegram
 trojan://NISHIKUITAN111@77.75.199.86:443/?type=ws&host=za.ylks.xyz&path=%2F%2F&security=tls&sni=za.ylks.xyz&allowInsecure=1#%40Hope_Net-join-us-on-Telegra...
@@ -498,3 +497,4 @@ trojan://bpb-trojan@172.67.75.172:443/?type=tcp&security=tls&sni=g1-21n.PaGes.dE
 trojan://bpb-trojan@172.67.214.246:2053/?type=tcp&security=tls&sni=g2-1OY.paGEs.deV#%40Hope_Net-join-us-on-Telegram
 trojan://984e400bf5d541b7b0815913fe0c432a@104.19.171.2:443/?type=ws&host=jobscareertoday.com&path=...&security=tls&sni=jobscareertoday.com
 trojan://NISHIKUITAN222@173.245.59.61:443/?type=ws&host=in.ylks.xyz&path=%2F&security=tls&sni=in.ylks.xyz#%40Hope_Net-join-us-on-Telegram
+trojan://auto@104.20.19.217:443/?type=ws&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F&security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev
