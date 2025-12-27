@@ -371,12 +371,9 @@ trojan://baabcca-abca-abac-badc-bbaabbccaacc@127.0.0.1:8080?security=tls&type=tc
 trojan://telegram-id-privatevpns@52.29.42.219:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪[openproxylist.com] trojan-DE```
 trojan://telegram-id-privatevpns@63.180.109.216:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪[openproxylist.com] trojan-DE```
 trojan://telegram-id-directvpn@3.64.120.227:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@Hope_Net-join-us-on-Telegram
-trojan://VjXsgvA0s4@verarussia1.uspn.io:443?sni=verarussia1.uspn.io&type=ws&path=%2Ftrojan&fp=chrome#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%B7%F0%9F%87%BARU_2%20%F0%9F%A7%AD%205.1MB%2Fs`
 trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?sni=api.avito.ru&allowInsecure=1&fp=chrome#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%AE%F0%9F%87%B9IT_1%20%F0%9F%A7%AD%204.1MB%2Fs`
 trojan://telegram-id-directvpn@51.21.34.199:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@Hope_Net-join-us-on-Telegram
 trojan://telegram-id-directvpn@15.157.199.122:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@Hope_Net-join-us-on-Telegram
 trojan://tg-dns68@162.159.153.15:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#@Hope_Net-join-us-on-Telegram
 trojan://telegram-id-directvpn@3.76.159.204:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@Hope_Net-join-us-on-Telegram`
-trojan://VjXsgvA0s4@verarussia1.uspn.io:443?sni=verarussia1.uspn.io&type=ws&path=%2Ftrojan&fp=chrome#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%B7%F0%9F%87%BARU_3%20%F0%9F%A7%AD%208.1MB%2Fs`
-trojan://telegram-id-directvpn@3.64.120.227:22222?security=tls&sni=trojan.burgerip.co.uk#@Hope_Net-join-us-on-Telegram
 trojan://oUFBC3Vs2rYmN8_bR-P7quoL@45.129.3.220:10668?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
